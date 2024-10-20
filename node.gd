@@ -31,7 +31,8 @@ var current_file_name = ""
 var http_request: HTTPRequest
 const MAX_RETRIES = 3
 const RETRY_DELAY = 5.0
-const REQUEST_DELAY = 1.1
+const REQUEST_DELAY = 1.5
+var current_file_key : String = ""
 
 var color_column1 = Color("#d79921")
 var color_column2 = Color("#ebdbb2")
@@ -1497,80 +1498,53 @@ func update_spell_files():
 	add_child(http_request)
 	http_request.request_completed.connect(_on_request_completed)
 	
-	for class_key in SPELL_FILES.keys():
-		var file_path = SPELL_FILES[class_key]
-		current_file_name = file_path.get_file()
-		var url = "https://raw.githubusercontent.com/stianfan/EQSpellTool/main/" + current_file_name
+	for key in SPELL_FILES:
+		current_file_key = key
+		var local_path = SPELL_FILES[key]
+		var filename = local_path.get_file()
+		var url = "https://raw.githubusercontent.com/stianfan/EQSpellTool/main/" + filename
 		
-		print("Requesting: " + url)
-		label_cloud.text = "Requesting: " + current_file_name
-		
-		# Start the HTTP request
-		await get_tree().create_timer(0.6).timeout
+		print("Requesting: ", url)
+		label_cloud.text = "Requesting: " + filename
 		var error = http_request.request(url)
 		if error != OK:
-			print("An error occurred in the HTTP request for ", current_file_name, ". Error code: ", error)
-			label_cloud.text = "An error occurred in the HTTP request for " + current_file_name + ". Error code: " + error
-			continue
+			print("An error occurred in the HTTP request for ", filename)
+			label_cloud.text = "Error in HTTP request for: " + filename
 		
-		# Wait for the request to complete
-		while http_request.get_http_client_status() == HTTPClient.STATUS_REQUESTING:
-			http_request.poll()
-			await get_tree().create_timer(0.1).timeout
+		await http_request.request_completed
+	
+	http_request.queue_free()
 
 func _on_request_completed(result, response_code, headers, body):
 	if result != HTTPRequest.RESULT_SUCCESS:
-		print("Failed to download file ", current_file_name, ". Result code: ", result)
-		label_cloud.text = "Failed to download file " + current_file_name + ". Result code: " + result
+		print("Error fetching file: ", result)
 		return
 	
-	if response_code != 200:
-		print("HTTP request failed for ", current_file_name, ". Response code: ", response_code)
-		label_cloud.text = "HTTP request failed for " + current_file_name + ". Response code: " + response_code
-		return
+	var remote_content = body.get_string_from_utf8()
+	var local_path = SPELL_FILES[current_file_key]
+	var filename = local_path.get_file()
 	
-	var response = body.get_string_from_utf8()
-	var local_path = ""
+	print("Processing: ", filename)
+	label_cloud.text = "Processing: " + filename
 	
-	# Find the corresponding local path
-	for class_key in SPELL_FILES.keys():
-		if SPELL_FILES[class_key].ends_with(current_file_name):
-			local_path = SPELL_FILES[class_key]
-			break
-	
-	if local_path == "":
-		print("Couldn't find local path for ", current_file_name)
-		label_cloud.text = "Couldn't find local path for " + current_file_name
-		return
-	
-	# Compare and update if necessary
-	var file = FileAccess.open(local_path, FileAccess.READ)
-	if file:
-		var local_content = file.get_as_text()
+	# Read local file content
+	var local_content = ""
+	if FileAccess.file_exists(local_path):
+		var file = FileAccess.open(local_path, FileAccess.READ)
+		local_content = file.get_as_text()
 		file.close()
-		
-		if local_content != response:
-			file = FileAccess.open(local_path, FileAccess.WRITE)
-			if file:
-				file.store_string(response)
-				file.close()
-				print("Updated ", current_file_name)
-				var shortclass
-				shortclass = current_file_name.replace("_spells.txt", "")
-				label_cloud.text = "Updated " + shortclass
-			else:
-				print("Failed to write to ", current_file_name)
-				var shortclass
-				shortclass = current_file_name.replace("_spells.txt", "")
-				label_cloud.text = "Failed to write to " + shortclass
-		else:
-			print(current_file_name, " is up to date")
-			label_cloud.text = current_file_name + " is up to date"
-	else:
-		print("Failed to read ", current_file_name)
-		label_cloud.text = "Failed to read " + current_file_name
 	
-	label_cloud.text = "Up to date!"
+	# Compare and update if different
+	if local_content != remote_content:
+		var file = FileAccess.open(local_path, FileAccess.WRITE)
+		file.store_string(remote_content)
+		file.close()
+		print("Updated: ", filename)
+		label_cloud.text = "Updated: " + filename
+	else:
+		print("No update needed for: ", filename)
+		label_cloud.text = "Up to date: " + filename
+	label_cloud.text = "Update complete!"
 
 
 func _on_button_cloud_pressed() -> void:

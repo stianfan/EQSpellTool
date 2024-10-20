@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="EQ Spell Tool"
-config/version="0.9"
+config/version="0.91"
 run/main_scene="res://node.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 boot_splash/show_image=false

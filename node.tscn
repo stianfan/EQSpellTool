@@ -118,6 +118,7 @@ unique_name_in_owner = true
 visible = false
 custom_minimum_size = Vector2(460, 420)
 layout_mode = 2
+size_flags_vertical = 3
 theme = ExtResource("3_x8kth")
 theme_override_constants/v_separation = 3
 theme_override_constants/h_separation = 10
@@ -511,7 +512,6 @@ unique_name_in_owner = true
 title = "settings"
 initial_position = 2
 size = Vector2i(1080, 700)
-visible = true
 min_size = Vector2i(640, 700)
 max_size = Vector2i(1080, 700)
 theme_override_styles/panel = SubResource("StyleBoxFlat_7ue8i")
@@ -540,6 +540,7 @@ layout_mode = 2
 alignment = 1
 
 [node name="ButtonCloud" type="Button" parent="PopupPanel/MarginContainer/VBoxContainer/HBoxContainer3"]
+custom_minimum_size = Vector2(32, 0)
 layout_mode = 2
 theme = ExtResource("3_x8kth")
 theme_override_fonts/font = ExtResource("2_4pmkb")
@@ -572,6 +573,7 @@ theme_override_constants/separation = 10
 alignment = 1
 
 [node name="ButtonSetGameDir" type="Button" parent="PopupPanel/MarginContainer/VBoxContainer/HBoxContainer"]
+custom_minimum_size = Vector2(32, 0)
 layout_mode = 2
 theme = ExtResource("3_x8kth")
 theme_override_fonts/font = ExtResource("2_4pmkb")

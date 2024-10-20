@@ -1,637 +1,1485 @@
-1	Throw Stone	EQ
-5	Elbow Strike	EQ
-10	Focused Will Discipline	EQ
-20	Sneak Attack	Gates
-30	Resistant Discipline	Kunark
-40	Fearless Discipline	Kunark
-52	Thief's Vengeance	Gates
-53	Counterattack Discipline	Kunark
-54	Deadeye Discipline	Kunark
-55	Nimble Discipline	Kunark
-55	Poison Spurs Trap	PoR
-57	Kinesthetics Discipline	Kunark
-58	Blinding Speed Discipline	Kunark
-59	Duelist Discipline	Kunark
-61	Rogue's Ploy	LDoN
-63	Assassin's Strike	Gates
-63	Deadly Precision Discipline	PoP
-63	Healing Will Discipline	PoP
-65	Ancient: Chaos Strike	Gates
-65	Kyv Strike	Gates
-65	Twisted Chance Discipline	PoP
-66	Imperceptible Discipline	Omens
-68	Deadly Aim Discipline	Omens
-68	Thief's Eyes	DoD
-69	Assassin's Feint	DoN
-69	Daggerfall	Omens
-70	Frenzied Stabbing Discipline	Omens
-70	Poison Spikes Trap	PoR
-70	Razorarc	PoR
-71	Blinding Flash	TSS
-71	Blinding Flash Rk. II	TSS
-71	Blinding Flash Rk. III	TSS
-72	Second Wind	TBS
-72	Second Wind Rk. II	TBS
-72	Second Wind Rk. III	TBS
-72	Spelldodge Discipline	TSS
-72	Spelldodge Discipline Rk. II	TSS
-73	Guide of Toxicity	TSS
-73	Guide of Toxicity Rk. II	TSS
-73	Guide of Toxicity Rk. III	TSS
-74	Lithe Discipline	TSS
-74	Lithe Discipline Rk. II	TSS
-74	Pinpoint Vulnerability	TBS
-74	Pinpoint Vulnerability Rk. II	TBS
-74	Pinpoint Vulnerability Rk. III	TBS
-75	Assassin Discipline	TSS
-75	Assassin Discipline Rk. II	TSS
-75	Assassin Discipline Rk. III	TSS
-76	Blinding Flare	SoF
-76	Blinding Flare Rk. II	SoF
-76	Blinding Flare Rk. III	SoF
-76	Waylay	SoF
-76	Waylay Rk. II	SoF
-76	Waylay Rk. III	SoF
-77	Jugular Slash	SoF
-77	Jugular Slash Rk. II	SoF
-77	Jugular Slash Rk. III	SoF
-77	Third Wind	SoF
-77	Third Wind Rk. II	SoF
-77	Third Wind Rk. III	SoF
-78	Docent of Toxicity	SoF
-78	Docent of Toxicity Rk. II	SoF
-78	Docent of Toxicity Rk. III	SoF
-79	Pinpoint Weaknesses	SoF
-79	Pinpoint Weaknesses Rk. II	SoF
-79	Pinpoint Weaknesses Rk. III	SoF
-80	Fadelure	SoF
-80	Fadelure Rk. II	SoF
-80	Fadelure Rk. III	SoF
-80	Swiftblade	SoF
-80	Swiftblade Rk. II	SoF
-80	Swiftblade Rk. III	SoF
-81	Ambush	SoD
-81	Ambush Rk. II	SoD
-81	Ambush Rk. III	SoD
-81	Blinding Spark	SoD
-81	Blinding Spark Rk. II	SoD
-81	Blinding Spark Rk. III	SoD
-82	Fourth Wind	SoD
-82	Fourth Wind Rk. II	SoD
-82	Fourth Wind Rk. III	SoD
-82	Jugular Slice	SoD
-82	Jugular Slice Rk. II	SoD
-82	Jugular Slice Rk. III	SoD
-83	Bleed	SoD
-83	Bleed Rk. II	SoD
-83	Bleed Rk. III	SoD
-83	Lesson in Toxicity	SoD
-83	Lesson in Toxicity Rk. II	SoD
-83	Lesson in Toxicity Rk. III	SoD
-83	Vigorous Dagger-Throw	UF
-83	Vigorous Dagger-Throw Rk. II	UF
-83	Vigorous Dagger-Throw Rk. III	UF
-84	Pinpoint Vitals	SoD
-84	Pinpoint Vitals Rk. II	SoD
-84	Pinpoint Vitals Rk. III	SoD
-84	Procure Sap	SoD
-84	Procure Sap Rk. II	SoD
-84	Procure Sap Rk. III	SoD
-85	Assault	UF
-85	Assault Rk. II	UF
-85	Assault Rk. III	UF
-85	Daggerlunge	SoD
-85	Daggerlunge Rk. II	SoD
-85	Daggerlunge Rk. III	SoD
-85	Desperate Escape	UF
-85	Desperate Escape Rk. II	UF
-85	Desperate Escape Rk. III	UF
-85	Smokescreen	SoD
-85	Smokescreen Rk. II	SoD
-85	Smokescreen Rk. III	SoD
-86	Assail	HoT
-86	Assail Rk. II	HoT
-86	Assail Rk. III	HoT
-86	Blinding Glare	HoT
-86	Blinding Glare Rk. II	HoT
-86	Blinding Glare Rk. III	HoT
-86	Easy Mark	HoT
-86	Easy Mark Rk. II	HoT
-86	Easy Mark Rk. III	HoT
+1	Spike of Disease	Gates
+2	Sense the Dead	EQ
+3	Locate Corpse	EQ
+4	Invisibility Versus Undead	EQ
+5	Disease Cloud	EQ
+6	Siphon Strength	EQ
+7	Leering Corpse	EQ
+8	Lifetap	EQ
+9	Despair	Luclin
+9	Numb the Dead	EQ
+10	Endure Cold	EQ
+11	Clinging Darkness	EQ
+12	Fear	EQ
+12	Lesser Summon Corpse	EQ
+13	Shadow Step	EQ
+14	Bone Walk	EQ
+15	Lifespike	EQ
+15	Scream of Hate	Luclin
+16	Grim Aura	EQ
+17	Deadeye	EQ
+18	Ward Undead	EQ
+19	Cure Disease	EQ
+19	Tiny Companion	EQ
+20	Engulfing Darkness	EQ
+20	Spook the Dead	EQ
+21	Dark Empathy	EQ
+22	Convoke Shadow	EQ
+22	Vampiric Embrace	EQ
+23	Scream of Pain	Luclin
+24	Feign Death	EQ
+26	Endure Disease	EQ
+27	Wave of Enfeeblement	EQ
+28	Heat Blood	EQ
+29	Lifedraw	EQ
+29	Strengthen Death	Gates
+30	Gather Shadows	EQ
+30	Restless Bones	EQ
+31	Shieldskin	EQ
+32	Dark Temptation	LDoN
+33	Terror of Darkness	Luclin
+34	Spear of Disease	Luclin
+35	Resist Cold	EQ
+35	Shroud of Hate	Velious
+35	Summon Corpse	EQ
+36	Cancel Magic	EQ
+36	Heart Flutter	EQ
+37	Scream of Death	Luclin
+37	Shadow Vortex	EQ
+38	Animate Dead	EQ
+39	Expulse Undead	EQ
+39	Voice of Darkness	Luclin
+40	Shadow Sight	EQ
+41	Blood of Pain	LoY
+42	Terror of Shadows	Luclin
+43	Invoke Fear	EQ
+44	Dooming Darkness	EQ
+45	Breath of the Dead	EQ
+45	Word of Spirit	EQ
+46	Summon Dead	EQ
+46	Voice of Shadows	Luclin
+47	Life Leech	EQ
+47	Scythe of Darkness	LDoN
+48	Spear of Pain	Luclin
+49	Dismiss Undead	EQ
+50	Harmshield	EQ
+50	Shroud of Pain	Velious
+51	Resistant Discipline	Kunark
+51	Siphon Life	EQ
+52	Abduction of Strength	Luclin
+52	Comatose	LoY
+52	Malignant Dead	EQ
+52	Mental Corruption	Luclin
+52	Rest the Dead	EQ
+52	Summon Companion	Velious
+53	Boil Blood	EQ
+53	Terror of Death	Luclin
+54	Banshee Aura	EQ
+54	Call of Darkness	LDoN
+54	Fearless Discipline	Kunark
+54	Panic the Dead	EQ
+54	Scythe of Death	LDoN
+54	Spear of Plague	Luclin
+54	Torrent of Hate	Luclin
+55	Bobbing Corpse	Kunark
+55	Expel Undead	EQ
+55	Shroud of Death	Velious
+55	Shroud of Undeath	Kunark
+55	Spirit Tap	EQ
+55	Unholy Aura Discipline	Velious
+55	Voice of Death	Luclin
+56	Ichor Guard	DoN
+56	Soulless Fear	DoN
+56	Steelskin	EQ
+56	Torrent of Pain	Luclin
+57	Conjure Corpse	Kunark
+57	Drain Spirit	EQ
+57	Shadow Voice	DoN
+57	Vampiric Curse	PoP
+58	Cackling Bones	EQ
+58	Deathly Temptation	Luclin
+58	Nullify Magic	EQ
+58	Torrent of Fatigue	Luclin
+59	Cascading Darkness	EQ
+59	Deflection Discipline	SoD
+59	Diamondskin	EQ
+59	Terror of Terris	Luclin
+60	Asystole	EQ
+60	Augment Death	EQ
+60	Cloak of the Akheva	Luclin
+60	Death Peace	Velious
+60	Drain Soul	EQ
+60	Leechcurse Discipline	Velious
+60	Voice of Terris	Luclin
+61	Aura of Darkness	PoP
+61	Festering Darkness	PoP
+61	Ignite Blood	EQ
+61	Improved Invisibility to Undead	Velious
+61	Soul Guard	DoN
+61	Soulless Panic	PoP
+62	Bond of Death	EQ
+62	Deny Undead	PoP
+62	Shadow Bellow	PoP
+62	Touch of Volatis	PoP
+62	Zevfeer's Bite	PoP
+63	Aura of Pain	PoP
+63	Blood of Hate	PoR
+63	Shroud of Chaos	PoP
+63	Terror of Thule	PoP
+64	Augmentation of Death	Velious
+64	Invoke Death	EQ
+64	Pact of Hate	PoP
+64	Scythe of Innoruuk	LDoN
+64	Spear of Decay	PoP
+65	Ancient: Bite of Chaos	Gates
+65	Aura of Hate	PoP
+65	Black Shroud	Gates
+65	Cloak of Luclin	PoP
+65	Mental Horror	Gates
+65	Miasmic Spear	Gates
+65	Touch of Innoruuk	PoP
+65	Voice of Thule	PoP
+66	Blood of Discord	Omens
+66	Bond of Inruku	Omens
+66	Dark Constriction	Omens
+66	Soulless Terror	Omens
+67	Inruku's Bite	Omens
+67	Shadow Howl	Omens
+67	Shroud of Discord	Omens
+67	Terror of Discord	Omens
+67	Touch of Inruku	Omens
+68	Blood of Inruku	Omens
+68	Fickle Shadows	DoD
+68	Scythe of Inruku	Omens
+68	Son of Decay	Omens
+68	Theft of Pain	Omens
+69	Dread Gaze	Omens
+69	Gift of Draygun	DoD
+69	Pact of Decay	Omens
+69	Rune of Decay	Omens
+69	Soul Shield	DoN
+69	Spear of Muram	Omens
+69	Touch of Draygun	DoD
+70	Ancient: Bite of Muram	Omens
+70	Cloak of Discord	Omens
+70	Decrepit Skin	PoR
+70	Theft of Agony	PoR
+70	Theft of Hate	Omens
+70	Touch of the Devourer	Omens
+71	Blacktalon Bite	TSS
+71	Blacktalon Bite Rk. II	TSS
+71	Blacktalon Bite Rk. III	TSS
+71	Bond of the Blacktalon	TSS
+71	Bond of the Blacktalon Rk. II	TSS
+71	Bond of the Blacktalon Rk. III	TSS
+71	Exhumer's Call	TSS
+71	Marrowthirst Horror	TBS
+71	Marrowthirst Horror Rk. II	TBS
+71	Marrowthirst Horror Rk. III	TBS
+71	Terror of Vergalid	TSS
+71	Terror of Vergalid Rk. II	TSS
+71	Terror of Vergalid Rk. III	TSS
+72	Blood of the Blacktalon	TSS
+72	Blood of the Blacktalon Rk. II	TSS
+72	Challenge for Power	TSS
+72	Challenge for Power Rk. II	TSS
+72	Challenge for Power Rk. III	TSS
+72	Shroud of the Nightborn	TSS
+72	Shroud of the Nightborn Rk. II	TSS
+73	Amplify Death	TSS
+73	Amplify Death Rk. II	TSS
+73	Amplify Death Rk. III	TSS
+73	Dark Bargain	TSS
+73	Dark Bargain Rk. II	TSS
+73	Drink of Decomposition	TSS
+73	Drink of Decomposition Rk. II	TSS
+73	Shambling Minion	TSS
+73	Soul Carapace	TBS
+73	Soul Carapace Rk. II	TBS
+73	Soul Carapace Rk. III	TBS
+74	Cloak of Corruption	TSS
+74	Cloak of Corruption Rk. II	TSS
+74	Rotroot Spear	TSS
+74	Rotroot Spear Rk. II	TSS
+74	Rotroot Spear Rk. III	TSS
+74	Vilify	TSS
+74	Vilify Rk. II	TSS
+74	Vilify Rk. III	TSS
+75	Gift of the Wailing Three	TSS
+75	Gift of the Wailing Three II	TSS
+75	Gift of the Wailing Three III	TSS
+75	Last Breath	TSS
+75	Last Breath Rk. II	TSS
+75	Remorseless Demeanor	TSS
+75	Remorseless Demeanor Rk. II	TSS
+75	Touch of Severan	TSS
+75	Touch of Severan Rk. II	TSS
+75	Touch of Severan Rk. III	TSS
+75	Touch of the Wailing Three	TBS
+75	Touch of the Wailing Three Rk. II	TBS
+75	Touch of the Wailing Three Rk. III	TBS
+76	Blackwater Bite	SoF
+76	Blackwater Bite Rk. II	SoF
+76	Blackwater Bite Rk. III	SoF
+76	Bond of the Blackwater	SoF
+76	Bond of the Blackwater Rk. II	SoF
+76	Bond of the Blackwater Rk. III	SoF
+76	Procure Corpse	SoF
+76	Soulthirst Horror	SoF
+76	Soulthirst Horror Rk. II	SoF
+76	Soulthirst Horror Rk. III	SoF
+76	Terror of the Soulbleeder	SoF
+76	Terror of the Soulbleeder Rk. II	SoF
+76	Terror of the Soulbleeder Rk. III	SoF
+77	Assiduous Impurity	SoF
+77	Assiduous Impurity Rk. II	SoF
+77	Assiduous Impurity Rk. III	SoF
+77	Blood of the Blackwater	SoF
+77	Blood of the Blackwater Rk. II	SoF
+77	Blood of the Blackwater Rk. III	SoF
+77	Shroud of the Gloomborn	SoF
+77	Shroud of the Gloomborn Rk. II	SoF
+77	Shroud of the Gloomborn Rk. III	SoF
+77	Trial for Power	SoF
+77	Trial for Power Rk. II	SoF
+77	Trial for Power Rk. III	SoF
+78	Expatiate Death	SoF
+78	Expatiate Death Rk. II	SoF
+78	Expatiate Death Rk. III	SoF
+78	Grim Covenant	SoF
+78	Grim Covenant Rk. II	SoF
+78	Grim Covenant Rk. III	SoF
+78	Maladroit Minion	SoF
+78	Maladroit Minion Rk. II	SoF
+78	Maladroit Minion Rk. III	SoF
+78	Rigor Mortis	SoF
+78	Rigor Mortis Rk. II	SoF
+78	Rigor Mortis Rk. III	SoF
+78	Umbral Carapace	SoF
+78	Umbral Carapace Rk. II	SoF
+78	Umbral Carapace Rk. III	SoF
+79	Drape of Corruption	SoF
+79	Drape of Corruption Rk. II	SoF
+79	Drape of Corruption Rk. III	SoF
+79	Revile	SoF
+79	Revile Rk. II	SoF
+79	Revile Rk. III	SoF
+79	Rotmarrow Spear	SoF
+79	Rotmarrow Spear Rk. II	SoF
+79	Rotmarrow Spear Rk. III	SoF
+80	Gift of the Soulbleeder	SoF
+80	Gift of the Soulbleeder II	SoF
+80	Gift of the Soulbleeder III	SoF
+80	Last Gasp	SoF
+80	Last Gasp Rk. II	SoF
+80	Last Gasp Rk. III	SoF
+80	Touch of Kildrukaun	Sof
+80	Touch of Kildrukaun Rk. II	Sof
+80	Touch of Kildrukaun Rk. III	Sof
+80	Touch of the Soulbleeder	SoF
+80	Touch of the Soulbleeder Rk. II	SoF
+80	Touch of the Soulbleeder Rk. III	SoF
+80	Umbral Skin	SoF
+80	Umbral Skin Rk. II	SoF
+80	Umbral Skin Rk. III	SoF
+81	Bond of Laarthik	SoD
+81	Bond of Laarthik Rk. II	SoD
+81	Bond of Laarthik Rk. III	SoD
+81	Laarthik's Bite	SoD
+81	Laarthik's Bite Rk. II	SoD
+81	Laarthik's Bite Rk. III	SoD
+81	Mindshear Horror	SoD
+81	Mindshear Horror Rk. II	SoD
+81	Mindshear Horror Rk. III	SoD
+81	Reaper's Call	SoD
+81	Terror of Jelvalak	SoD
+81	Terror of Jelvalak Rk. II	SoD
+81	Terror of Jelvalak Rk. III	SoD
+82	Blood of Laarthik	SoD
+82	Blood of Laarthik Rk. II	SoD
+82	Blood of Laarthik Rk. III	SoD
+82	Charge for Power	SoD
+82	Charge for Power Rk. II	SoD
+82	Charge for Power Rk. III	SoD
+82	Plague of the Karanas	SoD
+82	Plague of the Karanas Rk. II	SoD
+82	Plague of the Karanas Rk. III	SoD
+82	Shroud of the Blightborn	SoD
+82	Shroud of the Blightborn Rk. II	SoD
+82	Shroud of the Blightborn Rk. III	SoD
+83	Gift of Sathir	SoD
+83	Gift of Sathir Rk. II	SoD
+83	Gift of Sathir Rk. III	SoD
+83	Malarian Carapace	SoD
+83	Malarian Carapace Rk. II	SoD
+83	Malarian Carapace Rk. III	SoD
+83	Malarian Mantle	UF
+83	Malarian Mantle Rk. II	UF
+83	Malarian Mantle Rk. III	UF
+83	Minion of Sebilis	SoD
+83	Minion of Sebilis Rk. II	SoD
+83	Minion of Sebilis Rk. III	SoD
+83	Unsavory Detonation	UF
+83	Unsavory Detonation Rk. II	UF
+83	Unsavory Detonation Rk. III	UF
+83	Unsavory Sacrifice	UF
+83	Unsavory Sacrifice Rk. II	UF
+83	Unsavory Sacrifice Rk. III	UF
+83	Venril's Covenant	SoD
+83	Venril's Covenant Rk. II	SoD
+83	Venril's Covenant Rk. III	SoD
+83	Withstand	SoD
+83	Withstand Rk. II	SoD
+83	Withstand Rk. III	SoD
+84	Burst of Spite	SoD
+84	Burst of Spite Rk. II	SoD
+84	Burst of Spite Rk. III	SoD
+84	Drape of Korafax	SoD
+84	Drape of Korafax Rk. II	SoD
+84	Drape of Korafax Rk. III	SoD
+84	Malarian Spear	SoD
+84	Malarian Spear Rk. II	SoD
+84	Malarian Spear Rk. III	SoD
+84	Steely Stance	SoD
+84	Steely Stance Rk. II	SoD
+84	Steely Stance Rk. III	SoD
+85	Curse of Frailty	SoD
+85	Curse of Frailty Rk. II	SoD
+85	Curse of Frailty Rk. III	SoD
+85	Dire Constriction	UF
+85	Dire Constriction Rk. II	UF
+85	Dire Constriction Rk. III	UF
+85	Dire Implication	UF
+85	Dire Implication Rk. II	UF
+85	Dire Implication Rk. III	UF
+85	Final Breath	SoD
+85	Final Breath Rk. II	SoD
+85	Final Breath Rk. III	SoD
+85	Gift of Lanys	SoD
+85	Gift of Lanys II	SoD
+85	Gift of Lanys III	SoD
+85	Malarian Skin	SoD
+85	Malarian Skin Rk. II	SoD
+85	Malarian Skin Rk. III	SoD
+85	Touch of Lanys	SoD
+85	Touch of Lanys Rk. II	SoD
+85	Touch of Lanys Rk. III	SoD
+85	Touch of Tharoff	SoD
+85	Touch of Tharoff Rk. II	SoD
+85	Touch of Tharoff Rk. III	SoD
+86	Amygdalan Horror	HoT
+86	Amygdalan Horror Rk. II	HoT
+86	Amygdalan Horror Rk. III	HoT
+86	Banshee Skin	HoT
+86	Banshee Skin Rk. II	HoT
+86	Banshee Skin Rk. III	HoT
+86	Bond of Malthiasiss	HoT
+86	Bond of Malthiasiss Rk. II	HoT
+86	Bond of Malthiasiss Rk. III	HoT
+86	Malthiasiss's Bite	HoT
+86	Malthiasiss's Bite Recourse	HoT
+86	Malthiasiss's Bite Recourse II	HoT
+86	Malthiasiss's Bite Recourse III	HoT
+86	Malthiasiss's Bite Rk. II	HoT
+86	Malthiasiss's Bite Rk. III	HoT
+86	Reaper's Beckon	HoT
 86	Respite	HoT
 86	Respite Rk. II	HoT
 86	Respite Rk. III	HoT
-87	Fifth Wind	HoT
-87	Fifth Wind Rk. II	HoT
-87	Fifth Wind Rk. III	HoT
-87	Jugular Sever	HoT
-87	Jugular Sever Rk. II	HoT
-87	Jugular Sever Rk. III	HoT
-87	Weapon Affiliation	HoT
-87	Weapon Affiliation Rk. II	HoT
-87	Weapon Affiliation Rk. III	HoT
-88	Instruction in Toxicity	HoT
-88	Instruction in Toxicity Rk. II	HoT
-88	Instruction in Toxicity Rk. III	HoT
-88	Vigorous Dagger-Strike	HoT
-88	Vigorous Dagger-Strike Rk. II	HoT
-88	Vigorous Dagger-Strike Rk. III	HoT
-88	Wound	HoT
-88	Wound Rk. II	HoT
-88	Wound Rk. III	HoT
-89	Fleet-Footed Discipline	HoT
-89	Fleet-Footed Discipline Rk. II	HoT
-89	Fleet-Footed Discipline Rk. III	HoT
-89	Misdirection	HoT
-89	Misdirection Rk. II	HoT
-89	Misdirection Rk. III	HoT
-89	Pinpoint Flaws	HoT
-89	Pinpoint Flaws Rk. II	HoT
-89	Pinpoint Flaws Rk. III	HoT
-90	Battery	HoT
-90	Battery Rk. II	HoT
-90	Battery Rk. III	HoT
-90	Daggerswipe	HoT
-90	Daggerswipe Rk. II	HoT
-90	Daggerswipe Rk. III	HoT
-90	Reckless Escape	HoT
-90	Reckless Escape Rk. II	HoT
-90	Reckless Escape Rk. III	HoT
-90	Smokeshroud	HoT
-90	Smokeshroud Rk. II	HoT
-90	Smokeshroud Rk. III	HoT
-91	Accost	VoA
-91	Accost Rk. II	VoA
-91	Accost Rk. III	VoA
-91	Blinding Gleam	VoA
-91	Blinding Gleam Rk. II	VoA
-91	Blinding Gleam Rk. III	VoA
+86	Terror of Rerekalen	HoT
+86	Terror of Rerekalen Rk. II	HoT
+86	Terror of Rerekalen Rk. III	HoT
+87	Blood of Malthiasiss	HoT
+87	Blood of Malthiasiss Rk. II	HoT
+87	Blood of Malthiasiss Rk. III	HoT
+87	Confrontation for Power	HoT
+87	Confrontation for Power Rk. II	HoT
+87	Confrontation for Power Rk. III	HoT
+87	Despairing Darkness	HoT
+87	Despairing Darkness Rk. II	HoT
+87	Despairing Darkness Rk. III	HoT
+87	Plague of Iglum	HoT
+87	Plague of Iglum Rk. II	HoT
+87	Plague of Iglum Rk. III	HoT
+87	Shroud of the Plagueborne	HoT
+87	Shroud of the Plagueborne Rk. II	HoT
+87	Shroud of the Plagueborne Rk. III	HoT
+88	Defy	HoT
+88	Defy Rk. II	HoT
+88	Defy Rk. III	HoT
+88	Gift of Dyalgem	HoT
+88	Gift of Dyalgem Rk. II	HoT
+88	Gift of Dyalgem Rk. III	HoT
+88	Gixblat's Covenant	HoT
+88	Gixblat's Covenant Rk. II	HoT
+88	Gixblat's Covenant Rk. III	HoT
+88	Gorgon Carapace	HoT
+88	Gorgon Carapace Rk. II	HoT
+88	Gorgon Carapace Rk. III	HoT
+88	Gorgon Lifedraw	HoT
+88	Gorgon Lifedraw II	HoT
+88	Gorgon Lifedraw III	HoT
+88	Gorgon Mantle	HoT
+88	Gorgon Mantle Rk. II	HoT
+88	Gorgon Mantle Rk. III	HoT
+88	Gorgon Shattering	HoT
+88	Gorgon Shattering II	HoT
+88	Gorgon Shattering III	HoT
+88	Minion of Fear	HoT
+88	Minion of Fear Rk. II	HoT
+88	Minion of Fear Rk. III	HoT
+88	Repulsive Detonation	HoT
+88	Repulsive Detonation Rk. II	HoT
+88	Repulsive Detonation Rk. III	HoT
+88	Repulsive Sacrifice	HoT
+88	Repulsive Sacrifice Rk. II	HoT
+88	Repulsive Sacrifice Rk. III	HoT
+89	Call of Dusk	HoT
+89	Call of Dusk Rk. II	HoT
+89	Call of Dusk Rk. III	HoT
+89	Darkness	HoT
+89	Darkness II	HoT
+89	Darkness III	HoT
+89	Drape of Fear	HoT
+89	Drape of Fear Rk. II	HoT
+89	Drape of Fear Rk. III	HoT
+89	Gorgon Spear	HoT
+89	Gorgon Spear Rk. II	HoT
+89	Gorgon Spear Rk. III	HoT
+89	Insidious Blight	HoT
+89	Insidious Blight Rk. II	HoT
+89	Insidious Blight Rk. III	HoT
+89	Loathing	HoT
+89	Loathing Rk. II	HoT
+89	Loathing Rk. III	HoT
+89	Stubborn Stance	HoT
+89	Stubborn Stance Rk. II	HoT
+89	Stubborn Stance Rk. III	HoT
+90	Curse of Enfeeblement	HoT
+90	Curse of Enfeeblement Rk. II	HoT
+90	Curse of Enfeeblement Rk. III	HoT
+90	Dire Accusation	HoT
+90	Dire Accusation Rk. II	HoT
+90	Dire Accusation Rk. III	HoT
+90	Dire Restriction	HoT
+90	Dire Restriction Rk. II	HoT
+90	Dire Restriction Rk. III	HoT
+90	Gift of Iglum	HoT
+90	Gift of Iglum II	HoT
+90	Gift of Iglum III	HoT
+90	Gorgon Skin	HoT
+90	Gorgon Skin Rk. II	HoT
+90	Gorgon Skin Rk. III	HoT
+90	Last Breath	HoT
+90	Last Breath Rk. II	HoT
+90	Last Breath Rk. III	HoT
+90	Sweet Breath	HoT
+90	Sweet Breath II	HoT
+90	Sweet Breath III	HoT
+90	Touch of Dyalgem	HoT
+90	Touch of Dyalgem Rk. II	HoT
+90	Touch of Dyalgem Rk. III	HoT
+90	Touch of Iglum	HoT
+90	Touch of Iglum Rk. II	HoT
+90	Touch of Iglum Rk. III	HoT
+91	Bond of Korum	VoA
+91	Bond of Korum Rk. II	VoA
+91	Bond of Korum Rk. III	VoA
+91	Ghoul Skin	VoA
+91	Ghoul Skin Rk. II	VoA
+91	Ghoul Skin Rk. III	VoA
+91	Korum's Bite	VoA
+91	Korum's Bite Recourse	VoA
+91	Korum's Bite Recourse II	VoA
+91	Korum's Bite Recourse III	VoA
+91	Korum's Bite Rk. II	VoA
+91	Korum's Bite Rk. III	VoA
+91	Reaper's Decree	VoA
 91	Reprieve	VoA
 91	Reprieve Rk. II	VoA
 91	Reprieve Rk. III	VoA
-91	Simple Mark	VoA
-91	Simple Mark Rk. II	VoA
-91	Simple Mark Rk. III	VoA
-92	Distraction	VoA
-92	Distraction Rk. II	VoA
-92	Distraction Rk. III	VoA
-92	Jugular Gash	VoA
-92	Jugular Gash Rk. II	VoA
-92	Jugular Gash Rk. III	VoA
-92	Razor's Edge Discipline	VoA
-92	Razor's Edge Discipline Rk. II	VoA
-92	Razor's Edge Discipline Rk. III	VoA
-92	Sixth Wind	VoA
-92	Sixth Wind Rk. II	VoA
-92	Sixth Wind Rk. III	VoA
-92	Weapon Bond	VoA
-92	Weapon Bond Rk. II	VoA
-92	Weapon Bond Rk. III	VoA
-93	Energetic Dagger-Strike	VoA
-93	Energetic Dagger-Strike Rk. II	VoA
-93	Energetic Dagger-Strike Rk. III	VoA
-93	Inner Rejuvenation	VoA
-93	Inner Rejuvenation Rk. II	VoA
-93	Inner Rejuvenation Rk. III	VoA
-93	Lacerate	VoA
-93	Lacerate Rk. II	VoA
-93	Lacerate Rk. III	VoA
-93	Toxic Blade	VoA
-93	Toxic Blade Rk. II	VoA
-93	Toxic Blade Rk. III	VoA
-94	Delusion	VoA
-94	Delusion Rk. II	VoA
-94	Delusion Rk. III	VoA
-94	Pinpoint Liabilities	VoA
-94	Pinpoint Liabilities Rk. II	VoA
-94	Pinpoint Liabilities Rk. III	VoA
-94	Quick-Footed Discipline	VoA
-94	Quick-Footed Discipline Rk. II	VoA
-94	Quick-Footed Discipline Rk. III	VoA
-95	Daggerstrike	VoA
-95	Daggerstrike Rk. II	VoA
-95	Daggerstrike Rk. III	VoA
-95	Eradicator's Discipline	VoA
-95	Eradicator's Discipline Rk. II	VoA
-95	Eradicator's Discipline Rk. III	VoA
-95	Onslaught	VoA
-95	Onslaught Rk. II	VoA
-95	Onslaught Rk. III	VoA
-95	Smokeblind	VoA
-95	Smokeblind Rk. II	VoA
-95	Smokeblind Rk. III	VoA
-95	Wild Escape	VoA
-95	Wild Escape Rk. II	VoA
-95	Wild Escape Rk. III	VoA
-96	Beset	RoF
-96	Beset Rk. II	RoF
-96	Beset Rk. III	RoF
-96	Blinding Blaze	RoF
-96	Blinding Blaze Rk. II	RoF
-96	Blinding Blaze Rk. III	RoF
-96	Gullible Mark	RoF
-96	Gullible Mark Rk. II	RoF
-96	Gullible Mark Rk. III	RoF
+91	Sholothian Horror	VoA
+91	Sholothian Horror Rk. II	VoA
+91	Sholothian Horror Rk. III	VoA
+91	Terror of Desalin	VoA
+91	Terror of Desalin Rk. II	VoA
+91	Terror of Desalin Rk. III	VoA
+92	Blood of Korum	VoA
+92	Blood of Korum Rk. II	VoA
+92	Blood of Korum Rk. III	VoA
+92	Gouging Blade	VoA
+92	Gouging Blade Rk. II	VoA
+92	Gouging Blade Rk. III	VoA
+92	Insidious Audacity	VoA
+92	Insidious Audacity Rk. II	VoA
+92	Insidious Audacity Rk. III	VoA
+92	Plague of Piqiorn	VoA
+92	Plague of Piqiorn Rk. II	VoA
+92	Plague of Piqiorn Rk. III	VoA
+92	Provocation for Power	VoA
+92	Provocation for Power Rk. II	VoA
+92	Provocation for Power Rk. III	VoA
+92	Shroud of the Shadeborne	VoA
+92	Shroud of the Shadeborne Rk. II	VoA
+92	Shroud of the Shadeborne Rk. III	VoA
+92	Suppurating Darkness	VoA
+92	Suppurating Darkness Rk. II	VoA
+92	Suppurating Darkness Rk. III	VoA
+93	Abhorrent Detonation	VoA
+93	Abhorrent Detonation Rk. II	VoA
+93	Abhorrent Detonation Rk. III	VoA
+93	Abhorrent Sacrifice	VoA
+93	Abhorrent Sacrifice Rk. II	VoA
+93	Abhorrent Sacrifice Rk. III	VoA
+93	Gift of Urash	VoA
+93	Gift of Urash Rk. II	VoA
+93	Gift of Urash Rk. III	VoA
+93	Minion of Sholoth	VoA
+93	Minion of Sholoth Rk. II	VoA
+93	Minion of Sholoth Rk. III	VoA
+93	Recondite Mantle	VoA
+93	Recondite Mantle Rk. II	VoA
+93	Recondite Mantle Rk. III	VoA
+93	Recondite Shattering	VoA
+93	Recondite Shattering II	VoA
+93	Recondite Shattering III	VoA
+93	Renounce	VoA
+93	Renounce Rk. II	VoA
+93	Renounce Rk. III	VoA
+93	Sholothian Carapace	VoA
+93	Sholothian Carapace Rk. II	VoA
+93	Sholothian Carapace Rk. III	VoA
+93	Sholothian Lifedraw	VoA
+93	Sholothian Lifedraw II	VoA
+93	Sholothian Lifedraw III	VoA
+93	Worag's Covenant	VoA
+93	Worag's Covenant Rk. II	VoA
+93	Worag's Covenant Rk. III	VoA
+94	Abhorrence	VoA
+94	Abhorrence Rk. II	VoA
+94	Abhorrence Rk. III	VoA
+94	Call of Shadow	VoA
+94	Call of Shadow Rk. II	VoA
+94	Call of Shadow Rk. III	VoA
+94	Drape of the Sepulcher	VoA
+94	Drape of the Sepulcher Rk. II	VoA
+94	Drape of the Sepulcher Rk. III	VoA
+94	Perfidious Blight	VoA
+94	Perfidious Blight Rk. II	VoA
+94	Perfidious Blight Rk. III	VoA
+94	Spear of Sholoth	VoA
+94	Spear of Sholoth Rk. II	VoA
+94	Spear of Sholoth Rk. III	VoA
+94	Stoic Stance	VoA
+94	Stoic Stance Rk. II	VoA
+94	Stoic Stance Rk. III	VoA
+94	Undivided Acrimony	VoA
+94	Undivided Acrimony Rk. II	VoA
+94	Undivided Acrimony Rk. III	VoA
+95	Crimson Blade	VoA
+95	Crimson Blade Rk. II	VoA
+95	Crimson Blade Rk. III	VoA
+95	Dire Allegation	VoA
+95	Dire Allegation Rk. II	VoA
+95	Dire Allegation Rk. III	VoA
+95	Dire Stenosis	VoA
+95	Dire Stenosis Rk. II	VoA
+95	Dire Stenosis Rk. III	VoA
+95	Final Gasp	VoA
+95	Final Gasp Rk. II	VoA
+95	Final Gasp Rk. III	VoA
+95	Gift of Piqiorn	VoA
+95	Gift of Piqiorn II	VoA
+95	Gift of Piqiorn III	VoA
+95	Sholothian Skin	VoA
+95	Sholothian Skin Rk. II	VoA
+95	Sholothian Skin Rk. III	VoA
+95	Sweet Breath	VoA
+95	Sweet Breath II	VoA
+95	Sweet Breath III	VoA
+95	Touch of Piqiorn	VoA
+95	Touch of Piqiorn Rk. II	VoA
+95	Touch of Piqiorn Rk. III	VoA
+95	Touch of Urash	VoA
+95	Touch of Urash Rk. II	VoA
+95	Touch of Urash Rk. III	VoA
+96	Bond of Ralstok	RoF
+96	Bond of Ralstok Rk. II	RoF
+96	Bond of Ralstok Rk. III	RoF
+96	Grelleth's Horror	RoF
+96	Grelleth's Horror Rk. II	RoF
+96	Grelleth's Horror Rk. III	RoF
+96	Mental Terror	CotF
+96	Mental Terror Rk. II	CotF
+96	Mental Terror Rk. III	CotF
+96	Ralstok's Bite	RoF
+96	Ralstok's Bite Recourse	RoF
+96	Ralstok's Bite Recourse II	RoF
+96	Ralstok's Bite Recourse III	RoF
+96	Ralstok's Bite Rk. II	RoF
+96	Ralstok's Bite Rk. III	RoF
+96	Reaper's Proclamation	RoF
 96	Rest	RoF
 96	Rest Rk. II	RoF
 96	Rest Rk. III	RoF
-96	Thief's Vision	CotF
-96	Thief's Vision Rk. II	CotF
-96	Thief's Vision Rk. III	CotF
-96	Venomous Spike Trap	RoF
-96	Venomous Spike Trap Rk. II	RoF
-96	Venomous Spike Trap Rk. III	RoF
-97	Conditioned Reflexes	CotF
-97	Conditioned Reflexes Rk. II	CotF
-97	Conditioned Reflexes Rk. III	CotF
-97	Indiscernible Discipline	RoF
-97	Indiscernible Discipline Rk. II	RoF
-97	Indiscernible Discipline Rk. III	RoF
-97	Jugular Lacerate	RoF
-97	Jugular Lacerate Rk. II	RoF
-97	Jugular Lacerate Rk. III	RoF
-97	Seventh Wind	RoF
-97	Seventh Wind Rk. II	RoF
-97	Seventh Wind Rk. III	RoF
-97	Spell Evasion Discipline	RoF
-97	Spell Evasion Discipline Rk. II	RoF
-97	Spell Evasion Discipline Rk. III	RoF
-97	Weapon Covenant	RoF
-97	Weapon Covenant Rk. II	RoF
-97	Weapon Covenant Rk. III	RoF
-98	Asp Blade	RoF
-98	Asp Blade Rk. II	RoF
-98	Asp Blade Rk. III	RoF
-98	Energetic Dagger-Throw	RoF
-98	Energetic Dagger-Throw Rk. II	RoF
-98	Energetic Dagger-Throw Rk. III	RoF
-98	Fatal Aim Discipline	RoF
-98	Fatal Aim Discipline Rk. II	RoF
-98	Fatal Aim Discipline Rk. III	RoF
-98	Gash	RoF
-98	Gash Rk. II	RoF
-98	Gash Rk. III	RoF
-98	Knifeplay Discipline	CotF
-98	Knifeplay Discipline Rk. II	CotF
-98	Knifeplay Discipline Rk. III	CotF
-99	Agile-Footed Discipline	RoF
-99	Agile-Footed Discipline Rk. II	RoF
-99	Agile-Footed Discipline Rk. III	RoF
-99	Aspbleeder Discipline	RoF
-99	Aspbleeder Discipline Rk. II	RoF
-99	Aspbleeder Discipline Rk. III	RoF
-99	Deceit	RoF
-99	Deceit Rk. II	RoF
-99	Deceit Rk. III	RoF
-99	Holdout Blade	CotF
-99	Holdout Blade Rk. II	CotF
-99	Holdout Blade Rk. III	CotF
-99	Pinpoint Deficiencies	RoF
-99	Pinpoint Deficiencies Rk. II	RoF
-99	Pinpoint Deficiencies Rk. III	RoF
-100	Daggerthrust	RoF
-100	Daggerthrust Rk. II	RoF
-100	Daggerthrust Rk. III	RoF
-100	Daring Escape	RoF
-100	Daring Escape Rk. II	RoF
-100	Daring Escape Rk. III	RoF
-100	Executioner Discipline	RoF
-100	Executioner Discipline Rk. II	RoF
-100	Executioner Discipline Rk. III	RoF
-100	Incursion	RoF
-100	Incursion Rk. II	RoF
-100	Incursion Rk. III	RoF
-100	Phantom Assassin	CotF
-100	Phantom Assassin Rk. II	CotF
-100	Phantom Assassin Rk. III	CotF
-100	Smokecloud	RoF
-100	Smokecloud Rk. II	RoF
-100	Smokecloud Rk. III	RoF
+96	Terror of Poira	RoF
+96	Terror of Poira Rk. II	RoF
+96	Terror of Poira Rk. III	RoF
+96	Zombie Skin	RoF
+96	Zombie Skin Rk. II	RoF
+96	Zombie Skin Rk. III	RoF
+97	Blood of Ralstok	RoF
+97	Blood of Ralstok Rk. II	RoF
+97	Blood of Ralstok Rk. III	RoF
+97	Demand for Power	RoF
+97	Demand for Power Rk. II	RoF
+97	Demand for Power Rk. III	RoF
+97	Duplicitous Audacity	RoF
+97	Duplicitous Audacity Rk. II	RoF
+97	Duplicitous Audacity Rk. III	RoF
+97	Gashing Blade	RoF
+97	Gashing Blade Rk. II	RoF
+97	Gashing Blade Rk. III	RoF
+97	Insolent Agitation	CotF
+97	Insolent Agitation II	CotF
+97	Insolent Agitation III	CotF
+97	Insolent Influence	CotF
+97	Insolent Influence Rk. II	CotF
+97	Insolent Influence Rk. III	CotF
+97	Insolent Reward	CotF
+97	Insolent Reward II	CotF
+97	Insolent Reward III	CotF
+97	Plague of Klonda	RoF
+97	Plague of Klonda Rk. II	RoF
+97	Plague of Klonda Rk. III	RoF
+97	Shroud of the Darksworn	RoF
+97	Shroud of the Darksworn Rk. II	RoF
+97	Shroud of the Darksworn Rk. III	RoF
+97	Smoldering Darkness	RoF
+97	Smoldering Darkness Rk. II	RoF
+97	Smoldering Darkness Rk. III	RoF
+97	Unholy Guardian Discipline	RoF
+97	Unholy Guardian Discipline Rk. II	RoF
+97	Unholy Guardian Discipline Rk. III	RoF
+97	Unholy Guardian Lifetap	RoF
+97	Unholy Guardian Lifetap II	RoF
+97	Unholy Guardian Lifetap III	RoF
+98	Bonebrood Mantle	RoF
+98	Bonebrood Mantle Rk. II	RoF
+98	Bonebrood Mantle Rk. III	RoF
+98	Bonebrood Shattering	RoF
+98	Bonebrood Shattering II	RoF
+98	Bonebrood Shattering III	RoF
+98	Falhotep's Covenant	RoF
+98	Falhotep's Covenant Rk. II	RoF
+98	Falhotep's Covenant Rk. III	RoF
+98	Gift of Falsin	RoF
+98	Gift of Falsin Rk. II	RoF
+98	Gift of Falsin Rk. III	RoF
+98	Grelleth's Carapace	RoF
+98	Grelleth's Carapace Rk. II	RoF
+98	Grelleth's Carapace Rk. III	RoF
+98	Grelleth's Lifedraw	RoF
+98	Grelleth's Lifedraw II	RoF
+98	Grelleth's Lifedraw III	RoF
+98	Insidious Deflection	CotF
+98	Insidious Deflection Rk. II	CotF
+98	Insidious Deflection Rk. III	CotF
+98	Minion of Grelleth	RoF
+98	Minion of Grelleth Rk. II	RoF
+98	Minion of Grelleth Rk. III	RoF
+98	Reprove	RoF
+98	Reprove Rk. II	RoF
+98	Reprove Rk. III	RoF
+99	Call of Gloomhaze	RoF
+99	Call of Gloomhaze Rk. II	RoF
+99	Call of Gloomhaze Rk. III	RoF
+99	Drape of the Fallen	RoF
+99	Drape of the Fallen Rk. II	RoF
+99	Drape of the Fallen Rk. III	RoF
+99	Repugnance	RoF
+99	Repugnance Rk. II	RoF
+99	Repugnance Rk. III	RoF
+99	Repugnant Bargain	RoF
+99	Repugnant Bargain Rk. II	RoF
+99	Repugnant Bargain Rk. III	RoF
+99	Ronak's Spite	RoF
+99	Ronak's Spite II	RoF
+99	Ronak's Spite III	RoF
+99	Spear of Grelleth	RoF
+99	Spear of Grelleth Rk. II	RoF
+99	Spear of Grelleth Rk. III	RoF
+99	Spite of Ronak	CotF
+99	Spite of Ronak Rk. II	CotF
+99	Spite of Ronak Rk. III	CotF
+99	Steadfast Stance	RoF
+99	Steadfast Stance Rk. II	RoF
+99	Steadfast Stance Rk. III	RoF
+99	Surreptitious Blight	RoF
+99	Surreptitious Blight Rk. II	RoF
+99	Surreptitious Blight Rk. III	RoF
+99	Unbroken Acrimony	RoF
+99	Unbroken Acrimony Rk. II	RoF
+99	Unbroken Acrimony Rk. III	RoF
+100	Dire Insinuation	RoF
+100	Dire Insinuation Rk. II	RoF
+100	Dire Insinuation Rk. III	RoF
+100	Dire Stricture	RoF
+100	Dire Stricture Rk. II	RoF
+100	Dire Stricture Rk. III	RoF
+100	Gift of Klonda	RoF
+100	Gift of Klonda II	RoF
+100	Gift of Klonda III	RoF
+100	Grelleth's Skin	RoF
+100	Grelleth's Skin Rk. II	RoF
+100	Grelleth's Skin Rk. III	RoF
+100	Reflexive Rancor	RoF
+100	Reflexive Rancor Rk. II	RoF
+100	Reflexive Rancor Rk. III	RoF
+100	Scarlet Blade	RoF
+100	Scarlet Blade Rk. II	RoF
+100	Scarlet Blade Rk. III	RoF
+100	Sweet Breath	RoF
+100	Sweet Breath II	RoF
+100	Sweet Breath III	RoF
+100	Terminal Breath	RoF
+100	Terminal Breath Rk. II	RoF
+100	Terminal Breath Rk. III	RoF
+100	Torrent of Agony	CotF
+100	Torrent of Agony Rk. II	CotF
+100	Torrent of Agony Rk. III	CotF
+100	Touch of Falsin	RoF
+100	Touch of Falsin Rk. II	RoF
+100	Touch of Falsin Rk. III	RoF
+100	Touch of Klonda	RoF
+100	Touch of Klonda Rk. II	RoF
+100	Touch of Klonda Rk. III	RoF
+101	Bond of Bonemaw	TDS
+101	Bond of Bonemaw Rk. II	TDS
+101	Bond of Bonemaw Rk. III	TDS
+101	Bonemaw's Bite	TDS
+101	Bonemaw's Bite Recourse	TDS
+101	Bonemaw's Bite Recourse II	TDS
+101	Bonemaw's Bite Recourse III	TDS
+101	Bonemaw's Bite Rk. II	TDS
+101	Bonemaw's Bite Rk. III	TDS
 101	Breather	TDS
 101	Breather Rk. II	TDS
 101	Breather Rk. III	TDS
-101	Dichotomic Weapons	TBM
-101	Surprise Attack	TDS
-101	Surprise Attack Rk. II	TDS
-101	Surprise Attack Rk. III	TDS
-101	Wide-Eyed Mark	TDS
-101	Wide-Eyed Mark Rk. II	TDS
-101	Wide-Eyed Mark Rk. III	TDS
-102	Blinding Burst	TDS
-102	Blinding Burst Rk. II	TDS
-102	Blinding Burst Rk. III	TDS
-102	Jugular Hack	TDS
-102	Jugular Hack Rk. II	TDS
-102	Jugular Hack Rk. III	TDS
-102	Shadow-Hunter's Dagger	EoK
-102	Shadow-Hunter's Dagger Rk. II	EoK
-102	Shadow-Hunter's Dagger Rk. III	EoK
-102	Shrouding Speed Discipline	TBM
-102	Shrouding Speed Discipline Rk. II	TBM
-102	Shrouding Speed Discipline Rk. III	TBM
-102	Shrouding Speed Shock	TBM
-102	Shrouding Speed Shock II	TBM
-102	Shrouding Speed Shock III	TBM
-103	Exuberant Dagger-Throw	TDS
-103	Exuberant Dagger-Throw Rk. II	TDS
-103	Exuberant Dagger-Throw Rk. III	TDS
-103	Hack	TDS
-103	Hack Rk. II	TDS
-103	Hack Rk. III	TDS
-103	Poisonous Alliance	EoK
-103	Poisonous Alliance Rk. II	EoK
-103	Poisonous Alliance Rk. III	EoK
-103	Reefcrawler Blade	TDS
-103	Reefcrawler Blade Rk. II	TDS
-103	Reefcrawler Blade Rk. III	TDS
-104	Arcwork Discipline	TDS
-104	Arcwork Discipline Rk. II	TDS
-104	Arcwork Discipline Rk. III	TDS
-104	Disassociative Puncture	EoK
-104	Disassociative Puncture Rk. II	EoK
-104	Disassociative Puncture Rk. III	EoK
-104	Disorientation	TDS
-104	Disorientation Rk. II	TDS
-104	Disorientation Rk. III	TDS
-104	Hidden Blade	TDS
-104	Hidden Blade Rk. II	TDS
-104	Hidden Blade Rk. III	TDS
-105	Audacious Escape	TDS
-105	Audacious Escape Rk. II	TDS
-105	Audacious Escape Rk. III	TDS
-105	Barrage	TDS
-105	Barrage Rk. II	TDS
-105	Barrage Rk. III	TDS
-105	Daggergash	TDS
-105	Daggergash Rk. II	TDS
-105	Daggergash Rk. III	TDS
-105	Smokeshade	TDS
-105	Smokeshade Rk. II	TDS
-105	Smokeshade Rk. III	TDS
-106	Dim-Witted Mark	RoS
-106	Dim-Witted Mark Rk. II	RoS
-106	Dim-Witted Mark Rk. III	RoS
-106	Dissident Weapons	TBL
+101	Dichotomic Fang	TBM
+101	Mental Dread	TDS
+101	Mental Dread Rk. II	TDS
+101	Mental Dread Rk. III	TDS
+101	Stormreaper's Proclamation	TDS
+101	Terror of Narus	TDS
+101	Terror of Narus Rk. II	TDS
+101	Terror of Narus Rk. III	TDS
+101	Vizat's Horror	TDS
+101	Vizat's Horror Rk. II	TDS
+101	Vizat's Horror Rk. III	TDS
+102	Blood of Bonemaw	TDS
+102	Blood of Bonemaw Rk. II	TDS
+102	Blood of Bonemaw Rk. III	TDS
+102	Impose for Power	TDS
+102	Impose for Power Rk. II	TDS
+102	Impose for Power Rk. III	TDS
+102	Impudent Agitation	TBM
+102	Impudent Agitation II	TBM
+102	Impudent Agitation III	TBM
+102	Impudent Influence	TBM
+102	Impudent Influence Heal	TBM
+102	Impudent Influence Heal II	TBM
+102	Impudent Influence Heal III	TBM
+102	Impudent Influence Rk. II	TBM
+102	Impudent Influence Rk. III	TBM
+102	Impudent Reward	TBM
+102	Impudent Reward II	TBM
+102	Impudent Reward III	TBM
+102	Lacerating Blade	TDS
+102	Lacerating Blade Rk. II	TDS
+102	Lacerating Blade Rk. III	TDS
+102	Plague of Holmein	TDS
+102	Plague of Holmein Rk. II	TDS
+102	Plague of Holmein Rk. III	TDS
+102	Shroud of the Doomscale	TDS
+102	Shroud of the Doomscale Rk. II	TDS
+102	Shroud of the Doomscale Rk. III	TDS
+102	Spreading Darkness	TDS
+102	Spreading Darkness Rk. II	TDS
+102	Spreading Darkness Rk. III	TDS
+103	Deceitful Deflection	TDS
+103	Deceitful Deflection Rk. II	TDS
+103	Deceitful Deflection Rk. III	TDS
+103	Doomscale Mantle	TDS
+103	Doomscale Mantle Rk. II	TDS
+103	Doomscale Mantle Rk. III	TDS
+103	Doomscale Shattering	TDS
+103	Doomscale Shattering II	TDS
+103	Doomscale Shattering III	TDS
+103	Gift of Lutzen	TDS
+103	Gift of Lutzen Rk. II	TDS
+103	Gift of Lutzen Rk. III	TDS
+103	Harmonious Disruption	EoK
+103	Harmonious Disruption Rk. II	EoK
+103	Harmonious Disruption Rk. III	EoK
+103	Livio's Covenant	TDS
+103	Livio's Covenant Rk. II	TDS
+103	Livio's Covenant Rk. III	TDS
+103	Minion of Vizat	TDS
+103	Minion of Vizat Rk. II	TDS
+103	Minion of Vizat Rk. III	TDS
+103	Repel	TDS
+103	Repel Rk. II	TDS
+103	Repel Rk. III	TDS
+103	Vizat's Carapace	TDS
+103	Vizat's Carapace Rk. II	TDS
+103	Vizat's Carapace Rk. III	TDS
+103	Vizat's Lifedraw	TDS
+103	Vizat's Lifedraw II	TDS
+103	Vizat's Lifedraw III	TDS
+104	Bloodletting Alliance	EoK
+104	Bloodletting Alliance Rk. II	EoK
+104	Bloodletting Alliance Rk. III	EoK
+104	Deceitful Blight	TDS
+104	Deceitful Blight Rk. II	TDS
+104	Deceitful Blight Rk. III	TDS
+104	Disgust	TDS
+104	Disgust Rk. II	TDS
+104	Disgust Rk. III	TDS
+104	Distasteful Bargain	TDS
+104	Distasteful Bargain Rk. II	TDS
+104	Distasteful Bargain Rk. III	TDS
+104	Drape of the Wrathforged	TDS
+104	Drape of the Wrathforged Rk. II	TDS
+104	Drape of the Wrathforged Rk. III	TDS
+104	Reflexive Revulsion	EoK
+104	Reflexive Revulsion Rk. II	EoK
+104	Reflexive Revulsion Rk. III	EoK
+104	Spear of Vizat	TDS
+104	Spear of Vizat Rk. II	TDS
+104	Spear of Vizat Rk. III	TDS
+104	Staunch Stance	TDS
+104	Staunch Stance Rk. II	TDS
+104	Staunch Stance Rk. III	TDS
+104	Unflinching Acrimony	TDS
+104	Unflinching Acrimony Rk. II	TDS
+104	Unflinching Acrimony Rk. III	TDS
+105	Carmine Blade	TDS
+105	Carmine Blade Rk. II	TDS
+105	Carmine Blade Rk. III	TDS
+105	Dire Declaration	TDS
+105	Dire Declaration Rk. II	TDS
+105	Dire Declaration Rk. III	TDS
+105	Dire Strangulation	TDS
+105	Dire Strangulation Rk. II	TDS
+105	Dire Strangulation Rk. III	TDS
+105	Gift of Holmein	TDS
+105	Gift of Holmein II	TDS
+105	Gift of Holmein III	TDS
+105	Torrent of Misery	TDS
+105	Torrent of Misery Rk. II	TDS
+105	Torrent of Misery Rk. III	TDS
+105	Touch of Holmein	TDS
+105	Touch of Holmein Rk. II	TDS
+105	Touch of Holmein Rk. III	TDS
+105	Touch of Lutzen	TDS
+105	Touch of Lutzen Rk. II	TDS
+105	Touch of Lutzen Rk. III	TDS
+105	Vizat's Skin	TDS
+105	Vizat's Skin Rk. II	TDS
+105	Vizat's Skin Rk. III	TDS
+106	Bond of Xalgoz	RoS
+106	Bond of Xalgoz Rk. II	RoS
+106	Bond of Xalgoz Rk. III	RoS
+106	Dissident Fang	TBL
+106	Helot Skin	RoS
+106	Helot Skin Rk. II	RoS
+106	Helot Skin Rk. III	RoS
 106	Hiatus	RoS
 106	Hiatus Rk. II	RoS
 106	Hiatus Rk. III	RoS
-106	Lie in Wait	RoS
-106	Lie in Wait Rk. II	RoS
-106	Lie in Wait Rk. III	RoS
-107	Blinding Brilliance	RoS
-107	Blinding Brilliance Rk. II	RoS
-107	Blinding Brilliance Rk. III	RoS
-107	Jugular Strike	RoS
-107	Jugular Strike Rk. II	RoS
-107	Jugular Strike Rk. III	RoS
-107	Ragged Edge Discipline	RoS
-107	Ragged Edge Discipline Rk. II	RoS
-107	Ragged Edge Discipline Rk. III	RoS
-107	Undetectable Discipline	RoS
-107	Undetectable Discipline Rk. II	RoS
-107	Undetectable Discipline Rk. III	RoS
-108	Forceful Dagger-Throw	RoS
-108	Forceful Dagger-Throw Rk. II	RoS
-108	Forceful Dagger-Throw Rk. III	RoS
-108	Lethal Aim Discipline	RoS
-108	Lethal Aim Discipline Rk. II	RoS
-108	Lethal Aim Discipline Rk. III	RoS
-108	Poisonous Covenant	TBL
-108	Poisonous Covenant Rk. II	TBL
-108	Poisonous Covenant Rk. III	TBL
-108	Skorpikis Blade	RoS
-108	Skorpikis Blade Rk. II	RoS
-108	Skorpikis Blade Rk. III	RoS
-108	Slice	RoS
-108	Slice Rk. II	RoS
-108	Slice Rk. III	RoS
-109	Aculeus Discipline	RoS
-109	Aculeus Discipline Rk. II	RoS
-109	Aculeus Discipline Rk. III	RoS
-109	Diversion	RoS
-109	Diversion Rk. II	RoS
-109	Diversion Rk. III	RoS
-109	Pinpoint Shortcomings	RoS
-109	Pinpoint Shortcomings Rk. II	RoS
-109	Pinpoint Shortcomings Rk. III	RoS
-109	Secret Blade	RoS
-109	Secret Blade Rk. II	RoS
-109	Secret Blade Rk. III	RoS
-109	Vexatious Puncture	TBL
-109	Vexatious Puncture Rk. II	TBL
-109	Vexatious Puncture Rk. III	TBL
-110	Brazen Escape	RoS
-110	Brazen Escape Rk. II	RoS
-110	Brazen Escape Rk. III	RoS
-110	Daggerslice	RoS
-110	Daggerslice Rk. II	RoS
-110	Daggerslice Rk. III	RoS
-110	Fellstrike	RoS
-110	Fellstrike Rk. II	RoS
-110	Fellstrike Rk. III	RoS
-110	Smokegloom	RoS
-110	Smokegloom Rk. II	RoS
-110	Smokegloom Rk. III	RoS
-111	Bushwhack	ToV
-111	Bushwhack Rk. II	ToV
-111	Bushwhack Rk. III	ToV
-111	Composite Weapons	CoV
-111	Naive Mark	ToV
-111	Naive Mark Rk. II	ToV
-111	Naive Mark Rk. III	ToV
+106	Mental Fright	RoS
+106	Mental Fright Rk. II	RoS
+106	Mental Fright Rk. III	RoS
+106	Shadereaper's Proclamation	RoS
+106	Terror of Kra`Du	RoS
+106	Terror of Kra`Du Rk. II	RoS
+106	Terror of Kra`Du Rk. III	RoS
+106	Tylix's Horror	RoS
+106	Tylix's Horror Rk. II	RoS
+106	Tylix's Horror Rk. III	RoS
+106	Xalgoz's Bite	RoS
+106	Xalgoz's Bite Recourse	RoS
+106	Xalgoz's Bite Recourse II	RoS
+106	Xalgoz's Bite Recourse III	RoS
+106	Xalgoz's Bite Rk. II	RoS
+106	Xalgoz's Bite Rk. III	RoS
+107	Blood of Drakus	RoS
+107	Blood of Drakus Rk. II	RoS
+107	Blood of Drakus Rk. III	RoS
+107	Cursed Guardian Discipline	RoS
+107	Cursed Guardian Discipline Rk. II	RoS
+107	Cursed Guardian Discipline Rk. III	RoS
+107	Cursed Guardian Lifetap	RoS
+107	Cursed Guardian Lifetap II	RoS
+107	Cursed Guardian Lifetap III	RoS
+107	Mendacious Audacity	RoS
+107	Mendacious Audacity Rk. II	RoS
+107	Mendacious Audacity Rk. III	RoS
+107	Plague of Hemofax	RoS
+107	Plague of Hemofax Rk. II	RoS
+107	Plague of Hemofax Rk. III	RoS
+107	Putrefying Darkness	RoS
+107	Putrefying Darkness Rk. II	RoS
+107	Putrefying Darkness Rk. III	RoS
+107	Refute for Power	RoS
+107	Refute for Power Rk. II	RoS
+107	Refute for Power Rk. III	RoS
+107	Shroud of the Krellnakor	RoS
+107	Shroud of the Krellnakor Rk. II	RoS
+107	Shroud of the Krellnakor Rk. III	RoS
+107	Wounding Blade	RoS
+107	Wounding Blade Rk. II	RoS
+107	Wounding Blade Rk. III	RoS
+108	Concordant Disruption	TBL
+108	Concordant Disruption Rk. II	TBL
+108	Concordant Disruption Rk. III	TBL
+108	Gift of T`Vem	RoS
+108	Gift of T`Vem Rk. II	RoS
+108	Gift of T`Vem Rk. III	RoS
+108	Helot Covenant	RoS
+108	Helot Covenant Rk. II	RoS
+108	Helot Covenant Rk. III	RoS
+108	Insidious Denial	RoS
+108	Insidious Denial Rk. II	RoS
+108	Insidious Denial Rk. III	RoS
+108	Krellnakor Mantle	RoS
+108	Krellnakor Mantle Rk. II	RoS
+108	Krellnakor Mantle Rk. III	RoS
+108	Krellnakor Shattering	RoS
+108	Krellnakor Shattering II	RoS
+108	Krellnakor Shattering III	RoS
+108	Minion of T`Vem	RoS
+108	Minion of T`Vem Rk. II	RoS
+108	Minion of T`Vem Rk. III	RoS
+108	Spurn	RoS
+108	Spurn Rk. II	RoS
+108	Spurn Rk. III	RoS
+108	Tylix's Carapace	RoS
+108	Tylix's Carapace Rk. II	RoS
+108	Tylix's Carapace Rk. III	RoS
+108	Tylix's Lifedraw	RoS
+108	Tylix's Lifedraw II	RoS
+108	Tylix's Lifedraw III	RoS
+109	Bloodletting Covenant	TBL
+109	Bloodletting Covenant Rk. II	TBL
+109	Bloodletting Covenant Rk. III	TBL
+109	Call of Nightfall	RoS
+109	Call of Nightfall Rk. II	RoS
+109	Call of Nightfall Rk. III	RoS
+109	Defiant Stance	RoS
+109	Defiant Stance Rk. II	RoS
+109	Defiant Stance Rk. III	RoS
+109	Drape of the Magmaforged	RoS
+109	Drape of the Magmaforged Rk. II	RoS
+109	Drape of the Magmaforged Rk. III	RoS
+109	Duplicitous Blight	RoS
+109	Duplicitous Blight Rk. II	RoS
+109	Duplicitous Blight Rk. III	RoS
+109	Hateful Bargain	RoS
+109	Hateful Bargain Rk. II	RoS
+109	Hateful Bargain Rk. III	RoS
+109	Kra`Du's Spite	RoS
+109	Kra`Du's Spite II	RoS
+109	Kra`Du's Spite III	RoS
+109	Revulsion	RoS
+109	Revulsion Rk. II	RoS
+109	Revulsion Rk. III	RoS
+109	Spear of Tylix	RoS
+109	Spear of Tylix Rk. II	RoS
+109	Spear of Tylix Rk. III	RoS
+109	Spite of Kra`Du	RoS
+109	Spite of Kra`Du Rk. II	RoS
+109	Spite of Kra`Du Rk. III	RoS
+109	Unyielding Acrimony	RoS
+109	Unyielding Acrimony Rk. II	RoS
+109	Unyielding Acrimony Rk. III	RoS
+110	Claret Blade	RoS
+110	Claret Blade Rk. II	RoS
+110	Claret Blade Rk. III	RoS
+110	Dire Coarctation	RoS
+110	Dire Coarctation Rk. II	RoS
+110	Dire Coarctation Rk. III	RoS
+110	Dire Testimony	RoS
+110	Dire Testimony Rk. II	RoS
+110	Dire Testimony Rk. III	RoS
+110	Gift of Hemofax	RoS
+110	Gift of Hemofax II	RoS
+110	Gift of Hemofax III	RoS
+110	Impenitent Agitation	TBL
+110	Impenitent Agitation II	TBL
+110	Impenitent Agitation III	TBL
+110	Impenitent Influence	TBL
+110	Impenitent Influence Heal	TBL
+110	Impenitent Influence Heal II	TBL
+110	Impenitent Influence Heal III	TBL
+110	Impenitent Influence Rk. II	TBL
+110	Impenitent Influence Rk. III	TBL
+110	Impenitent Reward	TBL
+110	Impenitent Reward II	TBL
+110	Impenitent Reward III	TBL
+110	Torrent of Suffering	RoS
+110	Torrent of Suffering Rk. II	RoS
+110	Torrent of Suffering Rk. III	RoS
+110	Touch of Hemofax	RoS
+110	Touch of Hemofax Rk. II	RoS
+110	Touch of Hemofax Rk. III	RoS
+110	Touch of T`Vem	RoS
+110	Touch of T`Vem Rk. II	RoS
+110	Touch of T`Vem Rk. III	RoS
+110	Tylix's Skin	RoS
+110	Tylix's Skin Rk. II	RoS
+110	Tylix's Skin Rk. III	RoS
+111	Bond of Vulak	ToV
+111	Bond of Vulak Rk. II	ToV
+111	Bond of Vulak Rk. III	ToV
+111	Cadcane's Horror	ToV
+111	Cadcane's Horror Rk. II	ToV
+111	Cadcane's Horror Rk. III	ToV
+111	Composite Fang	CoV
+111	Duskreaper's Proclamation	ToV
+111	Mental Torment	ToV
+111	Mental Torment Rk. II	ToV
+111	Mental Torment Rk. III	ToV
 111	Relax	ToV
 111	Relax Rk. II	ToV
 111	Relax Rk. III	ToV
-112	Blinding Glint	ToV
-112	Blinding Glint Rk. II	ToV
-112	Blinding Glint Rk. III	ToV
-112	Cloaking Speed Discipline	ToV
-112	Cloaking Speed Discipline Rk. II	ToV
-112	Cloaking Speed Discipline Rk. III	ToV
-112	Cloaking Speed Shock	ToV
-112	Cloaking Speed Shock II	ToV
-112	Cloaking Speed Shock III	ToV
-112	Jugular Cut	ToV
-112	Jugular Cut Rk. II	ToV
-112	Jugular Cut Rk. III	ToV
-112	Neurotoxic Spike Trap	CoV
-112	Neurotoxic Spike Trap Rk. II	CoV
-112	Neurotoxic Spike Trap Rk. III	CoV
-113	Drachnid Blade	ToV
-113	Drachnid Blade Rk. II	ToV
-113	Drachnid Blade Rk. III	ToV
-113	Poisonous Coalition	CoV
-113	Poisonous Coalition Rk. II	CoV
-113	Poisonous Coalition Rk. III	CoV
-113	Powerful Dagger-Throw	ToV
-113	Powerful Dagger-Throw Rk. II	ToV
-113	Powerful Dagger-Throw Rk. III	ToV
-113	Slash	ToV
-113	Slash Rk. II	ToV
-113	Slash Rk. III	ToV
-114	Chelicerae Discipline	ToV
-114	Chelicerae Discipline Rk. II	ToV
-114	Chelicerae Discipline Rk. III	ToV
-114	Cloaked Blade	ToV
-114	Cloaked Blade Rk. II	ToV
-114	Cloaked Blade Rk. III	ToV
-114	Cozen	ToV
-114	Cozen Rk. II	ToV
-114	Cozen Rk. III	ToV
-114	Pinpoint Defects	ToV
-114	Pinpoint Defects Rk. II	ToV
-114	Pinpoint Defects Rk. III	ToV
-114	Vindictive Puncture	CoV
-114	Vindictive Puncture Rk. II	CoV
-114	Vindictive Puncture Rk. III	CoV
-115	Blitzstrike	ToV
-115	Blitzstrike Rk. II	ToV
-115	Blitzstrike Rk. III	ToV
-115	Bold Escape	ToV
-115	Bold Escape Rk. II	ToV
-115	Bold Escape Rk. III	ToV
-115	Daggerslash	ToV
-115	Daggerslash Rk. II	ToV
-115	Daggerslash Rk. III	ToV
-115	Practiced Reflexes	CoV
-115	Practiced Reflexes Rk. II	CoV
-115	Practiced Reflexes Rk. III	CoV
-115	Smokeveil	ToV
-115	Smokeveil Rk. II	ToV
-115	Smokeveil Rk. III	ToV
-116	Ambuscade	ToL
-116	Ambuscade Rk. II	ToL
-116	Ambuscade Rk. III	ToL
-116	Baleful Aim Discipline	ToL
-116	Baleful Aim Discipline Rk. II	ToL
-116	Baleful Aim Discipline Rk. III	ToL
-116	Ecliptic Weapons	NoS
-116	Foolish Mark	ToL
-116	Foolish Mark Rk. II	ToL
-116	Foolish Mark Rk. III	ToL
+111	Specter Skin	ToV
+111	Specter Skin Rk. II	ToV
+111	Specter Skin Rk. III	ToV
+111	Terror of Mirenilla	ToV
+111	Terror of Mirenilla Rk. II	ToV
+111	Terror of Mirenilla Rk. III	ToV
+111	Vulak's Bite	ToV
+111	Vulak's Bite Recourse	ToV
+111	Vulak's Bite Recourse II	ToV
+111	Vulak's Bite Recourse III	ToV
+111	Vulak's Bite Rk. II	ToV
+111	Vulak's Bite Rk. III	ToV
+112	Blood of Ikatiar	ToV
+112	Blood of Ikatiar Rk. II	ToV
+112	Blood of Ikatiar Rk. III	ToV
+112	Pestilent Darkness	ToV
+112	Pestilent Darkness Rk. II	ToV
+112	Pestilent Darkness Rk. III	ToV
+112	Plague of Zlandicar	ToV
+112	Plague of Zlandicar Rk. II	ToV
+112	Plague of Zlandicar Rk. III	ToV
+112	Protest for Power	ToV
+112	Protest for Power Rk. II	ToV
+112	Protest for Power Rk. III	ToV
+112	Reflexive Resentment	CoV
+112	Reflexive Resentment Rk. II	CoV
+112	Reflexive Resentment Rk. III	CoV
+112	Rending Blade	ToV
+112	Rending Blade Rk. II	ToV
+112	Rending Blade Rk. III	ToV
+112	Shroud of the Restless	ToV
+112	Shroud of the Restless Rk. II	ToV
+112	Shroud of the Restless Rk. III	ToV
+112	Treacherous Audacity	ToV
+112	Treacherous Audacity Rk. II	ToV
+112	Treacherous Audacity Rk. III	ToV
+113	Cadcane's Carapace	ToV
+113	Cadcane's Carapace Rk. II	ToV
+113	Cadcane's Carapace Rk. III	ToV
+113	Cadcane's Lifedraw	ToV
+113	Cadcane's Lifedraw II	ToV
+113	Cadcane's Lifedraw III	ToV
+113	Confluent Disruption	CoV
+113	Confluent Disruption Rk. II	CoV
+113	Confluent Disruption Rk. III	CoV
+113	Gift of Drendar	ToV
+113	Gift of Drendar Rk. II	ToV
+113	Gift of Drendar Rk. III	ToV
+113	Insidious Rejection	ToV
+113	Insidious Rejection Rk. II	ToV
+113	Insidious Rejection Rk. III	ToV
+113	Minion of Drendar	ToV
+113	Minion of Drendar Rk. II	ToV
+113	Minion of Drendar Rk. III	ToV
+113	Restless Mantle	ToV
+113	Restless Mantle Rk. II	ToV
+113	Restless Mantle Rk. III	ToV
+113	Restless Shattering	ToV
+113	Restless Shattering II	ToV
+113	Restless Shattering III	ToV
+113	Syl`Tor Covenant	ToV
+113	Syl`Tor Covenant Rk. II	ToV
+113	Syl`Tor Covenant Rk. III	ToV
+113	Thwart	ToV
+113	Thwart Rk. II	ToV
+113	Thwart Rk. III	ToV
+114	Abhorrent Bargain	ToV
+114	Abhorrent Bargain Rk. II	ToV
+114	Abhorrent Bargain Rk. III	ToV
+114	Bloodletting Coalition	CoV
+114	Bloodletting Coalition Rk. II	CoV
+114	Bloodletting Coalition Rk. III	CoV
+114	Call of Twilight	ToV
+114	Call of Twilight Rk. II	ToV
+114	Call of Twilight Rk. III	ToV
+114	Contempt	ToV
+114	Contempt Rk. II	ToV
+114	Contempt Rk. III	ToV
+114	Drape of the Iceforged	ToV
+114	Drape of the Iceforged Rk. II	ToV
+114	Drape of the Iceforged Rk. III	ToV
+114	Mirenilla's Spite	ToV
+114	Mirenilla's Spite II	ToV
+114	Mirenilla's Spite III	ToV
+114	Nefarious Blight	ToV
+114	Nefarious Blight Rk. II	ToV
+114	Nefarious Blight Rk. III	ToV
+114	Spear of Cadcane	ToV
+114	Spear of Cadcane Rk. II	ToV
+114	Spear of Cadcane Rk. III	ToV
+114	Spite of Mirenilla	ToV
+114	Spite of Mirenilla Rk. II	ToV
+114	Spite of Mirenilla Rk. III	ToV
+114	Stormwall Stance	ToV
+114	Stormwall Stance Rk. II	ToV
+114	Stormwall Stance Rk. III	ToV
+114	Unending Acrimony	ToV
+114	Unending Acrimony Rk. II	ToV
+114	Unending Acrimony Rk. III	ToV
+115	Cadcane's Skin	ToV
+115	Cadcane's Skin Rk. II	ToV
+115	Cadcane's Skin Rk. III	ToV
+115	Cerise Blade	ToV
+115	Cerise Blade Rk. II	ToV
+115	Cerise Blade Rk. III	ToV
+115	Dire Convulsion	ToV
+115	Dire Convulsion Rk. II	ToV
+115	Dire Convulsion Rk. III	ToV
+115	Dire Indictment	ToV
+115	Dire Indictment Rk. II	ToV
+115	Dire Indictment Rk. III	ToV
+115	Gift of Zlandicar	ToV
+115	Gift of Zlandicar II	ToV
+115	Gift of Zlandicar III	ToV
+115	Impertinent Agitation	CoV
+115	Impertinent Agitation II	CoV
+115	Impertinent Agitation III	CoV
+115	Impertinent Influence	CoV
+115	Impertinent Influence Heal	CoV
+115	Impertinent Influence Heal II	CoV
+115	Impertinent Influence Heal III	CoV
+115	Impertinent Influence Rk. II	CoV
+115	Impertinent Influence Rk. III	CoV
+115	Impertinent Reward	CoV
+115	Impertinent Reward II	CoV
+115	Impertinent Reward III	CoV
+115	Torrent of Anguish	ToV
+115	Torrent of Anguish Rk. II	ToV
+115	Torrent of Anguish Rk. III	ToV
+115	Touch of Drendar	ToV
+115	Touch of Drendar Rk. II	ToV
+115	Touch of Drendar Rk. III	ToV
+115	Touch of Zlandicar	ToV
+115	Touch of Zlandicar Rk. II	ToV
+115	Touch of Zlandicar Rk. III	ToV
+116	Bond of Bynn	ToL
+116	Bond of Bynn Rk. II	ToL
+116	Bond of Bynn Rk. III	ToL
+116	Brightfeld's Horror	ToL
+116	Brightfeld's Horror Rk. II	ToL
+116	Brightfeld's Horror Rk. III	ToL
+116	Cruor's Bite	ToL
+116	Cruor's Bite Recourse	ToL
+116	Cruor's Bite Recourse II	ToL
+116	Cruor's Bite Recourse III	ToL
+116	Cruor's Bite Rk. II	ToL
+116	Cruor's Bite Rk. III	ToL
+116	Ecliptic Fang	NoS
+116	Mental Anguish	ToL
+116	Mental Anguish Rk. II	ToL
+116	Mental Anguish Rk. III	ToL
 116	Night's Calming	ToL
 116	Night's Calming Rk. II	ToL
 116	Night's Calming Rk. III	ToL
-117	Blinding Candescence	ToL
-117	Blinding Candescence Rk. II	ToL
-117	Blinding Candescence Rk. III	ToL
-117	Jugular Rend	ToL
-117	Jugular Rend Rk. II	ToL
-117	Jugular Rend Rk. III	ToL
-117	Thief's Sight	NoS
-117	Thief's Sight Rk. II	NoS
-117	Thief's Sight Rk. III	NoS
-117	Unseeable Discipline	ToL
-117	Unseeable Discipline Rk. II	ToL
-117	Unseeable Discipline Rk. III	ToL
-118	Lance	ToL
-118	Lance Rk. II	ToL
-118	Lance Rk. III	ToL
-118	Netherbian Blade	ToL
-118	Netherbian Blade Rk. II	ToL
-118	Netherbian Blade Rk. III	ToL
-118	Poisonous Conjunction	NoS
-118	Poisonous Conjunction Rk. II	NoS
-118	Poisonous Conjunction Rk. III	NoS
-118	Precise Dagger-Throw	ToL
-118	Precise Dagger-Throw Rk. II	ToL
-118	Precise Dagger-Throw Rk. III	ToL
-119	Beguile	ToL
-119	Beguile Rk. II	ToL
-119	Beguile Rk. III	ToL
-119	Disorienting Puncture	NoS
-119	Disorienting Puncture Rk. II	NoS
-119	Disorienting Puncture Rk. III	NoS
-119	Exotoxin Discipline	ToL
-119	Exotoxin Discipline Rk. II	ToL
-119	Exotoxin Discipline Rk. III	ToL
-119	Obfuscated Blade	ToL
-119	Obfuscated Blade Rk. II	ToL
-119	Obfuscated Blade Rk. III	ToL
-120	Agitating Smoke	ToL
-120	Agitating Smoke Rk. II	ToL
-120	Agitating Smoke Rk. III	ToL
-120	Gutsy Escape	ToL
-120	Gutsy Escape Rk. II	ToL
-120	Gutsy Escape Rk. III	ToL
-120	Shadowstrike	ToL
-120	Shadowstrike Rk. II	ToL
-120	Shadowstrike Rk. III	ToL
-121	Bamboozle	LS
-121	Bamboozle Rk. II	LS
-121	Bamboozle Rk. III	LS
+116	Tekuel Skin	ToL
+116	Tekuel Skin Rk. II	ToL
+116	Tekuel Skin Rk. III	ToL
+116	Terror of Ander	ToL
+116	Terror of Ander Rk. II	ToL
+116	Terror of Ander Rk. III	ToL
+116	Thanatos' Proclamation	ToL
+117	Blood of Tearc	ToL
+117	Blood of Tearc Rk. II	ToL
+117	Blood of Tearc Rk. III	ToL
+117	Corrupted Guardian Discipline	ToL
+117	Corrupted Guardian Discipline Rk. II	ToL
+117	Corrupted Guardian Discipline Rk. III	ToL
+117	Corrupted Guardian Lifetap	ToL
+117	Corrupted Guardian Lifetap II	ToL
+117	Corrupted Guardian Lifetap III	ToL
+117	Grisly Blade	ToL
+117	Grisly Blade Rk. II	ToL
+117	Grisly Blade Rk. III	ToL
+117	Ignominious Agitation	NoS
+117	Ignominious Agitation II	NoS
+117	Ignominious Agitation III	NoS
+117	Ignominious Influence	NoS
+117	Ignominious Influence Heal	NoS
+117	Ignominious Influence Heal II	NoS
+117	Ignominious Influence Heal III	NoS
+117	Ignominious Influence Rk. II	NoS
+117	Ignominious Influence Rk. III	NoS
+117	Ignominious Reward	NoS
+117	Ignominious Reward II	NoS
+117	Ignominious Reward III	NoS
+117	Parlay for Power	ToL
+117	Parlay for Power Rk. II	ToL
+117	Parlay for Power Rk. III	ToL
+117	Plague of Fleshrot	ToL
+117	Plague of Fleshrot Rk. II	ToL
+117	Plague of Fleshrot Rk. III	ToL
+117	Shroud of Zelinstein	ToL
+117	Shroud of Zelinstein Rk. II	ToL
+117	Shroud of Zelinstein Rk. III	ToL
+117	Usurper's Audacity	ToL
+117	Usurper's Audacity Rk. II	ToL
+117	Usurper's Audacity Rk. III	ToL
+117	Virulent Darkness	ToL
+117	Virulent Darkness Rk. II	ToL
+117	Virulent Darkness Rk. III	ToL
+118	Aten Ha Ra's Covenant	ToL
+118	Aten Ha Ra's Covenant Rk. II	ToL
+118	Aten Ha Ra's Covenant Rk. III	ToL
+118	Fyrthek Mantle	ToL
+118	Fyrthek Mantle Rk. II	ToL
+118	Fyrthek Mantle Rk. III	ToL
+118	Fyrthek Shattering	ToL
+118	Fyrthek Shattering II	ToL
+118	Fyrthek Shattering III	ToL
+118	Gift of Itzal	ToL
+118	Gift of Itzal Rk. II	ToL
+118	Gift of Itzal Rk. III	ToL
+118	Insidious Renunciation	ToL
+118	Insidious Renunciation Rk. II	ToL
+118	Insidious Renunciation Rk. III	ToL
+118	Minion of Itzal	ToL
+118	Minion of Itzal Rk. II	ToL
+118	Minion of Itzal Rk. III	ToL
+118	Penumbral Disruption	NoS
+118	Penumbral Disruption Rk. II	NoS
+118	Penumbral Disruption Rk. III	NoS
+118	Repudiate	ToL
+118	Repudiate Rk. II	ToL
+118	Repudiate Rk. III	ToL
+118	Xetheg's Carapace	ToL
+118	Xetheg's Carapace Rk. II	ToL
+118	Xetheg's Carapace Rk. III	ToL
+118	Xetheg's Lifedraw	ToL
+118	Xetheg's Lifedraw II	ToL
+118	Xetheg's Lifedraw III	ToL
+119	Adamant Stance	ToL
+119	Adamant Stance Rk. II	ToL
+119	Adamant Stance Rk. III	ToL
+119	Antipathy	ToL
+119	Antipathy Rk. II	ToL
+119	Antipathy Rk. III	ToL
+119	Bloodletting Conjunction	NoS
+119	Bloodletting Conjunction Rk. II	NoS
+119	Bloodletting Conjunction Rk. III	NoS
+119	Despicable Bargain	ToL
+119	Despicable Bargain Rk. II	ToL
+119	Despicable Bargain Rk. III	ToL
+119	Drape of the Akheva	ToL
+119	Drape of the Akheva Rk. II	ToL
+119	Drape of the Akheva Rk. III	ToL
+119	Penumbral Call	ToL
+119	Penumbral Call Rk. II	ToL
+119	Penumbral Call Rk. III	ToL
+119	Spear of Bloodwretch	ToL
+119	Spear of Bloodwretch Rk. II	ToL
+119	Spear of Bloodwretch Rk. III	ToL
+119	Unrelenting Acrimony	ToL
+119	Unrelenting Acrimony Rk. II	ToL
+119	Unrelenting Acrimony Rk. III	ToL
+119	Unscrupulous Blight	ToL
+119	Unscrupulous Blight Rk. II	ToL
+119	Unscrupulous Blight Rk. III	ToL
+120	Dire Censure	ToL
+120	Dire Censure Rk. II	ToL
+120	Dire Censure Rk. III	ToL
+120	Dire Seizure	ToL
+120	Dire Seizure Rk. II	ToL
+120	Dire Seizure Rk. III	ToL
+120	Gift of Namdrows	ToL
+120	Gift of Namdrows II	ToL
+120	Gift of Namdrows III	ToL
+120	Impenitent Demeanor	NoS
+120	Impenitent Demeanor Rk. II	NoS
+120	Impenitent Demeanor Rk. III	NoS
+120	Sanguine Blade	ToL
+120	Sanguine Blade Rk. II	ToL
+120	Sanguine Blade Rk. III	ToL
+120	Torrent of Melancholy	ToL
+120	Torrent of Melancholy Rk. II	ToL
+120	Torrent of Melancholy Rk. III	ToL
+120	Touch of Namdrows	ToL
+120	Touch of Namdrows Rk. II	ToL
+120	Touch of Namdrows Rk. III	ToL
+120	Touch of Txiki	ToL
+120	Touch of Txiki Rk. II	ToL
+120	Touch of Txiki Rk. III	ToL
+120	Xenacious' Skin	ToL
+120	Xenacious' Skin Rk. II	ToL
+120	Xenacious' Skin Rk. III	ToL
+121	Bond of Tatalros	LS
+121	Bond of Tatalros Rk. II	LS
+121	Bond of Tatalros Rk. III	LS
+121	Charka's Bite	LS
+121	Charka's Bite Recourse	LS
+121	Charka's Bite Recourse II	LS
+121	Charka's Bite Recourse III	LS
+121	Charka's Bite Rk. II	LS
+121	Charka's Bite Rk. III	LS
 121	Convalesce	LS
 121	Convalesce Rk. II	LS
 121	Convalesce Rk. III	LS
-121	Reckless Edge Discipline	LS
-121	Reckless Edge Discipline Rk. II	LS
-121	Reckless Edge Discipline Rk. III	LS
-121	Unsuspecting Mark	LS
-121	Unsuspecting Mark Rk. II	LS
-121	Unsuspecting Mark Rk. III	LS
-122	Blinding Glister	LS
-122	Blinding Glister Rk. II	LS
-122	Blinding Glister Rk. III	LS
-122	Jugular Hew	LS
-122	Jugular Hew Rk. II	LS
-122	Jugular Hew Rk. III	LS
-122	Shadowed Speed Discipline	LS
-122	Shadowed Speed Discipline Rk. II	LS
-122	Shadowed Speed Discipline Rk. III	LS
-122	Shadowed Speed Shock	LS
-122	Shadowed Speed Shock II	LS
-122	Shadowed Speed Shock III	LS
-123	Carve	LS
-123	Carve Rk. II	LS
-123	Carve Rk. III	LS
-123	Tenacious Dagger-Throw	LS
-123	Tenacious Dagger-Throw Rk. II	LS
-123	Tenacious Dagger-Throw Rk. III	LS
-123	Venomous Blade	LS
-123	Venomous Blade Rk. II	LS
-123	Venomous Blade Rk. III	LS
-124	Crinotoxin Discipline	LS
-124	Crinotoxin Discipline Rk. II	LS
-124	Crinotoxin Discipline Rk. III	LS
-124	Pinpoint Fault	LS
-124	Pinpoint Fault Rk. II	LS
-124	Pinpoint Fault Rk. III	LS
-124	Trickery	LS
-124	Trickery Rk. II	LS
-124	Trickery Rk. III	LS
-124	Veiled Blade	LS
-124	Veiled Blade Rk. II	LS
-124	Veiled Blade Rk. III	LS
-125	Enthralling Smoke	LS
-125	Enthralling Smoke Rk. II	LS
-125	Enthralling Smoke Rk. III	LS
-125	Mayhem	LS
-125	Mayhem Rk. II	LS
-125	Mayhem Rk. III	LS
-125	Storied Escape	LS
-125	Storied Escape Rk. II	LS
-125	Storied Escape Rk. III	LS
-250	Composite Weapon Trigger 1	CoV
-250	Composite Weapon Trigger 2	CoV
-250	Composite Weapon Trigger 3	CoV
-250	Composite Weapon Trigger 4	CoV
-250	Composite Weapon Trigger 5	CoV
-250	Composite Weapon Trigger 6	CoV
-250	Dichotomic Weapon Effect 1	TBM
-250	Dichotomic Weapon Effect 2	TBM
-250	Dichotomic Weapon Effect 3	TBM
-250	Dichotomic Weapon Effect 4	TBM
-250	Dichotomic Weapon Effect 5	TBM
-250	Dichotomic Weapon Effect 6	TBM
-250	Dissident Weapon Trigger 1	TBL
-250	Dissident Weapon Trigger 2	TBL
-250	Dissident Weapon Trigger 3	TBL
-250	Dissident Weapon Trigger 4	TBL
-250	Dissident Weapon Trigger 5	TBL
-250	Dissident Weapon Trigger 6	TBL
-250	Ecliptic Weapon Trigger 1	NoS
-250	Ecliptic Weapon Trigger 2	NoS
-250	Ecliptic Weapon Trigger 3	NoS
-250	Ecliptic Weapon Trigger 4	NoS
-250	Ecliptic Weapon Trigger 5	NoS
-250	Ecliptic Weapon Trigger 6	NoS
+121	Death's Proclamation	LS
+121	Goblin Skin	LS
+121	Goblin Skin Rk. II	LS
+121	Goblin Skin Rk. III	LS
+121	Mental Wretchedness	LS
+121	Mental Wretchedness Rk. II	LS
+121	Mental Wretchedness Rk. III	LS
+121	Mortimus' Horror	LS
+121	Mortimus' Horror Rk. II	LS
+121	Mortimus' Horror Rk. III	LS
+121	Terror of Tarantis	LS
+121	Terror of Tarantis Rk. II	LS
+121	Terror of Tarantis Rk. III	LS
+122	Blood of Shoru	LS
+122	Blood of Shoru Rk. II	LS
+122	Blood of Shoru Rk. III	LS
+122	Incapacitating Blade	LS
+122	Incapacitating Blade Rk. II	LS
+122	Incapacitating Blade Rk. III	LS
+122	Oppressor's Audacity	LS
+122	Oppressor's Audacity Rk. II	LS
+122	Oppressor's Audacity Rk. III	LS
+122	Petition for Power	LS
+122	Petition for Power Rk. II	LS
+122	Petition for Power Rk. III	LS
+122	Plague of the Fleawalker	LS
+122	Plague of the Fleawalker Rk. II	LS
+122	Plague of the Fleawalker Rk. III	LS
+122	Shroud of Rimeclaw	LS
+122	Shroud of Rimeclaw Rk. II	LS
+122	Shroud of Rimeclaw Rk. III	LS
+122	Vitriolic Darkness	LS
+122	Vitriolic Darkness Rk. II	LS
+122	Vitriolic Darkness Rk. III	LS
+123	Geomimus Mantle	LS
+123	Geomimus Mantle Rk. II	LS
+123	Geomimus Mantle Rk. III	LS
+123	Geomimus Shattering	LS
+123	Geomimus Shattering II	LS
+123	Geomimus Shattering III	LS
+123	Gift of Fandrel	LS
+123	Gift of Fandrel Rk. II	LS
+123	Gift of Fandrel Rk. III	LS
+123	Gird	LS
+123	Gird Rk. II	LS
+123	Gird Rk. III	LS
+123	Insidious Repudiation	LS
+123	Insidious Repudiation Rk. II	LS
+123	Insidious Repudiation Rk. III	LS
+123	Kanghammer's Carapace	LS
+123	Kanghammer's Carapace Rk. II	LS
+123	Kanghammer's Carapace Rk. III	LS
+123	Kanghammer's Lifedraw	LS
+123	Kanghammer's Lifedraw II	LS
+123	Kanghammer's Lifedraw III	LS
+123	Kar's Covenant	LS
+123	Kar's Covenant Rk. II	LS
+123	Kar's Covenant Rk. III	LS
+123	Minion of Fandrel	LS
+123	Minion of Fandrel Rk. II	LS
+123	Minion of Fandrel Rk. III	LS
+124	Animus	LS
+124	Animus Rk. II	LS
+124	Animus Rk. III	LS
+124	Call of Blight	LS
+124	Call of Blight Rk. II	LS
+124	Call of Blight Rk. III	LS
+124	Drape of the Ankexfen	LS
+124	Drape of the Ankexfen Rk. II	LS
+124	Drape of the Ankexfen Rk. III	LS
+124	Odious Bargain	LS
+124	Odious Bargain Rk. II	LS
+124	Odious Bargain Rk. III	LS
+124	Spear of Lazam	LS
+124	Spear of Lazam Rk. II	LS
+124	Spear of Lazam Rk. III	LS
+124	Unconditional Acrimony	LS
+124	Unconditional Acrimony Rk. II	LS
+124	Unconditional Acrimony Rk. III	LS
+124	Unwavering Stance	LS
+124	Unwavering Stance Rk. II	LS
+124	Unwavering Stance Rk. III	LS
+124	Vitriolic Blight	LS
+124	Vitriolic Blight Rk. II	LS
+124	Vitriolic Blight Rk. III	LS
+125	Dire Rebuke	LS
+125	Dire Rebuke Rk. II	LS
+125	Dire Rebuke Rk. III	LS
+125	Dire Squelch	LS
+125	Dire Squelch Rk. II	LS
+125	Dire Squelch Rk. III	LS
+125	Gift of Mortimus	LS
+125	Gift of Mortimus II	LS
+125	Gift of Mortimus III	LS
+125	Incarnadine Blade	LS
+125	Incarnadine Blade Rk. II	LS
+125	Incarnadine Blade Rk. III	LS
+125	Krizad's Skin	LS
+125	Krizad's Skin Rk. II	LS
+125	Krizad's Skin Rk. III	LS
+125	Torrent of Desolation	LS
+125	Torrent of Desolation Rk. II	LS
+125	Torrent of Desolation Rk. III	LS
+125	Touch of Flariton	LS
+125	Touch of Flariton Rk. II	LS
+125	Touch of Flariton Rk. III	LS
+125	Touch of Mortimus	LS
+125	Touch of Mortimus Rk. II	LS
+125	Touch of Mortimus Rk. III	LS
+250	Composite Bite 1	CoV
+250	Composite Bite 2	CoV
+250	Composite Bite 3	CoV
+250	Composite Bite 4	CoV
+250	Composite Bite 5	CoV
+250	Composite Bite 6	CoV
+250	Dichotomic Bite 1	TBM
+250	Dichotomic Bite 2	TBM
+250	Dichotomic Bite 3	TBM
+250	Dichotomic Bite 4	TBM
+250	Dichotomic Bite 5	TBM
+250	Dichotomic Bite 6	TBM
+250	Dissident Bite 1	TBL
+250	Dissident Bite 2	TBL
+250	Dissident Bite 3	TBL
+250	Dissident Bite 4	TBL
+250	Dissident Bite 5	TBL
+250	Dissident Bite 6	TBL
+250	Ecliptic Bite 1	NoS
+250	Ecliptic Bite 2	NoS
+250	Ecliptic Bite 3	NoS
+250	Ecliptic Bite 4	NoS
+250	Ecliptic Bite 5	NoS
+250	Ecliptic Bite 6	NoS
