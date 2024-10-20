@@ -1,0 +1,1733 @@
+1	Cavorting Bones	EQ
+1	Coldlight	EQ
+1	Disease Cloud	EQ
+1	Invisibility Versus Undead	EQ
+1	Lifetap	EQ
+1	Locate Corpse	EQ
+1	Minor Shielding	EQ
+1	Reclaim Energy	EQ
+1	Sense the Dead	EQ
+1	Siphon Strength	EQ
+2	Fear	EQ
+2	Numb the Dead	EQ
+2	True North	EQ
+3	Endure Cold	EQ
+3	Grim Aura	EQ
+3	Lifespike	EQ
+4	Clinging Darkness	EQ
+4	Gate	EQ
+4	Leering Corpse	EQ
+4	Poison Bolt	EQ
+5	Deadeye	EQ
+5	Shadow Step	EQ
+6	Dark Empathy	EQ
+6	Dark Pact	EQ
+6	Ward Undead	EQ
+7	Gather Shadows	EQ
+7	Mend Bones	EQ
+7	Vampiric Embrace	EQ
+8	Bone Walk	EQ
+8	Impart Strength	EQ
+8	Lesser Shielding	EQ
+9	Leech	Kunark
+9	Sight Graft	EQ
+9	Wave of Enfeeblement	EQ
+10	Heat Blood	EQ
+10	Scent of Dusk	Kunark
+10	Spook the Dead	EQ
+11	Endure Disease	EQ
+11	Engulfing Darkness	EQ
+11	Focus Death	Luclin
+12	Bind Affinity	EQ
+12	Convoke Shadow	EQ
+12	Lesser Summon Corpse	EQ
+12	Lifedraw	EQ
+13	Cure Disease	EQ
+13	Heart Flutter	EQ
+13	Reebo's Lesser Exorcism	LDoN
+13	Wuggan's Lesser Appraisal	LDoN
+14	Reebo's Lesser Augury	LDoN
+14	Reebo's Lesser Cleansing	LDoN
+14	Shieldskin	EQ
+14	Wuggan's Lesser Discombobulation	LDoN
+14	Wuggan's Lesser Extrication	LDoN
+15	Banshee Aura	EQ
+15	Cancel Magic	EQ
+15	Infectious Cloud	EQ
+15	Voice Graft	EQ
+16	Feign Death	EQ
+16	Focus Crude Spellcaster's Empowering Essence	SoF
+16	Focus Primitive Spellcaster's Empowering Essence	SoF
+16	Focus Rudimentary Spellcaster's Empowering Essence	SoF
+16	Form of Chilled Bone	TSS
+16	Hungry Earth	EQ
+16	Restless Bones	EQ
+16	Shielding	EQ
+16	Spirit Armor	EQ
+17	Identify	EQ
+17	Shackle of Bone	Luclin
+17	Shadow Compact	EQ
+18	Allure of Death	EQ
+18	Dominate Undead	EQ
+18	Track Corpse	EQ
+19	Expulse Undead	EQ
+19	Shadow Vortex	EQ
+19	Tiny Companion	EQ
+20	Animate Dead	EQ
+20	Focus Makeshift Spellcaster's Empowering Essence	SoF
+20	Focus Mass Crude Spellcaster's Empowering Essence	SoF
+20	Focus Mass Primitive Spellcaster's Empowering Essence	SoF
+20	Focus Mass Rudimentary Spellcaster's Empowering Essence	SoF
+20	Harmshield	EQ
+20	Siphon Life	EQ
+20	Word of Shadow	EQ
+21	Breath of the Dead	EQ
+21	Rapacious Subvention	EQ
+21	Scent of Shadow	EQ
+21	Shock of Poison	EQ
+22	Leatherskin	EQ
+22	Screaming Terror	EQ
+22	Shadow Sight	EQ
+23	Intensify Death	EQ
+23	Reebo's Exorcism	LDoN
+23	Rest the Dead	EQ
+23	Wuggan's Appraisal	LDoN
+24	Focus Mass Makeshift Spellcaster's Empowering Essence	SoF
+24	Haunting Corpse	EQ
+24	Major Shielding	EQ
+24	Reebo's Augury	LDoN
+24	Reebo's Cleansing	LDoN
+24	Resist Cold	EQ
+24	Wuggan's Discombobulation	LDoN
+24	Wuggan's Extrication	LDoN
+25	Panic the Dead	EQ
+26	Renew Bones	EQ
+26	Spirit Tap	EQ
+27	Dooming Darkness	EQ
+27	Eternities Torment	Luclin
+27	Word of Spirit	EQ
+28	Boil Blood	EQ
+28	Dismiss Undead	EQ
+29	Summon Dead	EQ
+29	Vampiric Curse	PoP
+30	Focus Elementary Spellcaster's Empowering Essence	SoF
+30	Invoke Fear	EQ
+31	Beguile Undead	EQ
+31	Call of Bones	EQ
+31	Resist Disease	EQ
+32	Steelskin	EQ
+32	Surge of Enfeeblement	EQ
+32	Torbas' Acid Blast	Velious
+33	Greater Shielding	EQ
+33	Invoke Shadow	EQ
+33	Reebo's Greater Exorcism	LDoN
+33	Wuggan's Greater Appraisal	LDoN
+34	Focus Mass Elementary Spellcaster's Empowering Essence	SoF
+34	Reebo's Greater Augury	LDoN
+34	Reebo's Greater Cleansing	LDoN
+34	Root	EQ
+34	Venom of the Snake	EQ
+34	Wuggan's Greater Discombobulation	LDoN
+34	Wuggan's Greater Extrication	LDoN
+35	Augment Death	EQ
+35	Scourge	EQ
+35	Summon Corpse	EQ
+36	Chilling Embrace	Velious
+36	Counteract Disease	EQ
+36	Word of Souls	EQ
+37	Nullify Magic	EQ
+37	Scent of Darkness	EQ
+38	Expel Undead	EQ
+38	Shackle of Spirit	EQ
+39	Dark Soul	LDoN
+39	Drain Spirit	EQ
+39	Malignant Dead	EQ
+40	Asystole	EQ
+40	Focus Modest Spellcaster's Empowering Essence	SoF
+40	Summon Companion	Velious
+41	Arch Shielding	EQ
+41	Dead Man Floating	EQ
+42	Ignite Bones	EQ
+42	Incinerate Bones	Kunark
+43	Corporeal Empathy	Velious
+43	Covetous Subversion	EQ
+43	Diamondskin	EQ
+44	Bounce	LDoN
+44	Cackling Bones	EQ
+44	Focus Mass Modest Spellcaster's Empowering Essence	SoF
+44	Form of Bleached Bone	TSS
+44	Pact of Shadow	EQ
+45	Auspice	LoY
+45	Dead Men Floating	Kunark
+46	Banish Undead	EQ
+46	Insidious Retrogression	Luclin
+46	Paralyzing Earth	Kunark
+47	Cajole Undead	EQ
+47	Cascading Darkness	EQ
+47	Ignite Blood	EQ
+48	Drain Soul	EQ
+48	Invoke Death	EQ
+48	Lich	EQ
+49	Bond of Death	EQ
+49	Torbas' Poison Blast	PoP
+49	Ward of Calliav	LDoN
+50	Envenomed Bolt	EQ
+50	Focus Simple Spellcaster's Empowering Essence	SoF
+50	Improved Invisibility to Undead	Velious
+51	Dread of Night	Kunark
+51	Sacrifice	Kunark
+51	Splurt	Kunark
+52	Comatose	LoY
+52	Defoliation	Kunark
+52	Degeneration	Luclin
+52	Manaskin	Kunark
+52	Plague	EQ
+52	Scent of Terris	Kunark
+53	Annul Magic	Kunark
+53	Convergence	Kunark
+53	Instill	EQ
+53	Minion of Shadows	Kunark
+54	Deflux	Kunark
+54	Focus Mass Simple Spellcaster's Empowering Essence	SoF
+54	Imprecation	LDoN
+54	Shadowbond	Kunark
+54	Shield of the Magi	Kunark
+54	Succussion of Shadows	Luclin
+54	Thrall of Bones	Kunark
+54	Torbas' Venom Blast	Luclin
+55	Augmentation of Death	Velious
+55	Chill Bones	Kunark
+55	Conglaciation of Bone	Velious
+55	Dark Rune	PoR
+55	Focus Spellcaster's Empowering Essence	SoF
+55	Infusion	Kunark
+55	Levant	Kunark
+55	Skin of the Shadow	Kunark
+56	Cessation of Cor	Kunark
+56	Crippling Claudication	Luclin
+56	Demi Lich	Kunark
+56	Eidolon Voice	DoN
+56	Form of Mottled Bone	EQ
+56	Sedulous Subversion	Kunark
+56	Servant of Bones	Kunark
+56	Trepidation	Kunark
+57	Conjure Corpse	Kunark
+57	Exile Undead	Kunark
+57	Imbue Nightmare	PoP
+57	Unholy Voice	DoN
+57	Vexing Mordinia	Kunark
+58	Guard of Calliav	LDoN
+58	Imbue Disease	PoP
+58	Imbue Torment	PoP
+58	Immobilize	EQ
+58	Mind Wrack	Luclin
+58	Pyrocruor	Kunark
+58	Quivering Veil of Xarn	Kunark
+58	Reflect	LDoN
+59	Devouring Darkness	Kunark
+59	Emissary of Thule	Kunark
+59	Focus Mass Spellcaster's Empowering Essence	SoF
+59	Touch of Night	Kunark
+60	Ancient: Lifebane	Luclin
+60	Ancient: Master of Death	Luclin
+60	Arch Lich	Velious
+60	Banishment of Shadows	Kunark
+60	Death Peace	Velious
+60	Enslave Death	Kunark
+60	Focus Refined Spellcaster's Empowering Essence	SoF
+60	Funeral Pyre of Kelador	Luclin
+60	Gangrenous Touch of Zum`uul	Kunark
+60	Trucidation	Kunark
+60	Zevfeer's Theft of Vitae	Luclin
+61	Dark Plague	PoP
+61	Eidolon Bellow	DoN
+61	Legacy of Zek	PoP
+61	Neurotoxin	PoP
+61	Shield of the Arcane	PoP
+61	Soul Orb	DoN
+61	Touch of Mujaki	PoP
+62	Petrifying Earth	PoP
+62	Rune of Death	PoP
+62	Saryrn's Kiss	PoP
+62	Unholy Bellow	DoN
+63	Death's Silence	PoP
+63	Embracing Darkness	PoP
+63	Force Shield	PoP
+63	Greater Immobilize	PoP
+63	Horror	LDoN
+63	Saryrn's Companion	PoP
+64	Focus Mass Refined Spellcaster's Empowering Essence	SoF
+64	Protection of Calliav	LDoN
+64	Seduction of Saryrn	PoP
+64	Shield of Maelin	PoP
+64	Touch of Death	PoP
+65	Ancient: Seduction of Chaos	Gates
+65	Blood of Thule	PoP
+65	Child of Bertoxxulous	PoP
+65	Destroy Undead	PoP
+65	Focus Intricate Spellcaster's Empowering Essence	SoF
+65	Night Fire	Gates
+65	Night Stalker	Gates
+65	Night's Beckon	Gates
+65	Word of Terris	PoP
+66	Acikin	Omens
+66	Chaos Plague	Omens
+66	Eidolon Howl	Omens
+66	Eradicate Disease	RoF
+66	Shadow Guard	Omens
+67	Dark Nightmare	Omens
+67	Glyph of Darkness	Omens
+67	Grip of Mori	Omens
+67	Lost Soul	Omens
+67	Soulspike	Omens
+67	Unholy Howl	Omens
+68	Call for Blood	Omens
+68	Desecrating Darkness	Omens
+68	Fang of Death	Omens
+68	Scent of Midnight	Omens
+68	Shadow of Death	Omens
+69	Bulwark of Calliav	Omens
+69	Corath Venom	DoD
+69	Dark Hold	Omens
+69	Dark Salve	Omens
+69	Dull Pain	Omens
+69	Focus Mass Intricate Spellcaster's Empowering Essence	SoF
+69	Pyre of Mori	Omens
+69	Shadow Orb	DoN
+70	Ancient: Curse of Mori	Omens
+70	Ancient: Touch of Orshilak	Omens
+70	Chaos Venom	Omens
+70	Dark Assassin	Omens
+70	Dark Possession	Omens
+70	Death Rune	PoR
+70	Desolate Undead	Omens
+70	Dread Pyre	DoD
+70	Focus Elaborate Spellcaster's Empowering Essence	SoF
+70	Grave Pact	PoR
+70	Mind Flay	PoR
+70	Word of Chaos	Omens
+71	Drain Life	TSS
+71	Drain Life Rk. II	TSS
+71	Drain Life Rk. III	TSS
+71	Drink of Vitae	TSS
+71	Drink of Vitae Rk. II	TSS
+71	Drink of Vitae Rk. III	TSS
+71	Exhumer's Call	TSS
+71	Severan's Rot	TSS
+71	Severan's Rot Rk. II	TSS
+71	Shield of Darkness	TSS
+71	Shield of Darkness Rk. II	TSS
+71	Umbra Orb	TBS
+71	Umbra Orb Rk. II	TBS
+71	Umbra Orb Rk. III	TBS
+71	Venin	TSS
+71	Venin Rk. II	TSS
+72	Bonestitch Fetish	TBS
+72	Bonestitch Fetish Rk. II	TBS
+72	Bonestitch Fetish Rk. III	TBS
+72	Curse of Mortality	TSS
+72	Curse of Mortality Rk. II	TSS
+72	Curse of Mortality Rk. III	TSS
+72	Dyn`leth's Grasp	TSS
+72	Dyn`leth's Grasp Rk. II	TSS
+72	Dyn`leth's Grasp Rk. III	TSS
+72	Form of Restless Spirits	TSS
+72	Riza`farr's Shadow	TSS
+72	Scent of Twilight	TSS
+72	Scent of Twilight Rk. II	TSS
+72	Scent of Twilight Rk. III	TSS
+72	Sigil of the Unnatural	TSS
+72	Sigil of the Unnatural Rk. II	TSS
+73	Bloodcurdling Shriek	TSS
+73	Bloodcurdling Shriek Rk. II	TSS
+73	Bloodcurdling Shriek Rk. III	TSS
+73	Chilling Renewal	TSS
+73	Chilling Renewal Rk. II	TSS
+73	Chilling Renewal Rk. III	TSS
+73	Pyre of the Fallen	TBS
+73	Pyre of the Fallen Rk. II	TBS
+73	Pyre of the Fallen Rk. III	TBS
+73	Rimebone Shackles	TSS
+73	Rimebone Shackles Rk. II	TSS
+73	Spectral Guard	TSS
+73	Spectral Guard Rk. II	TSS
+73	Wraithskin	TSS
+73	Wraithskin Rk. II	TSS
+73	Wraithskin Rk. III	TSS
+74	Aegis of Calliav	TSS
+74	Aegis of Calliav Rk. II	TSS
+74	Aegis of Calliav Rk. III	TSS
+74	Ashengate Pyre	TSS
+74	Ashengate Pyre Rk. II	TSS
+74	Ashengate Pyre Rk. III	TSS
+74	Coruscating Darkness	TSS
+74	Coruscating Darkness Rk. II	TSS
+74	Focus Mass Elaborate Spellcaster's Empowering Essence	SoF
+74	Mind Dissection	TBS
+74	Mind Dissection Rk. II	TBS
+74	Mind Dissection Rk. III	TBS
+74	Otherside	TSS
+74	Otherside Rk. II	TSS
+74	Otherside Rk. III	TSS
+74	Vakk`dra's Sickly Mists	TSS
+74	Vakk`dra's Sickly Mists Rk. II	TSS
+74	Vakk`dra's Sickly Mists Rk. III	TSS
+74	Wilting Foliage	TSS
+74	Wilting Foliage Rk. II	TSS
+75	Annihilate Undead	TSS
+75	Annihilate Undead Rk. II	TSS
+75	Demand for Blood	TSS
+75	Demand for Blood Rk. II	TSS
+75	Demand for Blood Rk. III	TSS
+75	Focus Ornate Spellcaster's Empowering Essence	SoF
+75	Form of Rotting Flesh	TBS
+75	Kedgefish Venom	TBS
+75	Kedgefish Venom Rk. II	TBS
+75	Kedgefish Venom Rk. III	TBS
+75	Putrescent Servant	TSS
+75	Vakk`dra's Command	TSS
+75	Vakk`dra's Command Rk. II	TSS
+76	Bulwark of Shadows	SoF
+76	Bulwark of Shadows Rk. II	SoF
+76	Bulwark of Shadows Rk. III	SoF
+76	Eranon's Decay	SoF
+76	Eranon's Decay Rk. II	SoF
+76	Eranon's Decay Rk. III	SoF
+76	Phantasmal Orb	SoF
+76	Phantasmal Orb Rk. II	SoF
+76	Phantasmal Orb Rk. III	SoF
+76	Procure Corpse	SoF
+76	Ruinous Venin	SoF
+76	Ruinous Venin Rk. II	SoF
+76	Ruinous Venin Rk. III	SoF
+76	Siphon Essence	SoF
+76	Siphon Essence Rk. II	SoF
+76	Siphon Essence Rk. III	SoF
+77	Anathema of Life	SoF
+77	Anathema of Life Rk. II	SoF
+77	Anathema of Life Rk. III	SoF
+77	Bonestitch Charm	SoF
+77	Bonestitch Charm Rk. II	SoF
+77	Bonestitch Charm Rk. III	SoF
+77	Putrefaction	SoF
+77	Putrefaction Rk. II	SoF
+77	Putrefaction Rk. III	SoF
+77	Relamar's Shade	SoF
+77	Scent of Afterlight	SoF
+77	Scent of Afterlight Rk. II	SoF
+77	Scent of Afterlight Rk. III	SoF
+77	Sigil of the Aberrant	SoF
+77	Sigil of the Aberrant Rk. II	SoF
+77	Sigil of the Aberrant Rk. III	SoF
+77	Visziaj's Grasp	SoF
+77	Visziaj's Grasp Rk. II	SoF
+77	Visziaj's Grasp Rk. III	SoF
+78	Pyre of the Lifeless	SoF
+78	Pyre of the Lifeless Rk. II	SoF
+78	Pyre of the Lifeless Rk. III	SoF
+78	Riftbone Manacles	SoF
+78	Riftbone Manacles Rk. II	SoF
+78	Riftbone Manacles Rk. III	SoF
+78	Shadowskin	SoF
+78	Shadowskin Rk. II	SoF
+78	Shadowskin Rk. III	SoF
+78	Spectral Ward	SoF
+78	Spectral Ward Rk. II	SoF
+78	Spectral Ward Rk. III	SoF
+78	Spine-Chilling Shriek	SoF
+78	Spine-Chilling Shriek Rk. II	SoF
+78	Spine-Chilling Shriek Rk. III	SoF
+78	Wintry Revival	SoF
+78	Wintry Revival Rk. II	SoF
+78	Wintry Revival Rk. III	SoF
+79	Aegis of Kildrukaun	SoF
+79	Aegis of Kildrukaun Rk. II	SoF
+79	Aegis of Kildrukaun Rk. III	SoF
+79	Auroral Darkness	SoF
+79	Auroral Darkness Rk. II	SoF
+79	Auroral Darkness Rk. III	SoF
+79	Focus Mass Ornate Spellcaster's Empowering Essence	SoF
+79	Mental Vivisection	SoF
+79	Mental Vivisection Rk. II	SoF
+79	Mental Vivisection Rk. III	SoF
+79	Reaver's Pyre	SoF
+79	Reaver's Pyre Rk. II	SoF
+79	Reaver's Pyre Rk. III	SoF
+79	Spectralside	SoF
+79	Spectralside Rk. II	SoF
+79	Spectralside Rk. III	SoF
+79	Visziaj's Pallid Haze	SoF
+79	Visziaj's Pallid Haze Rk. II	SoF
+79	Visziaj's Pallid Haze Rk. III	SoF
+80	Focus Runed Spellcaster's Empowering Essence	SoD
+80	Noxious Servant	SoF
+80	Searing Shadow	SoF
+80	Searing Shadow Rk. II	SoF
+80	Searing Shadow Rk. III	SoF
+80	Splort	SoF
+80	Splort Rk. II	SoF
+80	Splort Rk. III	SoF
+80	Supplication of Blood	SoF
+80	Supplication of Blood Rk. II	SoF
+80	Supplication of Blood Rk. III	SoF
+80	Venonscale Venom	SoF
+80	Venonscale Venom Rk. II	SoF
+80	Venonscale Venom Rk. III	SoF
+80	Visziaj's Command	SoD
+80	Visziaj's Command Rk. II	SoD
+80	Visziaj's Command Rk. III	SoD
+81	Drain Essence	SoD
+81	Drain Essence Rk. II	SoD
+81	Drain Essence Rk. III	SoD
+81	Finsternacht Orb	SoD
+81	Finsternacht Orb Rk. II	SoD
+81	Finsternacht Orb Rk. III	SoD
+81	Megrima's Decay	SoD
+81	Megrima's Decay Rk. II	SoD
+81	Megrima's Decay Rk. III	SoD
+81	Reaper's Call	SoD
+81	Shield of the Void	SoD
+81	Shield of the Void Rk. II	SoD
+81	Shield of the Void Rk. III	SoD
+81	Withering Venin	SoD
+81	Withering Venin Rk. II	SoD
+81	Withering Venin Rk. III	SoD
+82	Bloodreaper's Shade	SoD
+82	Bonestitch Effigy	SoD
+82	Bonestitch Effigy Rk. II	SoD
+82	Bonestitch Effigy Rk. III	SoD
+82	Fellid's Grasp	SoD
+82	Fellid's Grasp Rk. II	SoD
+82	Fellid's Grasp Rk. III	SoD
+82	Mortal Coil	SoD
+82	Mortal Coil Rk. II	SoD
+82	Mortal Coil Rk. III	SoD
+82	Putrescence	SoD
+82	Putrescence Rk. II	SoD
+82	Putrescence Rk. III	SoD
+82	Scent of Gloom	SoD
+82	Scent of Gloom Rk. II	SoD
+82	Scent of Gloom Rk. III	SoD
+83	Bestow Undeath	UF
+83	Bestow Undeath Rk. II	UF
+83	Bestow Undeath Rk. III	UF
+83	Bone-Rattling Shriek	SoD
+83	Bone-Rattling Shriek Rk. II	SoD
+83	Bone-Rattling Shriek Rk. III	SoD
+83	Corpseskin	SoD
+83	Corpseskin Rk. II	SoD
+83	Corpseskin Rk. III	SoD
+83	Icy Stitches	SoD
+83	Icy Stitches Rk. II	SoD
+83	Icy Stitches Rk. III	SoD
+83	Pyre of the Forgotten	SoD
+83	Pyre of the Forgotten Rk. II	SoD
+83	Pyre of the Forgotten Rk. III	SoD
+83	Voidwhisper Manacles	SoD
+83	Voidwhisper Manacles Rk. II	SoD
+83	Voidwhisper Manacles Rk. III	SoD
+83	Withering Decay	SoD
+83	Withering Decay Rk. II	SoD
+83	Withering Decay Rk. III	SoD
+84	Clawing Darkness	SoD
+84	Clawing Darkness Rk. II	SoD
+84	Clawing Darkness Rk. III	SoD
+84	Fellid's Pallid Haze	SoD
+84	Fellid's Pallid Haze Rk. II	SoD
+84	Fellid's Pallid Haze Rk. III	SoD
+84	Focus Mass Runed Spellcaster's Empowering Essence	SoD
+84	Ignite Energy	SoD
+84	Ignite Energy Rk. II	SoD
+84	Ignite Energy Rk. III	SoD
+84	Mind Decomposition	SoD
+84	Mind Decomposition Rk. II	SoD
+84	Mind Decomposition Rk. III	SoD
+84	Necrotic Pustules	UF
+84	Necrotic Pustules Rk. II	UF
+84	Necrotic Pustules Rk. III	UF
+84	Netherside	SoD
+84	Netherside Rk. II	SoD
+84	Netherside Rk. III	SoD
+84	Soul Reaper's Pyre	SoD
+84	Soul Reaper's Pyre Rk. II	SoD
+84	Soul Reaper's Pyre Rk. III	SoD
+85	Call Rumbling Skeleton	UF
+85	Call Rumbling Skeleton Rk. II	UF
+85	Call Rumbling Skeleton Rk. III	UF
+85	Exigency for Blood	SoD
+85	Exigency for Blood Rk. II	SoD
+85	Exigency for Blood Rk. III	SoD
+85	Fellid's Command	SoD
+85	Fellid's Command Rk. II	SoD
+85	Fellid's Command Rk. III	SoD
+85	Necrotize Ally	UF
+85	Necrotize Ally Rk. II	UF
+85	Necrotize Ally Rk. III	UF
+85	Scorching Shadow	SoD
+85	Scorching Shadow Rk. II	SoD
+85	Scorching Shadow Rk. III	SoD
+85	Slitheren Venom	SoD
+85	Slitheren Venom Rk. II	SoD
+85	Slitheren Venom Rk. III	SoD
+85	Splart	SoD
+85	Splart Rk. II	SoD
+85	Splart Rk. III	SoD
+85	Unliving Murderer	SoD
+86	Blighted Venin	HoT
+86	Blighted Venin Rk. II	HoT
+86	Blighted Venin Rk. III	HoT
+86	Burlabis' Swift Venom	HoT
+86	Burlabis' Swift Venom Rk. II	HoT
+86	Burlabis' Swift Venom Rk. III	HoT
+86	Divert Essence	HoT
+86	Divert Essence Rk. II	HoT
+86	Divert Essence Rk. III	HoT
+86	Dunkelnacht Orb	HoT
+86	Dunkelnacht Orb Rk. II	HoT
+86	Dunkelnacht Orb Rk. III	HoT
+86	Folasar's Decay	HoT
+86	Folasar's Decay Rk. II	HoT
+86	Folasar's Decay Rk. III	HoT
+86	Reaper's Beckon	HoT
+86	Shield of Dreams	HoT
+86	Shield of Dreams Rk. II	HoT
+86	Shield of Dreams Rk. III	HoT
+87	Arachne's Grasp	HoT
+87	Arachne's Grasp Rk. II	HoT
+87	Arachne's Grasp Rk. III	HoT
+87	Aziad's Shade	HoT
+87	Bonestitch Manikin	HoT
+87	Bonestitch Manikin Rk. II	HoT
+87	Bonestitch Manikin Rk. III	HoT
+87	Cascading Deathshield	HoT
+87	Cascading Deathshield Rk. II	HoT
+87	Cascading Deathshield Rk. III	HoT
+87	Demise	HoT
+87	Demise Rk. II	HoT
+87	Demise Rk. III	HoT
+87	Fetidity	HoT
+87	Fetidity Rk. II	HoT
+87	Fetidity Rk. III	HoT
+87	Ninavero's Swift Deconstruction	HoT
+87	Ninavero's Swift Deconstruction Rk. II	HoT
+87	Ninavero's Swift Deconstruction Rk. III	HoT
+87	Scent of Doom	HoT
+87	Scent of Doom Rk. II	HoT
+87	Scent of Doom Rk. III	HoT
+87	Sigil of the Moribund	HoT
+87	Sigil of the Moribund Rk. II	HoT
+87	Sigil of the Moribund Rk. III	HoT
+88	Bestow Unlife	HoT
+88	Bestow Unlife Rk. II	HoT
+88	Bestow Unlife Rk. III	HoT
+88	Dismay	HoT
+88	Dismay Rk. II	HoT
+88	Dismay Rk. III	HoT
+88	Gelid Mending	HoT
+88	Gelid Mending Rk. II	HoT
+88	Gelid Mending Rk. III	HoT
+88	Grimskin	HoT
+88	Grimskin Rk. II	HoT
+88	Grimskin Rk. III	HoT
+88	Pyre of the Bereft	HoT
+88	Pyre of the Bereft Rk. II	HoT
+88	Pyre of the Bereft Rk. III	HoT
+88	Soulbound Manacles	HoT
+88	Soulbound Manacles Rk. II	HoT
+88	Soulbound Manacles Rk. III	HoT
+88	Sphere of Blight	HoT
+88	Sphere of Blight Rk. II	HoT
+88	Sphere of Blight Rk. III	HoT
+88	Tenak's Flashblaze	HoT
+88	Tenak's Flashblaze Rk. II	HoT
+88	Tenak's Flashblaze Rk. III	HoT
+89	Arachne's Pallid Haze	HoT
+89	Arachne's Pallid Haze Rk. II	HoT
+89	Arachne's Pallid Haze Rk. III	HoT
+89	Darkside	HoT
+89	Darkside Rk. II	HoT
+89	Darkside Rk. III	HoT
+89	Necrotic Boils	HoT
+89	Necrotic Boils Rk. II	HoT
+89	Necrotic Boils Rk. III	HoT
+89	Pyre of Nos	HoT
+89	Pyre of Nos Rk. II	HoT
+89	Pyre of Nos Rk. III	HoT
+89	Rilfed's Swift Sickness	HoT
+89	Rilfed's Swift Sickness Rk. II	HoT
+89	Rilfed's Swift Sickness Rk. III	HoT
+89	Scapegoat	HoT
+89	Scapegoat Rk. II	HoT
+89	Scapegoat Rk. III	HoT
+89	Tenuous Darkness	HoT
+89	Tenuous Darkness Rk. II	HoT
+89	Tenuous Darkness Rk. III	HoT
+89	Thought Flay	HoT
+89	Thought Flay Rk. II	HoT
+89	Thought Flay Rk. III	HoT
+89	Thoughtburn	HoT
+89	Thoughtburn Rk. II	HoT
+89	Thoughtburn Rk. III	HoT
+90	Arachne's Command	HoT
+90	Arachne's Command Rk. II	HoT
+90	Arachne's Command Rk. III	HoT
+90	Argendev's Venom	HoT
+90	Argendev's Venom Rk. II	HoT
+90	Argendev's Venom Rk. III	HoT
+90	Blistering Shadow	HoT
+90	Blistering Shadow Rk. II	HoT
+90	Blistering Shadow Rk. III	HoT
+90	Call Ruinous Skeleton	HoT
+90	Call Ruinous Skeleton Rk. II	HoT
+90	Call Ruinous Skeleton Rk. III	HoT
+90	Compel for Blood	HoT
+90	Compel for Blood Rk. II	HoT
+90	Compel for Blood Rk. III	HoT
+90	Energize Ally	HoT
+90	Energize Ally Rk. II	HoT
+90	Energize Ally Rk. III	HoT
+90	Ninavero's Swift Lifedraw	HoT
+90	Ninavero's Swift Lifedraw Rk. II	HoT
+90	Ninavero's Swift Lifedraw Rk. III	HoT
+90	Raised Assassin	HoT
+90	Scorch Bones	HoT
+90	Scorch Bones Rk. II	HoT
+90	Scorch Bones Rk. III	HoT
+90	Smoldering Bones	HoT
+90	Smoldering Bones II	HoT
+90	Smoldering Bones III	HoT
+90	Splirt	HoT
+90	Splirt Rk. II	HoT
+90	Splirt Rk. III	HoT
+91	Bleed Essence	VoA
+91	Bleed Essence Rk. II	VoA
+91	Bleed Essence Rk. III	VoA
+91	Decaying Venin	VoA
+91	Decaying Venin Rk. II	VoA
+91	Decaying Venin Rk. III	VoA
+91	Dusternacht Orb	VoA
+91	Dusternacht Orb Rk. II	VoA
+91	Dusternacht Orb Rk. III	VoA
+91	Grip of Zargo	VoA
+91	Grip of Zargo Rk. II	VoA
+91	Grip of Zargo Rk. III	VoA
+91	Hyboram's Swift Venom	VoA
+91	Hyboram's Swift Venom Rk. II	VoA
+91	Hyboram's Swift Venom Rk. III	VoA
+91	Quivering Veil of Fal`Kaa	VoA
+91	Quivering Veil of Fal`Kaa Rk. II	VoA
+91	Quivering Veil of Fal`Kaa Rk. III	VoA
+91	Reaper's Decree	VoA
+91	Shield of Bronze	VoA
+91	Shield of Bronze Rk. II	VoA
+91	Shield of Bronze Rk. III	VoA
+91	Ulork's Decay	VoA
+91	Ulork's Decay Rk. II	VoA
+91	Ulork's Decay Rk. III	VoA
+92	Bonemeld Fetish	VoA
+92	Bonemeld Fetish Rk. II	VoA
+92	Bonemeld Fetish Rk. III	VoA
+92	Cascading Bloodshield	VoA
+92	Cascading Bloodshield Rk. II	VoA
+92	Cascading Bloodshield Rk. III	VoA
+92	Doom	VoA
+92	Doom Rk. II	VoA
+92	Doom Rk. III	VoA
+92	Hral's Swift Deconstruction	VoA
+92	Hral's Swift Deconstruction Rk. II	VoA
+92	Hral's Swift Deconstruction Rk. III	VoA
+92	Ivrikdal's Grasp	VoA
+92	Ivrikdal's Grasp Rk. II	VoA
+92	Ivrikdal's Grasp Rk. III	VoA
+92	Mortification	VoA
+92	Mortification Rk. II	VoA
+92	Mortification Rk. III	VoA
+92	Scent of Nightfall	VoA
+92	Scent of Nightfall Rk. II	VoA
+92	Scent of Nightfall Rk. III	VoA
+92	Sigil of the Preternatural	VoA
+92	Sigil of the Preternatural Rk. II	VoA
+92	Sigil of the Preternatural Rk. III	VoA
+92	Vak`Ridel's Shade	VoA
+93	Bestow Decay	VoA
+93	Bestow Decay Rk. II	VoA
+93	Bestow Decay Rk. III	VoA
+93	Brimtav's Flashblaze	VoA
+93	Brimtav's Flashblaze Rk. II	VoA
+93	Brimtav's Flashblaze Rk. III	VoA
+93	Chaotic Contagion	VoA
+93	Chaotic Contagion Rk. II	VoA
+93	Chaotic Contagion Rk. III	VoA
+93	Chilled Mending	VoA
+93	Chilled Mending Rk. II	VoA
+93	Chilled Mending Rk. III	VoA
+93	Dread	VoA
+93	Dread Rk. II	VoA
+93	Dread Rk. III	VoA
+93	Ghoulskin	VoA
+93	Ghoulskin Rk. II	VoA
+93	Ghoulskin Rk. III	VoA
+93	Pyre of the Piq'a	VoA
+93	Pyre of the Piq'a Rk. II	VoA
+93	Pyre of the Piq'a Rk. III	VoA
+93	Shadeslither Manacles	VoA
+93	Shadeslither Manacles Rk. II	VoA
+93	Shadeslither Manacles Rk. III	VoA
+93	Sphere of Withering	VoA
+93	Sphere of Withering Rk. II	VoA
+93	Sphere of Withering Rk. III	VoA
+94	Ignite Potential	VoA
+94	Ignite Potential Rk. II	VoA
+94	Ignite Potential Rk. III	VoA
+94	Ivrikdal's Pallid Haze	VoA
+94	Ivrikdal's Pallid Haze Rk. II	VoA
+94	Ivrikdal's Pallid Haze Rk. III	VoA
+94	Mind Abrasion	VoA
+94	Mind Abrasion Rk. II	VoA
+94	Mind Abrasion Rk. III	VoA
+94	Necrotic Sores	VoA
+94	Necrotic Sores Rk. II	VoA
+94	Necrotic Sores Rk. III	VoA
+94	Prox's Swift Sickness	VoA
+94	Prox's Swift Sickness Rk. II	VoA
+94	Prox's Swift Sickness Rk. III	VoA
+94	Pyre of Hazarak	VoA
+94	Pyre of Hazarak Rk. II	VoA
+94	Pyre of Hazarak Rk. III	VoA
+94	Shadowside	VoA
+94	Shadowside Rk. II	VoA
+94	Shadowside Rk. III	VoA
+94	Unwitting Sacrifice	VoA
+94	Unwitting Sacrifice Rk. II	VoA
+94	Unwitting Sacrifice Rk. III	VoA
+94	Viscous Darkness	VoA
+94	Viscous Darkness Rk. II	VoA
+94	Viscous Darkness Rk. III	VoA
+95	Blazing Shadow	VoA
+95	Blazing Shadow Rk. II	VoA
+95	Blazing Shadow Rk. III	VoA
+95	Call Ruthless Skeleton	VoA
+95	Call Ruthless Skeleton Rk. II	VoA
+95	Call Ruthless Skeleton Rk. III	VoA
+95	Coruscate Bones	VoA
+95	Coruscate Bones Rk. II	VoA
+95	Coruscate Bones Rk. III	VoA
+95	Empower Ally	VoA
+95	Empower Ally Rk. II	VoA
+95	Empower Ally Rk. III	VoA
+95	Hral's Swift Lifedraw	VoA
+95	Hral's Swift Lifedraw Rk. II	VoA
+95	Hral's Swift Lifedraw Rk. III	VoA
+95	Ivrikdal's Command	VoA
+95	Ivrikdal's Command Rk. II	VoA
+95	Ivrikdal's Command Rk. III	VoA
+95	Naeya Venom	VoA
+95	Naeya Venom Rk. II	VoA
+95	Naeya Venom Rk. III	VoA
+95	Necrotizing Wounds	VoA
+95	Necrotizing Wounds Rk. II	VoA
+95	Necrotizing Wounds Rk. III	VoA
+95	Provocation for Blood	VoA
+95	Provocation for Blood Rk. II	VoA
+95	Provocation for Blood Rk. III	VoA
+95	Reborn Assassin	VoA
+95	Smoldering Bones	VoA
+95	Violent Necrosis	VoA
+95	Violent Necrosis II	VoA
+95	Violent Necrosis III	VoA
+96	Crippling Incapacity	RoF
+96	Crippling Incapacity Rk. II	RoF
+96	Crippling Incapacity Rk. III	RoF
+96	Dissolving Venin	RoF
+96	Dissolving Venin Rk. II	RoF
+96	Dissolving Venin Rk. III	RoF
+96	Grip of Zalikor	RoF
+96	Grip of Zalikor Rk. II	RoF
+96	Grip of Zalikor Rk. III	RoF
+96	Pact of Fate	CotF
+96	Pact of Fate Rk. II	CotF
+96	Pact of Fate Rk. III	CotF
+96	Plunder Essence	RoF
+96	Plunder Essence Rk. II	RoF
+96	Plunder Essence Rk. III	RoF
+96	Reaper's Proclamation	RoF
+96	Shield of the Dauntless	RoF
+96	Shield of the Dauntless Rk. II	RoF
+96	Shield of the Dauntless Rk. III	RoF
+96	Slaunk's Swift Venom	RoF
+96	Slaunk's Swift Venom Rk. II	RoF
+96	Slaunk's Swift Venom Rk. III	RoF
+96	Vollmondnacht Orb	RoF
+96	Vollmondnacht Orb Rk. II	RoF
+96	Vollmondnacht Orb Rk. III	RoF
+96	Wuran's Decay	RoF
+96	Wuran's Decay Rk. II	RoF
+96	Wuran's Decay Rk. III	RoF
+97	Bonefuse Fetish	RoF
+97	Bonefuse Fetish Rk. II	RoF
+97	Bonefuse Fetish Rk. III	RoF
+97	Cascading Boneshield	RoF
+97	Cascading Boneshield Rk. II	RoF
+97	Cascading Boneshield Rk. III	RoF
+97	Dissolution	RoF
+97	Dissolution Rk. II	RoF
+97	Dissolution Rk. III	RoF
+97	Halstor's Grasp	RoF
+97	Halstor's Grasp Rk. II	RoF
+97	Halstor's Grasp Rk. III	RoF
+97	Itkari's Swift Deconstruction	RoF
+97	Itkari's Swift Deconstruction Rk. II	RoF
+97	Itkari's Swift Deconstruction Rk. III	RoF
+97	Scent of Dread	RoF
+97	Scent of Dread Rk. II	RoF
+97	Scent of Dread Rk. III	RoF
+97	Scourge of Fates	CotF
+97	Scourge of Fates Rk. II	CotF
+97	Scourge of Fates Rk. III	CotF
+97	Shield of Fate	CotF
+97	Shield of Fate Rk. II	CotF
+97	Shield of Fate Rk. III	CotF
+97	Sigil of the Sundered	RoF
+97	Sigil of the Sundered Rk. II	RoF
+97	Sigil of the Sundered Rk. III	RoF
+97	Termination	RoF
+97	Termination Rk. II	RoF
+97	Termination Rk. III	RoF
+97	Zalifur's Shade	RoF
+98	Algid Mending	RoF
+98	Algid Mending Rk. II	RoF
+98	Algid Mending Rk. III	RoF
+98	Bestow Mortality	RoF
+98	Bestow Mortality Rk. II	RoF
+98	Bestow Mortality Rk. III	RoF
+98	Chaotic Corruption	RoF
+98	Chaotic Corruption Rk. II	RoF
+98	Chaotic Corruption Rk. III	RoF
+98	Deathclutch Manacles	RoF
+98	Deathclutch Manacles Rk. II	RoF
+98	Deathclutch Manacles Rk. III	RoF
+98	Foreboding	RoF
+98	Foreboding Rk. II	RoF
+98	Foreboding Rk. III	RoF
+98	Mirror	CotF
+98	Mirror Rk. II	CotF
+98	Mirror Rk. III	CotF
+98	Osalur's Flashblaze	RoF
+98	Osalur's Flashblaze Rk. II	RoF
+98	Osalur's Flashblaze Rk. III	RoF
+98	Phantasmal Ward	RoF
+98	Phantasmal Ward Rk. II	RoF
+98	Phantasmal Ward Rk. III	RoF
+98	Pyre of the Forsaken	RoF
+98	Pyre of the Forsaken Rk. II	RoF
+98	Pyre of the Forsaken Rk. III	RoF
+98	Shackle	RoF
+98	Shackle Rk. II	RoF
+98	Shackle Rk. III	RoF
+98	Soulrip	CotF
+98	Soulrip Rk. II	CotF
+98	Soulrip Rk. III	CotF
+98	Sphere of Dissolution	RoF
+98	Sphere of Dissolution Rk. II	RoF
+98	Sphere of Dissolution Rk. III	RoF
+98	Zombieskin	RoF
+98	Zombieskin Rk. II	RoF
+98	Zombieskin Rk. III	RoF
+99	Aegis of Nefori	RoF
+99	Aegis of Nefori Rk. II	RoF
+99	Aegis of Nefori Rk. III	RoF
+99	Bora's Swift Sickness	RoF
+99	Bora's Swift Sickness Rk. II	RoF
+99	Bora's Swift Sickness Rk. III	RoF
+99	Burning Poison	CotF
+99	Burning Poison II	CotF
+99	Burning Poison III	CotF
+99	Clutching Darkness	RoF
+99	Clutching Darkness Rk. II	RoF
+99	Clutching Darkness Rk. III	RoF
+99	Conscripted Sacrifice	RoF
+99	Conscripted Sacrifice Rk. II	RoF
+99	Conscripted Sacrifice Rk. III	RoF
+99	Flesh to Poison	CotF
+99	Flesh to Poison Rk. II	CotF
+99	Flesh to Poison Rk. III	CotF
+99	Forsakenside	RoF
+99	Forsakenside Rk. II	RoF
+99	Forsakenside Rk. III	RoF
+99	Halstor's Pallid Haze	RoF
+99	Halstor's Pallid Haze Rk. II	RoF
+99	Halstor's Pallid Haze Rk. III	RoF
+99	Ignite Thoughts	RoF
+99	Ignite Thoughts Rk. II	RoF
+99	Ignite Thoughts Rk. III	RoF
+99	Mind Strip	RoF
+99	Mind Strip Rk. II	RoF
+99	Mind Strip Rk. III	RoF
+99	Necrotic Cysts	RoF
+99	Necrotic Cysts Rk. II	RoF
+99	Necrotic Cysts Rk. III	RoF
+99	Pyre of Marnek	RoF
+99	Pyre of Marnek Rk. II	RoF
+99	Pyre of Marnek Rk. III	RoF
+100	Binaesa Venom	RoF
+100	Binaesa Venom Rk. II	RoF
+100	Binaesa Venom Rk. III	RoF
+100	Binding of Itkari	RoF
+100	Binding of Itkari Rk. II	RoF
+100	Binding of Itkari Rk. III	RoF
+100	Call Relentless Skeleton	RoF
+100	Call Relentless Skeleton Rk. II	RoF
+100	Call Relentless Skeleton Rk. III	RoF
+100	Coruscating Shadow	RoF
+100	Coruscating Shadow Rk. II	RoF
+100	Coruscating Shadow Rk. III	RoF
+100	Dark Leech	CotF
+100	Dark Leech Rk. II	CotF
+100	Dark Leech Rk. III	CotF
+100	Halstor's Command	RoF
+100	Halstor's Command Rk. II	RoF
+100	Halstor's Command Rk. III	RoF
+100	Impel for Blood	RoF
+100	Impel for Blood Rk. II	RoF
+100	Impel for Blood Rk. III	RoF
+100	Itkari's Swift Lifedraw	RoF
+100	Itkari's Swift Lifedraw Rk. II	RoF
+100	Itkari's Swift Lifedraw Rk. III	RoF
+100	Pernicious Wounds	RoF
+100	Pernicious Wounds Rk. II	RoF
+100	Pernicious Wounds Rk. III	RoF
+100	Sanction Ally	RoF
+100	Sanction Ally Rk. II	RoF
+100	Sanction Ally Rk. III	RoF
+100	Scintillate Bones	RoF
+100	Scintillate Bones Rk. II	RoF
+100	Scintillate Bones Rk. III	RoF
+100	Unearthed Assassin	RoF
+100	Violent Proliferation	RoF
+100	Violent Proliferation II	RoF
+100	Violent Proliferation III	RoF
+101	Dichotomic Paroxysm	TBM
+101	Grip of Jabaum	TDS
+101	Grip of Jabaum Rk. II	TDS
+101	Grip of Jabaum Rk. III	TDS
+101	Hemorrhage Essence	TDS
+101	Hemorrhage Essence Rk. II	TDS
+101	Hemorrhage Essence Rk. III	TDS
+101	Liquefying Venin	TDS
+101	Liquefying Venin Rk. II	TDS
+101	Liquefying Venin Rk. III	TDS
+101	Livianus' Decay	TDS
+101	Livianus' Decay Rk. II	TDS
+101	Livianus' Decay Rk. III	TDS
+101	Pact of Destiny	EoK
+101	Pact of Destiny Rk. II	EoK
+101	Pact of Destiny Rk. III	EoK
+101	Serisaria's Swift Venom	TDS
+101	Serisaria's Swift Venom Rk. II	TDS
+101	Serisaria's Swift Venom Rk. III	TDS
+101	Shield of the Pellarus	TDS
+101	Shield of the Pellarus Rk. II	TDS
+101	Shield of the Pellarus Rk. III	TDS
+101	Stormreaper's Proclamation	TDS
+102	Annihilation	TDS
+102	Annihilation Rk. II	TDS
+102	Annihilation Rk. III	TDS
+102	Cascading Doomshield	TDS
+102	Cascading Doomshield Rk. II	TDS
+102	Cascading Doomshield Rk. III	TDS
+102	Liquefaction	TDS
+102	Liquefaction Rk. II	TDS
+102	Liquefaction Rk. III	TDS
+102	Malevolent Alliance	EoK
+102	Malevolent Alliance Rk. II	EoK
+102	Malevolent Alliance Rk. III	EoK
+102	Marmat's Swift Deconstruction	TDS
+102	Marmat's Swift Deconstruction Rk. II	TDS
+102	Marmat's Swift Deconstruction Rk. III	TDS
+102	Miktokla's Shade	TDS
+102	Plexipharia's Grasp	TDS
+102	Plexipharia's Grasp Rk. II	TDS
+102	Plexipharia's Grasp Rk. III	TDS
+102	Shield of Consequence	TDS
+102	Shield of Consequence Rk. II	TDS
+102	Shield of Consequence Rk. III	TDS
+102	Sigil of the Doomscale	TDS
+102	Sigil of the Doomscale Rk. II	TDS
+102	Sigil of the Doomscale Rk. III	TDS
+103	Bestow Doom	TDS
+103	Bestow Doom Rk. II	TDS
+103	Bestow Doom Rk. III	TDS
+103	Chaotic Liquefaction	TDS
+103	Chaotic Liquefaction Rk. II	TDS
+103	Chaotic Liquefaction Rk. III	TDS
+103	Darkwater Manacles	TDS
+103	Darkwater Manacles Rk. II	TDS
+103	Darkwater Manacles Rk. III	TDS
+103	Deadskin	TDS
+103	Deadskin Rk. II	TDS
+103	Deadskin Rk. III	TDS
+103	Dreadful Shriek	TDS
+103	Dreadful Shriek Rk. II	TDS
+103	Dreadful Shriek Rk. III	TDS
+103	Echo of Dissolution	TBM
+103	Echo of Dissolution Rk. II	TBM
+103	Echo of Dissolution Rk. III	TBM
+103	Icy Mending	TDS
+103	Icy Mending Rk. II	TDS
+103	Icy Mending Rk. III	TDS
+103	Mazub's Flashblaze	TDS
+103	Mazub's Flashblaze Rk. II	TDS
+103	Mazub's Flashblaze Rk. III	TDS
+103	Pyre of the Lost	TDS
+103	Pyre of the Lost Rk. II	TDS
+103	Pyre of the Lost Rk. III	TDS
+103	Soulrend	TDS
+103	Soulrend Rk. II	TDS
+103	Soulrend Rk. III	TDS
+104	Aegis of Japac	TDS
+104	Aegis of Japac Rk. II	TDS
+104	Aegis of Japac Rk. III	TDS
+104	Forgottenside	TDS
+104	Forgottenside Rk. II	TDS
+104	Forgottenside Rk. III	TDS
+104	Grasping Darkness	TDS
+104	Grasping Darkness Rk. II	TDS
+104	Grasping Darkness Rk. III	TDS
+104	Ignite Synapses	TDS
+104	Ignite Synapses Rk. II	TDS
+104	Ignite Synapses Rk. III	TDS
+104	Ilsaria's Swift Sickness	TDS
+104	Ilsaria's Swift Sickness Rk. II	TDS
+104	Ilsaria's Swift Sickness Rk. III	TDS
+104	Livianus' Grip of Decay	TBM
+104	Mind Extraction	TDS
+104	Mind Extraction Rk. II	TDS
+104	Mind Extraction Rk. III	TDS
+104	Plexipharia's Pallid Haze	TDS
+104	Plexipharia's Pallid Haze Rk. II	TDS
+104	Plexipharia's Pallid Haze Rk. III	TDS
+104	Pyre of Jorobb	TDS
+104	Pyre of Jorobb Rk. II	TDS
+104	Pyre of Jorobb Rk. III	TDS
+104	Remote Sphere of Decay	EoK
+104	Remote Sphere of Decay Rk. II	EoK
+104	Remote Sphere of Decay Rk. III	EoK
+105	Call Remorseless Skeleton	TDS
+105	Call Remorseless Skeleton Rk. II	TDS
+105	Call Remorseless Skeleton Rk. III	TDS
+105	Combust Bones	TDS
+105	Combust Bones Rk. II	TDS
+105	Combust Bones Rk. III	TDS
+105	Glistenwing Venom	TDS
+105	Glistenwing Venom Rk. II	TDS
+105	Glistenwing Venom Rk. III	TDS
+105	Imbue Ally	TDS
+105	Imbue Ally Rk. II	TDS
+105	Imbue Ally Rk. III	TDS
+105	Impose for Blood	TDS
+105	Impose for Blood Rk. II	TDS
+105	Impose for Blood Rk. III	TDS
+105	Marmat's Swift Lifedraw	TDS
+105	Marmat's Swift Lifedraw Rk. II	TDS
+105	Marmat's Swift Lifedraw Rk. III	TDS
+105	Mortiferous Wounds	TDS
+105	Mortiferous Wounds Rk. II	TDS
+105	Mortiferous Wounds Rk. III	TDS
+105	Plexipharia's Command	TDS
+105	Plexipharia's Command Rk. II	TDS
+105	Plexipharia's Command Rk. III	TDS
+105	Revived Assassin	TDS
+105	Smouldering Shadow	TDS
+105	Smouldering Shadow Rk. II	TDS
+105	Smouldering Shadow Rk. III	TDS
+105	Violent Proliferation	TDS
+105	Violent Proliferation II	TDS
+105	Violent Proliferation III	TDS
+106	Consume Essence	RoS
+106	Consume Essence Rk. II	RoS
+106	Consume Essence Rk. III	RoS
+106	Crippling Paraplegia	RoS
+106	Crippling Paraplegia Rk. II	RoS
+106	Crippling Paraplegia Rk. III	RoS
+106	Dissident Paroxysm	TBL
+106	Effluvial Venin	RoS
+106	Effluvial Venin Rk. II	RoS
+106	Effluvial Venin Rk. III	RoS
+106	Grip of Kraz	RoS
+106	Grip of Kraz Rk. II	RoS
+106	Grip of Kraz Rk. III	RoS
+106	Mourgis' Decay	RoS
+106	Mourgis' Decay Rk. II	RoS
+106	Mourgis' Decay Rk. III	RoS
+106	Nexona's Swift Venom	RoS
+106	Nexona's Swift Venom Rk. II	RoS
+106	Nexona's Swift Venom Rk. III	RoS
+106	Shadereaper's Proclamation	RoS
+106	Shield of Scales	RoS
+106	Shield of Scales Rk. II	RoS
+106	Shield of Scales Rk. III	RoS
+107	Adalora's Shade	RoS
+107	Adalora's Swift Deconstruction	RoS
+107	Adalora's Swift Deconstruction Rk. II	RoS
+107	Adalora's Swift Deconstruction Rk. III	RoS
+107	Bomoda's Grasp	RoS
+107	Bomoda's Grasp Rk. II	RoS
+107	Bomoda's Grasp Rk. III	RoS
+107	Cascading Deathshield	RoS
+107	Cascading Deathshield Rk. II	RoS
+107	Cascading Deathshield Rk. III	RoS
+107	Effluvium	RoS
+107	Effluvium Rk. II	RoS
+107	Effluvium Rk. III	RoS
+107	Inevitable End	RoS
+107	Inevitable End Rk. II	RoS
+107	Inevitable End Rk. III	RoS
+107	Malevolent Covenant	TBL
+107	Malevolent Covenant Rk. II	TBL
+107	Malevolent Covenant Rk. III	TBL
+107	Scent of Extinction	RoS
+107	Scent of Extinction Rk. II	RoS
+107	Scent of Extinction Rk. III	RoS
+107	Shield of Order	RoS
+107	Shield of Order Rk. II	RoS
+107	Shield of Order Rk. III	RoS
+107	Sigil of the Arcron	RoS
+107	Sigil of the Arcron Rk. II	RoS
+107	Sigil of the Arcron Rk. III	RoS
+108	Algid Renewal	RoS
+108	Algid Renewal Rk. II	RoS
+108	Algid Renewal Rk. III	RoS
+108	Ashen Skin	RoS
+108	Ashen Skin Rk. II	RoS
+108	Ashen Skin Rk. III	RoS
+108	Azeron's Flashblaze	RoS
+108	Azeron's Flashblaze Rk. II	RoS
+108	Azeron's Flashblaze Rk. III	RoS
+108	Bestow Relife	RoS
+108	Bestow Relife Rk. II	RoS
+108	Bestow Relife Rk. III	RoS
+108	Chaotic Effluvium	RoS
+108	Chaotic Effluvium Rk. II	RoS
+108	Chaotic Effluvium Rk. III	RoS
+108	Hair-Raising Shriek	RoS
+108	Hair-Raising Shriek Rk. II	RoS
+108	Hair-Raising Shriek Rk. III	RoS
+108	Helot Manacles	RoS
+108	Helot Manacles Rk. II	RoS
+108	Helot Manacles Rk. III	RoS
+108	Pyre of the Fereth	RoS
+108	Pyre of the Fereth Rk. II	RoS
+108	Pyre of the Fereth Rk. III	RoS
+108	Scourge of Destiny	TBL
+108	Scourge of Destiny Rk. II	TBL
+108	Scourge of Destiny Rk. III	TBL
+108	Soulsiphon	RoS
+108	Soulsiphon Rk. II	RoS
+108	Soulsiphon Rk. III	RoS
+109	Aegis of Zeklor	RoS
+109	Aegis of Zeklor Rk. II	RoS
+109	Aegis of Zeklor Rk. III	RoS
+109	Bomoda's Pallid Haze	RoS
+109	Bomoda's Pallid Haze Rk. II	RoS
+109	Bomoda's Pallid Haze Rk. III	RoS
+109	Burning Venom	RoS
+109	Burning Venom II	RoS
+109	Burning Venom III	RoS
+109	Contraside	RoS
+109	Contraside Rk. II	RoS
+109	Contraside Rk. III	RoS
+109	Flesh to Venom	RoS
+109	Flesh to Venom Rk. II	RoS
+109	Flesh to Venom Rk. III	RoS
+109	Gnawing Darkness	RoS
+109	Gnawing Darkness Rk. II	RoS
+109	Gnawing Darkness Rk. III	RoS
+109	Hoshkar's Swift Sickness	RoS
+109	Hoshkar's Swift Sickness Rk. II	RoS
+109	Hoshkar's Swift Sickness Rk. III	RoS
+109	Ignite Memories	RoS
+109	Ignite Memories Rk. II	RoS
+109	Ignite Memories Rk. III	RoS
+109	Mind Excoriation	RoS
+109	Mind Excoriation Rk. II	RoS
+109	Mind Excoriation Rk. III	RoS
+109	Pyre of the Shadewarden	RoS
+109	Pyre of the Shadewarden Rk. II	RoS
+109	Pyre of the Shadewarden Rk. III	RoS
+109	Remote Sphere of Blight	TBL
+109	Remote Sphere of Blight Rk. II	TBL
+109	Remote Sphere of Blight Rk. III	TBL
+110	Adalora's Swift Lifedraw	RoS
+110	Adalora's Swift Lifedraw Rk. II	RoS
+110	Adalora's Swift Lifedraw Rk. III	RoS
+110	Ashen Leech	RoS
+110	Ashen Leech Rk. II	RoS
+110	Ashen Leech Rk. III	RoS
+110	Binding of Mourgis	RoS
+110	Binding of Mourgis Rk. II	RoS
+110	Binding of Mourgis Rk. III	RoS
+110	Bomoda's Command	RoS
+110	Bomoda's Command Rk. II	RoS
+110	Bomoda's Command Rk. III	RoS
+110	Burn Bones	RoS
+110	Burn Bones Rk. II	RoS
+110	Burn Bones Rk. III	RoS
+110	Burning Shadow	RoS
+110	Burning Shadow Rk. II	RoS
+110	Burning Shadow Rk. III	RoS
+110	Call Reckless Skeleton	RoS
+110	Call Reckless Skeleton Rk. II	RoS
+110	Call Reckless Skeleton Rk. III	RoS
+110	Cytotoxic Proliferation	RoS
+110	Cytotoxic Proliferation II	RoS
+110	Cytotoxic Proliferation III	RoS
+110	Cytotoxic Wounds	RoS
+110	Cytotoxic Wounds Rk. II	RoS
+110	Cytotoxic Wounds Rk. III	RoS
+110	Infuse Ally	RoS
+110	Infuse Ally Rk. II	RoS
+110	Infuse Ally Rk. III	RoS
+110	Mourgis' Grip of Decay	TBL
+110	Polybiad Venom	RoS
+110	Polybiad Venom Rk. II	RoS
+110	Polybiad Venom Rk. III	RoS
+110	Refute for Blood	RoS
+110	Refute for Blood Rk. II	RoS
+110	Refute for Blood Rk. III	RoS
+110	Reliving Assassin	RoS
+111	Composite Paroxysm	CoV
+111	Danvid's Decay	ToV
+111	Danvid's Decay Rk. II	ToV
+111	Danvid's Decay Rk. III	ToV
+111	Draw Essence	ToV
+111	Draw Essence Rk. II	ToV
+111	Draw Essence Rk. III	ToV
+111	Duskreaper's Proclamation	ToV
+111	Grip of Zorglim	ToV
+111	Grip of Zorglim Rk. II	ToV
+111	Grip of Zorglim Rk. III	ToV
+111	Quivering Veil of Neemzaq	ToV
+111	Quivering Veil of Neemzaq Rk. II	ToV
+111	Quivering Veil of Neemzaq Rk. III	ToV
+111	Searing Venin	ToV
+111	Searing Venin Rk. II	ToV
+111	Searing Venin Rk. III	ToV
+111	Shield of Restless Ice	ToV
+111	Shield of Restless Ice Rk. II	ToV
+111	Shield of Restless Ice Rk. III	ToV
+111	Vilefang's Swift Venom	ToV
+111	Vilefang's Swift Venom Rk. II	ToV
+111	Vilefang's Swift Venom Rk. III	ToV
+112	Cascading Dreadshield	ToV
+112	Cascading Dreadshield Rk. II	ToV
+112	Cascading Dreadshield Rk. III	ToV
+112	Lexelan's Swift Deconstruction	ToV
+112	Lexelan's Swift Deconstruction Rk. II	ToV
+112	Lexelan's Swift Deconstruction Rk. III	ToV
+112	Miasma	ToV
+112	Miasma Rk. II	ToV
+112	Miasma Rk. III	ToV
+112	Oblivion	ToV
+112	Oblivion Rk. II	ToV
+112	Oblivion Rk. III	ToV
+112	Scent of Mortality	ToV
+112	Scent of Mortality Rk. II	ToV
+112	Scent of Mortality Rk. III	ToV
+112	Shield of Destiny	ToV
+112	Shield of Destiny Rk. II	ToV
+112	Shield of Destiny Rk. III	ToV
+112	Sigil of Decay	ToV
+112	Sigil of Decay Rk. II	ToV
+112	Sigil of Decay Rk. III	ToV
+112	Tserrina's Grasp	ToV
+112	Tserrina's Grasp Rk. II	ToV
+112	Tserrina's Grasp Rk. III	ToV
+112	Tserrina's Shade	ToV
+113	Bestow Dread	ToV
+113	Bestow Dread Rk. II	ToV
+113	Bestow Dread Rk. III	ToV
+113	Chaotic Miasma	ToV
+113	Chaotic Miasma Rk. II	ToV
+113	Chaotic Miasma Rk. III	ToV
+113	Frozen Skin	ToV
+113	Frozen Skin Rk. II	ToV
+113	Frozen Skin Rk. III	ToV
+113	Icy Revival	ToV
+113	Icy Revival Rk. II	ToV
+113	Icy Revival Rk. III	ToV
+113	Nightmarish Shriek	ToV
+113	Nightmarish Shriek Rk. II	ToV
+113	Nightmarish Shriek Rk. III	ToV
+113	Otatomik's Flashblaze	ToV
+113	Otatomik's Flashblaze Rk. II	ToV
+113	Otatomik's Flashblaze Rk. III	ToV
+113	Pyre of the Wretched	ToV
+113	Pyre of the Wretched Rk. II	ToV
+113	Pyre of the Wretched Rk. III	ToV
+113	Remote Sphere of Withering	CoV
+113	Remote Sphere of Withering Rk. II	CoV
+113	Remote Sphere of Withering Rk. III	CoV
+113	Shadowbone Manacles	ToV
+113	Shadowbone Manacles Rk. II	ToV
+113	Shadowbone Manacles Rk. III	ToV
+113	Soulgouge	ToV
+113	Soulgouge Rk. II	ToV
+113	Soulgouge Rk. III	ToV
+114	Aegis of Orfur	ToV
+114	Aegis of Orfur Rk. II	ToV
+114	Aegis of Orfur Rk. III	ToV
+114	Dracnia's Pallid Haze	ToV
+114	Dracnia's Pallid Haze Rk. II	ToV
+114	Dracnia's Pallid Haze Rk. III	ToV
+114	Gloomside	ToV
+114	Gloomside Rk. II	ToV
+114	Gloomside Rk. III	ToV
+114	Ignite Intellect	ToV
+114	Ignite Intellect Rk. II	ToV
+114	Ignite Intellect Rk. III	ToV
+114	Lairsaf's Swift Sickness	ToV
+114	Lairsaf's Swift Sickness Rk. II	ToV
+114	Lairsaf's Swift Sickness Rk. III	ToV
+114	Malevolent Coalition	CoV
+114	Malevolent Coalition Rk. II	CoV
+114	Malevolent Coalition Rk. III	CoV
+114	Mind Erosion	ToV
+114	Mind Erosion Rk. II	ToV
+114	Mind Erosion Rk. III	ToV
+114	Pyre of Klraggek	ToV
+114	Pyre of Klraggek Rk. II	ToV
+114	Pyre of Klraggek Rk. III	ToV
+114	Tormenting Darkness	ToV
+114	Tormenting Darkness Rk. II	ToV
+114	Tormenting Darkness Rk. III	ToV
+115	Assert for Blood	ToV
+115	Assert for Blood Rk. II	ToV
+115	Assert for Blood Rk. III	ToV
+115	Broiling Shadow	ToV
+115	Broiling Shadow Rk. II	ToV
+115	Broiling Shadow Rk. III	ToV
+115	Call Riotous Skeleton	ToV
+115	Call Riotous Skeleton Rk. II	ToV
+115	Call Riotous Skeleton Rk. III	ToV
+115	Char Bones	ToV
+115	Char Bones Rk. II	ToV
+115	Char Bones Rk. III	ToV
+115	Crystal Crawler Venom	ToV
+115	Crystal Crawler Venom Rk. II	ToV
+115	Crystal Crawler Venom Rk. III	ToV
+115	Danvid's Grip of Decay	CoV
+115	Frozen Leech	ToV
+115	Frozen Leech Rk. II	ToV
+115	Frozen Leech Rk. III	ToV
+115	Incite Ally	ToV
+115	Incite Ally Rk. II	ToV
+115	Incite Ally Rk. III	ToV
+115	Restless Assassin	ToV
+115	Septic Proliferation	ToV
+115	Septic Proliferation II	ToV
+115	Septic Proliferation III	ToV
+115	Septic Wounds	ToV
+115	Septic Wounds Rk. II	ToV
+115	Septic Wounds Rk. III	ToV
+115	Tserrina's Command	ToV
+115	Tserrina's Command Rk. II	ToV
+115	Tserrina's Command Rk. III	ToV
+115	Tserrina's Swift Lifedraw	ToV
+115	Tserrina's Swift Lifedraw Rk. II	ToV
+115	Tserrina's Swift Lifedraw Rk. III	ToV
+116	Ecliptic Paroxysm	NoS
+116	Embalming Venin	ToL
+116	Embalming Venin Rk. II	ToL
+116	Embalming Venin Rk. III	ToL
+116	Fleshrot's Decay	ToL
+116	Fleshrot's Decay Rk. II	ToL
+116	Fleshrot's Decay Rk. III	ToL
+116	Grip of Quietus	ToL
+116	Grip of Quietus Rk. II	ToL
+116	Grip of Quietus Rk. III	ToL
+116	Maraud Essence	ToL
+116	Maraud Essence Rk. II	ToL
+116	Maraud Essence Rk. III	ToL
+116	Shield of Shadow	ToL
+116	Shield of Shadow Rk. II	ToL
+116	Shield of Shadow Rk. III	ToL
+116	Thanatos' Proclamation	ToL
+116	Xenacious' Swift Venom	ToL
+116	Xenacious' Swift Venom Rk. II	ToL
+116	Xenacious' Swift Venom Rk. III	ToL
+117	Cascading Shadeshield	ToL
+117	Cascading Shadeshield Rk. II	ToL
+117	Cascading Shadeshield Rk. III	ToL
+117	Decomposition	ToL
+117	Decomposition Rk. II	ToL
+117	Decomposition Rk. III	ToL
+117	Extinction	ToL
+117	Extinction Rk. II	ToL
+117	Extinction Rk. III	ToL
+117	Luclin's Conqueror	ToL
+117	Malevolent Conjunction	NoS
+117	Malevolent Conjunction Rk. II	NoS
+117	Malevolent Conjunction Rk. III	NoS
+117	Scent of The Grave	ToL
+117	Scent of The Grave Rk. II	ToL
+117	Scent of The Grave Rk. III	ToL
+117	Shield of Inevitability	ToL
+117	Shield of Inevitability Rk. II	ToL
+117	Shield of Inevitability Rk. III	ToL
+117	Sigil of Undeath	ToL
+117	Sigil of Undeath Rk. II	ToL
+117	Sigil of Undeath Rk. III	ToL
+117	The Protector's Grasp	ToL
+117	The Protector's Grasp Rk. II	ToL
+117	The Protector's Grasp Rk. III	ToL
+117	Xetheg's Swift Deconstruction	ToL
+117	Xetheg's Swift Deconstruction Rk. II	ToL
+117	Xetheg's Swift Deconstruction Rk. III	ToL
+118	Bestow Rot	ToL
+118	Bestow Rot Rk. II	ToL
+118	Bestow Rot Rk. III	ToL
+118	Carrion Skin	ToL
+118	Carrion Skin Rk. II	ToL
+118	Carrion Skin Rk. III	ToL
+118	Chaotic Acridness	ToL
+118	Chaotic Acridness Rk. II	ToL
+118	Chaotic Acridness Rk. III	ToL
+118	Frigid Salubrity	ToL
+118	Frigid Salubrity Rk. II	ToL
+118	Frigid Salubrity Rk. III	ToL
+118	Lunatic Shriek	ToL
+118	Lunatic Shriek Rk. II	ToL
+118	Lunatic Shriek Rk. III	ToL
+118	Penumbra Manacles	ToL
+118	Penumbra Manacles Rk. II	ToL
+118	Penumbra Manacles Rk. III	ToL
+118	Pyre of the Neglected	ToL
+118	Pyre of the Neglected Rk. II	ToL
+118	Pyre of the Neglected Rk. III	ToL
+118	Remote Sphere of Rot	NoS
+118	Remote Sphere of Rot Rk. II	NoS
+118	Remote Sphere of Rot Rk. III	NoS
+118	Soulflay	ToL
+118	Soulflay Rk. II	ToL
+118	Soulflay Rk. III	ToL
+118	Thall Va Kelun's Flashblaze	ToL
+118	Thall Va Kelun's Flashblaze Rk. II	ToL
+118	Thall Va Kelun's Flashblaze Rk. III	ToL
+119	Aegis of Rumblecrush	ToL
+119	Aegis of Rumblecrush Rk. II	ToL
+119	Aegis of Rumblecrush Rk. III	ToL
+119	Burning Toxin	NoS
+119	Burning Toxin II	NoS
+119	Burning Toxin III	NoS
+119	Diabo Tatrua's Swift Sickness	ToL
+119	Diabo Tatrua's Swift Sickness Rk. II	ToL
+119	Diabo Tatrua's Swift Sickness Rk. III	ToL
+119	Flesh to Toxin	NoS
+119	Flesh to Toxin Rk. II	NoS
+119	Flesh to Toxin Rk. III	NoS
+119	Harrowing Darkness	ToL
+119	Harrowing Darkness Rk. II	ToL
+119	Harrowing Darkness Rk. III	ToL
+119	Ignite Cognition	ToL
+119	Ignite Cognition Rk. II	ToL
+119	Ignite Cognition Rk. III	ToL
+119	Lunaside	ToL
+119	Lunaside Rk. II	ToL
+119	Lunaside Rk. III	ToL
+119	Mind Atrophy	ToL
+119	Mind Atrophy Rk. II	ToL
+119	Mind Atrophy Rk. III	ToL
+119	Pyre of Va Xakra	ToL
+119	Pyre of Va Xakra Rk. II	ToL
+119	Pyre of Va Xakra Rk. III	ToL
+119	Zelnithak's Pallid Haze	ToL
+119	Zelnithak's Pallid Haze Rk. II	ToL
+119	Zelnithak's Pallid Haze Rk. III	ToL
+120	Call Roiling Skeleton	ToL
+120	Call Roiling Skeleton Rk. II	ToL
+120	Call Roiling Skeleton Rk. III	ToL
+120	Cremate Bones	ToL
+120	Cremate Bones Rk. II	ToL
+120	Cremate Bones Rk. III	ToL
+120	Fleshrot's Grip of Decay	NoS
+120	Hemorrhagic Venom	ToL
+120	Hemorrhagic Venom Rk. II	ToL
+120	Hemorrhagic Venom Rk. III	ToL
+120	Infected Proliferation	ToL
+120	Infected Proliferation II	ToL
+120	Infected Proliferation III	ToL
+120	Infected Wounds	ToL
+120	Infected Wounds Rk. II	ToL
+120	Infected Wounds Rk. III	ToL
+120	Inspire Ally	ToL
+120	Inspire Ally Rk. II	ToL
+120	Inspire Ally Rk. III	ToL
+120	Mistmoore's Command	ToL
+120	Mistmoore's Command Rk. II	ToL
+120	Mistmoore's Command Rk. III	ToL
+120	Proclamation for Blood	ToL
+120	Proclamation for Blood Rk. II	ToL
+120	Proclamation for Blood Rk. III	ToL
+120	Scalding Shadow	ToL
+120	Scalding Shadow Rk. II	ToL
+120	Scalding Shadow Rk. III	ToL
+120	Twilight Leech	ToL
+120	Twilight Leech Rk. II	ToL
+120	Twilight Leech Rk. III	ToL
+120	Unrelenting Assassin	ToL
+120	Xenacious' Swift Lifedraw	ToL
+120	Xenacious' Swift Lifedraw Rk. II	ToL
+120	Xenacious' Swift Lifedraw Rk. III	ToL
+121	Death's Proclamation	LS
+121	Dotal's Swift Venom	LS
+121	Dotal's Swift Venom Rk. II	LS
+121	Dotal's Swift Venom Rk. III	LS
+121	Extort Essence	LS
+121	Extort Essence Rk. II	LS
+121	Extort Essence Rk. III	LS
+121	Ghastly Leech	LS
+121	Ghastly Leech Rk. II	LS
+121	Ghastly Leech Rk. III	LS
+121	Goremand's Decay	LS
+121	Goremand's Decay Rk. II	LS
+121	Goremand's Decay Rk. III	LS
+121	Grip of Terrastride	LS
+121	Grip of Terrastride Rk. II	LS
+121	Grip of Terrastride Rk. III	LS
+121	Horrifying Shriek	LS
+121	Horrifying Shriek Rk. II	LS
+121	Horrifying Shriek Rk. III	LS
+121	Necrotizing Venin	LS
+121	Necrotizing Venin Rk. II	LS
+121	Necrotizing Venin Rk. III	LS
+121	Shield of Memories	LS
+121	Shield of Memories Rk. II	LS
+121	Shield of Memories Rk. III	LS
+122	Blevak's Swift Deconstruction	LS
+122	Blevak's Swift Deconstruction Rk. II	LS
+122	Blevak's Swift Deconstruction Rk. III	LS
+122	Cascading Runeshield	LS
+122	Cascading Runeshield Rk. II	LS
+122	Cascading Runeshield Rk. III	LS
+122	Deterioration	LS
+122	Deterioration Rk. II	LS
+122	Deterioration Rk. III	LS
+122	Extermination	LS
+122	Extermination Rk. II	LS
+122	Extermination Rk. III	LS
+122	Helmsbane's Grasp	LS
+122	Helmsbane's Grasp Rk. II	LS
+122	Helmsbane's Grasp Rk. III	LS
+122	Margator's Shade	LS
+122	Scent of The Realm	LS
+122	Scent of The Realm Rk. II	LS
+122	Scent of The Realm Rk. III	LS
+122	Shield of Inescapability	LS
+122	Shield of Inescapability Rk. II	LS
+122	Shield of Inescapability Rk. III	LS
+122	Sigil of Putrefaction	LS
+122	Sigil of Putrefaction Rk. II	LS
+122	Sigil of Putrefaction Rk. III	LS
+123	Arcanaforged's Flashblaze	LS
+123	Arcanaforged's Flashblaze Rk. II	LS
+123	Arcanaforged's Flashblaze Rk. III	LS
+123	Bestow Ruin	LS
+123	Bestow Ruin Rk. II	LS
+123	Bestow Ruin Rk. III	LS
+123	Bracing Revival	LS
+123	Bracing Revival Rk. II	LS
+123	Bracing Revival Rk. III	LS
+123	Chaotic Fetor	LS
+123	Chaotic Fetor Rk. II	LS
+123	Chaotic Fetor Rk. III	LS
+123	Golemskin	LS
+123	Golemskin Rk. II	LS
+123	Golemskin Rk. III	LS
+123	Pyre of the Abandoned	LS
+123	Pyre of the Abandoned Rk. II	LS
+123	Pyre of the Abandoned Rk. III	LS
+123	Reminiscence Manacles	LS
+123	Reminiscence Manacles Rk. II	LS
+123	Reminiscence Manacles Rk. III	LS
+123	Soullash	LS
+123	Soullash Rk. II	LS
+123	Soullash Rk. III	LS
+124	Aegis of Valorforged	LS
+124	Aegis of Valorforged Rk. II	LS
+124	Aegis of Valorforged Rk. III	LS
+124	Afflicted Darkness	LS
+124	Afflicted Darkness Rk. II	LS
+124	Afflicted Darkness Rk. III	LS
+124	Ignite Remembrance	LS
+124	Ignite Remembrance Rk. II	LS
+124	Ignite Remembrance Rk. III	LS
+124	Mind Disintegrate	LS
+124	Mind Disintegrate Rk. II	LS
+124	Mind Disintegrate Rk. III	LS
+124	Ogna's Swift Sickness	LS
+124	Ogna's Swift Sickness Rk. II	LS
+124	Ogna's Swift Sickness Rk. III	LS
+124	Pyre of Illandrin	LS
+124	Pyre of Illandrin Rk. II	LS
+124	Pyre of Illandrin Rk. III	LS
+124	Realmside	LS
+124	Realmside Rk. II	LS
+124	Realmside Rk. III	LS
+124	Uncia's Pallid Haze	LS
+124	Uncia's Pallid Haze Rk. II	LS
+124	Uncia's Pallid Haze Rk. III	LS
+124	Zoraxmen's Command	LS
+124	Zoraxmen's Command Rk. II	LS
+124	Zoraxmen's Command Rk. III	LS
+125	Call Ravening Skeleton	LS
+125	Call Ravening Skeleton Rk. II	LS
+125	Call Ravening Skeleton Rk. III	LS
+125	Decree for Blood	LS
+125	Decree for Blood Rk. II	LS
+125	Decree for Blood Rk. III	LS
+125	Immolate Bones	LS
+125	Immolate Bones Rk. II	LS
+125	Immolate Bones Rk. III	LS
+125	Instill Ally	LS
+125	Instill Ally Rk. II	LS
+125	Instill Ally Rk. III	LS
+125	Luggald Venom	LS
+125	Luggald Venom Rk. II	LS
+125	Luggald Venom Rk. III	LS
+125	Merciless Assassin	LS
+125	Putrefying Proliferation	LS
+125	Putrefying Proliferation II	LS
+125	Putrefying Proliferation III	LS
+125	Putrefying Wounds	LS
+125	Putrefying Wounds Rk. II	LS
+125	Putrefying Wounds Rk. III	LS
+125	Raging Shadow	LS
+125	Raging Shadow Rk. II	LS
+125	Raging Shadow Rk. III	LS
+125	Trablic's Swift Lifedraw	LS
+125	Trablic's Swift Lifedraw Rk. II	LS
+125	Trablic's Swift Lifedraw Rk. III	LS
+250	Composite Paroxysm 1	CoV
+250	Composite Paroxysm 2	CoV
+250	Composite Paroxysm 3	CoV
+250	Composite Paroxysm 4	CoV
+250	Composite Paroxysm 5	CoV
+250	Composite Paroxysm 6	CoV
+250	Dichotomic Paroxysm 1	TBM
+250	Dichotomic Paroxysm 2	TBM
+250	Dichotomic Paroxysm 3	TBM
+250	Dichotomic Paroxysm 4	TBM
+250	Dichotomic Paroxysm 5	TBM
+250	Dichotomic Paroxysm 6	TBM
+250	Dissident Paroxysm 1	TBL
+250	Dissident Paroxysm 2	TBL
+250	Dissident Paroxysm 3	TBL
+250	Dissident Paroxysm 4	TBL
+250	Dissident Paroxysm 5	TBL
+250	Dissident Paroxysm 6	TBL
+250	Ecliptic Paroxysm 1	NoS
+250	Ecliptic Paroxysm 2	NoS
+250	Ecliptic Paroxysm 3	NoS
+250	Ecliptic Paroxysm 4	NoS
+250	Ecliptic Paroxysm 5	NoS
+250	Ecliptic Paroxysm 6	NoS

@@ -1,0 +1,506 @@
+1	Throw Stone	EQ
+5	Elbow Strike	EQ
+10	Focused Will Discipline	EQ
+30	Resistant Discipline	Kunark
+35	Phantom Zephyr	PoP
+40	Fearless Discipline	Kunark
+50	Phantom Wind	PoP
+51	Stonestance Discipline	Kunark
+52	Thunderkick Discipline	Kunark
+53	Whirlwind Discipline	Kunark
+54	Voiddance Discipline	Kunark
+55	Disciple's Aura	PoR
+56	Innerflame Discipline	Kunark
+57	Hundred Fists Discipline	Kunark
+57	Phantom Echo	PoP
+59	Silentfist Discipline	Kunark
+60	Ashenhand Discipline	Kunark
+61	Leopard Claw	LDoN
+61	Planeswalk Discipline	PoP
+63	Healing Will Discipline	PoP
+63	Speed Focus Discipline	PoP
+64	Phantom Call	PoP
+65	Ancient: Phantom Chaos	Gates
+65	Earthwalk Discipline	PoP
+65	Phantom Shadow	Gates
+66	Dreamwalk Discipline	Omens
+68	Counterforce Discipline	Omens
+68	Fists of Wu	DoD
+69	Dragon Fang	DoN
+69	Phantom Cry	Omens
+70	Heel of Kanji	PoR
+70	Master's Aura	PoR
+70	Rapid Kick Discipline	Omens
+71	Phantom Silhouette	TSS
+71	Phantom Silhouette Rk. II	TSS
+71	Phantom Silhouette Rk. III	TSS
+72	Impenetrable Discipline	TSS
+72	Impenetrable Discipline Rk. II	TSS
+72	Second Wind	TBS
+72	Second Wind Rk. II	TBS
+72	Second Wind Rk. III	TBS
+73	Echo of Misdirection	TSS
+73	Echo of Misdirection Rk. II	TSS
+74	Clawstriker's Flurry	TSS
+74	Clawstriker's Flurry Rk. II	TSS
+74	Clawstriker's Flurry Rk. III	TSS
+74	Scaledfist Discipline	TBS
+74	Scaledfist Discipline Rk. II	TBS
+74	Scaledfist Discipline Rk. III	TBS
+75	Moment of Calm	TSS
+75	Moment of Calm Rk. II	TSS
+75	Moment of Calm Rk. III	TSS
+76	Shimmering Silhouette	SoF
+76	Shimmering Silhouette Rk. II	SoF
+76	Shimmering Silhouette Rk. III	SoF
+77	Astral Projection	SoF
+77	Astral Projection Rk. II	SoF
+77	Astral Projection Rk. III	SoF
+77	Third Wind	SoF
+77	Third Wind Rk. II	SoF
+77	Third Wind Rk. III	SoF
+78	Echo of Deception	SoF
+78	Echo of Deception Rk. II	SoF
+78	Echo of Deception Rk. III	SoF
+79	Crystalpalm Discipline	SoF
+79	Crystalpalm Discipline Rk. II	SoF
+79	Crystalpalm Discipline Rk. III	SoF
+79	Wheel of Fists	SoF
+79	Wheel of Fists Rk. II	SoF
+79	Wheel of Fists Rk. III	SoF
+80	Delay Death	SoF
+80	Delay Death Rk. II	SoF
+80	Delay Death Rk. III	SoF
+80	Moment of Tranquility	SoF
+80	Moment of Tranquility Rk. II	SoF
+80	Moment of Tranquility Rk. III	SoF
+81	Calanin's Synergy	SoD
+81	Calanin's Synergy Rk. II	SoD
+81	Calanin's Synergy Rk. III	SoD
+81	Phantom Apparition	SoD
+81	Phantom Apparition Rk. II	SoD
+81	Phantom Apparition Rk. III	SoD
+82	Chrono Projection	SoD
+82	Chrono Projection Rk. II	SoD
+82	Chrono Projection Rk. III	SoD
+82	Fourth Wind	SoD
+82	Fourth Wind Rk. II	SoD
+82	Fourth Wind Rk. III	SoD
+83	Echo of Distraction	SoD
+83	Echo of Distraction Rk. II	SoD
+83	Echo of Distraction Rk. III	SoD
+83	Vigorous Shuriken	UF
+83	Vigorous Shuriken Rk. II	UF
+83	Vigorous Shuriken Rk. III	UF
+84	Punch Through	SoD
+84	Punch Through Rk. II	SoD
+84	Punch Through Rk. III	SoD
+84	Whorl of Fists	SoD
+84	Whorl of Fists Rk. II	SoD
+84	Whorl of Fists Rk. III	SoD
+85	Defer Death	SoD
+85	Defer Death Rk. II	SoD
+85	Defer Death Rk. III	SoD
+85	Drunken Monkey Style	UF
+85	Drunken Monkey Style Rk. II	UF
+85	Drunken Monkey Style Rk. III	UF
+85	Flinch	UF
+85	Flinch Rk. II	UF
+85	Flinch Rk. III	UF
+85	Moment of Placidity	SoD
+85	Moment of Placidity Rk. II	SoD
+85	Moment of Placidity Rk. III	SoD
+86	Dreamwalker's Synergy	HoT
+86	Dreamwalker's Synergy Rk. II	HoT
+86	Dreamwalker's Synergy Rk. III	HoT
+86	Phantasmal Apparition	HoT
+86	Phantasmal Apparition Rk. II	HoT
+86	Phantasmal Apparition Rk. III	HoT
+86	Respite	HoT
+86	Respite Rk. II	HoT
+86	Respite Rk. III	HoT
+87	Cloud of Fists	HoT
+87	Cloud of Fists Rk. II	HoT
+87	Cloud of Fists Rk. III	HoT
+87	Fifth Wind	HoT
+87	Fifth Wind Rk. II	HoT
+87	Fifth Wind Rk. III	HoT
+88	Echo of Confusion	HoT
+88	Echo of Confusion Rk. II	HoT
+88	Echo of Confusion Rk. III	HoT
+88	Ironfist Discipline	HoT
+88	Ironfist Discipline Rk. II	HoT
+88	Ironfist Discipline Rk. III	HoT
+89	Jab Through	HoT
+89	Jab Through Rk. II	HoT
+89	Jab Through Rk. III	HoT
+89	Six-Step Pattern	HoT
+89	Six-Step Pattern Rk. II	HoT
+89	Six-Step Pattern Rk. III	HoT
+89	Void Body	HoT
+89	Void Body Rk. II	HoT
+89	Void Body Rk. III	HoT
+90	Deny Death	HoT
+90	Deny Death Rk. II	HoT
+90	Deny Death Rk. III	HoT
+90	Five Breaths	HoT
+90	Five Breaths Rk. II	HoT
+90	Five Breaths Rk. III	HoT
+90	Heel of Kai	HoT
+90	Heel of Kai Rk. II	HoT
+90	Heel of Kai Rk. III	HoT
+90	Intercepting Fist	HoT
+90	Intercepting Fist Rk. II	HoT
+90	Intercepting Fist Rk. III	HoT
+91	Reprieve	VoA
+91	Reprieve Rk. II	VoA
+91	Reprieve Rk. III	VoA
+91	Veiled Apparition	VoA
+91	Veiled Apparition Rk. II	VoA
+91	Veiled Apparition Rk. III	VoA
+91	Veilwalker's Synergy	VoA
+91	Veilwalker's Synergy Rk. II	VoA
+91	Veilwalker's Synergy Rk. III	VoA
+92	Sixth Wind	VoA
+92	Sixth Wind Rk. II	VoA
+92	Sixth Wind Rk. III	VoA
+92	Tiger's Balance	VoA
+92	Tiger's Balance Rk. II	VoA
+92	Tiger's Balance Rk. III	VoA
+92	Void Step	VoA
+92	Void Step Rk. II	VoA
+92	Void Step Rk. III	VoA
+93	Crane Stance	VoA
+93	Crane Stance Rk. II	VoA
+93	Crane Stance Rk. III	VoA
+93	Echo of Obfuscation	VoA
+93	Echo of Obfuscation Rk. II	VoA
+93	Echo of Obfuscation Rk. III	VoA
+93	Inner Rejuvenation	VoA
+93	Inner Rejuvenation Rk. II	VoA
+93	Inner Rejuvenation Rk. III	VoA
+94	Diamondpalm Discipline	VoA
+94	Diamondpalm Discipline Rk. II	VoA
+94	Diamondpalm Discipline Rk. III	VoA
+94	Seven-Step Pattern	VoA
+94	Seven-Step Pattern Rk. II	VoA
+94	Seven-Step Pattern Rk. III	VoA
+94	Veiled Body	VoA
+94	Veiled Body Rk. II	VoA
+94	Veiled Body Rk. III	VoA
+95	Decry Death	VoA
+95	Decry Death Rk. II	VoA
+95	Decry Death Rk. III	VoA
+95	Heel of Kojai	VoA
+95	Heel of Kojai Rk. II	VoA
+95	Heel of Kojai Rk. III	VoA
+95	Six Breaths	VoA
+95	Six Breaths Rk. II	VoA
+95	Six Breaths Rk. III	VoA
+96	Earthforce Discipline	RoF
+96	Earthforce Discipline Rk. II	RoF
+96	Earthforce Discipline Rk. III	RoF
+96	Rest	RoF
+96	Rest Rk. II	RoF
+96	Rest Rk. III	RoF
+96	Shaded Apparition	RoF
+96	Shaded Apparition Rk. II	RoF
+96	Shaded Apparition Rk. III	RoF
+96	Shadewalker's Synergy	RoF
+96	Shadewalker's Synergy Rk. II	RoF
+96	Shadewalker's Synergy Rk. III	RoF
+96	Sting of the Wasp	CotF
+96	Sting of the Wasp Rk. II	CotF
+96	Sting of the Wasp Rk. III	CotF
+97	Eagle's Balance	RoF
+97	Eagle's Balance Rk. II	RoF
+97	Eagle's Balance Rk. III	RoF
+97	Seventh Wind	RoF
+97	Seventh Wind Rk. II	RoF
+97	Seventh Wind Rk. III	RoF
+97	Shaded Step	RoF
+97	Shaded Step Rk. II	RoF
+97	Shaded Step Rk. III	RoF
+97	Swift Reflexes	RoF
+97	Swift Reflexes Rk. II	RoF
+97	Swift Reflexes Rk. III	RoF
+97	Technique of the Crimson Fist	CotF
+97	Technique of the Crimson Fist Rk. II	CotF
+97	Technique of the Crimson Fist Rk. III	CotF
+98	Echo of Prevarication	RoF
+98	Echo of Prevarication Rk. II	RoF
+98	Echo of Prevarication Rk. III	RoF
+98	Eye of the Storm	RoF
+98	Eye of the Storm Rk. II	RoF
+98	Eye of the Storm Rk. III	RoF
+98	Reflex	CotF
+98	Reflex Rk. II	CotF
+98	Reflex Rk. III	CotF
+99	Contraforce Discipline	CotF
+99	Contraforce Discipline Rk. II	CotF
+99	Contraforce Discipline Rk. III	CotF
+99	Eight-Step Pattern	RoF
+99	Eight-Step Pattern Rk. II	RoF
+99	Eight-Step Pattern Rk. III	RoF
+99	Terrorpalm Discipline	RoF
+99	Terrorpalm Discipline Rk. II	RoF
+99	Terrorpalm Discipline Rk. III	RoF
+99	Zalikor's Fang	RoF
+99	Zalikor's Fang Rk. II	RoF
+99	Zalikor's Fang Rk. III	RoF
+100	Forestall Death	RoF
+100	Forestall Death Rk. II	RoF
+100	Forestall Death Rk. III	RoF
+100	Heel of Zagali	RoF
+100	Heel of Zagali Rk. II	RoF
+100	Heel of Zagali Rk. III	RoF
+100	Phantom Partisan	CotF
+100	Phantom Partisan Rk. II	CotF
+100	Phantom Partisan Rk. III	CotF
+100	Protection of the Shadewalker	RoF
+100	Protection of the Shadewalker Rk. II	RoF
+100	Protection of the Shadewalker Rk. III	RoF
+100	Seven Breaths	RoF
+100	Seven Breaths Rk. II	RoF
+100	Seven Breaths Rk. III	RoF
+101	Breather	TDS
+101	Breather Rk. II	TDS
+101	Breather Rk. III	TDS
+101	Darkened Apparition	TDS
+101	Darkened Apparition Rk. II	TDS
+101	Darkened Apparition Rk. III	TDS
+101	Dichotomic Form	TBM
+101	Doomwalker's Synergy	TDS
+101	Doomwalker's Synergy Rk. II	TDS
+101	Doomwalker's Synergy Rk. III	TDS
+102	Doomwalker's Alliance	EoK
+102	Doomwalker's Alliance Rk. II	EoK
+102	Doomwalker's Alliance Rk. III	EoK
+102	Dragon's Balance	TDS
+102	Dragon's Balance Rk. II	TDS
+102	Dragon's Balance Rk. III	TDS
+102	Nimble Reflexes	TDS
+102	Nimble Reflexes Rk. II	TDS
+102	Nimble Reflexes Rk. III	TDS
+103	Curse of the Thirteen Fingers	TBM
+103	Curse of the Thirteen Fingers Rk. II	TBM
+103	Curse of the Thirteen Fingers Rk. III	TBM
+103	Echo of Deceit	TDS
+103	Echo of Deceit Rk. II	TDS
+103	Echo of Deceit Rk. III	TDS
+104	Doomwalker's Precision Strike	EoK
+104	Doomwalker's Precision Strike Rk. II	EoK
+104	Doomwalker's Precision Strike Rk. III	EoK
+104	Strike Through	TDS
+104	Strike Through Rk. II	TDS
+104	Strike Through Rk. III	TDS
+104	Torrent of Fists	TDS
+104	Torrent of Fists Rk. II	TDS
+104	Torrent of Fists Rk. III	TDS
+105	Eight Breaths	TDS
+105	Eight Breaths Rk. II	TDS
+105	Eight Breaths Rk. III	TDS
+105	Phantom Pummeling	EoK
+105	Phantom Pummeling Rk. II	EoK
+105	Phantom Pummeling Rk. III	EoK
+105	Refuse Death	TDS
+105	Refuse Death Rk. II	TDS
+105	Refuse Death Rk. III	TDS
+106	Ash-Clouded Apparition	RoS
+106	Ash-Clouded Apparition Rk. II	RoS
+106	Ash-Clouded Apparition Rk. III	RoS
+106	Dissident Form	TBL
+106	Firewalker's Synergy	RoS
+106	Firewalker's Synergy Rk. II	RoS
+106	Firewalker's Synergy Rk. III	RoS
+106	Hiatus	RoS
+106	Hiatus Rk. II	RoS
+106	Hiatus Rk. III	RoS
+106	Sting of the Scorpikis	RoS
+106	Sting of the Scorpikis Rk. II	RoS
+106	Sting of the Scorpikis Rk. III	RoS
+107	Firewalker's Covenant	TBL
+107	Firewalker's Covenant Rk. II	TBL
+107	Firewalker's Covenant Rk. III	TBL
+107	Rapid Reflexes	RoS
+107	Rapid Reflexes Rk. II	RoS
+107	Rapid Reflexes Rk. III	RoS
+107	Technique of the Celestial Fist	RoS
+107	Technique of the Celestial Fist Rk. II	RoS
+107	Technique of the Celestial Fist Rk. III	RoS
+107	Tiger's Poise	RoS
+107	Tiger's Poise Rk. II	RoS
+107	Tiger's Poise Rk. III	RoS
+108	Curse of Fourteen Fists	TBL
+108	Curse of Fourteen Fists Rk. II	TBL
+108	Curse of Fourteen Fists Rk. III	TBL
+108	Echo of Duplicity	RoS
+108	Echo of Duplicity Rk. II	RoS
+108	Echo of Duplicity Rk. III	RoS
+108	Nine Breaths	RoS
+108	Nine Breaths Rk. II	RoS
+108	Nine Breaths Rk. III	RoS
+109	Counterstrike Discipline	RoS
+109	Counterstrike Discipline Rk. II	RoS
+109	Counterstrike Discipline Rk. III	RoS
+109	Firewalker's Precision Strike	TBL
+109	Firewalker's Precision Strike Rk. II	TBL
+109	Firewalker's Precision Strike Rk. III	TBL
+109	Hoshkar's Fang	RoS
+109	Hoshkar's Fang Rk. II	RoS
+109	Hoshkar's Fang Rk. III	RoS
+110	Firestorm of Fists	RoS
+110	Firestorm of Fists Rk. II	RoS
+110	Firestorm of Fists Rk. III	RoS
+110	Reject Death	RoS
+110	Reject Death Rk. II	RoS
+110	Reject Death Rk. III	RoS
+111	Composite Form	CoV
+111	Frostblurred Apparition	ToV
+111	Frostblurred Apparition Rk. II	ToV
+111	Frostblurred Apparition Rk. III	ToV
+111	Icewalker's Synergy	ToV
+111	Icewalker's Synergy Rk. II	ToV
+111	Icewalker's Synergy Rk. III	ToV
+111	Relax	ToV
+111	Relax Rk. II	ToV
+111	Relax Rk. III	ToV
+112	Decisive Reflexes	CoV
+112	Decisive Reflexes Rk. II	CoV
+112	Decisive Reflexes Rk. III	CoV
+112	Eagle's Poise	ToV
+112	Eagle's Poise Rk. II	ToV
+112	Eagle's Poise Rk. III	ToV
+112	Heron Stance	ToV
+112	Heron Stance Rk. II	ToV
+112	Heron Stance Rk. III	ToV
+112	Icewalker's Coalition	CoV
+112	Icewalker's Coalition Rk. II	CoV
+112	Icewalker's Coalition Rk. III	CoV
+113	Breath of Tranquility	ToV
+113	Breath of Tranquility Rk. II	ToV
+113	Breath of Tranquility Rk. III	ToV
+113	Curse of Fifteen Strikes	CoV
+113	Curse of Fifteen Strikes Rk. II	CoV
+113	Curse of Fifteen Strikes Rk. III	CoV
+113	Echo of Disorientation	ToV
+113	Echo of Disorientation Rk. II	ToV
+113	Echo of Disorientation Rk. III	ToV
+114	Icewalker's Precision Strike	CoV
+114	Icewalker's Precision Strike Rk. II	CoV
+114	Icewalker's Precision Strike Rk. III	CoV
+114	Zlexak's Fang	ToV
+114	Zlexak's Fang Rk. II	ToV
+114	Zlexak's Fang Rk. III	ToV
+115	Barrage of Fists	ToV
+115	Barrage of Fists Rk. II	ToV
+115	Barrage of Fists Rk. III	ToV
+115	Phantom Fisticuffs	CoV
+115	Phantom Fisticuffs Rk. II	CoV
+115	Phantom Fisticuffs Rk. III	CoV
+115	Rescind Death	ToV
+115	Rescind Death Rk. II	ToV
+115	Rescind Death Rk. III	ToV
+116	Bloodwalker's Synergy	ToL
+116	Bloodwalker's Synergy Rk. II	ToL
+116	Bloodwalker's Synergy Rk. III	ToL
+116	Dreamwhisper Apparition	ToL
+116	Dreamwhisper Apparition Rk. II	ToL
+116	Dreamwhisper Apparition Rk. III	ToL
+116	Ecliptic Form	NoS
+116	Night's Calming	ToL
+116	Night's Calming Rk. II	ToL
+116	Night's Calming Rk. III	ToL
+116	Sting of the Netherbian	ToL
+116	Sting of the Netherbian Rk. II	ToL
+116	Sting of the Netherbian Rk. III	ToL
+117	Bloodwalker's Conjunction	NoS
+117	Bloodwalker's Conjunction Rk. II	NoS
+117	Bloodwalker's Conjunction Rk. III	NoS
+117	Disciplined Reflexes	ToL
+117	Disciplined Reflexes Rk. II	ToL
+117	Disciplined Reflexes Rk. III	ToL
+117	Dragon's Poise	ToL
+117	Dragon's Poise Rk. II	ToL
+117	Dragon's Poise Rk. III	ToL
+118	Breath of Stillness	ToL
+118	Breath of Stillness Rk. II	ToL
+118	Breath of Stillness Rk. III	ToL
+118	Curse of Sixteen Shadows	NoS
+118	Curse of Sixteen Shadows Rk. II	NoS
+118	Curse of Sixteen Shadows Rk. III	NoS
+118	Echo of Flinching	ToL
+118	Echo of Flinching Rk. II	ToL
+118	Echo of Flinching Rk. III	ToL
+119	Bloodwalker's Precision Strike	NoS
+119	Bloodwalker's Precision Strike Rk. II	NoS
+119	Bloodwalker's Precision Strike Rk. III	NoS
+119	Counterblow Discipline	ToL
+119	Counterblow Discipline Rk. II	ToL
+119	Counterblow Discipline Rk. III	ToL
+119	Perforate	ToL
+119	Perforate Rk. II	ToL
+119	Perforate Rk. III	ToL
+119	Technique of the Lunar Fist	ToL
+119	Technique of the Lunar Fist Rk. II	ToL
+119	Technique of the Lunar Fist Rk. III	ToL
+120	Buffeting of Fists	ToL
+120	Buffeting of Fists Rk. II	ToL
+120	Buffeting of Fists Rk. III	ToL
+120	Repeal Death	ToL
+120	Repeal Death Rk. II	ToL
+120	Repeal Death Rk. III	ToL
+121	Convalesce	LS
+121	Convalesce Rk. II	LS
+121	Convalesce Rk. III	LS
+121	Fatewalker's Synergy	LS
+121	Fatewalker's Synergy Rk. II	LS
+121	Fatewalker's Synergy Rk. III	LS
+121	Phantom Whisper	LS
+121	Phantom Whisper Rk. II	LS
+121	Phantom Whisper Rk. III	LS
+122	Storied Reflexes	LS
+122	Storied Reflexes Rk. II	LS
+122	Storied Reflexes Rk. III	LS
+122	Tiger's Symmetry	LS
+122	Tiger's Symmetry Rk. II	LS
+122	Tiger's Symmetry Rk. III	LS
+123	Echo of Diversion	LS
+123	Echo of Diversion Rk. II	LS
+123	Echo of Diversion Rk. III	LS
+123	Moment of Stillness	LS
+123	Moment of Stillness Rk. II	LS
+123	Moment of Stillness Rk. III	LS
+124	Uncia's Fang	LS
+124	Uncia's Fang Rk. II	LS
+124	Uncia's Fang Rk. III	LS
+125	Defy Death	LS
+125	Defy Death Rk. II	LS
+125	Defy Death Rk. III	LS
+125	Flurry of Fists	LS
+125	Flurry of Fists Rk. II	LS
+125	Flurry of Fists Rk. III	LS
+250	Composite Form Trigger 1	CoV
+250	Composite Form Trigger 2	CoV
+250	Composite Form Trigger 3	CoV
+250	Composite Form Trigger 4	CoV
+250	Composite Form Trigger 5	CoV
+250	Composite Form Trigger 6	CoV
+250	Dichotomic Form 1	TBM
+250	Dichotomic Form 2	TBM
+250	Dichotomic Form 3	TBM
+250	Dichotomic Form 4	TBM
+250	Dichotomic Form 5	TBM
+250	Dichotomic Form 6	TBM
+250	Dissident Form Trigger 1	TBL
+250	Dissident Form Trigger 2	TBL
+250	Dissident Form Trigger 3	TBL
+250	Dissident Form Trigger 4	TBL
+250	Dissident Form Trigger 5	TBL
+250	Dissident Form Trigger 6	TBL
+250	Ecliptic Form Trigger 1	NoS
+250	Ecliptic Form Trigger 2	NoS
+250	Ecliptic Form Trigger 3	NoS
+250	Ecliptic Form Trigger 4	NoS
+250	Ecliptic Form Trigger 5	NoS
+250	Ecliptic Form Trigger 6	NoS

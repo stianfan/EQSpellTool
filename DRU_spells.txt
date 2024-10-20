@@ -1,0 +1,2245 @@
+1	Burst of Flame	EQ
+1	Dance of the Fireflies	EQ
+1	Endure Fire	EQ
+1	Flame Lick	EQ
+1	Lull Animal	EQ
+1	Minor Healing	EQ
+1	Panic Animal	EQ
+1	Sense Animals	EQ
+1	Skin like Wood	EQ
+1	Snare	EQ
+1	Tangling Weeds	Luclin
+2	Grasping Roots	EQ
+2	Ward Summoned	EQ
+3	Burst of Fire	EQ
+3	Whirling Wind	EQ
+4	Camouflage	EQ
+4	Cure Disease	EQ
+4	Invoke Lightning	EQ
+5	Cure Poison	EQ
+5	Gate	EQ
+5	Harmony	EQ
+6	Enduring Breath	EQ
+6	Firefist	EQ
+6	Treeform	EQ
+7	Shield of Thistles	EQ
+7	Strength of Earth	EQ
+7	Thistlecoat	EQ
+8	Ignite	EQ
+8	Invisibility Versus Animals	EQ
+8	Remove Minor Curse	LDoN
+9	Endure Cold	EQ
+9	Light Healing	EQ
+9	Protection of Wood	EQ
+9	Starshine	EQ
+10	Spirit of Wolf	EQ
+10	Stinging Swarm	EQ
+10	Summon Drink	EQ
+11	Halo of Light	EQ
+11	Reebo's Lesser Augury	LDoN
+11	Summon Food	EQ
+12	Bind Affinity	EQ
+12	Cascade of Hail	EQ
+13	Befriend Animal	EQ
+13	Expulse Summoned	EQ
+13	See Invisible	EQ
+14	Levitate	EQ
+14	Reebo's Lesser Cleansing	LDoN
+14	Reebo's Lesser Exorcism	LDoN
+14	Skin like Rock	EQ
+15	Calm Animal	EQ
+15	Ring of Karana	EQ
+15	Ring of Surefall Glade	EQ
+15	Terrorize Animal	EQ
+16	Careless Lightning	EQ
+16	Dizzying Wind	EQ
+16	Ring of Butcher	EQ
+17	Barbcoat	EQ
+17	Ring of Commons	EQ
+17	Ring of Toxxulia	EQ
+17	Shield of Barbs	EQ
+17	Tiny Companion	PoP
+18	Cancel Magic	EQ
+18	Feral Spirit	EQ
+18	Lesser Succor	EQ
+18	Ring of Grimling	Luclin
+18	Superior Camouflage	EQ
+19	Endure Disease	EQ
+19	Endure Poison	EQ
+19	Healing	EQ
+19	Protection of Rock	EQ
+19	Ring of the Nexus	Luclin
+20	Circle of Blightfire Moors	TSS
+20	Primary Anchor Ring	HoT
+20	Resist Fire	EQ
+20	Ring of Blightfire Moors	TSS
+20	Ring of Ro	EQ
+20	Ring of Stonebrunt	LoY
+20	Secondary Anchor Ring	HoT
+20	Wolf Form	EQ
+20	Zephyr: Blightfire Moors	TSS
+21	Ensnaring Roots	EQ
+21	Reebo's Augury	LDoN
+21	Ring of Steamfont	EQ
+21	Spirit of Cheetah	EQ
+21	Tremor	EQ
+22	Pogonip	EQ
+22	Ring of Feerrott	EQ
+22	Ring of Lavastorm	EQ
+22	Sunbeam	EQ
+23	Charm Animals	EQ
+23	Dismiss Summoned	EQ
+23	Remove Lesser Curse	LDoN
+23	Ring of Twilight	Luclin
+24	Creeping Crud	EQ
+24	Reebo's Cleansing	LDoN
+24	Reebo's Exorcism	LDoN
+24	Ring of the Combines	Kunark
+24	Skin like Steel	EQ
+25	Circle of Butcher	EQ
+25	Circle of Karana	EQ
+25	Circle of Toxxulia	EQ
+25	Immolate	EQ
+25	Ring of Knowledge	PoP
+25	Ring of Misty	EQ
+26	Circle of Surefall Glade	EQ
+26	Circle of the Nexus	Luclin
+26	Ensnare	EQ
+26	Scale of Wolf	EQ
+26	Succor: East	EQ
+27	Bramblecoat	EQ
+27	Circle of Commons	EQ
+27	Protection of Steel	EQ
+27	Shield of Brambles	EQ
+28	Beguile Plants	EQ
+28	Circle of Stonebrunt	LoY
+28	Combust	EQ
+28	Counteract Disease	EQ
+28	Counteract Poison	EQ
+29	Circle of Grimling	Luclin
+29	Greater Healing	EQ
+29	Harmony of Nature	EQ
+29	Imbue Emerald	EQ
+29	Imbue Plains Pebble	EQ
+29	Mass Imbue Emerald	LoY
+29	Mass Imbue Plains Pebble	LoY
+29	Ring of Dawnshroud	Luclin
+30	Circle of Lavastorm	EQ
+30	Fury of Air	Velious
+30	Greater Wolf Form	EQ
+30	Resist Cold	EQ
+30	Spirit of the Shrew	LDoN
+31	Circle of Steamfont	EQ
+31	Earthquake	EQ
+31	Lightning Strike	EQ
+31	Reebo's Greater Augury	LDoN
+31	Ring of Iceclad	Velious
+32	Circle of Feerrott	EQ
+32	Circle of Iceclad	Velious
+32	Circle of Ro	EQ
+32	Drones of Doom	EQ
+32	Succor: Butcher	EQ
+32	Zephyr: Nexus	Luclin
+32	Zephyr: Toxxulia	EQ
+33	Beguile Animals	EQ
+33	Circle of the Combines	Kunark
+33	Circle of Twilight	Luclin
+33	Expel Summoned	EQ
+33	Ring of Great Divide	Velious
+33	Zephyr: Butcherblock	EQ
+33	Zephyr: Iceclad	Velious
+34	Endure Magic	EQ
+34	Healing Water	LoY
+34	Reebo's Greater Cleansing	LDoN
+34	Reebo's Greater Exorcism	LDoN
+34	Regeneration	EQ
+34	Strength of Stone	EQ
+34	Zephyr: Karana	EQ
+35	Pack Shrew	LDoN
+35	Pack Spirit	EQ
+35	Primary Anchor Circle	HoT
+35	Secondary Anchor Circle	HoT
+35	Share Wolf Form	EQ
+35	Zephyr: Commonlands	EQ
+35	Zephyr: Stonebrunt	LoY
+35	Zephyr: Surefall Glade	EQ
+36	Circle of Misty	EQ
+36	Enveloping Roots	EQ
+36	Ring of Wakening Lands	Velious
+36	Skin like Diamond	EQ
+36	Spirit of Ash	PoP
+37	Avalanche	EQ
+37	Circle of Dawnshroud	Luclin
+37	Ro's Fiery Sundering	Velious
+37	Shield of Spikes	EQ
+37	Spikecoat	EQ
+37	Wind of the South	Kunark
+38	Circle of Great Divide	Velious
+38	Circle of Knowledge	PoP
+38	Firestrike	Kunark
+38	Remove Curse	Luclin
+38	Succor: Ro	EQ
+38	Zephyr: Grimling	Luclin
+39	Nature's Renewal	EQ
+39	Pack Regeneration	EQ
+39	Protection of Diamond	EQ
+39	Ring of Cobalt Scar	Velious
+39	Wind of the North	Kunark
+39	Zephyr: Feerrott	EQ
+39	Zephyr: Steamfont	EQ
+40	Circle of Wakening Lands	Velious
+40	Drifting Death	EQ
+40	Form of the Great Wolf	EQ
+40	Primary Anchor Push	HoT
+40	Secondary Anchor Push	HoT
+40	Zephyr: Combines	Kunark
+40	Zephyr: Primary Anchor	VoA
+40	Zephyr: Ro	EQ
+40	Zephyr: Secondary Anchor	VoA
+41	Savage Spirit	EQ
+41	Succor: Lavastorm	EQ
+41	Summon Companion	Velious
+41	Zephyr: Twilight	Luclin
+42	Chloroplast	EQ
+42	Circle of Cobalt Scar	Velious
+42	Fixation of Ro	Velious
+42	Zephyr: Great Divide	Velious
+43	Allure of the Wild	EQ
+43	Banish Summoned	Kunark
+43	Dustdevil	EQ
+43	Nullify Magic	EQ
+43	Zephyr: Wakening Lands	Velious
+44	Greater Mass Imbue Emerald	EQ
+44	Greater Mass Imbue Plains Pebble	EQ
+44	Resist Disease	EQ
+44	Resist Poison	EQ
+44	Storm Strength	EQ
+44	Superior Healing	EQ
+44	Zephyr: Cobalt Scar	Velious
+45	Engulfing Roots	EQ
+45	Pack Chloroplast	EQ
+45	Share Form of the Great Wolf	PoP
+45	Zephyr: Misty	EQ
+46	Lightning Blast	EQ
+46	Skin like Nature	EQ
+46	Succor: North	EQ
+46	Zephyr: Knowledge	PoP
+47	Ice	EQ
+47	Shield of Thorns	EQ
+47	Thorncoat	EQ
+47	Zephyr: Lavastorm	EQ
+48	Fire	EQ
+48	Improved Superior Camouflage	Velious
+48	Starfire	EQ
+48	Upheaval	Kunark
+49	Forest's Renewal	EQ
+49	Legacy of Spike	EQ
+49	Protection of Nature	EQ
+49	Resist Magic	EQ
+49	Vengeance of the Wild	LDoN
+50	Everlasting Breath	Luclin
+50	Levitation	Luclin
+50	Tangle	Luclin
+51	Circle of Winter	Kunark
+51	Repulse Animal	Kunark
+51	Ring of Tranquility	PoP
+52	Breath of Ro	Kunark
+52	Call of Karana	Kunark
+52	Circle of Arcstone	PoR
+52	Circle of Summer	Kunark
+52	Circle of Undershore	DoD
+52	Egress I	Kunark
+52	Feral Pack	LDoN
+52	Foliage Shield	Luclin
+52	Pure Blood	LoY
+52	Ring of Arcstone	PoR
+52	Ring of Barindu	Gates
+52	Ring of Natimbi	Gates
+52	Ring of Undershore	DoD
+52	Zephyr: Undershore	DoD
+53	Glamour of Tunare	Kunark
+53	Ring of Bloodfields	Omens
+53	Spirit of Scale	Kunark
+53	Winged Death	Kunark
+54	Blizzard	Kunark
+54	Circle of Natimbi	Gates
+54	Circle of Tranquility	PoP
+54	Eradicate Curse	RoF
+54	Form of the Howler	Kunark
+54	Regrowth	Kunark
+54	Remove Greater Curse	Luclin
+54	Ring of Buried Sea	TBS
+54	Scoriae	Kunark
+54	Spirit of Eagle	Luclin
+55	Annul Magic	Kunark
+55	Aura of the Grove	PoR
+55	Chloroblast	Kunark
+55	Circle of Barindu	Gates
+55	Circle of Bloodfields	Omens
+55	Exile Summoned	Kunark
+55	Frost	Kunark
+55	Girdle of Karana	Kunark
+55	Nature Walker's Behest	Velious
+55	Tunare's Request	Kunark
+55	Vengeance of Nature	LDoN
+56	Bladecoat	Kunark
+56	Breath of Karana	Kunark
+56	Engorging Roots	Kunark
+56	Ro's Smoldering Disjunction	Luclin
+56	Wake of Karana	Kunark
+56	Zephyr: Arcstone	PoR
+56	Zephyr: Natimbi	Gates
+57	Bonds of Tunare	Kunark
+57	Imbue Storm	PoP
+57	Instinctual Fear	DoN
+57	Natureskin	Kunark
+57	Succor	Kunark
+57	Zephyr: Barindu	Gates
+57	Zephyr: Bloodfields	Omens
+57	Zephyr: Dawnshroud	Luclin
+57	Zephyr: Tranquility	PoP
+58	Circle of Seasons	Luclin
+58	Eradicate Disease	RoF
+58	Eradicate Poison	RoF
+58	Fist of Karana	Kunark
+58	Regrowth of the Grove	Kunark
+58	Shield of Blades	Kunark
+58	Tunare's Renewal	Luclin
+59	Circle of Buried Sea	TBS
+59	Incarnate Anew	LDoN
+59	Legacy of Thorn	Kunark
+59	Protection of the Cabbage	Luclin
+59	Spirit of Oak	Kunark
+59	Wildfire	Kunark
+60	Ancient: Legacy of Blades	Luclin
+60	Ancient: Starfire of Ro	Luclin
+60	Banishment	Kunark
+60	Circle of The Steppes	TSS
+60	Entrapping Roots	Kunark
+60	Form of the Hunter	Kunark
+60	Mask of the Hunter	Kunark
+60	Mask of the Stalker	Luclin
+60	Moonfire	Luclin
+60	Nature's Recovery	Luclin
+60	Nature's Touch	Kunark
+60	Protection of the Glades	Velious
+60	Ring of The Steppes	TSS
+60	Teleport Guild Hall Anchor	VoA
+60	Nearby Players	VoA
+60	Zephyr: The Steppes	TSS
+61	Catastrophe	PoP
+61	Cure Corruption	TSS
+61	Cure Corruption Rk. II	TSS
+61	Cure Corruption Rk. III	TSS
+61	Earthen Roots	PoP
+61	Entangle	PoP
+61	Hand of Ro	PoP
+61	Instinctual Panic	DoN
+61	Mire Thorns	DoN
+61	Replenishment	PoP
+61	Storm's Fury	PoP
+61	Winter's Storm	PoP
+62	Flight of Eagles	PoP
+62	Immolation of Ro	PoP
+62	Karana's Rage	PoP
+62	Nature's Might	PoP
+62	Ring of Slaughter	PoP
+62	Ro's Illumination	PoP
+63	Blessing of Replenishment	PoP
+63	Command of Tunare	PoP
+63	E`ci's Frosty Breath	PoP
+63	Nature's Infusion	PoP
+63	Protection of the Nine	PoP
+63	Resist Corruption	TSS
+63	Resist Corruption Rk. II	TSS
+63	Resist Corruption Rk. III	TSS
+63	Shield of Bracken	PoP
+63	Swarming Death	PoP
+64	Brackencoat	PoP
+64	Chant of the Napaea	TSS
+64	Chant of the Napaea Rk. II	TSS
+64	Chant of the Napaea Rk. III	TSS
+64	Circle of Slaughter	PoP
+64	Karana's Renewal	PoP
+64	Protection of Seasons	PoP
+64	Savage Roots	PoP
+64	Summer's Flame	PoP
+64	Vengeance of Tunare	LDoN
+64	Zephyr: Buried Sea	TBS
+65	Ancient: Chaos Frost	Gates
+65	Blessing of the Nine	PoP
+65	Destroy Summoned	PoP
+65	Legacy of Bracken	PoP
+65	Mask of the Forest	PoP
+65	Sylvan Embers	Gates
+65	Sylvan Fire	Gates
+65	Sylvan Infusion	Gates
+65	Winter's Frost	PoP
+66	Earth Shiver	Omens
+66	Instinctual Terror	Omens
+66	Oaken Vigor	Omens
+66	Stormwatch	Omens
+66	Tempest Wind	Omens
+67	Glacier Breath	Omens
+67	Immolation of the Sun	Omens
+67	Lion's Strength	Omens
+67	Nature's Serenity	Omens
+67	Nettle Shield	Omens
+67	Sun's Corona	Omens
+67	Zephyr: Slaughter	Omens
+68	Chlorotrope	Omens
+68	Cloak of Nature	Omens
+68	Desolate Summoned	Omens
+68	Nettlecoat	Omens
+68	Skin of the Reptile	DoD
+68	Steeloak Skin	Omens
+68	Wasp Swarm	Omens
+69	Blessing of Oak	Omens
+69	Oaken Guard	Omens
+69	Serpent Vines	DoN
+69	Solstice Strike	Omens
+69	Spore Spiral	DoD
+69	Vengeance of the Sun	Omens
+70	Ancient: Chlorobon	Omens
+70	Ancient: Glacier Frost	Omens
+70	Aura of Life	PoR
+70	Barkspur	PoR
+70	Blessing of Steeloak	Omens
+70	Circle of Direwind	TSS
+70	Dawnstrike	DoD
+70	Glitterfrost	Omens
+70	Hungry Vines	Omens
+70	Legacy of Nettles	Omens
+70	Mask of the Wild	Omens
+70	Moonshadow	PoR
+70	Nature's Beckon	Omens
+70	Ring of Direwind	TSS
+70	Zephyr: Direwind	TSS
+71	Beast's Beckoning	TSS
+71	Beast's Beckoning Rk. II	TSS
+71	Blistering Sunray	TSS
+71	Blistering Sunray Rk. II	TSS
+71	Cloudburst Hail	TSS
+71	Cloudburst Hail Rk. II	TSS
+71	Cloudburst Hail Rk. III	TSS
+71	Fernspur	TBS
+71	Fernspur Rk. II	TBS
+71	Fernspur Rk. III	TBS
+71	Gale of the Stormborn	TSS
+71	Gale of the Stormborn Rk. II	TSS
+71	Mammoth's Strength	TSS
+71	Mammoth's Strength Rk. II	TSS
+71	Mammoth's Strength Rk. III	TSS
+71	Nature's Placidity	TSS
+71	Nature's Placidity Rk. II	TSS
+72	Direwild Skin	TSS
+72	Direwild Skin Rk. II	TSS
+72	Icefall Breath	TSS
+72	Icefall Breath Rk. II	TSS
+72	Pure Life	TSS
+72	Pure Life Rk. II	TSS
+72	Pure Life Rk. III	TSS
+72	Vinelash Cascade	TSS
+72	Vinelash Cascade Rk. II	TSS
+72	Vinelash Cascade Rk. III	TSS
+72	Viridifloral Shield	TSS
+72	Viridifloral Shield Rk. II	TSS
+73	Annihilate the Unnatural	TBS
+73	Annihilate the Unnatural Rk. II	TBS
+73	Annihilate the Unnatural Rk. III	TBS
+73	Skin to Vines	TSS
+73	Skin to Vines Rk. II	TSS
+73	Swarm of Fireants	TSS
+73	Swarm of Fireants Rk. II	TSS
+73	Swarm of Fireants Rk. III	TSS
+73	Viridicoat	TSS
+73	Viridicoat Rk. II	TSS
+73	Winter's Flame	TSS
+73	Winter's Flame Burn	TSS
+73	Winter's Flame Burn II	TSS
+73	Winter's Flame Burn III	TSS
+73	Winter's Flame Frostbite	TSS
+73	Winter's Flame Frostbite II	TSS
+73	Winter's Flame Frostbite III	TSS
+73	Winter's Flame Rk. II	TSS
+73	Winter's Flame Rk. III	TSS
+74	Direwood Guard	TSS
+74	Direwood Guard Rk. II	TSS
+74	EQuinox Burn	TSS
+74	EQuinox Burn Rk. II	TSS
+74	EQuinox Burn Rk. III	TSS
+74	Hoar Frost	TBS
+74	Hoar Frost Rk. II	TBS
+74	Hoar Frost Rk. III	TBS
+74	Spirit of Falcons	EoK
+74	Sunscorch	TSS
+74	Sunscorch Rk. II	TSS
+74	Tectonic Quake	TSS
+74	Tectonic Quake Rk. II	TSS
+74	Tectonic Quake Rk. III	TSS
+75	Adrenaline Surge	TSS
+75	Adrenaline Surge Rk. II	TSS
+75	Adrenaline Surge Rk. III	TSS
+75	Blessing of the Direwild	TSS
+75	Blessing of the Direwild Rk. II	TSS
+75	Blessing of the Direwild Rk. III	TSS
+75	Circle of Loping Plains	SoF
+75	Legacy of Viridiflora	TSS
+75	Legacy of Viridiflora Rk. II	TSS
+75	Lunarlight	TBS
+75	Lunarlight Rk. II	TBS
+75	Lunarlight Rk. III	TBS
+75	Nature's Blazing Wrath	TSS
+75	Nature's Blazing Wrath Rk. II	TSS
+75	Rime Crystals	TSS
+75	Rime Crystals Rk. II	TSS
+75	Rime Crystals Rk. III	TSS
+75	Ring of Loping Plains	SoF
+75	Second Life	TSS
+75	Second Life Rk. II	TSS
+75	Zephyr: Loping Plains	SoF
+76	Beast's Bewitching	SoF
+76	Beast's Bewitching Rk. II	SoF
+76	Beast's Bewitching Rk. III	SoF
+76	Fernspike	SoF
+76	Fernspike Rk. II	SoF
+76	Fernspike Rk. III	SoF
+76	Nature's Calm	SoF
+76	Nature's Calm Rk. II	SoF
+76	Nature's Calm Rk. III	SoF
+76	Spirit of the Stalwart	SoF
+76	Spirit of the Stalwart Rk. II	SoF
+76	Spirit of the Stalwart Rk. III	SoF
+76	Tempest of the Stormborn	SoF
+76	Tempest of the Stormborn Rk. II	SoF
+76	Tempest of the Stormborn Rk. III	SoF
+76	Torrential Hail	SoF
+76	Torrential Hail Rk. II	SoF
+76	Torrential Hail Rk. III	SoF
+76	Torrid Sunray	SoF
+76	Torrid Sunray Rk. II	SoF
+76	Torrid Sunray Rk. III	SoF
+77	Chillvapor Breath	SoF
+77	Chillvapor Breath Rk. II	SoF
+77	Chillvapor Breath Rk. III	SoF
+77	Ironwood Skin	SoF
+77	Ironwood Skin Rk. II	SoF
+77	Ironwood Skin Rk. III	SoF
+77	Puravida	SoF
+77	Puravida Rk. II	SoF
+77	Puravida Rk. III	SoF
+77	Reaping Inferno	SoF
+77	Reaping Inferno Rk. II	SoF
+77	Reaping Inferno Rk. III	SoF
+77	Sharp Eyes	SoF
+77	Sharp Eyes Rk. II	SoF
+77	Sharp Eyes Rk. III	SoF
+77	Viridifloral Bulwark	SoF
+77	Viridifloral Bulwark Rk. II	SoF
+77	Viridifloral Bulwark Rk. III	SoF
+78	Annihilate the Aberrant	SoF
+78	Annihilate the Aberrant Rk. II	SoF
+78	Annihilate the Aberrant Rk. III	SoF
+78	Forbear Corruption	SoF
+78	Forbear Corruption Rk. II	SoF
+78	Forbear Corruption Rk. III	SoF
+78	Horde of Fireants	SoF
+78	Horde of Fireants Rk. II	SoF
+78	Horde of Fireants Rk. III	SoF
+78	Skin to Mulch	SoF
+78	Skin to Mulch Rk. II	SoF
+78	Skin to Mulch Rk. III	SoF
+78	Solarsliver	SoF
+78	Solarsliver Rk. II	SoF
+78	Solarsliver Rk. III	SoF
+78	Survival of the Fittest	SoF
+78	Survival of the Fittest Rk. II	SoF
+78	Survival of the Fittest Rk. III	SoF
+78	Viridithorn Coat	SoF
+78	Viridithorn Coat Rk. II	SoF
+78	Viridithorn Coat Rk. III	SoF
+78	Winter's Blaze	SoF
+78	Winter's Blaze Burn	SoF
+78	Winter's Blaze Burn II	SoF
+78	Winter's Blaze Burn III	SoF
+78	Winter's Blaze Frostbite	SoF
+78	Winter's Blaze Frostbite II	SoF
+78	Winter's Blaze Frostbite III	SoF
+78	Winter's Blaze Rk. II	SoF
+78	Winter's Blaze Rk. III	SoF
+79	Chant of the Darkvine	SoF
+79	Chant of the Darkvine Rk. II	SoF
+79	Chant of the Darkvine Rk. III	SoF
+79	EQuinox Brand	SoF
+79	EQuinox Brand Rk. II	SoF
+79	EQuinox Brand Rk. III	SoF
+79	Gelid Frost	SoF
+79	Gelid Frost Rk. II	SoF
+79	Gelid Frost Rk. III	SoF
+79	Scales of the Reptile	SoF
+79	Scales of the Reptile Rk. II	SoF
+79	Scales of the Reptile Rk. III	SoF
+79	Sunsear	SoF
+79	Sunsear Rk. II	SoF
+79	Sunsear Rk. III	SoF
+79	Talisman of the Stalwart	SoF
+79	Talisman of the Stalwart Rk. II	SoF
+79	Talisman of the Stalwart Rk. III	SoF
+79	Tectonic Upheaval	SoF
+79	Tectonic Upheaval Rk. II	SoF
+79	Tectonic Upheaval Rk. III	SoF
+80	Adrenaline Swell	SoF
+80	Adrenaline Swell Rk. II	SoF
+80	Adrenaline Swell Rk. III	SoF
+80	Blessing of the Ironwood	SoF
+80	Blessing of the Ironwood Rk. II	SoF
+80	Blessing of the Ironwood Rk. III	SoF
+80	Circle of Brell's Rest	UF
+80	Circle of Plane of Time	SoD
+80	Crescentbloom	SoF
+80	Crescentbloom Rk. II	SoF
+80	Crescentbloom Rk. III	SoF
+80	Hoar Crystals	SoF
+80	Hoar Crystals Rk. II	SoF
+80	Hoar Crystals Rk. III	SoF
+80	Legacy of Viridithorns	SoF
+80	Legacy of Viridithorns Rk. II	SoF
+80	Legacy of Viridithorns Rk. III	SoF
+80	Mask of the Shadowcat	SoF
+80	Mask of the Shadowcat Rk. II	SoF
+80	Mask of the Shadowcat Rk. III	SoF
+80	Nature's Burning Wrath	SoF
+80	Nature's Burning Wrath Rk. II	SoF
+80	Nature's Burning Wrath Rk. III	SoF
+80	Preincarnation	SoF
+80	Preincarnation Rk. II	SoF
+80	Preincarnation Rk. III	SoF
+80	Ring of Brell's Rest	UF
+80	Ring of Plane of Time	SoD
+80	Zephyr: Brell's Rest	UF
+80	Zephyr: Plane of Time	SoD
+81	Beast's Befriending	SoD
+81	Beast's Befriending Rk. II	SoD
+81	Beast's Befriending Rk. III	SoD
+81	Carve Whistle	SoD
+81	Carve Whistle Rk. II	SoD
+81	Carve Whistle Rk. III	SoD
+81	Cascading Hail	SoD
+81	Cascading Hail Rk. II	SoD
+81	Cascading Hail Rk. III	SoD
+81	Frondspur	SoD
+81	Frondspur Rk. II	SoD
+81	Frondspur Rk. III	SoD
+81	Nature's Peace	SoD
+81	Nature's Peace Rk. II	SoD
+81	Nature's Peace Rk. III	SoD
+81	Spirit of the Resolute	SoD
+81	Spirit of the Resolute Rk. II	SoD
+81	Spirit of the Resolute Rk. III	SoD
+81	Squall of the Stormborn	SoD
+81	Squall of the Stormborn Rk. II	SoD
+81	Squall of the Stormborn Rk. III	SoD
+81	Withering Sunray	SoD
+81	Withering Sunray Rk. II	SoD
+81	Withering Sunray Rk. III	SoD
+82	Brierbloom Bulwark	SoD
+82	Brierbloom Bulwark Rk. II	SoD
+82	Brierbloom Bulwark Rk. III	SoD
+82	Coldwhisper Breath	SoD
+82	Coldwhisper Breath Rk. II	SoD
+82	Coldwhisper Breath Rk. III	SoD
+82	Granvida	SoD
+82	Granvida Rk. II	SoD
+82	Granvida Rk. III	SoD
+82	Harvesting Inferno	SoD
+82	Harvesting Inferno Rk. II	SoD
+82	Harvesting Inferno Rk. III	SoD
+82	Heartwood Skin	SoD
+82	Heartwood Skin Rk. II	SoD
+82	Heartwood Skin Rk. III	SoD
+82	Promised Reknit	SoD
+82	Promised Reknit Rk. II	SoD
+82	Promised Reknit Rk. III	SoD
+82	Wild Growth	SoD
+82	Wild Growth Rk. II	SoD
+82	Wild Growth Rk. III	SoD
+83	Annihilate the Anomalous	SoD
+83	Annihilate the Anomalous Rk. II	SoD
+83	Annihilate the Anomalous Rk. III	SoD
+83	Brierbloom Coat	SoD
+83	Brierbloom Coat Rk. II	SoD
+83	Brierbloom Coat Rk. III	SoD
+83	Horde of the Hive	SoD
+83	Horde of the Hive Rk. II	SoD
+83	Horde of the Hive Rk. III	SoD
+83	Manaflux Enervation	SoD
+83	Manaflux Enervation Rk. II	SoD
+83	Manaflux Enervation Rk. III	SoD
+83	Morning's Glory	SoD
+83	Morning's Glory Rk. II	SoD
+83	Morning's Glory Rk. III	SoD
+83	Remote Manaflux	UF
+83	Remote Manaflux Rk. II	UF
+83	Remote Manaflux Rk. III	UF
+83	Repel Corruption	SoD
+83	Repel Corruption Rk. II	SoD
+83	Repel Corruption Rk. III	SoD
+83	Skin to Flora	SoD
+83	Skin to Flora Rk. II	SoD
+83	Skin to Flora Rk. III	SoD
+83	Survival of the Felicitous	SoD
+83	Survival of the Felicitous Rk. II	SoD
+83	Survival of the Felicitous Rk. III	SoD
+83	Winter's Flare	SoD
+83	Winter's Flare Burn	SoD
+83	Winter's Flare Burn II	SoD
+83	Winter's Flare Burn III	SoD
+83	Winter's Flare Frostbite	SoD
+83	Winter's Flare Frostbite II	SoD
+83	Winter's Flare Frostbite III	SoD
+83	Winter's Flare Rk. II	SoD
+83	Winter's Flare Rk. III	SoD
+84	Blanched Frost	SoD
+84	Blanched Frost Rk. II	SoD
+84	Blanched Frost Rk. III	SoD
+84	Blast of Hypergrowth	UF
+84	Blast of Hypergrowth Rk. II	UF
+84	Blast of Hypergrowth Rk. III	UF
+84	Carapace of the Reptile	SoD
+84	Carapace of the Reptile Rk. II	SoD
+84	Carapace of the Reptile Rk. III	SoD
+84	Chant of the Burynai	SoD
+84	Chant of the Burynai Rk. II	SoD
+84	Chant of the Burynai Rk. III	SoD
+84	Purified Blood	SoD
+84	Purified Blood Rk. II	SoD
+84	Purified Blood Rk. III	SoD
+84	Summer Solstice	SoD
+84	Summer Solstice Rk. II	SoD
+84	Summer Solstice Rk. III	SoD
+84	Sundew Blessing	UF
+84	Sundew Blessing Rk. II	UF
+84	Sundew Blessing Rk. III	UF
+84	Sunsinge	SoD
+84	Sunsinge Rk. II	SoD
+84	Sunsinge Rk. III	SoD
+84	Talisman of the Resolute	SoD
+84	Talisman of the Resolute Rk. II	SoD
+84	Talisman of the Resolute Rk. III	SoD
+84	Tectonic Tumult	SoD
+84	Tectonic Tumult Rk. II	SoD
+84	Tectonic Tumult Rk. III	SoD
+85	Adrenaline Burst	SoD
+85	Adrenaline Burst Rk. II	SoD
+85	Adrenaline Burst Rk. III	SoD
+85	Blessing of the Heartwood	SoD
+85	Blessing of the Heartwood Rk. II	SoD
+85	Blessing of the Heartwood Rk. III	SoD
+85	Circle of the Grounds	HoT
+85	Glaciating Crystals	SoD
+85	Glaciating Crystals Rk. II	SoD
+85	Glaciating Crystals Rk. III	SoD
+85	Legacy of Brierbloom	SoD
+85	Legacy of Brierbloom Rk. II	SoD
+85	Legacy of Brierbloom Rk. III	SoD
+85	Lunulation	SoD
+85	Lunulation Rk. II	SoD
+85	Lunulation Rk. III	SoD
+85	Mask of the Raptor	SoD
+85	Mask of the Raptor Rk. II	SoD
+85	Mask of the Raptor Rk. III	SoD
+85	Nature's Searing Wrath	SoD
+85	Nature's Searing Wrath Rk. II	SoD
+85	Nature's Searing Wrath Rk. III	SoD
+85	Ring of the Grounds	HoT
+85	Surge of Ironvines	UF
+85	Surge of Ironvines Rk. II	UF
+85	Surge of Ironvines Rk. III	UF
+85	Twincast	SoD
+85	Twincast Rk. II	SoD
+85	Twincast Rk. III	SoD
+85	Zephyr: the Grounds	HoT
+86	Beast's Beguiling	HoT
+86	Beast's Beguiling Rk. II	HoT
+86	Beast's Beguiling Rk. III	HoT
+86	Cyclonic Hail	HoT
+86	Cyclonic Hail Rk. II	HoT
+86	Cyclonic Hail Rk. III	HoT
+86	Grasp of Ro	HoT
+86	Grasp of Ro Rk. II	HoT
+86	Grasp of Ro Rk. III	HoT
+86	Mammoth's Force	HoT
+86	Mammoth's Force Rk. II	HoT
+86	Mammoth's Force Rk. III	HoT
+86	Nature's Harmony	HoT
+86	Nature's Harmony Rk. II	HoT
+86	Nature's Harmony Rk. III	HoT
+86	Ro's Reflection	HoT
+86	Ro's Reflection II	HoT
+86	Ro's Reflection III	HoT
+86	Scorching Sunray	HoT
+86	Scorching Sunray Rk. II	HoT
+86	Scorching Sunray Rk. III	HoT
+86	Shear of the Stormborn	HoT
+86	Shear of the Stormborn Rk. II	HoT
+86	Shear of the Stormborn Rk. III	HoT
+86	Spirit of the Relentless	HoT
+86	Spirit of the Relentless Rk. II	HoT
+86	Spirit of the Relentless Rk. III	HoT
+86	Thornspur	HoT
+86	Thornspur Rk. II	HoT
+86	Thornspur Rk. III	HoT
+87	Benevida	HoT
+87	Benevida Rk. II	HoT
+87	Benevida Rk. III	HoT
+87	Bonebriar Bulwark	HoT
+87	Bonebriar Bulwark Rk. II	HoT
+87	Bonebriar Bulwark Rk. III	HoT
+87	Bracing Breath	HoT
+87	Bracing Breath Rk. II	HoT
+87	Bracing Breath Rk. III	HoT
+87	Bracing Heal	HoT
+87	Bracing Heal II	HoT
+87	Bracing Heal III	HoT
+87	Eyes of the Winter Hawk	HoT
+87	Eyes of the Winter Hawk Rk. II	HoT
+87	Eyes of the Winter Hawk Rk. III	HoT
+87	Promised Replenishment	HoT
+87	Promised Replenishment Rk. II	HoT
+87	Promised Replenishment Rk. III	HoT
+87	Timbercore Skin	HoT
+87	Timbercore Skin Rk. II	HoT
+87	Timbercore Skin Rk. III	HoT
+87	Untamed Growth	HoT
+87	Untamed Growth Rk. II	HoT
+87	Untamed Growth Rk. III	HoT
+87	Wildfire Aura	HoT
+87	Wildfire Aura Rk. II	HoT
+87	Wildfire Aura Rk. III	HoT
+88	Annihilate the Divergent	HoT
+88	Annihilate the Divergent Rk. II	HoT
+88	Annihilate the Divergent Rk. III	HoT
+88	Bonebriar Coat	HoT
+88	Bonebriar Coat Rk. II	HoT
+88	Bonebriar Coat Rk. III	HoT
+88	Daybreak	HoT
+88	Daybreak Rk. II	HoT
+88	Daybreak Rk. III	HoT
+88	Frostfell Aura	HoT
+88	Frostfell Aura Rk. II	HoT
+88	Frostfell Aura Rk. III	HoT
+88	Horde of Scoriae	HoT
+88	Horde of Scoriae Rk. II	HoT
+88	Horde of Scoriae Rk. III	HoT
+88	Reject Corruption	HoT
+88	Reject Corruption Rk. II	HoT
+88	Reject Corruption Rk. III	HoT
+88	Remote Sunflare	HoT
+88	Remote Sunflare Rk. II	HoT
+88	Remote Sunflare Rk. III	HoT
+88	Skin to Leaves	HoT
+88	Skin to Leaves Rk. II	HoT
+88	Skin to Leaves Rk. III	HoT
+88	Sunflare Enervation	HoT
+88	Sunflare Enervation Rk. II	HoT
+88	Sunflare Enervation Rk. III	HoT
+88	Survival of the Propitious	HoT
+88	Survival of the Propitious Rk. II	HoT
+88	Survival of the Propitious Rk. III	HoT
+88	Winter's Pyre	HoT
+88	Winter's Pyre Burn	HoT
+88	Winter's Pyre Burn II	HoT
+88	Winter's Pyre Burn III	HoT
+88	Winter's Pyre Frostbite	HoT
+88	Winter's Pyre Frostbite II	HoT
+88	Winter's Pyre Frostbite III	HoT
+88	Winter's Pyre Rk. II	HoT
+88	Winter's Pyre Rk. III	HoT
+89	Argent Frost	HoT
+89	Argent Frost Heal	HoT
+89	Argent Frost Heal II	HoT
+89	Argent Frost Heal III	HoT
+89	Argent Frost Rk. II	HoT
+89	Argent Frost Rk. III	HoT
+89	Chant of the Tae Ew	HoT
+89	Chant of the Tae Ew Rk. II	HoT
+89	Chant of the Tae Ew Rk. III	HoT
+89	Gelid Moonbeam	HoT
+89	Gelid Moonbeam Rk. II	HoT
+89	Gelid Moonbeam Rk. III	HoT
+89	Polyporous Assault	HoT
+89	Polyporous Assault Rk. II	HoT
+89	Polyporous Assault Rk. III	HoT
+89	Purged Blood	HoT
+89	Purged Blood Rk. II	HoT
+89	Purged Blood Rk. III	HoT
+89	Shell of the Reptile	HoT
+89	Shell of the Reptile Rk. II	HoT
+89	Shell of the Reptile Rk. III	HoT
+89	Summer Prominence	HoT
+89	Summer Prominence Rk. II	HoT
+89	Summer Prominence Rk. III	HoT
+89	Sunbrand	HoT
+89	Sunbrand Rk. II	HoT
+89	Sunbrand Rk. III	HoT
+89	Sunrise Blessing	HoT
+89	Sunrise Blessing Rk. II	HoT
+89	Sunrise Blessing Rk. III	HoT
+89	Talisman of the Relentless	HoT
+89	Talisman of the Relentless Rk. II	HoT
+89	Talisman of the Relentless Rk. III	HoT
+89	Tectonic Shock	HoT
+89	Tectonic Shock Rk. II	HoT
+89	Tectonic Shock Rk. III	HoT
+90	Adrenaline Blast	HoT
+90	Adrenaline Blast Rk. II	HoT
+90	Adrenaline Blast Rk. III	HoT
+90	Arboreal Absolution	HoT
+90	Arboreal Absolution Rk. II	HoT
+90	Arboreal Absolution Rk. III	HoT
+90	Argent Crystals	HoT
+90	Argent Crystals Rk. II	HoT
+90	Argent Crystals Rk. III	HoT
+90	Blessing of the Timbercore	HoT
+90	Blessing of the Timbercore Rk. II	HoT
+90	Blessing of the Timbercore Rk. III	HoT
+90	Circle of the Domain	VoA
+90	Legacy of Bonebriar	HoT
+90	Legacy of Bonebriar Rk. II	HoT
+90	Legacy of Bonebriar Rk. III	HoT
+90	Lunamelioration	HoT
+90	Lunamelioration Rk. II	HoT
+90	Lunamelioration Rk. III	HoT
+90	Mask of the Arboreal	HoT
+90	Mask of the Arboreal Rk. II	HoT
+90	Mask of the Arboreal Rk. III	HoT
+90	Nature's Incinerating Wrath	HoT
+90	Nature's Incinerating Wrath Rk. II	HoT
+90	Nature's Incinerating Wrath Rk. III	HoT
+90	Rejuvilation	HoT
+90	Rejuvilation Rk. II	HoT
+90	Rejuvilation Rk. III	HoT
+90	Ring of the Domain	VoA
+90	Surge of Bonebriars	HoT
+90	Surge of Bonebriars Rk. II	HoT
+90	Surge of Bonebriars Rk. III	HoT
+90	Zephyr: Beasts' Domain	VoA
+91	Beast's Behest	VoA
+91	Beast's Behest Rk. II	VoA
+91	Beast's Behest Rk. III	VoA
+91	Blazing Sunray	VoA
+91	Blazing Sunray Rk. II	VoA
+91	Blazing Sunray Rk. III	VoA
+91	Crashing Hail	VoA
+91	Crashing Hail Rk. II	VoA
+91	Crashing Hail Rk. III	VoA
+91	Cyclone of the Stormborn	VoA
+91	Cyclone of the Stormborn Rk. II	VoA
+91	Cyclone of the Stormborn Rk. III	VoA
+91	Fawnwalker's Breeze	VoA
+91	Fawnwalker's Breeze Rk. II	VoA
+91	Fawnwalker's Breeze Rk. III	VoA
+91	Flight of Falcons	EoK
+91	Grip of Ro	VoA
+91	Grip of Ro Rk. II	VoA
+91	Grip of Ro Rk. III	VoA
+91	Heliacal Flare	VoA
+91	Heliacal Flare Rk. II	VoA
+91	Heliacal Flare Rk. III	VoA
+91	Nature's Tranquility	VoA
+91	Nature's Tranquility Rk. II	VoA
+91	Nature's Tranquility Rk. III	VoA
+91	Ro's Reflection	VoA
+91	Ro's Reflection II	VoA
+91	Ro's Reflection III	VoA
+91	Spirit of the Indomitable	VoA
+91	Spirit of the Indomitable Rk. II	VoA
+91	Spirit of the Indomitable Rk. III	VoA
+91	Vinespur	VoA
+91	Vinespur Rk. II	VoA
+91	Vinespur Rk. III	VoA
+92	Beastwood Guard	VoA
+92	Beastwood Guard Rk. II	VoA
+92	Beastwood Guard Rk. III	VoA
+92	Circle of Alra	VoA
+92	Encompassing Breath	VoA
+92	Encompassing Breath Rk. II	VoA
+92	Encompassing Breath Rk. III	VoA
+92	Encompassing Heal	VoA
+92	Encompassing Heal II	VoA
+92	Encompassing Heal III	VoA
+92	Lunar Chill	VoA
+92	Lunar Chill Rk. II	VoA
+92	Lunar Chill Rk. III	VoA
+92	Promised Revitalization	VoA
+92	Promised Revitalization Rk. II	VoA
+92	Promised Revitalization Rk. III	VoA
+92	Ring of Alra	VoA
+92	Sanavida	VoA
+92	Sanavida Rk. II	VoA
+92	Sanavida Rk. III	VoA
+92	Spineburr Bulwark	VoA
+92	Spineburr Bulwark Rk. II	VoA
+92	Spineburr Bulwark Rk. III	VoA
+92	Stonebark Skin	VoA
+92	Stonebark Skin Rk. II	VoA
+92	Stonebark Skin Rk. III	VoA
+92	Unfettered Growth	VoA
+92	Unfettered Growth Rk. II	VoA
+92	Unfettered Growth Rk. III	VoA
+92	Wildblaze Aura	VoA
+92	Wildblaze Aura Rk. II	VoA
+92	Wildblaze Aura Rk. III	VoA
+92	Zephyr: Pillars of Alra	VoA
+93	Abolish the Divergent	VoA
+93	Abolish the Divergent Rk. II	VoA
+93	Abolish the Divergent Rk. III	VoA
+93	Frostcloak Aura	VoA
+93	Frostcloak Aura Rk. II	VoA
+93	Frostcloak Aura Rk. III	VoA
+93	Horde of Vespids	VoA
+93	Horde of Vespids Rk. II	VoA
+93	Horde of Vespids Rk. III	VoA
+93	Remote Sunburst	VoA
+93	Remote Sunburst Rk. II	VoA
+93	Remote Sunburst Rk. III	VoA
+93	Rescind Corruption	VoA
+93	Rescind Corruption Rk. II	VoA
+93	Rescind Corruption Rk. III	VoA
+93	Roar of Kolos	VoA
+93	Roar of Kolos Rk. II	VoA
+93	Roar of Kolos Rk. III	VoA
+93	Skin to Foliage	VoA
+93	Skin to Foliage Rk. II	VoA
+93	Skin to Foliage Rk. III	VoA
+93	Spineburr Coat	VoA
+93	Spineburr Coat Rk. II	VoA
+93	Spineburr Coat Rk. III	VoA
+93	Sunburst Enervation	VoA
+93	Sunburst Enervation II	VoA
+93	Sunburst Enervation III	VoA
+93	Survival of the Prosperous	VoA
+93	Survival of the Prosperous Rk. II	VoA
+93	Survival of the Prosperous Rk. III	VoA
+93	Winter's Sear	VoA
+93	Winter's Sear Burn	VoA
+93	Winter's Sear Burn II	VoA
+93	Winter's Sear Burn III	VoA
+93	Winter's Sear Frostbite	VoA
+93	Winter's Sear Frostbite II	VoA
+93	Winter's Sear Frostbite III	VoA
+93	Winter's Sear Rk. II	VoA
+93	Winter's Sear Rk. III	VoA
+94	Algid Moonbeam	VoA
+94	Algid Moonbeam Rk. II	VoA
+94	Algid Moonbeam Rk. III	VoA
+94	Chant of the Izon	VoA
+94	Chant of the Izon Rk. II	VoA
+94	Chant of the Izon Rk. III	VoA
+94	Hide of the Reptile	VoA
+94	Hide of the Reptile Rk. II	VoA
+94	Hide of the Reptile Rk. III	VoA
+94	Myconid Assault	VoA
+94	Myconid Assault Rk. II	VoA
+94	Myconid Assault Rk. III	VoA
+94	Perfected Blood	VoA
+94	Perfected Blood Rk. II	VoA
+94	Perfected Blood Rk. III	VoA
+94	Silver Frost	VoA
+94	Silver Frost Heal	VoA
+94	Silver Frost Heal II	VoA
+94	Silver Frost Heal III	VoA
+94	Silver Frost Rk. II	VoA
+94	Silver Frost Rk. III	VoA
+94	Summer Zenith	VoA
+94	Summer Zenith Rk. II	VoA
+94	Summer Zenith Rk. III	VoA
+94	Sunbreeze Blessing	VoA
+94	Sunbreeze Blessing Rk. II	VoA
+94	Sunbreeze Blessing Rk. III	VoA
+94	Sunbreeze Blessing Trigger	VoA
+94	Sunbreeze Blessing Trigger Rk. II	VoA
+94	Sunbreeze Blessing Trigger Rk. III	VoA
+94	Sunscorch	VoA
+94	Sunscorch Rk. II	VoA
+94	Sunscorch Rk. III	VoA
+94	Talisman of the Indomitable	VoA
+94	Talisman of the Indomitable Rk. II	VoA
+94	Talisman of the Indomitable Rk. III	VoA
+94	Tectonic Tremor	VoA
+94	Tectonic Tremor Rk. II	VoA
+94	Tectonic Tremor Rk. III	VoA
+95	Adrenaline Flood	VoA
+95	Adrenaline Flood Rk. II	VoA
+95	Adrenaline Flood Rk. III	VoA
+95	Chill of the Natureward	VoA
+95	Chill of the Natureward Rk. II	VoA
+95	Chill of the Natureward Rk. III	VoA
+95	Circle of the Landing	RoF
+95	Circle of West Karana	CotF
+95	Frost of the Natureward	VoA
+95	Frost of the Natureward II	VoA
+95	Frost of the Natureward III	VoA
+95	Invigoration	VoA
+95	Invigoration Rk. II	VoA
+95	Invigoration Rk. III	VoA
+95	Legacy of Spineburrs	VoA
+95	Legacy of Spineburrs Rk. II	VoA
+95	Legacy of Spineburrs Rk. III	VoA
+95	Lunalleviation	VoA
+95	Lunalleviation Rk. II	VoA
+95	Lunalleviation Rk. III	VoA
+95	Mask of the Thicket Dweller	VoA
+95	Mask of the Thicket Dweller Rk. II	VoA
+95	Mask of the Thicket Dweller Rk. III	VoA
+95	Nature's Scorching Wrath	VoA
+95	Nature's Scorching Wrath Rk. II	VoA
+95	Nature's Scorching Wrath Rk. III	VoA
+95	Ring of the Landing	RoF
+95	Ring of West Karana	CotF
+95	Sterlingfrost Crystals	VoA
+95	Sterlingfrost Crystals Rk. II	VoA
+95	Sterlingfrost Crystals Rk. III	VoA
+95	Stonebark Blessing	VoA
+95	Stonebark Blessing Rk. II	VoA
+95	Stonebark Blessing Rk. III	VoA
+95	Surge of Spineburrs	VoA
+95	Surge of Spineburrs Rk. II	VoA
+95	Surge of Spineburrs Rk. III	VoA
+95	Zephyr: Shard's Landing	RoF
+95	Zephyr: West Karana	CotF
+96	Beast's Bespelling	RoF
+96	Beast's Bespelling Rk. II	RoF
+96	Beast's Bespelling Rk. III	RoF
+96	Bosquetender's Breeze	RoF
+96	Bosquetender's Breeze Rk. II	RoF
+96	Bosquetender's Breeze Rk. III	RoF
+96	Clutch of Ro	RoF
+96	Clutch of Ro Rk. II	RoF
+96	Clutch of Ro Rk. III	RoF
+96	Hailstorm	RoF
+96	Hailstorm Rk. II	RoF
+96	Hailstorm Rk. III	RoF
+96	Heliacal Fire	RoF
+96	Heliacal Fire Rk. II	RoF
+96	Heliacal Fire Rk. III	RoF
+96	Incinerating Sunray	RoF
+96	Incinerating Sunray Rk. II	RoF
+96	Incinerating Sunray Rk. III	RoF
+96	Nature's Repose	RoF
+96	Nature's Repose Rk. II	RoF
+96	Nature's Repose Rk. III	RoF
+96	Nurturing Growth	CotF
+96	Nurturing Growth Rk. II	CotF
+96	Nurturing Growth Rk. III	CotF
+96	Ro's Reflection	RoF
+96	Ro's Reflection II	RoF
+96	Ro's Reflection III	RoF
+96	Spirit of the Steadfast	RoF
+96	Spirit of the Steadfast Rk. II	RoF
+96	Spirit of the Steadfast Rk. III	RoF
+96	Stemfang	RoF
+96	Stemfang Rk. II	RoF
+96	Stemfang Rk. III	RoF
+96	Whirlwind of the Stormborn	RoF
+96	Whirlwind of the Stormborn Rk. II	RoF
+96	Whirlwind of the Stormborn Rk. III	RoF
+97	Beastsnag Guard	RoF
+97	Beastsnag Guard Rk. II	RoF
+97	Beastsnag Guard Rk. III	RoF
+97	Frosthowl Breath	RoF
+97	Frosthowl Breath Rk. II	RoF
+97	Frosthowl Breath Rk. III	RoF
+97	Frosthowl Chill	RoF
+97	Frosthowl Chill Rk. II	RoF
+97	Frosthowl Chill Rk. III	RoF
+97	Frosthowl Heal	RoF
+97	Frosthowl Heal II	RoF
+97	Frosthowl Heal III	RoF
+97	Granitebark Skin	RoF
+97	Granitebark Skin Rk. II	RoF
+97	Granitebark Skin Rk. III	RoF
+97	Pillar of Ro	CotF
+97	Pillar of Ro Rk. II	CotF
+97	Pillar of Ro Rk. III	CotF
+97	Promised Recovery	RoF
+97	Promised Recovery Rk. II	RoF
+97	Promised Recovery Rk. III	RoF
+97	Rampant Growth	RoF
+97	Rampant Growth Rk. II	RoF
+97	Rampant Growth Rk. III	RoF
+97	Spikethistle Bulwark	RoF
+97	Spikethistle Bulwark Rk. II	RoF
+97	Spikethistle Bulwark Rk. III	RoF
+97	Sterivida	RoF
+97	Sterivida Rk. II	RoF
+97	Sterivida Rk. III	RoF
+97	Thornmaw Vines	RoF
+97	Thornmaw Vines Rk. II	RoF
+97	Thornmaw Vines Rk. III	RoF
+97	Vinelash Assault	RoF
+97	Vinelash Assault Rk. II	RoF
+97	Vinelash Assault Rk. III	RoF
+97	Wildspark Aura	RoF
+97	Wildspark Aura Rk. II	RoF
+97	Wildspark Aura Rk. III	RoF
+98	Exterminate the Unnatural	RoF
+98	Exterminate the Unnatural Rk. II	RoF
+98	Exterminate the Unnatural Rk. III	RoF
+98	Frostone Aura	RoF
+98	Frostone Aura Rk. II	RoF
+98	Frostone Aura Rk. III	RoF
+98	Horde of Mutillids	RoF
+98	Horde of Mutillids Rk. II	RoF
+98	Horde of Mutillids Rk. III	RoF
+98	Katabatic Roar	RoF
+98	Katabatic Roar Rk. II	RoF
+98	Katabatic Roar Rk. III	RoF
+98	Mysterious Ways	CotF
+98	Mysterious Ways Rk. II	CotF
+98	Mysterious Ways Rk. III	CotF
+98	Remote Sunfire	RoF
+98	Remote Sunfire Rk. II	RoF
+98	Remote Sunfire Rk. III	RoF
+98	Ring of Lceanium	EoK
+98	Skin to Seedlings	RoF
+98	Skin to Seedlings Rk. II	RoF
+98	Skin to Seedlings Rk. III	RoF
+98	Spikethistle Coat	RoF
+98	Spikethistle Coat Rk. II	RoF
+98	Spikethistle Coat Rk. III	RoF
+98	Sunfire Enervation	RoF
+98	Sunfire Enervation II	RoF
+98	Sunfire Enervation III	RoF
+98	Survival of the Fortuitous	RoF
+98	Survival of the Fortuitous Rk. II	RoF
+98	Survival of the Fortuitous Rk. III	RoF
+98	Thwart Corruption	RoF
+98	Thwart Corruption Rk. II	RoF
+98	Thwart Corruption Rk. III	RoF
+98	Winter's Wildfire	RoF
+98	Winter's Wildfire Burn	RoF
+98	Winter's Wildfire Burn II	RoF
+98	Winter's Wildfire Burn III	RoF
+98	Winter's Wildfire Frostbite	RoF
+98	Winter's Wildfire Frostbite II	RoF
+98	Winter's Wildfire Frostbite III	RoF
+98	Winter's Wildfire Rk. II	RoF
+98	Winter's Wildfire Rk. III	RoF
+99	Chant of Jaerol	RoF
+99	Chant of Jaerol Rk. II	RoF
+99	Chant of Jaerol Rk. III	RoF
+99	Circle of Lceanium	EoK
+99	Cleansed Blood	RoF
+99	Cleansed Blood Rk. II	RoF
+99	Cleansed Blood Rk. III	RoF
+99	Frigid Moonbeam	RoF
+99	Frigid Moonbeam Rk. II	RoF
+99	Frigid Moonbeam Rk. III	RoF
+99	Frigid Thornmaw	RoF
+99	Frigid Thornmaw Rk. II	RoF
+99	Frigid Thornmaw Rk. III	RoF
+99	Husk of the Reptile	RoF
+99	Husk of the Reptile Rk. II	RoF
+99	Husk of the Reptile Rk. III	RoF
+99	Lustrous Frost	RoF
+99	Lustrous Frost Heal	RoF
+99	Lustrous Frost Heal II	RoF
+99	Lustrous Frost Heal III	RoF
+99	Lustrous Frost Rk. II	RoF
+99	Lustrous Frost Rk. III	RoF
+99	Moonfire Enervation	CotF
+99	Moonfire Enervation II	CotF
+99	Moonfire Enervation III	CotF
+99	Remote Moonfire	CotF
+99	Remote Moonfire Rk. II	CotF
+99	Remote Moonfire Rk. III	CotF
+99	Sporali Assault	RoF
+99	Sporali Assault Rk. II	RoF
+99	Sporali Assault Rk. III	RoF
+99	Summer Suncrest	RoF
+99	Summer Suncrest Rk. II	RoF
+99	Summer Suncrest Rk. III	RoF
+99	Sunbeam Blessing	RoF
+99	Sunbeam Blessing Rk. II	RoF
+99	Sunbeam Blessing Rk. III	RoF
+99	Sunbeam Blessing Trigger	RoF
+99	Sunbeam Blessing Trigger Rk. II	RoF
+99	Sunbeam Blessing Trigger Rk. III	RoF
+99	Sunblaze	RoF
+99	Sunblaze Rk. II	RoF
+99	Sunblaze Rk. III	RoF
+99	Talisman of the Steadfast	RoF
+99	Talisman of the Steadfast Rk. II	RoF
+99	Talisman of the Steadfast Rk. III	RoF
+99	Tectonic Temblor	RoF
+99	Tectonic Temblor Rk. II	RoF
+99	Tectonic Temblor Rk. III	RoF
+99	Zephyr: Lceanium	EoK
+100	Adrenaline Rush	RoF
+100	Adrenaline Rush Rk. II	RoF
+100	Adrenaline Rush Rk. III	RoF
+100	Chill of the Visionary	RoF
+100	Chill of the Visionary Rk. II	RoF
+100	Chill of the Visionary Rk. III	RoF
+100	Circle of Skyfire	RoS
+100	Circle of the Tempest	TDS
+100	Frost of the Visionary	RoF
+100	Frost of the Visionary II	RoF
+100	Frost of the Visionary III	RoF
+100	Gelid Crystals	RoF
+100	Gelid Crystals Rk. II	RoF
+100	Gelid Crystals Rk. III	RoF
+100	Granitebark Blessing	RoF
+100	Granitebark Blessing Rk. II	RoF
+100	Granitebark Blessing Rk. III	RoF
+100	Legacy of Spikethistles	RoF
+100	Legacy of Spikethistles Rk. II	RoF
+100	Legacy of Spikethistles Rk. III	RoF
+100	Lunassuage	RoF
+100	Lunassuage Rk. II	RoF
+100	Lunassuage Rk. III	RoF
+100	Mask of the Bosquetender	RoF
+100	Mask of the Bosquetender Rk. II	RoF
+100	Mask of the Bosquetender Rk. III	RoF
+100	Natural Unity	CotF
+100	Natural Unity Rk. II	CotF
+100	Natural Unity Rk. III	CotF
+100	Nature's Withering Wrath	RoF
+100	Nature's Withering Wrath Rk. II	RoF
+100	Nature's Withering Wrath Rk. III	RoF
+100	Ring of Skyfire	RoS
+100	Ring of the Tempest	TDS
+100	Stemfang Rush	RoF
+100	Stemfang Rush Rk. II	RoF
+100	Stemfang Rush Rk. III	RoF
+100	Vivification	RoF
+100	Vivification Rk. II	RoF
+100	Vivification Rk. III	RoF
+100	Zephyr: Skyfire	TDS
+100	Zephyr: Tempest Temple	TDS
+101	Beast's Bidding	TDS
+101	Beast's Bidding Rk. II	TDS
+101	Beast's Bidding Rk. III	TDS
+101	Consuming Sunray	TDS
+101	Consuming Sunray Rk. II	TDS
+101	Consuming Sunray Rk. III	TDS
+101	Copsetender's Breeze	TDS
+101	Copsetender's Breeze Rk. II	TDS
+101	Copsetender's Breeze Rk. III	TDS
+101	Crush of Ro	TDS
+101	Crush of Ro Rk. II	TDS
+101	Crush of Ro Rk. III	TDS
+101	Daggerthorn	TDS
+101	Daggerthorn Rk. II	TDS
+101	Daggerthorn Rk. III	TDS
+101	Dichotomic Winds	TBM
+101	Heliacal Pyre	TDS
+101	Heliacal Pyre Rk. II	TDS
+101	Heliacal Pyre Rk. III	TDS
+101	Nature's Response	EoK
+101	Nature's Response Rk. II	EoK
+101	Nature's Response Rk. III	EoK
+101	Nature's Serenity	TDS
+101	Nature's Serenity Rk. II	TDS
+101	Nature's Serenity Rk. III	TDS
+101	Plummeting Hail	TDS
+101	Plummeting Hail Rk. II	TDS
+101	Plummeting Hail Rk. III	TDS
+101	Ro's Reflection	TDS
+101	Ro's Reflection II	TDS
+101	Ro's Reflection III	TDS
+101	Spirit of the Faithful	TDS
+101	Spirit of the Faithful Rk. II	TDS
+101	Spirit of the Faithful Rk. III	TDS
+101	Typhoon of the Stormborn	TDS
+101	Typhoon of the Stormborn Rk. II	TDS
+101	Typhoon of the Stormborn Rk. III	TDS
+102	Blizzard Breath	TDS
+102	Blizzard Breath Rk. II	TDS
+102	Blizzard Breath Rk. III	TDS
+102	Blizzard Heal	TDS
+102	Blizzard Heal II	TDS
+102	Blizzard Heal III	TDS
+102	Bosquetender's Alliance	EoK
+102	Bosquetender's Alliance Rk. II	EoK
+102	Bosquetender's Alliance Rk. III	EoK
+102	Bosquetender's Fortitude	EoK
+102	Bosquetender's Fortitude Rk. II	EoK
+102	Bosquetender's Fortitude Rk. III	EoK
+102	Chant of the Kromtus	TDS
+102	Chant of the Kromtus Rk. II	TDS
+102	Chant of the Kromtus Rk. III	TDS
+102	Column of Ro	TDS
+102	Column of Ro Rk. II	TDS
+102	Column of Ro Rk. III	TDS
+102	Daggerspur Bulwark	TDS
+102	Daggerspur Bulwark Rk. II	TDS
+102	Daggerspur Bulwark Rk. III	TDS
+102	Ferocious Growth	TDS
+102	Ferocious Growth Rk. II	TDS
+102	Ferocious Growth Rk. III	TDS
+102	Panavida	TDS
+102	Panavida Rk. II	TDS
+102	Panavida Rk. III	TDS
+102	Promised Regeneration	TDS
+102	Promised Regeneration Rk. II	TDS
+102	Promised Regeneration Rk. III	TDS
+102	Shieldstone Skin	TDS
+102	Shieldstone Skin Rk. II	TDS
+102	Shieldstone Skin Rk. III	TDS
+102	Windborne Chill	TDS
+102	Windborne Chill Rk. II	TDS
+102	Windborne Chill Rk. III	TDS
+103	Anabatic Roar	TDS
+103	Anabatic Roar Rk. II	TDS
+103	Anabatic Roar Rk. III	TDS
+103	Daggerspur Coat	TDS
+103	Daggerspur Coat Rk. II	TDS
+103	Daggerspur Coat Rk. III	TDS
+103	Eradicate the Unnatural	TDS
+103	Eradicate the Unnatural Rk. II	TDS
+103	Eradicate the Unnatural Rk. III	TDS
+103	Frostweave Aura	TDS
+103	Frostweave Aura Rk. II	TDS
+103	Frostweave Aura Rk. III	TDS
+103	Horde of Aculeids	TDS
+103	Horde of Aculeids Rk. II	TDS
+103	Horde of Aculeids Rk. III	TDS
+103	Mystical Ways	TBM
+103	Mystical Ways Rk. II	TBM
+103	Mystical Ways Rk. III	TBM
+103	Remote Sunflash	TDS
+103	Remote Sunflash Rk. II	TDS
+103	Remote Sunflash Rk. III	TDS
+103	Sunflash Enervation	TDS
+103	Sunflash Enervation II	TDS
+103	Sunflash Enervation III	TDS
+103	Survival of the Serendipitous	TDS
+103	Survival of the Serendipitous Rk. II	TDS
+103	Survival of the Serendipitous Rk. III	TDS
+103	Unblemished Blood	TDS
+103	Unblemished Blood Rk. II	TDS
+103	Unblemished Blood Rk. III	TDS
+103	Winter's Wildflame	TDS
+103	Winter's Wildflame Burn	TDS
+103	Winter's Wildflame Burn II	TDS
+103	Winter's Wildflame Burn III	TDS
+103	Winter's Wildflame Frostbite	TDS
+103	Winter's Wildflame Frostbite II	TDS
+103	Winter's Wildflame Frostbite III	TDS
+103	Winter's Wildflame Rk. II	TDS
+103	Winter's Wildflame Rk. III	TDS
+104	Adrenaline Torrent	TDS
+104	Adrenaline Torrent Rk. II	TDS
+104	Adrenaline Torrent Rk. III	TDS
+104	Argent Moonbeam	TDS
+104	Argent Moonbeam Rk. II	TDS
+104	Argent Moonbeam Rk. III	TDS
+104	Argent Thornmaw	TDS
+104	Argent Thornmaw Rk. II	TDS
+104	Argent Thornmaw Rk. III	TDS
+104	Moonbright Frost	TDS
+104	Moonbright Frost Heal	TDS
+104	Moonbright Frost Heal II	TDS
+104	Moonbright Frost Heal III	TDS
+104	Moonbright Frost Rk. II	TDS
+104	Moonbright Frost Rk. III	TDS
+104	Moonflame Enervation	TDS
+104	Moonflame Enervation II	TDS
+104	Moonflame Enervation III	TDS
+104	Pellicle of the Reptile	TDS
+104	Pellicle of the Reptile Rk. II	TDS
+104	Pellicle of the Reptile Rk. III	TDS
+104	Remote Moonflame	TDS
+104	Remote Moonflame Rk. II	TDS
+104	Remote Moonflame Rk. III	TDS
+104	Sporali Storm	TBM
+104	Sporali Storm Rk. II	TBM
+104	Sporali Storm Rk. III	TBM
+104	Summer Sunfire	TDS
+104	Summer Sunfire Rk. II	TDS
+104	Summer Sunfire Rk. III	TDS
+104	Sunfire Blessing	TDS
+104	Sunfire Blessing Rk. II	TDS
+104	Sunfire Blessing Rk. III	TDS
+104	Sunfire Blessing Trigger	TDS
+104	Sunfire Blessing Trigger II	TDS
+104	Sunfire Blessing Trigger III	TDS
+104	Sunflash	TDS
+104	Sunflash Rk. II	TDS
+104	Sunflash Rk. III	TDS
+104	Talisman of the Faithful	TDS
+104	Talisman of the Faithful Rk. II	TDS
+104	Talisman of the Faithful Rk. III	TDS
+105	Chill of the Copsetender	TDS
+105	Chill of the Copsetender Rk. II	TDS
+105	Chill of the Copsetender Rk. III	TDS
+105	Copsetender's Unity	TDS
+105	Copsetender's Unity Rk. II	TDS
+105	Copsetender's Unity Rk. III	TDS
+105	Daggerthorn Rush	TDS
+105	Daggerthorn Rush Rk. II	TDS
+105	Daggerthorn Rush Rk. III	TDS
+105	Frost of the Copsetender	TDS
+105	Frost of the Copsetender II	TDS
+105	Frost of the Copsetender III	TDS
+105	Frostweave Crystals	TDS
+105	Frostweave Crystals Rk. II	TDS
+105	Frostweave Crystals Rk. III	TDS
+105	Legacy of Daggerspurs	TDS
+105	Legacy of Daggerspurs Rk. II	TDS
+105	Legacy of Daggerspurs Rk. III	TDS
+105	Lunasoothe	TDS
+105	Lunasoothe Rk. II	TDS
+105	Lunasoothe Rk. III	TDS
+105	Mask of the Copsetender	TDS
+105	Mask of the Copsetender Rk. II	TDS
+105	Mask of the Copsetender Rk. III	TDS
+105	Nature's Fiery Wrath	TDS
+105	Nature's Fiery Wrath Rk. II	TDS
+105	Nature's Fiery Wrath Rk. III	TDS
+105	Resurgence	TDS
+105	Resurgence Rk. II	TDS
+105	Resurgence Rk. III	TDS
+105	Shieldstone Blessing	TDS
+105	Shieldstone Blessing Rk. II	TDS
+105	Shieldstone Blessing Rk. III	TDS
+105	Tectonic Destruction	TDS
+105	Tectonic Destruction Rk. II	TDS
+105	Tectonic Destruction Rk. III	TDS
+106	Beast's Beseeching	RoS
+106	Beast's Beseeching Rk. II	RoS
+106	Beast's Beseeching Rk. III	RoS
+106	Cowl of Ro	RoS
+106	Cowl of Ro Rk. II	RoS
+106	Cowl of Ro Rk. III	RoS
+106	Dissident Winds	TBL
+106	Heliacal Eruption	RoS
+106	Heliacal Eruption Rk. II	RoS
+106	Heliacal Eruption Rk. III	RoS
+106	Nature's Quiescense	RoS
+106	Nature's Quiescense Rk. II	RoS
+106	Nature's Quiescense Rk. III	RoS
+106	Nourishing Growth	RoS
+106	Nourishing Growth Rk. II	RoS
+106	Nourishing Growth Rk. III	RoS
+106	Overwhelming Sunray	RoS
+106	Overwhelming Sunray Rk. II	RoS
+106	Overwhelming Sunray Rk. III	RoS
+106	Plunging Hail	RoS
+106	Plunging Hail Rk. II	RoS
+106	Plunging Hail Rk. III	RoS
+106	Ro's Reflection	RoS
+106	Ro's Reflection II	RoS
+106	Ro's Reflection III	RoS
+106	Spirit of the Unwavering	RoS
+106	Spirit of the Unwavering Rk. II	RoS
+106	Spirit of the Unwavering Rk. III	RoS
+106	Thornspike	RoS
+106	Thornspike Rk. II	RoS
+106	Thornspike Rk. III	RoS
+106	Thunderbolt of the Stormborn	RoS
+106	Thunderbolt of the Stormborn Rk. II	RoS
+106	Thunderbolt of the Stormborn Rk. III	RoS
+106	Wildtender's Breeze	RoS
+106	Wildtender's Breeze Rk. II	RoS
+106	Wildtender's Breeze Rk. III	RoS
+107	Arcronite Skin	RoS
+107	Arcronite Skin Rk. II	RoS
+107	Arcronite Skin Rk. III	RoS
+107	Chant of the Wulthan	RoS
+107	Chant of the Wulthan Rk. II	RoS
+107	Chant of the Wulthan Rk. III	RoS
+107	Curavida	RoS
+107	Curavida Rk. II	RoS
+107	Curavida Rk. III	RoS
+107	Daggerspike Bulwark	RoS
+107	Daggerspike Bulwark Rk. II	RoS
+107	Daggerspike Bulwark Rk. III	RoS
+107	Frostreave Breath	RoS
+107	Frostreave Breath Rk. II	RoS
+107	Frostreave Breath Rk. III	RoS
+107	Frostreave Chill	RoS
+107	Frostreave Chill Rk. II	RoS
+107	Frostreave Chill Rk. III	RoS
+107	Frostreave Heal	RoS
+107	Frostreave Heal II	RoS
+107	Frostreave Heal III	RoS
+107	Gaze of Ro	RoS
+107	Gaze of Ro Rk. II	RoS
+107	Gaze of Ro Rk. III	RoS
+107	Promised Rebirth	RoS
+107	Promised Rebirth Rk. II	RoS
+107	Promised Rebirth Rk. III	RoS
+107	Savage Growth	RoS
+107	Savage Growth Rk. II	RoS
+107	Savage Growth Rk. III	RoS
+108	Cyclonic Roar	RoS
+108	Cyclonic Roar Rk. II	RoS
+108	Cyclonic Roar Rk. III	RoS
+108	Daggerspike Coat	RoS
+108	Daggerspike Coat Rk. II	RoS
+108	Daggerspike Coat Rk. III	RoS
+108	Endure Corruption	RoS
+108	Endure Corruption Rk. II	RoS
+108	Endure Corruption Rk. III	RoS
+108	Ethereal Ways	TBL
+108	Ethereal Ways Rk. II	TBL
+108	Ethereal Ways Rk. III	TBL
+108	Expurgated Blood	RoS
+108	Expurgated Blood Rk. II	RoS
+108	Expurgated Blood Rk. III	RoS
+108	Frostreave Aura	RoS
+108	Frostreave Aura Rk. II	RoS
+108	Frostreave Aura Rk. III	RoS
+108	Horde of Polybiads	RoS
+108	Horde of Polybiads Rk. II	RoS
+108	Horde of Polybiads Rk. III	RoS
+108	Remote Sunblaze	RoS
+108	Remote Sunblaze Rk. II	RoS
+108	Remote Sunblaze Rk. III	RoS
+108	Repudiate the Unnatural	RoS
+108	Repudiate the Unnatural Rk. II	RoS
+108	Repudiate the Unnatural Rk. III	RoS
+108	Ring of Esianti	TBL
+108	Skin to Sumac	RoS
+108	Skin to Sumac Rk. II	RoS
+108	Skin to Sumac Rk. III	RoS
+108	Sunblaze Enervation	RoS
+108	Sunblaze Enervation II	RoS
+108	Sunblaze Enervation III	RoS
+108	Survival of the Auspicious	RoS
+108	Survival of the Auspicious Rk. II	RoS
+108	Survival of the Auspicious Rk. III	RoS
+108	Winter's Wildblaze	RoS
+108	Winter's Wildblaze Burn	RoS
+108	Winter's Wildblaze Burn II	RoS
+108	Winter's Wildblaze Burn III	RoS
+108	Winter's Wildblaze Frostbite	RoS
+108	Winter's Wildblaze Frostbite II	RoS
+108	Winter's Wildblaze Frostbite III	RoS
+108	Winter's Wildblaze Rk. II	RoS
+108	Winter's Wildblaze Rk. III	RoS
+109	Adrenaline Barrage	RoS
+109	Adrenaline Barrage Rk. II	RoS
+109	Adrenaline Barrage Rk. III	RoS
+109	Circle of Esianti	TBL
+109	Fungusoid Assault	TBL
+109	Fungusoid Assault Rk. II	TBL
+109	Fungusoid Assault Rk. III	TBL
+109	Glistening Frost	RoS
+109	Glistening Frost Heal	RoS
+109	Glistening Frost Heal II	RoS
+109	Glistening Frost Heal III	RoS
+109	Glistening Frost Rk. II	RoS
+109	Glistening Frost Rk. III	RoS
+109	Guard of the Reptile	RoS
+109	Guard of the Reptile Rk. II	RoS
+109	Guard of the Reptile Rk. III	RoS
+109	Moonflash Enervation	RoS
+109	Moonflash Enervation II	RoS
+109	Moonflash Enervation III	RoS
+109	Pearlescent Moonbeam	RoS
+109	Pearlescent Moonbeam Rk. II	RoS
+109	Pearlescent Moonbeam Rk. III	RoS
+109	Pearlescent Thornmaw	RoS
+109	Remote Moonflash	RoS
+109	Remote Moonflash Rk. II	RoS
+109	Remote Moonflash Rk. III	RoS
+109	Summer Sunflame	RoS
+109	Summer Sunflame Rk. II	RoS
+109	Summer Sunflame Rk. III	RoS
+109	Sunflame	RoS
+109	Sunflame Rk. II	RoS
+109	Sunflame Rk. III	RoS
+109	Sunflash Blessing	RoS
+109	Sunflash Blessing Rk. II	RoS
+109	Sunflash Blessing Rk. III	RoS
+109	Sunflash Blessing Trigger	RoS
+109	Sunflash Blessing Trigger II	RoS
+109	Sunflash Blessing Trigger III	RoS
+109	Talisman of the Unwavering	RoS
+109	Talisman of the Unwavering Rk. II	RoS
+109	Talisman of the Unwavering Rk. III	RoS
+109	Zephyr: Esianti	TBL
+110	Arcronite Blessing	RoS
+110	Arcronite Blessing Rk. II	RoS
+110	Arcronite Blessing Rk. III	RoS
+110	Chill of the Wildtender	RoS
+110	Chill of the Wildtender Rk. II	RoS
+110	Chill of the Wildtender Rk. III	RoS
+110	Frost of the Wildtender	RoS
+110	Frost of the Wildtender II	RoS
+110	Frost of the Wildtender III	RoS
+110	Frostreave Crystals	RoS
+110	Frostreave Crystals Rk. II	RoS
+110	Frostreave Crystals Rk. III	RoS
+110	Legacy of Daggerspikes	RoS
+110	Legacy of Daggerspikes Rk. II	RoS
+110	Legacy of Daggerspikes Rk. III	RoS
+110	Lunasalve	RoS
+110	Lunasalve Rk. II	RoS
+110	Lunasalve Rk. III	RoS
+110	Mask of the Wildtender	RoS
+110	Mask of the Wildtender Rk. II	RoS
+110	Mask of the Wildtender Rk. III	RoS
+110	Nature's Blistering Wrath	RoS
+110	Nature's Blistering Wrath Rk. II	RoS
+110	Nature's Blistering Wrath Rk. III	RoS
+110	Revitalization	RoS
+110	Revitalization Rk. II	RoS
+110	Revitalization Rk. III	RoS
+110	Tectonic Eruption	RoS
+110	Tectonic Eruption Rk. II	RoS
+110	Tectonic Eruption Rk. III	RoS
+110	Thornspike Rush	RoS
+110	Wildtender's Unity	RoS
+111	Beast's Beckoning	ToV
+111	Beast's Beckoning Rk. II	ToV
+111	Beast's Beckoning Rk. III	ToV
+111	Clasp of Ro	ToV
+111	Clasp of Ro Rk. II	ToV
+111	Clasp of Ro Rk. III	ToV
+111	Composite Winds	CoV
+111	Erupting Sunray	ToV
+111	Erupting Sunray Rk. II	ToV
+111	Erupting Sunray Rk. III	ToV
+111	Heliacal Embers	ToV
+111	Heliacal Embers Rk. II	ToV
+111	Heliacal Embers Rk. III	ToV
+111	Maelstrom of the Stormborn	ToV
+111	Maelstrom of the Stormborn Rk. II	ToV
+111	Maelstrom of the Stormborn Rk. III	ToV
+111	Nature's Sustenance	ToV
+111	Nature's Sustenance Rk. II	ToV
+111	Nature's Sustenance Rk. III	ToV
+111	Ro's Reflection VI Azia	ToV
+111	Ro's Reflection VI Beza	ToV
+111	Ro's Reflection VI Caza	ToV
+111	Spirit of the Enduring	ToV
+111	Sustaining Growth	ToV
+111	Sustaining Growth Rk. II	ToV
+111	Sustaining Growth Rk. III	ToV
+111	Tempestuous Hail	ToV
+111	Tempestuous Hail Rk. II	ToV
+111	Tempestuous Hail Rk. III	ToV
+111	Vinespike	ToV
+111	Vinespike Rk. II	ToV
+111	Vinespike Rk. III	ToV
+112	Frenzied Growth	ToV
+112	Frenzied Growth Rk. II	ToV
+112	Frenzied Growth Rk. III	ToV
+112	Glare of Ro	ToV
+112	Glare of Ro Rk. II	ToV
+112	Glare of Ro Rk. III	ToV
+112	Icebriar Bulwark	ToV
+112	Icerend Breath	ToV
+112	Icerend Breath Rk. II	ToV
+112	Icerend Breath Rk. III	ToV
+112	Icerend Chill	ToV
+112	Icerend Chill Rk. II	ToV
+112	Icerend Chill Rk. III	ToV
+112	Icerend Heal	ToV
+112	Icerend Heal II	ToV
+112	Icerend Heal III	ToV
+112	Nature's Reaction	CoV
+112	Nature's Reaction Rk. II	CoV
+112	Nature's Reaction Rk. III	CoV
+112	Opaline Skin	ToV
+112	Promised Refreshment	ToV
+112	Promised Refreshment Rk. II	ToV
+112	Promised Refreshment Rk. III	ToV
+112	Viridavida	ToV
+112	Viridavida Rk. II	ToV
+112	Viridavida Rk. III	ToV
+113	Enigmatic Ways	CoV
+113	Enigmatic Ways Rk. II	CoV
+113	Enigmatic Ways Rk. III	CoV
+113	Horde of Hyperboreads	ToV
+113	Horde of Hyperboreads Rk. II	ToV
+113	Horde of Hyperboreads Rk. III	ToV
+113	Icebriar Coat	ToV
+113	Icebriar Coat Rk. II	ToV
+113	Icebriar Coat Rk. III	ToV
+113	Icerend Aura	ToV
+113	Icerend Aura Rk. II	ToV
+113	Icerend Aura Rk. III	ToV
+113	Obliterate the Unnatural	ToV
+113	Obliterate the Unnatural Rk. II	ToV
+113	Obliterate the Unnatural Rk. III	ToV
+113	Remote Sunshock	ToV
+113	Remote Sunshock Rk. II	ToV
+113	Remote Sunshock Rk. III	ToV
+113	Ring of Cobalt Scar	CoV
+113	Ring of The Great Divide	ToV
+113	Sunshock Enervation	ToV
+113	Sunshock Enervation II	ToV
+113	Sunshock Enervation III	ToV
+113	Survival of the Favored	ToV
+113	Survival of the Favored Rk. II	ToV
+113	Survival of the Favored Rk. III	ToV
+113	Typhonic Roar	ToV
+113	Typhonic Roar Rk. II	ToV
+113	Typhonic Roar Rk. III	ToV
+113	Winter's Wildshock	ToV
+113	Winter's Wildshock Burn	ToV
+113	Winter's Wildshock Burn II	ToV
+113	Winter's Wildshock Burn III	ToV
+113	Winter's Wildshock Frostbite	ToV
+113	Winter's Wildshock Frostbite II	ToV
+113	Winter's Wildshock Frostbite III	ToV
+113	Winter's Wildshock Rk. II	ToV
+113	Winter's Wildshock Rk. III	ToV
+114	Adrenaline Deluge	ToV
+114	Adrenaline Deluge Rk. II	ToV
+114	Adrenaline Deluge Rk. III	ToV
+114	Chytrid Assault	CoV
+114	Chytrid Assault Rk. II	CoV
+114	Chytrid Assault Rk. III	CoV
+114	Circle of Cobalt Scar	CoV
+114	Circle of The Great Divide	ToV
+114	Defense of the Reptile	ToV
+114	Defense of the Reptile Rk. II	ToV
+114	Defense of the Reptile Rk. III	ToV
+114	Moonrake Enervation	ToV
+114	Moonrake Enervation II	ToV
+114	Moonrake Enervation III	ToV
+114	Opaline Moonbeam	ToV
+114	Opaline Moonbeam Rk. II	ToV
+114	Opaline Moonbeam Rk. III	ToV
+114	Opaline Thornmaw	ToV
+114	Remote Moonrake	ToV
+114	Remote Moonrake Rk. II	ToV
+114	Remote Moonrake Rk. III	ToV
+114	Restless Frost	ToV
+114	Restless Frost Heal	ToV
+114	Restless Frost Heal II	ToV
+114	Restless Frost Heal III	ToV
+114	Restless Frost Rk. II	ToV
+114	Restless Frost Rk. III	ToV
+114	Ring of Shadeweaver's Tangle	NoS
+114	Summer Sunshock	ToV
+114	Summer Sunshock Rk. II	ToV
+114	Summer Sunshock Rk. III	ToV
+114	Sunrake Blessing	ToV
+114	Sunrake Blessing Rk. II	ToV
+114	Sunrake Blessing Rk. III	ToV
+114	Sunrake Blessing Trigger	ToV
+114	Sunrake Blessing Trigger II	ToV
+114	Sunrake Blessing Trigger III	ToV
+114	Sunshock	ToV
+114	Sunshock Rk. II	ToV
+114	Sunshock Rk. III	ToV
+114	Talisman of the Enduring	ToV
+114	Zephyr: Cobalt Scar	CoV
+114	Zephyr: The Great Divide	ToV
+115	Arbor Tender's Coalition	CoV
+115	Arbor Tender's Coalition Rk. II	CoV
+115	Arbor Tender's Coalition Rk. III	CoV
+115	Chill of the Arbor Tender	ToV
+115	Chill of the Arbor Tender Rk. II	ToV
+115	Chill of the Arbor Tender Rk. III	ToV
+115	Circle of Shadeweaver's Tangle	ToV
+115	Frost of the Arbor Tender	ToV
+115	Frost of the Arbor Tender II	ToV
+115	Frost of the Arbor Tender III	ToV
+115	Icerend Crystals	ToV
+115	Icerend Crystals Rk. II	ToV
+115	Icerend Crystals Rk. III	ToV
+115	Legacy of Icebriars	ToV
+115	Lunalesce	ToV
+115	Lunalesce Rk. II	ToV
+115	Lunalesce Rk. III	ToV
+115	Mask of the Arbor Tender	ToV
+115	Mask of the Arbor Tender Rk. II	ToV
+115	Mask of the Arbor Tender Rk. III	ToV
+115	Nature's Fervid Wrath	ToV
+115	Nature's Fervid Wrath Rk. II	ToV
+115	Nature's Fervid Wrath Rk. III	ToV
+115	Opaline Blessing	ToV
+115	Rejuvenescence	ToV
+115	Rejuvenescence Rk. II	ToV
+115	Rejuvenescence Rk. III	ToV
+115	Ring of Shadow Valley	ToL
+115	Tectonic Frostheave	ToV
+115	Tectonic Frostheave Rk. II	ToV
+115	Tectonic Frostheave Rk. III	ToV
+115	Vinespike Rush	ToV
+115	Zephyr: Shadeweaver's Tangle	ToV
+116	Beast's Bellowing	ToL
+116	Beast's Bellowing Rk. II	ToL
+116	Beast's Bellowing Rk. III	ToL
+116	Bedlam of the Stormborn	ToL
+116	Bedlam of the Stormborn Rk. II	ToL
+116	Bedlam of the Stormborn Rk. III	ToL
+116	Bolstered Growth	ToL
+116	Bolstered Growth Rk. II	ToL
+116	Bolstered Growth Rk. III	ToL
+116	Cinch of Ro	ToL
+116	Cinch of Ro Rk. II	ToL
+116	Cinch of Ro Rk. III	ToL
+116	Circle of Shadow Valley	ToL
+116	Duskthorn	ToL
+116	Duskthorn Rk. II	ToL
+116	Duskthorn Rk. III	ToL
+116	Ecliptic Winds	NoS
+116	Heliacal Conflagration	ToL
+116	Heliacal Conflagration Rk. II	ToL
+116	Heliacal Conflagration Rk. III	ToL
+116	Howling Hail	ToL
+116	Howling Hail Rk. II	ToL
+116	Howling Hail Rk. III	ToL
+116	Nature's Succor	ToL
+116	Nature's Succor Rk. II	ToL
+116	Nature's Succor Rk. III	ToL
+116	Nightwhisper's Breeze	ToL
+116	Nightwhisper's Breeze Rk. II	ToL
+116	Nightwhisper's Breeze Rk. III	ToL
+116	Ro's Reflection VII Azia	ToL
+116	Ro's Reflection VII Beza	ToL
+116	Ro's Reflection VII Caza	ToL
+116	Spirit of the Tenacious	ToL
+116	Tenebrous Sunray	ToL
+116	Tenebrous Sunray Rk. II	ToL
+116	Tenebrous Sunray Rk. III	ToL
+116	Zephyr: Shadow Valley	ToL
+117	Chant of the Zelniak	ToL
+117	Chant of the Zelniak Rk. II	ToL
+117	Chant of the Zelniak Rk. III	ToL
+117	Clotavida	ToL
+117	Clotavida Rk. II	ToL
+117	Clotavida Rk. III	ToL
+117	Fervent Growth	ToL
+117	Fervent Growth Rk. II	ToL
+117	Fervent Growth Rk. III	ToL
+117	Luclinite Skin	ToL
+117	Nightspire Bulwark	ToL
+117	Promised Revivification	ToL
+117	Promised Revivification Rk. II	ToL
+117	Promised Revivification Rk. III	ToL
+117	Scrutiny of Ro	ToL
+117	Scrutiny of Ro Rk. II	ToL
+117	Scrutiny of Ro Rk. III	ToL
+117	Twilight Breath	ToL
+117	Twilight Breath Rk. II	ToL
+117	Twilight Breath Rk. III	ToL
+117	Twilight Chill	ToL
+117	Twilight Chill Rk. II	ToL
+117	Twilight Chill Rk. III	ToL
+117	Twilight Heal	ToL
+117	Twilight Heal II	ToL
+117	Twilight Heal III	ToL
+118	Bloody Roar	ToL
+118	Bloody Roar Rk. II	ToL
+118	Bloody Roar Rk. III	ToL
+118	Deny Corruption	ToL
+118	Deny Corruption Rk. II	ToL
+118	Deny Corruption Rk. III	ToL
+118	Horde of Duskwigs	ToL
+118	Horde of Duskwigs Rk. II	ToL
+118	Horde of Duskwigs Rk. III	ToL
+118	Nightchill Aura	ToL
+118	Nightchill Aura Rk. II	ToL
+118	Nightchill Aura Rk. III	ToL
+118	Remote Sunbolt	ToL
+118	Remote Sunbolt Rk. II	ToL
+118	Remote Sunbolt Rk. III	ToL
+118	Sanctified Blood	ToL
+118	Sanctified Blood Rk. II	ToL
+118	Sanctified Blood Rk. III	ToL
+118	Shadespine Coat	ToL
+118	Shadespine Coat Rk. II	ToL
+118	Shadespine Coat Rk. III	ToL
+118	Shadowy Ways	NoS
+118	Shadowy Ways Rk. II	NoS
+118	Shadowy Ways Rk. III	NoS
+118	Skin to Lichen	ToL
+118	Skin to Lichen Rk. II	ToL
+118	Skin to Lichen Rk. III	ToL
+118	Sunbolt Enervation	ToL
+118	Sunbolt Enervation II	ToL
+118	Sunbolt Enervation III	ToL
+118	Survival of the Unrelenting	ToL
+118	Survival of the Unrelenting Rk. II	ToL
+118	Survival of the Unrelenting Rk. III	ToL
+118	Unmend the Unnatural	ToL
+118	Unmend the Unnatural Rk. II	ToL
+118	Unmend the Unnatural Rk. III	ToL
+118	Winter's Wildbrume	ToL
+118	Winter's Wildbrume Burn	ToL
+118	Winter's Wildbrume Burn II	ToL
+118	Winter's Wildbrume Burn III	ToL
+118	Winter's Wildbrume Frostbite	ToL
+118	Winter's Wildbrume Frostbite II	ToL
+118	Winter's Wildbrume Frostbite III	ToL
+118	Winter's Wildbrume Rk. II	ToL
+118	Winter's Wildbrume Rk. III	ToL
+119	Adrenaline Spate	ToL
+119	Adrenaline Spate Rk. II	ToL
+119	Adrenaline Spate Rk. III	ToL
+119	Bloodied Thornmaw	ToL
+119	Bulwark of the Reptile	ToL
+119	Bulwark of the Reptile Rk. II	ToL
+119	Bulwark of the Reptile Rk. III	ToL
+119	Onyx Moonbeam	ToL
+119	Onyx Moonbeam Rk. II	ToL
+119	Onyx Moonbeam Rk. III	ToL
+119	Primal Frost	ToL
+119	Primal Frost Heal	ToL
+119	Primal Frost Heal II	ToL
+119	Primal Frost Heal III	ToL
+119	Primal Frost Rk. II	ToL
+119	Primal Frost Rk. III	ToL
+119	Remote Moonchill	ToL
+119	Remote Moonchill Enervation	ToL
+119	Remote Moonchill Enervation II	ToL
+119	Remote Moonchill Enervation III	ToL
+119	Remote Moonchill Rk. II	ToL
+119	Remote Moonchill Rk. III	ToL
+119	Saprophyte Assault	NoS
+119	Saprophyte Assault Rk. II	NoS
+119	Saprophyte Assault Rk. III	NoS
+119	Summer Sunpyre	ToL
+119	Summer Sunpyre Rk. II	ToL
+119	Summer Sunpyre Rk. III	ToL
+119	Sunpyre	ToL
+119	Sunpyre Rk. II	ToL
+119	Sunpyre Rk. III	ToL
+119	Sunwarmth Blessing	ToL
+119	Sunwarmth Blessing Rk. II	ToL
+119	Sunwarmth Blessing Rk. III	ToL
+119	Sunwarmth Blessing Trigger	ToL
+119	Sunwarmth Blessing Trigger II	ToL
+119	Sunwarmth Blessing Trigger III	ToL
+119	Talisman of the Tenacious	ToL
+120	Arboreal Atonement	NoS
+120	Arboreal Atonement Rk. II	NoS
+120	Arboreal Atonement Rk. III	NoS
+120	Bloodspike Rush	ToL
+120	Chill of the Dusksage Tender	ToL
+120	Chill of the Dusksage Tender Rk. II	ToL
+120	Chill of the Dusksage Tender Rk. III	ToL
+120	Frost of the Dusksage Tender	ToL
+120	Frost of the Dusksage Tender II	ToL
+120	Frost of the Dusksage Tender III	ToL
+120	Legacy of Bloodspikes	ToL
+120	Luclinite Blessing	ToL
+120	Lunarush	ToL
+120	Lunarush Rk. II	ToL
+120	Lunarush Rk. III	ToL
+120	Mask of the Dusksage Tender	ToL
+120	Mask of the Dusksage Tender Rk. II	ToL
+120	Mask of the Dusksage Tender Rk. III	ToL
+120	Moonwhisper Crystals	ToL
+120	Moonwhisper Crystals Rk. II	ToL
+120	Moonwhisper Crystals Rk. III	ToL
+120	Nature's Sweltering Wrath	ToL
+120	Nature's Sweltering Wrath Rk. II	ToL
+120	Nature's Sweltering Wrath Rk. III	ToL
+120	Ring of Laurion	LS
+120	Sootheseance	ToL
+120	Sootheseance Rk. II	ToL
+120	Sootheseance Rk. III	ToL
+120	Tectonic Shadowvent	ToL
+120	Tectonic Shadowvent Rk. II	ToL
+120	Tectonic Shadowvent Rk. III	ToL
+121	Beast's Bestowing	LS
+121	Beast's Bestowing Rk. II	LS
+121	Beast's Bestowing Rk. III	LS
+121	Circle of Laurion	LS
+121	Clench of Ro	LS
+121	Clench of Ro Rk. II	LS
+121	Clench of Ro Rk. III	LS
+121	Emboldened Growth	LS
+121	Emboldened Growth Rk. II	LS
+121	Emboldened Growth Rk. III	LS
+121	Frondbarb	LS
+121	Frondbarb Rk. II	LS
+121	Frondbarb Rk. III	LS
+121	Nature's Empathy	LS
+121	Nature's Empathy Rk. II	LS
+121	Nature's Empathy Rk. III	LS
+121	Revelry of the Stormborn	LS
+121	Revelry of the Stormborn Rk. II	LS
+121	Revelry of the Stormborn Rk. III	LS
+121	Ro's Reflection VIII Azia	LS
+121	Ro's Reflection VIII Beza	LS
+121	Ro's Reflection VIII Caza	LS
+121	Searing Sunray	LS
+121	Searing Sunray Rk. II	LS
+121	Searing Sunray Rk. III	LS
+121	Spirit of the Unforgettable	LS
+121	Unrelenting Hail	LS
+121	Unrelenting Hail Rk. II	LS
+121	Unrelenting Hail Rk. III	LS
+121	Zephyr: Laurion	LS
+122	Algid Breath	LS
+122	Algid Breath Rk. II	LS
+122	Algid Breath Rk. III	LS
+122	Algid Heal	LS
+122	Algid Heal II	LS
+122	Algid Heal III	LS
+122	Bramblespike Bulwark	LS
+122	Dismantle the Unnatural	LS
+122	Dismantle the Unnatural Rk. II	LS
+122	Dismantle the Unnatural Rk. III	LS
+122	Emberquartz Skin	LS
+122	Forlorn Chill	LS
+122	Forlorn Chill Rk. II	LS
+122	Forlorn Chill Rk. III	LS
+122	Heliacal Immolation	LS
+122	Heliacal Immolation Rk. II	LS
+122	Heliacal Immolation Rk. III	LS
+122	Overwhelming Growth	LS
+122	Overwhelming Growth Rk. II	LS
+122	Overwhelming Growth Rk. III	LS
+122	Promised Regrowth	LS
+122	Promised Regrowth Rk. II	LS
+122	Promised Regrowth Rk. III	LS
+122	Visage of Ro	LS
+122	Visage of Ro Rk. II	LS
+122	Visage of Ro Rk. III	LS
+122	Vivavida	LS
+122	Vivavida Rk. II	LS
+122	Vivavida Rk. III	LS
+123	Bramblespike Coat	LS
+123	Bramblespike Coat Rk. II	LS
+123	Bramblespike Coat Rk. III	LS
+123	Coldburst Aura	LS
+123	Coldburst Aura Rk. II	LS
+123	Coldburst Aura Rk. III	LS
+123	Horde of Hotaria	LS
+123	Horde of Hotaria Rk. II	LS
+123	Horde of Hotaria Rk. III	LS
+123	Remote Sunscorch	LS
+123	Remote Sunscorch Rk. II	LS
+123	Remote Sunscorch Rk. III	LS
+123	Sunbliss Blessing	LS
+123	Sunbliss Blessing Rk. II	LS
+123	Sunbliss Blessing Rk. III	LS
+123	Sunbliss Blessing Trigger	LS
+123	Sunbliss Blessing Trigger II	LS
+123	Sunbliss Blessing Trigger III	LS
+123	Sunscorch Enervation	LS
+123	Sunscorch Enervation II	LS
+123	Sunscorch Enervation III	LS
+123	Survival of the Heroic	LS
+123	Survival of the Heroic Rk. II	LS
+123	Survival of the Heroic Rk. III	LS
+123	Tempest Roar	LS
+123	Tempest Roar Rk. II	LS
+123	Tempest Roar Rk. III	LS
+123	Winter's Wildgale	LS
+123	Winter's Wildgale Burn	LS
+123	Winter's Wildgale Burn II	LS
+123	Winter's Wildgale Burn III	LS
+123	Winter's Wildgale Frostbite	LS
+123	Winter's Wildgale Frostbite II	LS
+123	Winter's Wildgale Frostbite III	LS
+123	Winter's Wildgale Rk. II	LS
+123	Winter's Wildgale Rk. III	LS
+124	Adrenaline Fury	LS
+124	Adrenaline Fury Rk. II	LS
+124	Adrenaline Fury Rk. III	LS
+124	Chitin of the Reptile	LS
+124	Chitin of the Reptile Rk. II	LS
+124	Chitin of the Reptile Rk. III	LS
+124	Moonshiver Enervation	LS
+124	Moonshiver Enervation II	LS
+124	Moonshiver Enervation III	LS
+124	Mythic Frost	LS
+124	Mythic Frost Heal	LS
+124	Mythic Frost Heal II	LS
+124	Mythic Frost Heal III	LS
+124	Mythic Frost Rk. II	LS
+124	Mythic Frost Rk. III	LS
+124	Mythical Moonbeam	LS
+124	Mythical Moonbeam Rk. II	LS
+124	Mythical Moonbeam Rk. III	LS
+124	Mythical Thornmaw	LS
+124	Remote Moonshiver	LS
+124	Remote Moonshiver Rk. II	LS
+124	Remote Moonshiver Rk. III	LS
+124	Summer Sunscald	LS
+124	Summer Sunscald Rk. II	LS
+124	Summer Sunscald Rk. III	LS
+124	Sunscald	LS
+124	Sunscald Rk. II	LS
+124	Sunscald Rk. III	LS
+124	Talisman of the Unforgettable	LS
+125	Chill of the Ferntender	LS
+125	Chill of the Ferntender Rk. II	LS
+125	Chill of the Ferntender Rk. III	LS
+125	Coldbite Crystals	LS
+125	Coldbite Crystals Rk. II	LS
+125	Coldbite Crystals Rk. III	LS
+125	Emberquartz Blessing	LS
+125	Frondbarb Rush	LS
+125	Frost of the Ferntender	LS
+125	Frost of the Ferntender II	LS
+125	Frost of the Ferntender III	LS
+125	Legacy of Bramblespikes	LS
+125	Lunacea	LS
+125	Lunacea Rk. II	LS
+125	Lunacea Rk. III	LS
+125	Mask of the Ferntender	LS
+125	Mask of the Ferntender Rk. II	LS
+125	Mask of the Ferntender Rk. III	LS
+125	Nature's Boiling Wrath	LS
+125	Nature's Boiling Wrath Rk. II	LS
+125	Nature's Boiling Wrath Rk. III	LS
+125	Resuscitation	LS
+125	Resuscitation Rk. II	LS
+125	Resuscitation Rk. III	LS
+125	Tectonic Bedlam	LS
+125	Tectonic Bedlam Rk. II	LS
+125	Tectonic Bedlam Rk. III	LS
+250	Composite North Wind 1	CoV
+250	Composite North Wind 2	CoV
+250	Composite North Wind 3	CoV
+250	Composite North Wind 4	CoV
+250	Composite North Wind 5	CoV
+250	Composite North Wind 6	CoV
+250	Composite South Wind 1	CoV
+250	Composite South Wind 2	CoV
+250	Composite South Wind 3	CoV
+250	Composite South Wind 4	CoV
+250	Composite South Wind 5	CoV
+250	Composite South Wind 6	CoV
+250	Dissident North Wind 1	TBL
+250	Dissident North Wind 2	TBL
+250	Dissident North Wind 3	TBL
+250	Dissident North Wind 4	TBL
+250	Dissident North Wind 5	TBL
+250	Dissident North Wind 6	TBL
+250	Dissident South Wind 1	TBL
+250	Dissident South Wind 2	TBL
+250	Dissident South Wind 3	TBL
+250	Dissident South Wind 4	TBL
+250	Dissident South Wind 5	TBL
+250	Dissident South Wind 6	TBL
+250	Ecliptic North Wind 1	NoS
+250	Ecliptic North Wind 2	NoS
+250	Ecliptic North Wind 3	NoS
+250	Ecliptic North Wind 4	NoS
+250	Ecliptic North Wind 5	NoS
+250	Ecliptic North Wind 6	NoS
+250	Ecliptic South Wind 1	NoS
+250	Ecliptic South Wind 2	NoS
+250	Ecliptic South Wind 3	NoS
+250	Ecliptic South Wind 4	NoS
+250	Ecliptic South Wind 5	NoS
+250	Ecliptic South Wind 6	NoS
+250	Wind of the North 1	TBM
+250	Wind of the North 2	TBM
+250	Wind of the North 3	TBM
+250	Wind of the North 4	TBM
+250	Wind of the North 5	TBM
+250	Wind of the North 6	TBM
+250	Wind of the South 1	TBM
+250	Wind of the South 2	TBM
+250	Wind of the South 3	TBM
+250	Wind of the South 4	TBM
+250	Wind of the South 5	TBM
+250	Wind of the South 6	TBM

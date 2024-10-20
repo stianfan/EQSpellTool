@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bik460sf50ont"
+path="res://.godot/imported/Shaman.gif-a675aa08f9ba0f950253d5e766ded9e1.tres"
+
+[deps]
+
+source_file="res://Shaman.gif"
+dest_files=["res://.godot/imported/Shaman.gif-a675aa08f9ba0f950253d5e766ded9e1.tres"]
+
+[params]
+
+frames_per_second=30

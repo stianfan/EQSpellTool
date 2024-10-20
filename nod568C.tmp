@@ -1,0 +1,126 @@
+[gd_scene load_steps=4 format=3 uid="uid://5uj3n0s8lrfc"]
+
+[ext_resource type="Script" path="res://node.gd" id="1_2jdkj"]
+[ext_resource type="FontFile" uid="uid://defsafq4ifxdd" path="res://fonticon.ttf" id="2_4pmkb"]
+[ext_resource type="FontFile" uid="uid://cfpggsjysbp6h" path="res://Hack-Regular.ttf" id="2_kwno2"]
+
+[node name="Node" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_2jdkj")
+
+[node name="FileDialogGameDir" type="FileDialog" parent="."]
+unique_name_in_owner = true
+title = "Open a Directory"
+borderless = true
+popup_window = true
+ok_button_text = "Select Current Folder"
+file_mode = 2
+access = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_top = 28
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+alignment = 1
+
+[node name="ItemListFiles" type="ItemList" parent="MarginContainer/HBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(200, 500)
+layout_mode = 2
+item_count = 1
+item_0/text = "nothing found"
+item_0/selectable = false
+
+[node name="ItemListSpells" type="ItemList" parent="MarginContainer/HBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(400, 0)
+layout_mode = 2
+theme_override_constants/v_separation = 3
+theme_override_constants/h_separation = 10
+theme_override_fonts/font = ExtResource("2_kwno2")
+item_count = 2
+max_columns = 2
+item_0/text = " "
+item_1/text = " "
+
+[node name="ItemList" type="ItemList" parent="MarginContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -1152.0
+offset_top = -23.0
+grow_horizontal = 0
+grow_vertical = 0
+text = " 0 spells"
+horizontal_alignment = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_bottom = 24.0
+grow_horizontal = 2
+
+[node name="ButtonUpdate" type="Button" parent="HBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_4pmkb")
+text = ""
+
+[node name="ButtonSetGameDir" type="Button" parent="HBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_4pmkb")
+text = ""
+
+[node name="LabelGameDir" type="Label" parent="HBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+vertical_alignment = 1
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -80.0
+offset_bottom = 24.0
+grow_horizontal = 0
+alignment = 2
+
+[node name="ButtonConfig" type="Button" parent="HBoxContainer2"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_4pmkb")
+text = ""
+
+[node name="ButtonMinimize" type="Button" parent="HBoxContainer2"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_4pmkb")
+text = ""
+
+[node name="ButtonQuit" type="Button" parent="HBoxContainer2"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_4pmkb")
+text = ""
+
+[connection signal="dir_selected" from="FileDialogGameDir" to="." method="_on_file_dialog_game_dir_dir_selected"]
+[connection signal="item_selected" from="MarginContainer/HBoxContainer/ItemListFiles" to="." method="_on_item_list_files_item_selected"]
+[connection signal="gui_input" from="HBoxContainer" to="." method="_on_h_box_container_gui_input"]
+[connection signal="pressed" from="HBoxContainer/ButtonUpdate" to="." method="_on_button_update_pressed"]
+[connection signal="pressed" from="HBoxContainer/ButtonSetGameDir" to="." method="_on_button_set_game_dir_pressed"]
+[connection signal="pressed" from="HBoxContainer2/ButtonMinimize" to="." method="_on_button_minimize_pressed"]
+[connection signal="pressed" from="HBoxContainer2/ButtonQuit" to="." method="_on_button_quit_pressed"]

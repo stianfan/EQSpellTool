@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://b2giqflkcsnq7"
+path="res://.godot/imported/Warrior.gif-86a6e8661e4d8611ace571bd1e136e5e.tres"
+
+[deps]
+
+source_file="res://Warrior.gif"
+dest_files=["res://.godot/imported/Warrior.gif-86a6e8661e4d8611ace571bd1e136e5e.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://b0l0g2svnud5"
+path="res://.godot/imported/Wizard.gif-f62bcc85a3d6f1fc0bfe5c52c48f304f.tres"
+
+[deps]
+
+source_file="res://Wizard.gif"
+dest_files=["res://.godot/imported/Wizard.gif-f62bcc85a3d6f1fc0bfe5c52c48f304f.tres"]
+
+[params]
+
+frames_per_second=30

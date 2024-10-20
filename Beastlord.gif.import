@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://qw2t6vl17ufg"
+path="res://.godot/imported/Beastlord.gif-2880e45398a8acf49bb2a96d0e38e2c8.tres"
+
+[deps]
+
+source_file="res://Beastlord.gif"
+dest_files=["res://.godot/imported/Beastlord.gif-2880e45398a8acf49bb2a96d0e38e2c8.tres"]
+
+[params]
+
+frames_per_second=30

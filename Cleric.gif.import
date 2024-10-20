@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cy5x48svx3axt"
+path="res://.godot/imported/Cleric.gif-5e1551b8c90ce7cc03fdd2d16bf5c355.tres"
+
+[deps]
+
+source_file="res://Cleric.gif"
+dest_files=["res://.godot/imported/Cleric.gif-5e1551b8c90ce7cc03fdd2d16bf5c355.tres"]
+
+[params]
+
+frames_per_second=30

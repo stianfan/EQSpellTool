@@ -1,0 +1,57 @@
+[gd_scene load_steps=2 format=3 uid="uid://5uj3n0s8lrfc"]
+
+[ext_resource type="Script" path="res://node.gd" id="1_2jdkj"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_2jdkj")
+
+[node name="FileDialogGameDir" type="FileDialog" parent="."]
+unique_name_in_owner = true
+title = "Set Game Directory"
+borderless = true
+popup_window = true
+ok_button_text = "Select Game Folder"
+file_mode = 2
+access = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+anchors_preset = 10
+anchor_right = 1.0
+offset_bottom = 31.0
+grow_horizontal = 2
+alignment = 1
+
+[node name="MarginContainer" type="MarginContainer" parent="HBoxContainer"]
+layout_mode = 2
+
+[node name="ButtonSetGameDir" type="Button" parent="HBoxContainer"]
+layout_mode = 2
+text = "Game Dir"
+
+[node name="LabelGameDir" type="Label" parent="HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "<--- Please set game directory"
+
+[node name="ItemListFiles" type="ItemList" parent="."]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(300, 500)
+offset_left = 42.0
+offset_top = 42.0
+offset_right = 342.0
+offset_bottom = 542.0
+item_count = 1
+item_0/text = "nothing found"
+item_0/selectable = false
+
+[node name="ItemListSpells" type="ItemList" parent="."]
+unique_name_in_owner = true
+offset_left = 365.0
+offset_top = 45.0
+offset_right = 994.0
+offset_bottom = 543.0
+max_columns = 2
+
+[connection signal="dir_selected" from="FileDialogGameDir" to="." method="_on_file_dialog_game_dir_dir_selected"]
+[connection signal="pressed" from="HBoxContainer/ButtonSetGameDir" to="." method="_on_button_set_game_dir_pressed"]
+[connection signal="item_selected" from="ItemListFiles" to="." method="_on_item_list_files_item_selected"]

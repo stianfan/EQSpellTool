@@ -1,0 +1,461 @@
+[gd_scene load_steps=23 format=3 uid="uid://5uj3n0s8lrfc"]
+
+[ext_resource type="Script" path="res://node.gd" id="1_2jdkj"]
+[ext_resource type="SpriteFrames" uid="uid://cgc4baeu26pvp" path="res://Bard.gif" id="2_4a67k"]
+[ext_resource type="FontFile" uid="uid://defsafq4ifxdd" path="res://fonticon.ttf" id="2_4pmkb"]
+[ext_resource type="FontFile" uid="uid://cfpggsjysbp6h" path="res://Hack-Regular.ttf" id="2_kwno2"]
+[ext_resource type="Theme" uid="uid://bmh4r2y8ved21" path="res://eq.theme" id="3_x8kth"]
+[ext_resource type="SpriteFrames" uid="uid://qw2t6vl17ufg" path="res://Beastlord.gif" id="5_cgm3w"]
+[ext_resource type="SpriteFrames" uid="uid://ck8mhn8uvq0qn" path="res://Berserker.gif" id="6_e54jc"]
+[ext_resource type="SpriteFrames" uid="uid://cy5x48svx3axt" path="res://Cleric.gif" id="7_ve67m"]
+[ext_resource type="SpriteFrames" uid="uid://brn5dchjhaayy" path="res://Druid.gif" id="8_1cv22"]
+[ext_resource type="SpriteFrames" uid="uid://cvbnph82f0umc" path="res://Enchanter.gif" id="9_o4e3p"]
+[ext_resource type="SpriteFrames" uid="uid://eo8s8rogvhrc" path="res://Magician.gif" id="10_adljb"]
+[ext_resource type="SpriteFrames" uid="uid://lgp534va8j78" path="res://Monk.gif" id="11_wxbe8"]
+[ext_resource type="SpriteFrames" uid="uid://da325srg0uaqu" path="res://Necromancer.gif" id="12_r18nd"]
+[ext_resource type="SpriteFrames" uid="uid://cn7gygehlbet7" path="res://Paladin.gif" id="13_lfdyh"]
+[ext_resource type="SpriteFrames" uid="uid://b8jdlx8anyy7a" path="res://Ranger.gif" id="14_srrp1"]
+[ext_resource type="SpriteFrames" uid="uid://bqm4e1gc3517y" path="res://Rogue.gif" id="15_woyhe"]
+[ext_resource type="SpriteFrames" uid="uid://clv7yk5snyfeg" path="res://Shadowknight.gif" id="16_ru4fs"]
+[ext_resource type="SpriteFrames" uid="uid://bik460sf50ont" path="res://Shaman.gif" id="17_rxgj3"]
+[ext_resource type="SpriteFrames" uid="uid://b2giqflkcsnq7" path="res://Warrior.gif" id="18_set3d"]
+[ext_resource type="SpriteFrames" uid="uid://b0l0g2svnud5" path="res://Wizard.gif" id="19_5f7v0"]
+[ext_resource type="FontFile" uid="uid://cotd6bycfkg73" path="res://Hack-Bold.ttf" id="21_1u0a3"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_7ue8i"]
+bg_color = Color(0, 0, 0, 1)
+border_color = Color(0, 0, 0, 1)
+corner_detail = 1
+
+[node name="Node" type="Node"]
+script = ExtResource("1_2jdkj")
+
+[node name="Panel" type="Panel" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="FileDialogGameDir" type="FileDialog" parent="."]
+unique_name_in_owner = true
+title = "Open a Directory"
+borderless = true
+popup_window = true
+ok_button_text = "Select Current Folder"
+file_mode = 2
+access = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/HBoxContainer"]
+layout_mode = 2
+alignment = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/HBoxContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="MarginContainer" type="MarginContainer" parent="MarginContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+theme_override_constants/margin_top = 36
+
+[node name="ItemListFiles" type="ItemList" parent="MarginContainer/HBoxContainer/VBoxContainer/HBoxContainer/MarginContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(250, 200)
+layout_mode = 2
+theme = ExtResource("3_x8kth")
+theme_override_fonts/font = ExtResource("2_kwno2")
+allow_reselect = true
+item_count = 1
+item_0/text = "nothing found"
+item_0/selectable = false
+
+[node name="ItemListSpells" type="ItemList" parent="MarginContainer/HBoxContainer/VBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(460, 420)
+layout_mode = 2
+theme = ExtResource("3_x8kth")
+theme_override_constants/v_separation = 3
+theme_override_constants/h_separation = 10
+theme_override_fonts/font = ExtResource("2_kwno2")
+max_columns = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="MarginContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Panel" type="Panel" parent="MarginContainer/HBoxContainer/MarginContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+theme = ExtResource("3_x8kth")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/HBoxContainer/MarginContainer/Panel"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+alignment = 1
+
+[node name="ButtonBard" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Bard"
+
+[node name="ButtonBeastlord" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Beastlord"
+
+[node name="ButtonBerserker" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Berserker"
+
+[node name="ButtonCleric" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Cleric"
+
+[node name="ButtonDruid" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Druid"
+
+[node name="ButtonEnchanter" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Enchanter"
+
+[node name="ButtonMagician" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Magician"
+
+[node name="ButtonMonk" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Monk"
+
+[node name="ButtonNecromancer" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Necromancer"
+
+[node name="ButtonPaladin" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Paladin"
+
+[node name="ButtonRanger" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Ranger"
+
+[node name="ButtonRogue" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Rogue
+"
+
+[node name="ButtonShadowknight" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Shadowknight
+"
+
+[node name="ButtonShaman" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Shaman
+"
+
+[node name="ButtonWarrior" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Warrior"
+
+[node name="ButtonWizard" type="Button" parent="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer"]
+custom_minimum_size = Vector2(110, 32)
+layout_mode = 2
+text = "Wizard
+"
+
+[node name="ItemList" type="ItemList" parent="MarginContainer/HBoxContainer/MarginContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+theme = ExtResource("3_x8kth")
+theme_override_fonts/font = ExtResource("2_kwno2")
+
+[node name="PopupPanel" type="PopupPanel" parent="."]
+title = "settings"
+initial_position = 2
+size = Vector2i(640, 420)
+max_size = Vector2i(640, 420)
+theme_override_styles/panel = SubResource("StyleBoxFlat_7ue8i")
+
+[node name="MarginContainer" type="MarginContainer" parent="PopupPanel"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PopupPanel/MarginContainer"]
+layout_mode = 2
+alignment = 1
+
+[node name="LabelGameDir" type="Label" parent="PopupPanel/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(300, 24)
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_kwno2")
+vertical_alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PopupPanel/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="ButtonSetGameDir" type="Button" parent="PopupPanel/MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_4pmkb")
+theme_override_font_sizes/font_size = 24
+text = ""
+
+[node name="ButtonUpdate" type="Button" parent="."]
+offset_left = 36.0
+offset_right = 250.0
+offset_bottom = 33.0
+theme_override_fonts/font = ExtResource("2_4pmkb")
+theme_override_font_sizes/font_size = 24
+text = ""
+
+[node name="ButtonInfo" type="Button" parent="."]
+offset_right = 33.0
+offset_bottom = 33.0
+theme_override_fonts/font = ExtResource("2_4pmkb")
+theme_override_font_sizes/font_size = 24
+text = ""
+
+[node name="MenuButtonLevel" type="MenuButton" parent="."]
+offset_left = 306.0
+offset_top = 36.0
+offset_right = 460.0
+offset_bottom = 69.0
+text = "Level"
+
+[node name="MenuButtonExp" type="MenuButton" parent="."]
+unique_name_in_owner = true
+offset_left = 308.0
+offset_top = 105.0
+offset_right = 460.0
+offset_bottom = 138.0
+text = "Expansion"
+
+[node name="Bard" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("2_4a67k")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Beastlord" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("5_cgm3w")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Berserker" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("6_e54jc")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Cleric" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("7_ve67m")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Druid" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("8_1cv22")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Enchanter" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("9_o4e3p")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Magician" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("10_adljb")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Monk" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("11_wxbe8")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Necromancer" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("12_r18nd")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Paladin" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("13_lfdyh")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Ranger" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("14_srrp1")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Rogue" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("15_woyhe")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Shadowknight" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("16_ru4fs")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Shaman" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("17_rxgj3")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Warrior" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("18_set3d")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="Wizard" type="AnimatedSprite2D" parent="."]
+position = Vector2(278.6, 87.2)
+scale = Vector2(0.8, 0.8)
+sprite_frames = ExtResource("19_5f7v0")
+animation = &"gif"
+autoplay = "gif"
+
+[node name="LabelClass" type="Label" parent="."]
+custom_minimum_size = Vector2(160, 33)
+offset_left = 253.0
+offset_top = 1.0
+offset_right = 463.0
+offset_bottom = 36.0
+theme_override_fonts/font = ExtResource("21_1u0a3")
+theme_override_font_sizes/font_size = 18
+text = "Class"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="LabelLevel" type="Label" parent="."]
+offset_left = 306.0
+offset_top = 68.0
+offset_right = 459.0
+offset_bottom = 95.0
+theme_override_fonts/font = ExtResource("21_1u0a3")
+theme_override_font_sizes/font_size = 22
+text = "41"
+horizontal_alignment = 1
+
+[node name="LabelExp" type="Label" parent="."]
+unique_name_in_owner = true
+clip_contents = true
+offset_left = 256.0
+offset_top = 145.0
+offset_right = 459.0
+offset_bottom = 186.0
+theme_override_fonts/font = ExtResource("21_1u0a3")
+text = "Lost Dungeons of Norrath"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="LabelSpells" type="Label" parent="."]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(100, 0)
+offset_left = 257.0
+offset_top = 233.0
+offset_right = 357.0
+offset_bottom = 256.0
+size_flags_horizontal = 4
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Label" type="Label" parent="."]
+custom_minimum_size = Vector2(100, 0)
+offset_left = 256.0
+offset_top = 253.0
+offset_right = 356.0
+offset_bottom = 276.0
+size_flags_horizontal = 4
+text = "Scribed"
+horizontal_alignment = 1
+
+[node name="LabelMissing" type="Label" parent="."]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(100, 0)
+offset_left = 357.0
+offset_top = 233.0
+offset_right = 457.0
+offset_bottom = 256.0
+size_flags_horizontal = 4
+horizontal_alignment = 1
+
+[node name="Label2" type="Label" parent="."]
+custom_minimum_size = Vector2(100, 0)
+offset_left = 359.0
+offset_top = 253.0
+offset_right = 459.0
+offset_bottom = 276.0
+size_flags_horizontal = 4
+text = "Missing"
+horizontal_alignment = 1
+
+[connection signal="dir_selected" from="FileDialogGameDir" to="." method="_on_file_dialog_game_dir_dir_selected"]
+[connection signal="item_selected" from="MarginContainer/HBoxContainer/VBoxContainer/HBoxContainer/MarginContainer/ItemListFiles" to="." method="_on_item_list_files_item_selected"]
+[connection signal="pressed" from="PopupPanel/MarginContainer/VBoxContainer/HBoxContainer/ButtonSetGameDir" to="." method="_on_button_set_game_dir_pressed"]
+[connection signal="pressed" from="ButtonUpdate" to="." method="_on_button_update_pressed"]
+[connection signal="pressed" from="ButtonInfo" to="." method="_on_button_info_pressed"]

@@ -1,0 +1,1712 @@
+1	Burst of Flame	EQ
+1	Cure Disease	EQ
+1	Dexterous Aura	EQ
+1	Endure Cold	EQ
+1	Flash of Light	EQ
+1	Inner Fire	EQ
+1	Minor Healing	EQ
+1	Strengthen	EQ
+1	True North	EQ
+2	Cure Poison	EQ
+2	Spirit Pouch	EQ
+2	Summon Drink	EQ
+3	Feet like Cat	EQ
+3	Scale Skin	EQ
+4	Fleeting Fury	EQ
+4	Frost Rift	EQ
+4	Sicken	EQ
+5	Drowsy	EQ
+5	Endure Fire	EQ
+5	Gate	EQ
+6	Serpent Sight	EQ
+6	Spirit of Bear	EQ
+6	Summon Food	EQ
+7	Cure Blindness	EQ
+7	Sense Animals	EQ
+7	Spirit Sight	EQ
+8	Endure Disease	EQ
+8	Tainted Breath	EQ
+8	Talisman of the Beast	EQ
+9	Light Healing	EQ
+9	Remove Minor Curse	LDoN
+9	Spirit of Wolf	EQ
+10	Invisibility Versus Animals	EQ
+10	Levitate	EQ
+10	Spirit of Snake	EQ
+11	Burst of Strength	EQ
+11	Endure Poison	EQ
+11	Turtle Skin	EQ
+12	Disempower	EQ
+12	Enduring Breath	EQ
+12	Root	EQ
+13	Reebo's Lesser Augury	LDoN
+13	Walking Sleep	EQ
+14	Bind Affinity	EQ
+14	Reebo's Lesser Cleansing	LDoN
+14	Reebo's Lesser Exorcism	LDoN
+14	Spirit Strike	EQ
+15	Infectious Cloud	EQ
+15	Shrink	EQ
+16	Frenzy	EQ
+16	Grow	EQ
+16	Tiny Companion	EQ
+17	Insidious Fever	EQ
+17	Vision	EQ
+18	Malaise	EQ
+18	Spirit of Cat	EQ
+18	Spirit Strength	EQ
+19	Affliction	EQ
+19	Cancel Magic	EQ
+19	Endure Magic	EQ
+19	Healing	EQ
+20	Creeping Vision	EQ
+20	Protect	EQ
+21	Spirit of Cheetah	EQ
+21	Spirit of Monkey	EQ
+21	Spirit of Ox	EQ
+22	Counteract Disease	EQ
+22	Poison Storm	EQ
+22	Scale of Wolf	EQ
+23	Cannibalize	EQ
+23	Frost Strike	EQ
+23	Reebo's Augury	LDoN
+23	Regeneration	EQ
+24	Envenomed Breath	EQ
+24	Reebo's Cleansing	LDoN
+24	Reebo's Exorcism	LDoN
+24	Remove Lesser Curse	LDoN
+24	Resist Cold	EQ
+25	Befriend Animal	EQ
+25	Form of the Bear	EQ
+25	Rising Dexterity	EQ
+26	Counteract Poison	EQ
+26	Quickness	EQ
+26	Ultravision	EQ
+27	Invisibility	EQ
+27	Resist Fire	EQ
+27	Tagar's Insects	EQ
+28	Alluring Aura	EQ
+28	Raging Strength	EQ
+29	Greater Healing	EQ
+29	Imbue Amber	EQ
+29	Imbue Diamond	EQ
+29	Imbue Ivory	EQ
+29	Imbue Jade	EQ
+29	Imbue Sapphire	EQ
+29	Listless Power	EQ
+29	Mass Imbue Amber	LoY
+29	Mass Imbue Diamond	LoY
+29	Mass Imbue Ivory	EQ
+29	Mass Imbue Jade	EQ
+29	Mass Imbue Sapphire	LoY
+29	Spirit of the Shrew	LDoN
+30	Fury	EQ
+30	Health	EQ
+30	Resist Disease	EQ
+31	Nimble	EQ
+31	Scourge	EQ
+31	Shifting Shield	EQ
+32	Charm Animals	EQ
+32	Companion Spirit	EQ
+32	Malaisement	EQ
+32	Talisman of Tnarg	EQ
+33	Instill	EQ
+33	Reebo's Greater Augury	LDoN
+33	Winter's Roar	EQ
+34	Curse	LDoN
+34	Pack Shrew	LDoN
+34	Reebo's Greater Cleansing	LDoN
+34	Reebo's Greater Exorcism	LDoN
+34	Shock of the Tainted	Velious
+35	Resist Poison	EQ
+35	Tumultuous Strength	Velious
+36	Assiduous Vision	EQ
+36	Gale of Poison	EQ
+36	Spirit of Bih`Li	EQ
+37	Glamour	EQ
+37	Venom of the Snake	EQ
+37	Vigilant Spirit	EQ
+38	Cannibalize II	Kunark
+38	Insidious Malady	EQ
+38	Remove Curse	Luclin
+38	Togor's Insects	EQ
+39	Blinding Luminance	EQ
+39	Chloroplast	EQ
+39	Deftness	EQ
+39	Furious Strength	EQ
+40	Spirit Salve	EQ
+40	Summon Companion	Velious
+40	Talisman of Altuna	EQ
+41	Agility	EQ
+41	Guardian Spirit	EQ
+41	Incapacitate	EQ
+42	Alacrity	EQ
+42	Blast of Poison	Velious
+42	Guardian	EQ
+43	Odium	LDoN
+43	Resist Magic	EQ
+43	Stamina	EQ
+44	Blizzard Blast	EQ
+44	Greater Mass Imbue Amber	CoV
+44	Greater Mass Imbue Diamond	CoV
+44	Greater Mass Imbue Ivory	CoV
+44	Greater Mass Imbue Jade	CoV
+44	Greater Mass Imbue Sapphire	CoV
+44	Nullify Magic	EQ
+44	Stoicism	EQ
+45	Frenzied Spirit	EQ
+45	Rage	EQ
+45	Superior Healing	EQ
+46	Harnessing of Spirit	EQ
+46	Strength	EQ
+47	Charisma	EQ
+47	Shock of Venom	EQ
+48	Abolish Disease	EQ
+48	Dexterity	EQ
+48	Malosi	EQ
+49	Envenomed Bolt	EQ
+49	Infusion of Spirit	EQ
+49	Plague	EQ
+50	Kragg's Salve	EQ
+50	Spirit of the Puma	PoP
+50	Spirit Quickening	Velious
+50	Talisman of Jasinth	Kunark
+51	Everlasting Breath	Luclin
+51	Immobilize	EQ
+51	Levitation	Luclin
+51	Turgur's Insects	Kunark
+52	Blood of Nadox	LoY
+52	Disinfecting Aura	Luclin
+52	Eradicate Disease	RoF
+52	Insidious Decay	Kunark
+52	Primal Essence	Luclin
+52	Regrowth	Kunark
+52	Spirit of Scale	Kunark
+53	Cripple	Kunark
+53	Deliriously Nimble	Kunark
+53	Talisman of Shadoo	Kunark
+54	Anathema	LDoN
+54	Blast of Venom	PoP
+54	Cannibalize III	Kunark
+54	Eradicate Curse	RoF
+54	Ice Strike	Kunark
+54	Plague of Insects	Luclin
+54	Remove Greater Curse	Luclin
+54	Riotous Health	Kunark
+54	Shroud of the Spirits	Kunark
+55	Annul Magic	Kunark
+55	Chloroblast	Kunark
+55	Form of the Great Bear	Velious
+55	Idol of Malo	PoR
+55	Spirit of the Howler	Kunark
+55	Talisman of Kragg	Kunark
+55	Torrent of Poison	Kunark
+56	Acumen	Kunark
+56	Bane of Nife	Kunark
+56	Celerity	EQ
+56	Eradicate Poison	RoF
+56	Paralyzing Earth	Kunark
+56	Regrowth of Dar Khura	Luclin
+57	Imbue Justice	PoP
+57	Malosini	Kunark
+57	Maniacal Strength	Kunark
+57	Spirit of the Jaguar	DoN
+57	Talisman of the Brute	Kunark
+57	Talisman of the Cat	Kunark
+58	Acumen of Dar Khura	Luclin
+58	Cannibalize IV	Kunark
+58	Imbue Disease	PoP
+58	Kragg's Mending	Luclin
+58	Mortal Deftness	Kunark
+58	Talisman of Epuration	Luclin
+58	Talisman of the Rhino	Kunark
+58	Talisman of the Serpent	Kunark
+58	Tigir's Insects	Kunark
+59	Imbue War	PoP
+59	Incarnate Anew	LDoN
+59	Pox of Bertoxxulous	Kunark
+59	Talisman of the Raptor	Kunark
+59	Unfailing Reverence	Kunark
+59	Voice of the Berserker	Kunark
+60	Ancient: Feral Avatar	Luclin
+60	Ancient: Scourge of Nife	Luclin
+60	Avatar	Kunark
+60	Focus of Spirit	Velious
+60	Khura's Focusing	Luclin
+60	Malo	Kunark
+60	Primal Avatar	Velious
+60	Torpor	Kunark
+61	Agility of the Wrulan	PoP
+61	Cloud of Grummus	PoP
+61	Replenishment	PoP
+61	Spear of Torment	PoP
+61	Spirit of the Leopard	DoN
+61	True Spirit	PoP
+62	Ancestral Guard	PoP
+62	Cure Corruption	TSS
+62	Cure Corruption Rk. II	TSS
+62	Cure Corruption Rk. III	TSS
+62	Endurance of the Boar	PoP
+62	Focus of Soul	PoP
+62	Greater Immobilize	PoP
+62	Talisman of the Tribunal	PoP
+62	Talisman of the Wrulan	PoP
+62	Tnarg's Mending	PoP
+63	Blessing of Replenishment	PoP
+63	Malicious Decay	PoP
+63	Malosinia	PoP
+63	Strength of the Diaku	PoP
+63	Swift Like the Wind	EQ
+63	Talisman of the Boar	PoP
+63	Tears of Saryrn	PoP
+64	Bane	LDoN
+64	Breath of Ultor	PoP
+64	Chant of the Napaea	TSS
+64	Chant of the Napaea Rk. II	TSS
+64	Chant of the Napaea Rk. III	TSS
+64	Petrifying Earth	PoP
+64	Talisman of Celerity	PoP
+64	Talisman of the Diaku	PoP
+64	Tiny Terror	PoP
+64	Velium Strike	PoP
+65	Ancient: Chaotic Pain	Gates
+65	Balance of the Nihil	Gates
+65	Blood of Saryrn	PoP
+65	Breath of Trushar	Gates
+65	Daluda's Mending	Gates
+65	Ferine Avatar	PoP
+65	Focus of the Seventh	PoP
+65	Malos	PoP
+65	Quiescence	PoP
+65	Wishka's Favor	TSS
+65	Wishka's Favor Rk. II	TSS
+65	Wishka's Favor Rk. III	TSS
+66	Crippling Spasm	Omens
+66	Putrid Decay	Omens
+66	Spirit of Perseverance	Omens
+66	Spirit of Sense	Omens
+66	Yoppa's Spear of Venom	Omens
+67	Ancestral Bulwark	Omens
+67	Breath of Wunshi	Omens
+67	Farrel's Companion	Omens
+67	Spirit of Might	Omens
+67	Spirit Veil	Omens
+68	Lingering Sloth	DoD
+68	Pained Memory	Omens
+68	Spirit of Fortitude	Omens
+68	Talisman of Sense	Omens
+68	Wunshi's Focusing	Omens
+68	Yoppa's Mending	Omens
+68	Yoppa's Rain of Venom	Omens
+69	Balance of Discord	Omens
+69	Breath of Antraygus	DoD
+69	Curse of Sisslak	Omens
+69	Ice Age	Omens
+69	Pure Spirit	Omens
+69	Spirit of the Panther	DoN
+69	Talisman of Fortitude	Omens
+69	Talisman of Perseverance	Omens
+70	Ancient: Ancestral Calling	Omens
+70	Ancient: Wilslik's Mending	Omens
+70	Blood of Yoppa	Omens
+70	Champion	Omens
+70	Ghost of Renewal	PoR
+70	Hungry Plague	DoD
+70	Idol of Malos	PoR
+70	Nectar of Pain	PoR
+70	Spiritual Serenity	Omens
+70	Talisman of Might	Omens
+70	Talisman of Wunshi	Omens
+70	Vindictive Spirit	Omens
+71	Ahnkaul's Spear of Venom	TSS
+71	Ahnkaul's Spear of Venom Rk. II	TSS
+71	Ahnkaul's Spear of Venom Rk. III	TSS
+71	Breath of Ternsmochin	TSS
+71	Breath of Ternsmochin Rk. II	TSS
+71	Preternatural Foresight	TSS
+71	Preternatural Foresight Rk. II	TSS
+71	Spirit of the Stoic One	TSS
+71	Spirit of the Stoic One Rk. II	TSS
+71	Talisman of Persistence	TBS
+71	Talisman of Persistence Rk. II	TBS
+71	Talisman of Persistence Rk. III	TBS
+71	Talisman of the Panther	TSS
+71	Talisman of the Panther Rk. II	TSS
+72	Feralize	TSS
+72	Feralize Rk. II	TSS
+72	Kyrah's Faithful	TSS
+72	Lassitude	TBS
+72	Lassitude Rk. II	TBS
+72	Lassitude Rk. III	TBS
+72	Malosinise	TSS
+72	Malosinise Rk. II	TSS
+72	Malosinise Rk. III	TSS
+72	Tortugone's Drowse	TSS
+72	Tortugone's Drowse Rk. II	TSS
+73	Ahnkaul's Mending	TSS
+73	Ahnkaul's Mending Rk. II	TSS
+73	Ahnkaul's Mending Rk. III	TSS
+73	Ancestral Bargain	TSS
+73	Ancestral Bargain Rk. II	TSS
+73	Ancestral Bargain Rk. III	TSS
+73	Dire Focusing	TSS
+73	Dire Focusing Rk. II	TSS
+73	Fulkitcher Weave	TBS
+73	Fulkitcher Weave Rk. II	TBS
+73	Fulkitcher Weave Rk. III	TBS
+73	Halcyon Breeze	TSS
+73	Halcyon Breeze Rk. II	TSS
+73	Halcyon Breeze Rk. III	TSS
+73	Sting of the Queen	TSS
+73	Sting of the Queen Rk. II	TSS
+73	Sting of the Queen Rk. III	TSS
+74	Glacial Avalanche	TSS
+74	Glacial Avalanche Rk. II	TSS
+74	Glacial Avalanche Rk. III	TSS
+74	Juju	TSS
+74	Juju Rk. II	TSS
+74	Nectar of Agony	TBS
+74	Nectar of Agony Rk. II	TBS
+74	Nectar of Agony Rk. III	TBS
+74	Spirit of Tala'Tak	EoK
+74	Talisman of Foresight	TSS
+74	Talisman of Foresight Rk. II	TSS
+74	Talisman of Foresight Rk. III	TSS
+74	Talisman of the Stoic One	TSS
+74	Talisman of the Stoic One Rk. II	TSS
+74	Talisman of the Stoic One Rk. III	TSS
+75	Malis	TSS
+75	Malis Rk. II	TSS
+75	Second Life	TSS
+75	Second Life Rk. II	TSS
+75	Specter of Renewal	TBS
+75	Specter of Renewal Rk. II	TBS
+75	Specter of Renewal Rk. III	TBS
+75	Talisman of the Dire	TSS
+75	Talisman of the Dire Rk. II	TSS
+75	Talisman of the Dire Rk. III	TSS
+75	Vengeance of Ahnkaul	TSS
+75	Vengeance of Ahnkaul Rk. II	TSS
+75	Vengeance of Ahnkaul Rk. III	TSS
+76	Breath of Big Bynn	SoF
+76	Breath of Big Bynn Rk. II	SoF
+76	Breath of Big Bynn Rk. III	SoF
+76	Spirit of the Stalwart	SoF
+76	Spirit of the Stalwart Rk. II	SoF
+76	Spirit of the Stalwart Rk. III	SoF
+76	Spirit of Vehemence	SoF
+76	Spirit of Vehemence Rk. II	SoF
+76	Spirit of Vehemence Rk. III	SoF
+76	Talisman of the Cougar	Sof
+76	Talisman of the Cougar Rk. II	Sof
+76	Talisman of the Cougar Rk. III	Sof
+76	Talisman of Vehemence	Sof
+76	Talisman of Vehemence Rk. II	Sof
+76	Talisman of Vehemence Rk. III	Sof
+76	Vestax's Spear of Venom	SoF
+76	Vestax's Spear of Venom Rk. II	SoF
+76	Vestax's Spear of Venom Rk. III	SoF
+77	Feralisis	SoF
+77	Feralisis Rk. II	SoF
+77	Feralisis Rk. III	SoF
+77	Languor	SoF
+77	Languor Rk. II	SoF
+77	Languor Rk. III	SoF
+77	Malosinatia	SoF
+77	Malosinatia Rk. II	SoF
+77	Malosinatia Rk. III	SoF
+77	Rolist's Drowse	SoF
+77	Rolist's Drowse Rk. II	SoF
+77	Rolist's Drowse Rk. III	SoF
+77	Vegu's Faithful	SoF
+77	Vegu's Faithful Rk. II	SoF
+77	Vegu's Faithful Rk. III	SoF
+78	Ancestral Hearkening	SoF
+78	Ancestral Hearkening Rk. II	SoF
+78	Ancestral Hearkening Rk. III	SoF
+78	Ancestral Intervention	Sof
+78	Ancestral Intervention Rk. II	Sof
+78	Ancestral Intervention Rk. III	Sof
+78	Bite of the Brownie	SoF
+78	Bite of the Brownie Rk. II	SoF
+78	Bite of the Brownie Rk. III	SoF
+78	Bloodworg Focusing	SoF
+78	Bloodworg Focusing Rk. II	SoF
+78	Bloodworg Focusing Rk. III	SoF
+78	Gemmi's Mending	SoF
+78	Gemmi's Mending Rk. II	SoF
+78	Gemmi's Mending Rk. III	SoF
+78	Halcyon Zephyr	SoF
+78	Halcyon Zephyr Rk. II	SoF
+78	Halcyon Zephyr Rk. III	SoF
+79	Chant of the Darkvine	SoF
+79	Chant of the Darkvine Rk. II	SoF
+79	Chant of the Darkvine Rk. III	SoF
+79	Nectar of Rancor	SoF
+79	Nectar of Rancor Rk. II	SoF
+79	Nectar of Rancor Rk. III	SoF
+79	Pocus	SoF
+79	Pocus Rk. II	SoF
+79	Pocus Rk. III	SoF
+79	Talisman of the Stalwart	Sof
+79	Talisman of the Stalwart Rk. II	Sof
+79	Talisman of the Stalwart Rk. III	Sof
+79	Tundra Crumble	SoF
+79	Tundra Crumble Rk. II	SoF
+79	Tundra Crumble Rk. III	SoF
+80	Blood of Kerafyrm	SoF
+80	Blood of Kerafyrm Rk. II	SoF
+80	Blood of Kerafyrm Rk. III	SoF
+80	Preincarnation	SoF
+80	Preincarnation Rk. II	SoF
+80	Preincarnation Rk. III	SoF
+80	Shade of Renewal	SoF
+80	Shade of Renewal Rk. II	SoF
+80	Shade of Renewal Rk. III	SoF
+80	Talisman of the Bloodworg	Sof
+80	Talisman of the Bloodworg Rk. II	Sof
+80	Talisman of the Bloodworg Rk. III	Sof
+80	Thorn Wilting	SoF
+80	Thorn Wilting Rk. II	SoF
+80	Thorn Wilting Rk. III	SoF
+80	Ward of Resurgence	SoF
+80	Ward of Resurgence Rk. II	SoF
+80	Ward of Resurgence Rk. III	SoF
+81	Breath of Queen Malarian	SoD
+81	Breath of Queen Malarian Rk. II	SoD
+81	Breath of Queen Malarian Rk. III	SoD
+81	Severilous' Spear of Venom	SoD
+81	Severilous' Spear of Venom Rk. II	SoD
+81	Severilous' Spear of Venom Rk. III	SoD
+81	Spirit of Determination	SoD
+81	Spirit of Determination Rk. II	SoD
+81	Spirit of Determination Rk. III	SoD
+81	Spirit of the Resolute	SoD
+81	Spirit of the Resolute Rk. II	SoD
+81	Spirit of the Resolute Rk. III	SoD
+81	Talisman of the Lynx	SoD
+81	Talisman of the Lynx Rk. II	SoD
+81	Talisman of the Lynx Rk. III	SoD
+81	Unity of the Spirits	SoD
+81	Unity of the Spirits Rk. II	SoD
+81	Unity of the Spirits Rk. III	SoD
+81	Wild Growth	SoD
+81	Wild Growth Rk. II	SoD
+81	Wild Growth Rk. III	SoD
+82	Aina's Faithful	SoD
+82	Aina's Faithful Rk. II	SoD
+82	Aina's Faithful Rk. III	SoD
+82	Feralization	SoD
+82	Feralization Rk. II	SoD
+82	Feralization Rk. III	SoD
+82	Grezan's Drowse	SoD
+82	Grezan's Drowse Rk. II	SoD
+82	Grezan's Drowse Rk. III	SoD
+82	Listlessness	SoD
+82	Listlessness Rk. II	SoD
+82	Listlessness Rk. III	SoD
+82	Malosenea	SoD
+82	Malosenea Rk. II	SoD
+82	Malosenea Rk. III	SoD
+83	Ancestral Obligation	SoD
+83	Ancestral Obligation Rk. II	SoD
+83	Ancestral Obligation Rk. III	SoD
+83	Antecedent's Intervention	SoD
+83	Antecedent's Intervention Rk. II	SoD
+83	Antecedent's Intervention Rk. III	SoD
+83	Bite of the Ukun	SoD
+83	Bite of the Ukun Rk. II	SoD
+83	Bite of the Ukun Rk. III	SoD
+83	Counterbias Slow	UF
+83	Counterbias Slow Rk. II	UF
+83	Counterbias Slow Rk. III	UF
+83	Dannal's Mending	SoD
+83	Dannal's Mending Rk. II	SoD
+83	Dannal's Mending Rk. III	SoD
+83	Darkpaw Focusing	SoD
+83	Darkpaw Focusing Rk. II	SoD
+83	Darkpaw Focusing Rk. III	SoD
+83	Halcyon Whisper	SoD
+83	Halcyon Whisper Rk. II	SoD
+83	Halcyon Whisper Rk. III	SoD
+83	Healing Counterbias	UF
+83	Healing Counterbias Effect	UF
+83	Healing Counterbias Effect II	UF
+83	Healing Counterbias Effect III	UF
+83	Healing Counterbias Rk. II	UF
+83	Healing Counterbias Rk. III	UF
+84	Chant of the Burynai	SoD
+84	Chant of the Burynai Rk. II	SoD
+84	Chant of the Burynai Rk. III	SoD
+84	Ice Sheet	SoD
+84	Ice Sheet Rk. II	SoD
+84	Ice Sheet Rk. III	SoD
+84	Mojo	SoD
+84	Mojo Rk. II	SoD
+84	Mojo Rk. III	SoD
+84	Nectar of the Slitheren	SoD
+84	Nectar of the Slitheren Rk. II	SoD
+84	Nectar of the Slitheren Rk. III	SoD
+84	Talisman of the Resolute	SoD
+84	Talisman of the Resolute Rk. II	SoD
+84	Talisman of the Resolute Rk. III	SoD
+84	Wind of Malis	UF
+84	Wind of Malis Rk. II	UF
+84	Wind of Malis Rk. III	UF
+85	Blood of Avoling	SoD
+85	Blood of Avoling Rk. II	SoD
+85	Blood of Avoling Rk. III	SoD
+85	Blood of Jaled'Dar	SoD
+85	Blood of Jaled'Dar Rk. II	SoD
+85	Blood of Jaled'Dar Rk. III	SoD
+85	Frost Gift	UF
+85	Frost Gift Rk. II	UF
+85	Frost Gift Rk. III	UF
+85	Pack of Aina	SoD
+85	Pack of Aina Rk. II	SoD
+85	Pack of Aina Rk. III	SoD
+85	Shadow of Renewal	SoD
+85	Shadow of Renewal Rk. II	SoD
+85	Shadow of Renewal Rk. III	SoD
+85	Splash of Runedust	UF
+85	Splash of Runedust Rk. II	UF
+85	Splash of Runedust Rk. III	UF
+85	Talisman of Unity	SoD
+85	Talisman of Unity Rk. II	SoD
+85	Talisman of Unity Rk. III	SoD
+85	Ward of Restoration	SoD
+85	Ward of Restoration Rk. II	SoD
+85	Ward of Restoration Rk. III	SoD
+86	Breath of the Shiverback	HoT
+86	Breath of the Shiverback Rk. II	HoT
+86	Breath of the Shiverback Rk. III	HoT
+86	Exigent Focusing	HoT
+86	Exigent Focusing Rk. II	HoT
+86	Exigent Focusing Rk. III	HoT
+86	Mammoth's Force	HoT
+86	Mammoth's Force Rk. II	HoT
+86	Mammoth's Force Rk. III	HoT
+86	Preeminent Foresight	HoT
+86	Preeminent Foresight Rk. II	HoT
+86	Preeminent Foresight Rk. III	HoT
+86	Spinechiller's Spear of Venom	HoT
+86	Spinechiller's Spear of Venom Rk. II	HoT
+86	Spinechiller's Spear of Venom Rk. III	HoT
+86	Spirit of the Relentless	HoT
+86	Spirit of the Relentless Rk. II	HoT
+86	Spirit of the Relentless Rk. III	HoT
+86	Spirit of Valor	HoT
+86	Spirit of Valor Rk. II	HoT
+86	Spirit of Valor Rk. III	HoT
+86	Talisman of the Tiger	HoT
+86	Talisman of the Tiger Rk. II	HoT
+86	Talisman of the Tiger Rk. III	HoT
+86	Unity of the Soul	HoT
+86	Unity of the Soul Rk. II	HoT
+86	Unity of the Soul Rk. III	HoT
+86	Untamed Growth	HoT
+86	Untamed Growth Rk. II	HoT
+86	Untamed Growth Rk. III	HoT
+87	Feralescense	HoT
+87	Feralescense Rk. II	HoT
+87	Feralescense Rk. III	HoT
+87	Lethargy	HoT
+87	Lethargy Rk. II	HoT
+87	Lethargy Rk. III	HoT
+87	Malosene	HoT
+87	Malosene Rk. II	HoT
+87	Malosene Rk. III	HoT
+87	Nargul's Malady	HoT
+87	Nargul's Malady Rk. II	HoT
+87	Nargul's Malady Rk. III	HoT
+87	Qirik's Recourse	HoT
+87	Qirik's Recourse Rk. II	HoT
+87	Qirik's Recourse Rk. III	HoT
+87	Shakare's Drowse	HoT
+87	Shakare's Drowse Rk. II	HoT
+87	Shakare's Drowse Rk. III	HoT
+87	Shakare's Recourse	HoT
+87	Shakare's Recourse II	HoT
+87	Shakare's Recourse III	HoT
+87	Wurt's Faithful	HoT
+87	Wurt's Faithful Rk. II	HoT
+87	Wurt's Faithful Rk. III	HoT
+88	Ancestral Covenant	HoT
+88	Ancestral Covenant Rk. II	HoT
+88	Ancestral Covenant Rk. III	HoT
+88	Ascendant's Intervention	HoT
+88	Ascendant's Intervention Rk. II	HoT
+88	Ascendant's Intervention Rk. III	HoT
+88	Bite of the Blightwolf	HoT
+88	Bite of the Blightwolf Rk. II	HoT
+88	Bite of the Blightwolf Rk. III	HoT
+88	Counterbias Slow	HoT
+88	Counterbias Slow II	HoT
+88	Counterbias Slow III	HoT
+88	Halcyon Gust	HoT
+88	Halcyon Gust Rk. II	HoT
+88	Halcyon Gust Rk. III	HoT
+88	Kralbor's Pandemic	HoT
+88	Kralbor's Pandemic Rk. II	HoT
+88	Kralbor's Pandemic Rk. III	HoT
+88	Mending Counterbias	HoT
+88	Mending Counterbias Effect	HoT
+88	Mending Counterbias Effect II	HoT
+88	Mending Counterbias Effect III	HoT
+88	Mending Counterbias Rk. II	HoT
+88	Mending Counterbias Rk. III	HoT
+88	Qirik's Mending	HoT
+88	Qirik's Mending Rk. II	HoT
+88	Qirik's Mending Rk. III	HoT
+89	Chant of the Tae Ew	HoT
+89	Chant of the Tae Ew Rk. II	HoT
+89	Chant of the Tae Ew Rk. III	HoT
+89	Hex	HoT
+89	Hex Rk. II	HoT
+89	Hex Rk. III	HoT
+89	Ice Floe	HoT
+89	Ice Floe Rk. II	HoT
+89	Ice Floe Rk. III	HoT
+89	Nectar of Torment	HoT
+89	Nectar of Torment Rk. II	HoT
+89	Nectar of Torment Rk. III	HoT
+89	Talisman of the Relentless	HoT
+89	Talisman of the Relentless Rk. II	HoT
+89	Talisman of the Relentless Rk. III	HoT
+89	Undaleen's Venom	HoT
+89	Undaleen's Venom Rk. II	HoT
+89	Undaleen's Venom Rk. III	HoT
+89	Wind of Malisene	HoT
+89	Wind of Malisene Rk. II	HoT
+89	Wind of Malisene Rk. III	HoT
+90	Blood of Corbeth	HoT
+90	Blood of Corbeth Rk. II	HoT
+90	Blood of Corbeth Rk. III	HoT
+90	Call the Pack II Azia	HoT
+90	Call the Pack II Beza	HoT
+90	Call the Pack II Caza	HoT
+90	Frozen Gift	HoT
+90	Frozen Gift Rk. II	HoT
+90	Frozen Gift Rk. III	HoT
+90	Pack of Wurt	HoT
+90	Pack of Wurt Rk. II	HoT
+90	Pack of Wurt Rk. III	HoT
+90	Penumbra of Renewal	HoT
+90	Penumbra of Renewal Rk. II	HoT
+90	Penumbra of Renewal Rk. III	HoT
+90	Reckless Mending	HoT
+90	Reckless Mending Rk. II	HoT
+90	Reckless Mending Rk. III	HoT
+90	Spinechiller Blood	HoT
+90	Spinechiller Blood Rk. II	HoT
+90	Spinechiller Blood Rk. III	HoT
+90	Splash of Glyphdust	HoT
+90	Splash of Glyphdust Rk. II	HoT
+90	Splash of Glyphdust Rk. III	HoT
+90	Talisman of Soul's Unity	HoT
+90	Talisman of Soul's Unity Rk. II	HoT
+90	Talisman of Soul's Unity Rk. III	HoT
+90	Ward of Recovery	HoT
+90	Ward of Recovery Rk. II	HoT
+90	Ward of Recovery Rk. III	HoT
+91	Breath of Silbar	VoA
+91	Breath of Silbar Rk. II	VoA
+91	Breath of Silbar Rk. III	VoA
+91	Hiqork's Spear of Venom	VoA
+91	Hiqork's Spear of Venom Rk. II	VoA
+91	Hiqork's Spear of Venom Rk. III	VoA
+91	Imperative Focusing	VoA
+91	Imperative Focusing Rk. II	VoA
+91	Imperative Focusing Rk. III	VoA
+91	Spirit of Resolve	VoA
+91	Spirit of Resolve Rk. II	VoA
+91	Spirit of Resolve Rk. III	VoA
+91	Spirit of the Indomitable	VoA
+91	Spirit of the Indomitable Rk. II	VoA
+91	Spirit of the Indomitable Rk. III	VoA
+91	Talisman of the Lion	VoA
+91	Talisman of the Lion Rk. II	VoA
+91	Talisman of the Lion Rk. III	VoA
+91	Unfettered Growth	VoA
+91	Unfettered Growth Rk. II	VoA
+91	Unfettered Growth Rk. III	VoA
+91	Unity of Kolos	VoA
+91	Unity of Kolos Rk. II	VoA
+91	Unity of Kolos Rk. III	VoA
+92	Apathy	VoA
+92	Apathy Rk. II	VoA
+92	Apathy Rk. III	VoA
+92	Feralisera	VoA
+92	Feralisera Rk. II	VoA
+92	Feralisera Rk. III	VoA
+92	Giaborn's Malady	VoA
+92	Giaborn's Malady Rk. II	VoA
+92	Giaborn's Malady Rk. III	VoA
+92	Gotikan's Recourse	VoA
+92	Gotikan's Recourse Rk. II	VoA
+92	Gotikan's Recourse Rk. III	VoA
+92	Hilnaah's Faithful	VoA
+92	Hilnaah's Faithful Rk. II	VoA
+92	Hilnaah's Faithful Rk. III	VoA
+92	Maloseneta	VoA
+92	Maloseneta Rk. II	VoA
+92	Maloseneta Rk. III	VoA
+92	Matip's Drowse	VoA
+92	Matip's Drowse Rk. II	VoA
+92	Matip's Drowse Rk. III	VoA
+92	Matip's Recourse	VoA
+92	Matip's Recourse II	VoA
+92	Matip's Recourse III	VoA
+92	Yubai's Affliction	VoA
+92	Yubai's Affliction Rk. II	VoA
+92	Yubai's Affliction Rk. III	VoA
+92	Yubai's Malady	VoA
+92	Yubai's Malady II	VoA
+92	Yubai's Malady III	VoA
+93	Ancestral Arrangement	VoA
+93	Ancestral Arrangement Rk. II	VoA
+93	Ancestral Arrangement Rk. III	VoA
+93	Bite of the Grendlaen	VoA
+93	Bite of the Grendlaen Rk. II	VoA
+93	Bite of the Grendlaen Rk. III	VoA
+93	Gotikan's Mending	VoA
+93	Gotikan's Mending Rk. II	VoA
+93	Gotikan's Mending Rk. III	VoA
+93	Halcyon Breath	VoA
+93	Halcyon Breath Rk. II	VoA
+93	Halcyon Breath Rk. III	VoA
+93	Poanag's Pandemic	VoA
+93	Poanag's Pandemic Rk. II	VoA
+93	Poanag's Pandemic Rk. III	VoA
+93	Progenitor's Intervention	VoA
+93	Progenitor's Intervention Rk. II	VoA
+93	Progenitor's Intervention Rk. III	VoA
+93	Renewing Counterbias	VoA
+93	Renewing Counterbias Effect	VoA
+93	Renewing Counterbias Effect II	VoA
+93	Renewing Counterbias Effect III	VoA
+93	Renewing Counterbias Rk. II	VoA
+93	Renewing Counterbias Rk. III	VoA
+93	Renewing Counterbias Slow	VoA
+93	Renewing Counterbias Slow II	VoA
+93	Renewing Counterbias Slow III	VoA
+94	Chant of the Izon	VoA
+94	Chant of the Izon Rk. II	VoA
+94	Chant of the Izon Rk. III	VoA
+94	Hoodoo	VoA
+94	Hoodoo Rk. II	VoA
+94	Hoodoo Rk. III	VoA
+94	Ice Mass	VoA
+94	Ice Mass Rk. II	VoA
+94	Ice Mass Rk. III	VoA
+94	Nectar of Sholoth	VoA
+94	Nectar of Sholoth Rk. II	VoA
+94	Nectar of Sholoth Rk. III	VoA
+94	Stranglefang's Venom	VoA
+94	Stranglefang's Venom Rk. II	VoA
+94	Stranglefang's Venom Rk. III	VoA
+94	Talisman of the Indomitable	VoA
+94	Talisman of the Indomitable Rk. II	VoA
+94	Talisman of the Indomitable Rk. III	VoA
+94	Vengeance of Sholoth	VoA
+94	Vengeance of Sholoth II	VoA
+94	Vengeance of Sholoth III	VoA
+94	Yubai's Rain of Venom	VoA
+94	Yubai's Rain of Venom Rk. II	VoA
+94	Yubai's Rain of Venom Rk. III	VoA
+95	Blood of Klar	VoA
+95	Blood of Klar Rk. II	VoA
+95	Blood of Klar Rk. III	VoA
+95	Call the Pack III Azia	VoA
+95	Call the Pack III Beza	VoA
+95	Call the Pack III Caza	VoA
+95	Freezing Gift	VoA
+95	Freezing Gift Rk. II	VoA
+95	Freezing Gift Rk. III	VoA
+95	Issuance of Malos	VoA
+95	Issuance of Malos Rk. II	VoA
+95	Issuance of Malos Rk. III	VoA
+95	Naeya Blood	VoA
+95	Naeya Blood Rk. II	VoA
+95	Naeya Blood Rk. III	VoA
+95	Pack of Hilnaah	VoA
+95	Pack of Hilnaah Rk. II	VoA
+95	Pack of Hilnaah Rk. III	VoA
+95	Phantom of Renewal	VoA
+95	Phantom of Renewal Rk. II	VoA
+95	Phantom of Renewal Rk. III	VoA
+95	Reckless Remedy	VoA
+95	Reckless Remedy Rk. II	VoA
+95	Reckless Remedy Rk. III	VoA
+95	Talisman of Kolos' Unity	VoA
+95	Talisman of Kolos' Unity Rk. II	VoA
+95	Talisman of Kolos' Unity Rk. III	VoA
+95	Ward of Reconstruction	VoA
+95	Ward of Reconstruction Rk. II	VoA
+95	Ward of Reconstruction Rk. III	VoA
+96	Breath of Natigo	RoF
+96	Breath of Natigo Rk. II	RoF
+96	Breath of Natigo Rk. III	RoF
+96	Curse of Insects	RoF
+96	Curse of Insects Rk. II	RoF
+96	Curse of Insects Rk. III	RoF
+96	Insistent Focusing	RoF
+96	Insistent Focusing Rk. II	RoF
+96	Insistent Focusing Rk. III	RoF
+96	Putrescent Decay	CotF
+96	Putrescent Decay Rk. II	CotF
+96	Putrescent Decay Rk. III	CotF
+96	Rampant Growth	RoF
+96	Rampant Growth Rk. II	RoF
+96	Rampant Growth Rk. III	RoF
+96	Slaunk's Spear of Venom	RoF
+96	Slaunk's Spear of Venom Rk. II	RoF
+96	Slaunk's Spear of Venom Rk. III	RoF
+96	Spirit of Dauntlessness	RoF
+96	Spirit of Dauntlessness Rk. II	RoF
+96	Spirit of Dauntlessness Rk. III	RoF
+96	Spirit of the Steadfast	RoF
+96	Spirit of the Steadfast Rk. II	RoF
+96	Spirit of the Steadfast Rk. III	RoF
+96	Talisman of the Snow Leopard	RoF
+96	Talisman of the Snow Leopard Rk. II	RoF
+96	Talisman of the Snow Leopard Rk. III	RoF
+96	Unity of the Courageous	RoF
+96	Unity of the Courageous Rk. II	RoF
+96	Unity of the Courageous Rk. III	RoF
+97	Blezon's Recourse	RoF
+97	Blezon's Recourse Rk. II	RoF
+97	Blezon's Recourse Rk. III	RoF
+97	Elsrop's Malady	RoF
+97	Elsrop's Malady Rk. II	RoF
+97	Elsrop's Malady Rk. III	RoF
+97	Enalam's Drowse	RoF
+97	Enalam's Drowse Rk. II	RoF
+97	Enalam's Drowse Rk. III	RoF
+97	Enalam's Recourse	RoF
+97	Enalam's Recourse II	RoF
+97	Enalam's Recourse III	RoF
+97	Falhotep's Affliction	RoF
+97	Falhotep's Affliction Rk. II	RoF
+97	Falhotep's Affliction Rk. III	RoF
+97	Falhotep's Malady	RoF
+97	Falhotep's Malady II	RoF
+97	Falhotep's Malady III	RoF
+97	Fatigue	RoF
+97	Fatigue Rk. II	RoF
+97	Fatigue Rk. III	RoF
+97	Feralisenia	RoF
+97	Feralisenia Rk. II	RoF
+97	Feralisenia Rk. III	RoF
+97	Kriegas' Faithful	RoF
+97	Kriegas' Faithful Rk. II	RoF
+97	Kriegas' Faithful Rk. III	RoF
+97	Malosenia	RoF
+97	Malosenia Rk. II	RoF
+97	Malosenia Rk. III	RoF
+97	Shackle	RoF
+97	Shackle Rk. II	RoF
+97	Shackle Rk. III	RoF
+97	Spirit Bolstering	CotF
+97	Spirit Bolstering Rk. II	CotF
+97	Spirit Bolstering Rk. III	CotF
+98	Ancestral Pact	RoF
+98	Ancestral Pact Rk. II	RoF
+98	Ancestral Pact Rk. III	RoF
+98	Antecessor's Intervention	RoF
+98	Antecessor's Intervention Rk. II	RoF
+98	Antecessor's Intervention Rk. III	RoF
+98	Blezon's Mending	RoF
+98	Blezon's Mending Rk. II	RoF
+98	Blezon's Mending Rk. III	RoF
+98	Flock's Breath	CotF
+98	Flock's Breath Rk. II	CotF
+98	Flock's Breath Rk. III	CotF
+98	Halcyon Shear	RoF
+98	Halcyon Shear Rk. II	RoF
+98	Halcyon Shear Rk. III	RoF
+98	Restoring Counterbias	RoF
+98	Restoring Counterbias Effect	RoF
+98	Restoring Counterbias Effect II	RoF
+98	Restoring Counterbias Effect III	RoF
+98	Restoring Counterbias Rk. II	RoF
+98	Restoring Counterbias Rk. III	RoF
+98	Restoring Counterbias Slow	RoF
+98	Restoring Counterbias Slow II	RoF
+98	Restoring Counterbias Slow III	RoF
+98	Seedspitter's Bite	RoF
+98	Seedspitter's Bite Rk. II	RoF
+98	Seedspitter's Bite Rk. III	RoF
+98	Vilefeaster's Pandemic	RoF
+98	Vilefeaster's Pandemic Rk. II	RoF
+98	Vilefeaster's Pandemic Rk. III	RoF
+99	Banescale's Venom	RoF
+99	Banescale's Venom Rk. II	RoF
+99	Banescale's Venom Rk. III	RoF
+99	Chant of Jaerol	RoF
+99	Chant of Jaerol Rk. II	RoF
+99	Chant of Jaerol Rk. III	RoF
+99	Crippling Counterbias	CotF
+99	Crippling Counterbias Rk. II	CotF
+99	Crippling Counterbias Rk. III	CotF
+99	Falhotep's Malosenia	RoF
+99	Falhotep's Malosenia Rk. II	RoF
+99	Falhotep's Malosenia Rk. III	RoF
+99	Falhotep's Rain of Venom	RoF
+99	Falhotep's Rain of Venom Rk. II	RoF
+99	Falhotep's Rain of Venom Rk. III	RoF
+99	Ice Burst	RoF
+99	Ice Burst Rk. II	RoF
+99	Ice Burst Rk. III	RoF
+99	Naganaga	RoF
+99	Naganaga Rk. II	RoF
+99	Naganaga Rk. III	RoF
+99	Nectar of Anguish	RoF
+99	Nectar of Anguish Rk. II	RoF
+99	Nectar of Anguish Rk. III	RoF
+99	Talisman of the Steadfast	RoF
+99	Talisman of the Steadfast Rk. II	RoF
+99	Talisman of the Steadfast Rk. III	RoF
+99	Vengeance of Anguish	RoF
+99	Vengeance of Anguish II	RoF
+99	Vengeance of Anguish III	RoF
+100	Blood of Sanera	RoF
+100	Blood of Sanera Rk. II	RoF
+100	Blood of Sanera Rk. III	RoF
+100	Call the Pack IV Azia	RoF
+100	Call the Pack IV Beza	RoF
+100	Call the Pack IV Caza	RoF
+100	Enalam's Curse	RoF
+100	Enalam's Curse Rk. II	RoF
+100	Enalam's Curse Rk. III	RoF
+100	Frigid Gift	RoF
+100	Frigid Gift Rk. II	RoF
+100	Frigid Gift Rk. III	RoF
+100	Pack of Kriegas	RoF
+100	Pack of Kriegas Rk. II	RoF
+100	Pack of Kriegas Rk. III	RoF
+100	Phase Spider Blood	RoF
+100	Phase Spider Blood Rk. II	RoF
+100	Phase Spider Blood Rk. III	RoF
+100	Reckless Restoration	RoF
+100	Reckless Restoration Rk. II	RoF
+100	Reckless Restoration Rk. III	RoF
+100	Spiritual Surge	CotF
+100	Spiritual Surge Rk. II	CotF
+100	Spiritual Surge Rk. III	CotF
+100	Talisman of the Courageous	RoF
+100	Talisman of the Courageous Rk. II	RoF
+100	Talisman of the Courageous Rk. III	RoF
+100	Ward of Rejuvenation	RoF
+100	Ward of Rejuvenation Rk. II	RoF
+100	Ward of Rejuvenation Rk. III	RoF
+100	Wisp of Renewal	RoF
+100	Wisp of Renewal Rk. II	RoF
+100	Wisp of Renewal Rk. III	RoF
+101	Breath of Hemocoraxius	TDS
+101	Breath of Hemocoraxius Rk. II	TDS
+101	Breath of Hemocoraxius Rk. III	TDS
+101	Doomscale Focusing	TDS
+101	Doomscale Focusing Rk. II	TDS
+101	Doomscale Focusing Rk. III	TDS
+101	Ferocious Growth	TDS
+101	Ferocious Growth Rk. II	TDS
+101	Ferocious Growth Rk. III	TDS
+101	Mammoth's Force III	TDS
+101	Preeminent Foresight III	TDS
+101	Responsive Spirit	EoK
+101	Responsive Spirit Rk. II	EoK
+101	Responsive Spirit Rk. III	EoK
+101	Roar of the Lion	TBM
+101	Serisaria's Spear of Venom	TDS
+101	Serisaria's Spear of Venom Rk. II	TDS
+101	Serisaria's Spear of Venom Rk. III	TDS
+101	Spirit of Dedication	TDS
+101	Spirit of Dedication Rk. II	TDS
+101	Spirit of Dedication Rk. III	TDS
+101	Spirit of the Faithful	TDS
+101	Spirit of the Faithful Rk. II	TDS
+101	Spirit of the Faithful Rk. III	TDS
+101	Talisman of the Leopard	TDS
+101	Talisman of the Leopard Rk. II	TDS
+101	Talisman of the Leopard Rk. III	TDS
+101	Unity of the Doomscale	TDS
+101	Unity of the Doomscale Rk. II	TDS
+101	Unity of the Doomscale Rk. III	TDS
+102	Krasir's Recourse	TDS
+102	Krasir's Recourse Rk. II	TDS
+102	Krasir's Recourse Rk. III	TDS
+102	Livio's Affliction	TDS
+102	Livio's Affliction Rk. II	TDS
+102	Livio's Affliction Rk. III	TDS
+102	Livio's Malady	TDS
+102	Livio's Malady II	TDS
+102	Livio's Malady III	TDS
+102	Malosenete	TDS
+102	Malosenete Rk. II	TDS
+102	Malosenete Rk. III	TDS
+102	Olesira's Faithful	TDS
+102	Olesira's Faithful Rk. II	TDS
+102	Olesira's Faithful Rk. III	TDS
+102	Sephry's Malady	TDS
+102	Sephry's Malady Rk. II	TDS
+102	Sephry's Malady Rk. III	TDS
+102	Sluggishness	TDS
+102	Sluggishness Rk. II	TDS
+102	Sluggishness Rk. III	TDS
+102	Sraskus' Drowse	TDS
+102	Sraskus' Drowse Rk. II	TDS
+102	Sraskus' Drowse Rk. III	TDS
+102	Sraskus' Recourse	TDS
+102	Sraskus' Recourse II	TDS
+102	Sraskus' Recourse III	TDS
+103	Ancient Alliance	EoK
+103	Ancient Alliance Rk. II	EoK
+103	Ancient Alliance Rk. III	EoK
+103	Halcyon Bluster	TDS
+103	Halcyon Bluster Rk. II	TDS
+103	Halcyon Bluster Rk. III	TDS
+103	Hemocoraxius' Pandemic	TBM
+103	Historian's Intervention	TDS
+103	Historian's Intervention Rk. II	TDS
+103	Historian's Intervention Rk. III	TDS
+103	Krasir's Mending	TDS
+103	Krasir's Mending Rk. II	TDS
+103	Krasir's Mending Rk. III	TDS
+103	Reefmaw's Bite	TDS
+103	Reefmaw's Bite Rk. II	TDS
+103	Reefmaw's Bite Rk. III	TDS
+103	Regenerating Counterbias	TDS
+103	Regenerating Counterbias Effect	TDS
+103	Regenerating Counterbias Effect II	TDS
+103	Regenerating Counterbias Effect III	TDS
+103	Regenerating Counterbias Rk. II	TDS
+103	Regenerating Counterbias Rk. III	TDS
+103	Regenerating Counterbias Slow	TDS
+103	Spirespine's Pandemic	TDS
+103	Spirespine's Pandemic Rk. II	TDS
+103	Spirespine's Pandemic Rk. III	TDS
+103	Tribal Pact	TDS
+103	Tribal Pact Rk. II	TDS
+103	Tribal Pact Rk. III	TDS
+104	Chant of the Kromtus	TDS
+104	Chant of the Kromtus Rk. II	TDS
+104	Chant of the Kromtus Rk. III	TDS
+104	Chaotic Venom	EoK
+104	Chaotic Venom Rk. II	EoK
+104	Chaotic Venom Rk. III	EoK
+104	Garugaru	TDS
+104	Garugaru Rk. II	TDS
+104	Garugaru Rk. III	TDS
+104	Ice Squall	TDS
+104	Ice Squall Rk. II	TDS
+104	Ice Squall Rk. III	TDS
+104	Livio's Malosenia	TDS
+104	Livio's Malosenia Rk. II	TDS
+104	Livio's Malosenia Rk. III	TDS
+104	Nectar of Woe	TDS
+104	Nectar of Woe Rk. II	TDS
+104	Nectar of Woe Rk. III	TDS
+104	Serpentil's Venom	TDS
+104	Serpentil's Venom Rk. II	TDS
+104	Serpentil's Venom Rk. III	TDS
+104	Talisman of the Faithful	TDS
+104	Talisman of the Faithful Rk. II	TDS
+104	Talisman of the Faithful Rk. III	TDS
+104	Vengeance of Woe	TDS
+104	Vengeance of Woe II	TDS
+104	Vengeance of Woe III	TDS
+105	Blood of Rivans	TDS
+105	Blood of Rivans Rk. II	TDS
+105	Blood of Rivans Rk. III	TDS
+105	Call the Pack V Azia	TDS
+105	Call the Pack V Beza	TDS
+105	Call the Pack V Caza	TDS
+105	Glacial Gift	TDS
+105	Glacial Gift Rk. II	TDS
+105	Glacial Gift Rk. III	TDS
+105	Pack of Olesira	TDS
+105	Pack of Olesira Rk. II	TDS
+105	Pack of Olesira Rk. III	TDS
+105	Reckless Regeneration	TDS
+105	Reckless Regeneration Rk. II	TDS
+105	Reckless Regeneration Rk. III	TDS
+105	Reef Crawler Blood	TDS
+105	Reef Crawler Blood Rk. II	TDS
+105	Reef Crawler Blood Rk. III	TDS
+105	Shear of Renewal	TDS
+105	Shear of Renewal Rk. II	TDS
+105	Shear of Renewal Rk. III	TDS
+105	Spiritual Swell	TBM
+105	Spiritual Swell Rk. II	TBM
+105	Spiritual Swell Rk. III	TBM
+105	Sraskus' Curse	TDS
+105	Sraskus' Curse Rk. II	TDS
+105	Sraskus' Curse Rk. III	TDS
+105	Talisman of the Doomscale	TDS
+105	Talisman of the Doomscale Rk. II	TDS
+105	Talisman of the Doomscale Rk. III	TDS
+105	Ward of Regeneration	TDS
+105	Ward of Regeneration Rk. II	TDS
+105	Ward of Regeneration Rk. III	TDS
+106	Breath of Elkikatar	RoS
+106	Breath of Elkikatar Rk. II	RoS
+106	Breath of Elkikatar Rk. III	RoS
+106	Dissident Roar	TBL
+106	Fetid Decay	RoS
+106	Fetid Decay Rk. II	RoS
+106	Fetid Decay Rk. III	RoS
+106	Nexona's Spear of Venom	RoS
+106	Nexona's Spear of Venom Rk. II	RoS
+106	Nexona's Spear of Venom Rk. III	RoS
+106	Savage Growth	RoS
+106	Savage Growth Rk. II	RoS
+106	Savage Growth Rk. III	RoS
+106	Spirit of Resilience	RoS
+106	Spirit of Resilience Rk. II	RoS
+106	Spirit of Resilience Rk. III	RoS
+106	Spirit of the Unwavering	RoS
+106	Spirit of the Unwavering Rk. II	RoS
+106	Spirit of the Unwavering Rk. III	RoS
+106	Talisman of the Sabretooth	RoS
+106	Talisman of the Sabretooth Rk. II	RoS
+106	Talisman of the Sabretooth Rk. III	RoS
+106	Unity of the Wulthan	RoS
+106	Unity of the Wulthan Rk. II	RoS
+106	Unity of the Wulthan Rk. III	RoS
+106	Wulthan Focusing	RoS
+106	Wulthan Focusing Rk. II	RoS
+106	Wulthan Focusing Rk. III	RoS
+107	Erogo's Drowse	RoS
+107	Erogo's Drowse Rk. II	RoS
+107	Erogo's Drowse Rk. III	RoS
+107	Erogo's Recourse	RoS
+107	Erogo's Recourse II	RoS
+107	Erogo's Recourse III	RoS
+107	Eyrzekla's Recourse	RoS
+107	Eyrzekla's Recourse Rk. II	RoS
+107	Eyrzekla's Recourse Rk. III	RoS
+107	Feralisata	RoS
+107	Feralisata Rk. II	RoS
+107	Feralisata Rk. III	RoS
+107	Hoshkar's Malady	RoS
+107	Hoshkar's Malady Rk. II	RoS
+107	Hoshkar's Malady Rk. III	RoS
+107	Incapacity	RoS
+107	Incapacity Rk. II	RoS
+107	Incapacity Rk. III	RoS
+107	Malosinata	RoS
+107	Malosinata Rk. II	RoS
+107	Malosinata Rk. III	RoS
+107	Mirtuk's Faithful	RoS
+107	Mirtuk's Faithful Rk. II	RoS
+107	Mirtuk's Faithful Rk. III	RoS
+107	Rirwech's Affliction	RoS
+107	Rirwech's Affliction Rk. II	RoS
+107	Rirwech's Affliction Rk. III	RoS
+107	Rirwech's Malady	RoS
+107	Rirwech's Malady II	RoS
+107	Rirwech's Malady III	RoS
+108	Ameliorating Counterbias	RoS
+108	Ameliorating Counterbias Effect	RoS
+108	Ameliorating Counterbias Effect II	RoS
+108	Ameliorating Counterbias Effect III	RoS
+108	Ameliorating Counterbias Rk. II	RoS
+108	Ameliorating Counterbias Rk. III	RoS
+108	Ameliorating Counterbias Slow	RoS
+108	Elkikatar's Pandemic	TBL
+108	Eyrzekla's Mending	RoS
+108	Eyrzekla's Mending Rk. II	RoS
+108	Eyrzekla's Mending Rk. III	RoS
+108	Halcyon Billow	RoS
+108	Halcyon Billow Rk. II	RoS
+108	Halcyon Billow Rk. III	RoS
+108	Mawmun's Bite	RoS
+108	Mawmun's Bite Rk. II	RoS
+108	Mawmun's Bite Rk. III	RoS
+108	Prehistoric Intervention	RoS
+108	Prehistoric Intervention Rk. II	RoS
+108	Prehistoric Intervention Rk. III	RoS
+108	Ri`zyr's Breath	RoS
+108	Ri`zyr's Breath Rk. II	RoS
+108	Ri`zyr's Breath Rk. III	RoS
+108	Tribal Bargain	RoS
+108	Tribal Bargain Rk. II	RoS
+108	Tribal Bargain Rk. III	RoS
+108	Vermistipus's Pandemic	RoS
+108	Vermistipus's Pandemic Rk. II	RoS
+108	Vermistipus's Pandemic Rk. III	RoS
+109	Chant of the Wulthan	RoS
+109	Chant of the Wulthan Rk. II	RoS
+109	Chant of the Wulthan Rk. III	RoS
+109	Chaotic Poison	TBL
+109	Chaotic Poison Rk. II	TBL
+109	Chaotic Poison Rk. III	TBL
+109	Ice Shards	RoS
+109	Ice Shards Rk. II	RoS
+109	Ice Shards Rk. III	RoS
+109	Jinx	RoS
+109	Jinx Rk. II	RoS
+109	Jinx Rk. III	RoS
+109	Mawmun's Venom	RoS
+109	Mawmun's Venom Rk. II	RoS
+109	Mawmun's Venom Rk. III	RoS
+109	Nectar of Suffering	RoS
+109	Nectar of Suffering Rk. II	RoS
+109	Nectar of Suffering Rk. III	RoS
+109	Rirwech's Malosinata	RoS
+109	Ri`zyr's Rain of Venom	RoS
+109	Ri`zyr's Rain of Venom Rk. II	RoS
+109	Ri`zyr's Rain of Venom Rk. III	RoS
+109	Talisman of the Unwavering	RoS
+109	Talisman of the Unwavering Rk. II	RoS
+109	Talisman of the Unwavering Rk. III	RoS
+109	Vengeance of Suffering	RoS
+109	Vengeance of Suffering II	RoS
+109	Vengeance of Suffering III	RoS
+110	Blood of Tevik	RoS
+110	Blood of Tevik Rk. II	RoS
+110	Blood of Tevik Rk. III	RoS
+110	Call the Pack VI Azia	RoS
+110	Call the Pack VI Beza	RoS
+110	Call the Pack VI Caza	RoS
+110	Cloud of Renewal	RoS
+110	Cloud of Renewal Rk. II	RoS
+110	Cloud of Renewal Rk. III	RoS
+110	Erogo's Curse	RoS
+110	Erogo's Curse Rk. II	RoS
+110	Erogo's Curse Rk. III	RoS
+110	Frostbitten Gift	RoS
+110	Frostbitten Gift Rk. II	RoS
+110	Frostbitten Gift Rk. III	RoS
+110	Pack of Mirtuk	RoS
+110	Pack of Mirtuk Rk. II	RoS
+110	Pack of Mirtuk Rk. III	RoS
+110	Reckless Rejuvenation	RoS
+110	Reckless Rejuvenation Rk. II	RoS
+110	Reckless Rejuvenation Rk. III	RoS
+110	Scorpikis Blood	RoS
+110	Scorpikis Blood Rk. II	RoS
+110	Scorpikis Blood Rk. III	RoS
+110	Spiritual Squall	TBL
+110	Spiritual Squall Rk. II	TBL
+110	Spiritual Squall Rk. III	TBL
+110	Talisman of the Wulthan	RoS
+110	Talisman of the Wulthan Rk. II	RoS
+110	Talisman of the Wulthan Rk. III	RoS
+110	Ward of Remediation	RoS
+110	Ward of Remediation Rk. II	RoS
+110	Ward of Remediation Rk. III	RoS
+111	Breath of Bledrek	ToV
+111	Breath of Bledrek Rk. II	ToV
+111	Breath of Bledrek Rk. III	ToV
+111	Composite Roar	CoV
+111	Frenzied Growth	ToV
+111	Frenzied Growth Rk. II	ToV
+111	Frenzied Growth Rk. III	ToV
+111	Issuance of Malosi	CoV
+111	Issuance of Malosi Rk. II	CoV
+111	Issuance of Malosi Rk. III	CoV
+111	Kromrif Focusing	ToV
+111	Narandi's Spear of Venom	ToV
+111	Narandi's Spear of Venom Rk. II	ToV
+111	Narandi's Spear of Venom Rk. III	ToV
+111	Noxious Decay	ToV
+111	Noxious Decay Rk. II	ToV
+111	Noxious Decay Rk. III	ToV
+111	Spirit of the Enduring	ToV
+111	Spirit of Volition	ToV
+111	Talisman of the Lioness	ToV
+111	Talisman of the Lioness Rk. II	ToV
+111	Talisman of the Lioness Rk. III	ToV
+111	Unity of the Kromrif	ToV
+112	Amontehepna's Drowse	ToV
+112	Amontehepna's Drowse Rk. II	ToV
+112	Amontehepna's Drowse Rk. III	ToV
+112	Amontehepna's Recourse	ToV
+112	Amontehepna's Recourse II	ToV
+112	Amontehepna's Recourse III	ToV
+112	Attentive Spirit	CoV
+112	Attentive Spirit Rk. II	CoV
+112	Attentive Spirit Rk. III	CoV
+112	Ennui	ToV
+112	Ennui Rk. II	ToV
+112	Ennui Rk. III	ToV
+112	Grondo's Faithful	ToV
+112	Grondo's Faithful Rk. II	ToV
+112	Grondo's Faithful Rk. III	ToV
+112	Malosinara	ToV
+112	Malosinara Rk. II	ToV
+112	Malosinara Rk. III	ToV
+112	Malvus's Malady	ToV
+112	Malvus's Malady Rk. II	ToV
+112	Malvus's Malady Rk. III	ToV
+112	Spirit Bracing	ToV
+112	Svartmane's Affliction	ToV
+112	Svartmane's Affliction Rk. II	ToV
+112	Svartmane's Affliction Rk. III	ToV
+112	Svartmane's Malady	ToV
+112	Svartmane's Malady II	ToV
+112	Svartmane's Malady III	ToV
+112	Zrelik's Recourse	ToV
+112	Zrelik's Recourse Rk. II	ToV
+112	Zrelik's Recourse Rk. III	ToV
+113	Ancient Bargain	ToV
+113	Ancient Bargain Rk. II	ToV
+113	Ancient Bargain Rk. III	ToV
+113	Ancient Coalition	CoV
+113	Ancient Coalition Rk. II	CoV
+113	Ancient Coalition Rk. III	CoV
+113	Bolman's Pandemic	ToV
+113	Bolman's Pandemic Rk. II	ToV
+113	Bolman's Pandemic Rk. III	ToV
+113	Direfang's Bite	ToV
+113	Direfang's Bite Rk. II	ToV
+113	Direfang's Bite Rk. III	ToV
+113	Dracolich Breath	ToV
+113	Dracolich Breath Rk. II	ToV
+113	Dracolich Breath Rk. III	ToV
+113	Halcyon Wind	ToV
+113	Halcyon Wind Rk. II	ToV
+113	Halcyon Wind Rk. III	ToV
+113	Primordial Intervention	ToV
+113	Primordial Intervention Rk. II	ToV
+113	Primordial Intervention Rk. III	ToV
+113	Refreshing Counterbias	ToV
+113	Refreshing Counterbias Effect	ToV
+113	Refreshing Counterbias Effect II	ToV
+113	Refreshing Counterbias Effect III	ToV
+113	Refreshing Counterbias Rk. II	ToV
+113	Refreshing Counterbias Rk. III	ToV
+113	Refreshing Counterbias Slow	ToV
+113	Sjeon's Mending	ToV
+113	Sjeon's Mending Rk. II	ToV
+113	Sjeon's Mending Rk. III	ToV
+114	Bledrek's Pandemic	CoV
+114	Evil Eye	ToV
+114	Evil Eye Rk. II	ToV
+114	Evil Eye Rk. III	ToV
+114	Ice Salvo	ToV
+114	Ice Salvo Rk. II	ToV
+114	Ice Salvo Rk. III	ToV
+114	Nectar of Misery	ToV
+114	Nectar of Misery Rk. II	ToV
+114	Nectar of Misery Rk. III	ToV
+114	Svartmane's Malosinara	ToV
+114	Symbol of Celerity	ToV
+114	Talisman of the Enduring	ToV
+114	Vengeance of Misery	ToV
+114	Vengeance of Misery II	ToV
+114	Vengeance of Misery III	ToV
+114	Xalgoti's Venom	ToV
+114	Xalgoti's Venom Rk. II	ToV
+114	Xalgoti's Venom Rk. III	ToV
+115	Call the Pack VII Azia	ToV
+115	Call the Pack VII Beza	ToV
+115	Call the Pack VII Caza	ToV
+115	Chaotic Venin	CoV
+115	Chaotic Venin Rk. II	CoV
+115	Chaotic Venin Rk. III	CoV
+115	Marlek's Curse	ToV
+115	Marlek's Curse Rk. II	ToV
+115	Marlek's Curse Rk. III	ToV
+115	Pack of The Black Fang	ToV
+115	Pack of The Black Fang Rk. II	ToV
+115	Pack of The Black Fang Rk. III	ToV
+115	Reckless Renewal	ToV
+115	Reckless Renewal Rk. II	ToV
+115	Reckless Renewal Rk. III	ToV
+115	Restless Blood	ToV
+115	Restless Blood Rk. II	ToV
+115	Restless Blood Rk. III	ToV
+115	Spectre of Renewal	ToV
+115	Spectre of Renewal Rk. II	ToV
+115	Spectre of Renewal Rk. III	ToV
+115	Talisman of the Ry'Gorr	ToV
+115	Ward of Recuperation	ToV
+115	Ward of Recuperation Rk. II	ToV
+115	Ward of Recuperation Rk. III	ToV
+115	Wintry Gift	ToV
+115	Wintry Gift Rk. II	ToV
+115	Wintry Gift Rk. III	ToV
+116	Breath of the Tegi	ToL
+116	Breath of the Tegi Rk. II	ToL
+116	Breath of the Tegi Rk. III	ToL
+116	Ecliptic Roar	NoS
+116	Fervent Growth	ToL
+116	Fervent Growth Rk. II	ToL
+116	Fervent Growth Rk. III	ToL
+116	Fleshrot's Spear of Venom	ToL
+116	Fleshrot's Spear of Venom Rk. II	ToL
+116	Fleshrot's Spear of Venom Rk. III	ToL
+116	Spirit of Ancestry	ToL
+116	Spirit of the Tenacious	ToL
+116	Talisman of the Kerran	ToL
+116	Talisman of the Kerran Rk. II	ToL
+116	Talisman of the Kerran Rk. III	ToL
+116	Unity of the Vampyre	ToL
+116	Vampyre Focusing	ToL
+116	Virulent Decay	ToL
+116	Virulent Decay Rk. II	ToL
+116	Virulent Decay Rk. III	ToL
+117	Aten Ha Ra's Drowse	ToL
+117	Aten Ha Ra's Drowse Rk. II	ToL
+117	Aten Ha Ra's Drowse Rk. III	ToL
+117	Aten Ha Ra's Recourse	ToL
+117	Aten Ha Ra's Recourse II	ToL
+117	Aten Ha Ra's Recourse III	ToL
+117	Brightfeld's Affliction	ToL
+117	Brightfeld's Affliction Rk. II	ToL
+117	Brightfeld's Affliction Rk. III	ToL
+117	Brightfeld's Malady	ToL
+117	Brightfeld's Malady II	ToL
+117	Brightfeld's Malady III	ToL
+117	Cruor's Malady	ToL
+117	Cruor's Malady Rk. II	ToL
+117	Cruor's Malady Rk. III	ToL
+117	Diabo Sivuela's Faithful	ToL
+117	Diabo Sivuela's Faithful Rk. II	ToL
+117	Diabo Sivuela's Faithful Rk. III	ToL
+117	Malosinetra	ToL
+117	Malosinetra Rk. II	ToL
+117	Malosinetra Rk. III	ToL
+117	Melancholy	ToL
+117	Melancholy Rk. II	ToL
+117	Melancholy Rk. III	ToL
+117	Rowain's Recourse	ToL
+117	Rowain's Recourse Rk. II	ToL
+117	Rowain's Recourse Rk. III	ToL
+117	Spirit Reinforcement	ToL
+117	Watchful Spirit	NoS
+117	Watchful Spirit Rk. II	NoS
+117	Watchful Spirit Rk. III	NoS
+118	Ander's Bite	ToL
+118	Ander's Bite Rk. II	ToL
+118	Ander's Bite Rk. III	ToL
+118	Antediluvian Intervention	ToL
+118	Antediluvian Intervention Rk. II	ToL
+118	Antediluvian Intervention Rk. III	ToL
+118	Doomshade's Pandemic	ToL
+118	Doomshade's Pandemic Rk. II	ToL
+118	Doomshade's Pandemic Rk. III	ToL
+118	Effervescent Counterbias	ToL
+118	Effervescent Counterbias Effect	ToL
+118	Effervescent Counterbias Effect II	ToL
+118	Effervescent Counterbias Effect III	ToL
+118	Effervescent Counterbias Rk. II	ToL
+118	Effervescent Counterbias Rk. III	ToL
+118	Effervescent Counterbias Slow	ToL
+118	Halcyon Squall	ToL
+118	Halcyon Squall Rk. II	ToL
+118	Halcyon Squall Rk. III	ToL
+118	Hoary Agreement	ToL
+118	Hoary Agreement Rk. II	ToL
+118	Hoary Agreement Rk. III	ToL
+118	Korah's Mending	ToL
+118	Korah's Mending Rk. II	ToL
+118	Korah's Mending Rk. III	ToL
+118	Spiritual Shower	NoS
+118	Spiritual Shower Rk. II	NoS
+118	Spiritual Shower Rk. III	NoS
+118	Tekuel Breath	ToL
+118	Tekuel Breath Rk. II	ToL
+118	Tekuel Breath Rk. III	ToL
+119	Chant of the Zelniak	ToL
+119	Chant of the Zelniak Rk. II	ToL
+119	Chant of the Zelniak Rk. III	ToL
+119	Heavy Sleet	ToL
+119	Heavy Sleet Rk. II	ToL
+119	Heavy Sleet Rk. III	ToL
+119	Namdrows' Venom	ToL
+119	Namdrows' Venom Rk. II	ToL
+119	Namdrows' Venom Rk. III	ToL
+119	Nectar of Destitution	ToL
+119	Nectar of Destitution Rk. II	ToL
+119	Nectar of Destitution Rk. III	ToL
+119	Obeah	ToL
+119	Obeah Rk. II	ToL
+119	Obeah Rk. III	ToL
+119	Talisman of the Tenacious	ToL
+119	Tegi Pandemic	NoS
+119	Txiki's Malosinara	ToL
+119	Va Xakra's Rain of Venom	ToL
+119	Va Xakra's Rain of Venom Rk. II	ToL
+119	Va Xakra's Rain of Venom Rk. III	ToL
+119	Vengeance of Destitution	ToL
+119	Vengeance of Destitution II	ToL
+119	Vengeance of Destitution III	ToL
+120	Blood of Mayong	ToL
+120	Blood of Mayong Rk. II	ToL
+120	Blood of Mayong Rk. III	ToL
+120	Call the Pack VIII Azia	ToL
+120	Call the Pack VIII Beza	ToL
+120	Call the Pack VIII Caza	ToL
+120	Chaotic Toxin	NoS
+120	Chaotic Toxin Rk. II	NoS
+120	Chaotic Toxin Rk. III	NoS
+120	Desperate Vampyre Blood	ToL
+120	Desperate Vampyre Blood Rk. II	ToL
+120	Desperate Vampyre Blood Rk. III	ToL
+120	Lenrel's Curse	ToL
+120	Lenrel's Curse Rk. II	ToL
+120	Lenrel's Curse Rk. III	ToL
+120	Pack of Lunar Wolves	ToL
+120	Pack of Lunar Wolves Rk. II	ToL
+120	Pack of Lunar Wolves Rk. III	ToL
+120	Polar Gift	ToL
+120	Polar Gift Rk. II	ToL
+120	Polar Gift Rk. III	ToL
+120	Reckless Resurgence	ToL
+120	Reckless Resurgence Rk. II	ToL
+120	Reckless Resurgence Rk. III	ToL
+120	Spirit of Renewal	ToL
+120	Spirit of Renewal Rk. II	ToL
+120	Spirit of Renewal Rk. III	ToL
+120	Talisman of the Usurper	ToL
+120	Ward of Rebirth	ToL
+120	Ward of Rebirth Rk. II	ToL
+120	Ward of Rebirth Rk. III	ToL
+121	Breath of the Hotariton	LS
+121	Breath of the Hotariton Rk. II	LS
+121	Breath of the Hotariton Rk. III	LS
+121	Celeritous Unity	LS
+121	Heroic Focusing	LS
+121	Malevolent Decay	LS
+121	Malevolent Decay Rk. II	LS
+121	Malevolent Decay Rk. III	LS
+121	Mammoth's Unity	LS
+121	Overwhelming Growth	LS
+121	Overwhelming Growth Rk. II	LS
+121	Overwhelming Growth Rk. III	LS
+121	Preeminent Unity	LS
+121	Red Eye's Spear of Venom	LS
+121	Red Eye's Spear of Venom Rk. II	LS
+121	Red Eye's Spear of Venom Rk. III	LS
+121	Rimeclaw's Drowse	LS
+121	Rimeclaw's Drowse Rk. II	LS
+121	Rimeclaw's Drowse Rk. III	LS
+121	Rimeclaw's Recourse	LS
+121	Rimeclaw's Recourse II	LS
+121	Rimeclaw's Recourse III	LS
+121	Spirit of Lost Legends	LS
+121	Spirit of the Unforgettable	LS
+121	Talisman of the Manul	LS
+121	Talisman of the Manul Rk. II	LS
+121	Talisman of the Manul Rk. III	LS
+121	Unity of the Heroic	LS
+122	Grayleaf's Recourse	LS
+122	Grayleaf's Recourse Rk. II	LS
+122	Grayleaf's Recourse Rk. III	LS
+122	Krizad's Affliction	LS
+122	Krizad's Affliction Rk. II	LS
+122	Krizad's Affliction Rk. III	LS
+122	Krizad's Malady	LS
+122	Krizad's Malady II	LS
+122	Krizad's Malady III	LS
+122	Malosinera	LS
+122	Malosinera Rk. II	LS
+122	Malosinera Rk. III	LS
+122	Moroseness	LS
+122	Moroseness Rk. II	LS
+122	Moroseness Rk. III	LS
+122	Spirit Augmentation	LS
+122	Suja's Faithful	LS
+122	Suja's Faithful Rk. II	LS
+122	Suja's Faithful Rk. III	LS
+122	Uncia's Malady	LS
+122	Uncia's Malady Rk. II	LS
+122	Uncia's Malady Rk. III	LS
+123	Halcyon Gale	LS
+123	Halcyon Gale Rk. II	LS
+123	Halcyon Gale Rk. III	LS
+123	Hotarata Breath	LS
+123	Hotarata Breath Rk. II	LS
+123	Hotarata Breath Rk. III	LS
+123	Immortal Intervention	LS
+123	Immortal Intervention Rk. II	LS
+123	Immortal Intervention Rk. III	LS
+123	Matlock's Mending	LS
+123	Matlock's Mending Rk. II	LS
+123	Matlock's Mending Rk. III	LS
+123	Oka's Bite	LS
+123	Oka's Bite Rk. II	LS
+123	Oka's Bite Rk. III	LS
+123	Reminiscent Counterbias	LS
+123	Reminiscent Counterbias Effect	LS
+123	Reminiscent Counterbias Effect II	LS
+123	Reminiscent Counterbias Effect III	LS
+123	Reminiscent Counterbias Rk. II	LS
+123	Reminiscent Counterbias Rk. III	LS
+123	Reminiscent Counterbias Slow	LS
+123	Skraiw's Pandemic	LS
+123	Skraiw's Pandemic Rk. II	LS
+123	Skraiw's Pandemic Rk. III	LS
+124	Caustic Blood	LS
+124	Caustic Blood Rk. II	LS
+124	Caustic Blood Rk. III	LS
+124	Ice Barrage	LS
+124	Ice Barrage Rk. II	LS
+124	Ice Barrage Rk. III	LS
+124	Korsh's Venom	LS
+124	Korsh's Venom Rk. II	LS
+124	Korsh's Venom Rk. III	LS
+124	Krizad's Malosinera	LS
+124	Malediction	LS
+124	Malediction Rk. II	LS
+124	Malediction Rk. III	LS
+124	Nectar of Obscurity	LS
+124	Nectar of Obscurity Rk. II	LS
+124	Nectar of Obscurity Rk. III	LS
+124	Talisman of the Unforgettable	LS
+124	Traumatic Exchange	LS
+124	Traumatic Exchange Rk. II	LS
+124	Traumatic Exchange Rk. III	LS
+124	Vengeance of Obscurity	LS
+124	Vengeance of Obscurity II	LS
+124	Vengeance of Obscurity III	LS
+125	Call the Pack IX Azia	LS
+125	Call the Pack IX Beza	LS
+125	Call the Pack IX Caza	LS
+125	Fandrel's Curse	LS
+125	Fandrel's Curse Rk. II	LS
+125	Fandrel's Curse Rk. III	LS
+125	Gelid Gift	LS
+125	Gelid Gift Rk. II	LS
+125	Gelid Gift Rk. III	LS
+125	Pack of Ancestral Beasts	LS
+125	Pack of Ancestral Beasts Rk. II	LS
+125	Pack of Ancestral Beasts Rk. III	LS
+125	Reckless Reinvigoration	LS
+125	Reckless Reinvigoration Rk. II	LS
+125	Reckless Reinvigoration Rk. III	LS
+125	Reverie of Renewal	LS
+125	Reverie of Renewal Rk. II	LS
+125	Reverie of Renewal Rk. III	LS
+125	Talisman of the Heroic	LS
+125	Ward of Heroic Deeds	LS
+125	Ward of Heroic Deeds Rk. II	LS
+125	Ward of Heroic Deeds Rk. III	LS
+250	Composite Roar 1	CoV
+250	Composite Roar 2	CoV
+250	Composite Roar 3	CoV
+250	Composite Roar 4	CoV
+250	Composite Roar 5	CoV
+250	Composite Roar 6	CoV
+250	Dissident Roar 1	TBL
+250	Dissident Roar 2	TBL
+250	Dissident Roar 3	TBL
+250	Dissident Roar 4	TBL
+250	Dissident Roar 5	TBL
+250	Dissident Roar 6	TBL
+250	Ecliptic Roar 1	NoS
+250	Ecliptic Roar 2	NoS
+250	Ecliptic Roar 3	NoS
+250	Ecliptic Roar 4	NoS
+250	Ecliptic Roar 5	NoS
+250	Ecliptic Roar 6	NoS
+250	Roar of the Lion 1	TBM
+250	Roar of the Lion 2	TBM
+250	Roar of the Lion 3	TBM
+250	Roar of the Lion 4	TBM
+250	Roar of the Lion 5	TBM
+250	Roar of the Lion 6	TBM

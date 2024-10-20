@@ -1,0 +1,655 @@
+1	Corroded Axe	Gates
+1	Throw Stone	EQ
+5	Blunt Axe	Gates
+5	Elbow Strike	EQ
+8	Leg Strike	Gates
+10	Focused Will Discipline	EQ
+10	Steel Axe	Gates
+15	Bearded Axe	Gates
+16	Head Strike	Gates
+20	Mithril Axe	Gates
+24	Divertive Strike	Gates
+25	Balanced War Axe	Gates
+30	Battle Cry	Gates
+30	Bonesplicer Axe	Gates
+30	Resistant Discipline	Kunark
+32	Leg Cut	Gates
+35	Fleshtear Axe	Gates
+40	Cold Steel Cleaving Axe	Gates
+40	Fearless Discipline	Kunark
+40	Head Pummel	Gates
+45	Mithril Bloodaxe	Gates
+48	Distracting Strike	Gates
+50	Rage Axe	Gates
+50	War Cry	Gates
+53	Inspired Anger Discipline	Gates
+54	Cleaving Rage Discipline	Gates
+54	Leg Slice	Gates
+55	Aura of Rage	PoR
+55	Bloodseeker's Axe	Gates
+56	Reckless Discipline	Gates
+57	Battle Cry of Dravel	Gates
+57	Focused Fury Discipline	Gates
+58	Blind Rage Discipline	Gates
+59	Battle Focus Discipline	Gates
+60	Battlerage Axe	Gates
+60	Burning Rage Discipline	Gates
+60	Head Crush	Gates
+61	Rage Volley	Gates
+61	Sprint Discipline	Gates
+63	Healing Will Discipline	PoP
+63	Indomitable Discipline	Gates
+64	War Cry of Dravel	Gates
+65	Ancient: Cry of Chaos	Gates
+65	Battle Cry of the Mastruq	Gates
+65	Cleaving Anger Discipline	Gates
+65	Confusing Strike	Gates
+65	Deathfury Axe	Gates
+65	Tainted Axe of Hatred	Gates
+66	Axe of the Destroyer	Omens
+66	Unpredictable Rage Discipline	Omens
+67	Crippling Strike	Omens
+68	Cry Havoc	DoD
+68	Mind Strike	Omens
+68	Unflinching Will Discipline	Omens
+69	Baffling Strike	Omens
+69	Destroyer's Volley	DoN
+70	Bloodlust Aura	PoR
+70	Bloodthirst	PoR
+70	Vengeful Flurry Discipline	Omens
+71	Axe of the Annihilator	TSS
+71	Tendon Cleave	TSS
+71	Tendon Cleave Rk. II	TSS
+72	Second Wind	TBS
+72	Second Wind Rk. II	TBS
+72	Second Wind Rk. III	TBS
+72	Unsettling Scream	TSS
+72	Unsettling Scream Rk. II	TSS
+72	Unsettling Scream Rk. III	TSS
+73	Temple Blow	TSS
+73	Temple Blow Rk. II	TSS
+73	Temple Blow Rk. III	TSS
+74	Annihilator's Volley	TBS
+74	Annihilator's Volley Rk. II	TBS
+74	Annihilator's Volley Rk. III	TBS
+74	Jarring Strike	TSS
+74	Jarring Strike Rk. II	TSS
+75	Berserking Discipline	TSS
+75	Berserking Discipline Rk. II	TSS
+75	Berserking Discipline Rk. III	TSS
+76	Axe of the Decimator	SoF
+76	Tendon Sever	SoF
+76	Tendon Sever Rk. II	SoF
+76	Tendon Sever Rk. III	SoF
+77	Agitating Scream	SoF
+77	Agitating Scream Rk. II	SoF
+77	Agitating Scream Rk. III	SoF
+77	Third Wind	SoF
+77	Third Wind Rk. II	SoF
+77	Third Wind Rk. III	SoF
+78	Temple Strike	SoF
+78	Temple Strike Rk. II	SoF
+78	Temple Strike Rk. III	SoF
+79	Decimator's Volley	SoF
+79	Decimator's Volley Rk. II	SoF
+79	Decimator's Volley Rk. III	SoF
+79	Jarring Smash	SoF
+79	Jarring Smash Rk. II	SoF
+79	Jarring Smash Rk. III	SoF
+80	Battle Frenzy	SoF
+80	Battle Frenzy Rk. II	SoF
+80	Battle Frenzy Rk. III	SoF
+81	Axe of the Eradicator	SoD
+81	Overpowering Frenzy	SoD
+81	Overpowering Frenzy Rk. II	SoD
+81	Overpowering Frenzy Rk. III	SoD
+81	Tendon Shear	SoD
+81	Tendon Shear Rk. II	SoD
+81	Tendon Shear Rk. III	SoD
+82	Distressing Scream	SoD
+82	Distressing Scream Rk. II	SoD
+82	Distressing Scream Rk. III	SoD
+82	Fourth Wind	SoD
+82	Fourth Wind Rk. II	SoD
+82	Fourth Wind Rk. III	SoD
+83	Blood Hatchet	SoD
+83	Blood Hatchet Rk. II	SoD
+83	Blood Hatchet Rk. III	SoD
+83	Temple Bash	SoD
+83	Temple Bash Rk. II	SoD
+83	Temple Bash Rk. III	SoD
+83	Vigorous Axe Throw	UF
+83	Vigorous Axe Throw Rk. II	UF
+83	Vigorous Axe Throw Rk. III	UF
+84	Eradicator's Volley	SoD
+84	Eradicator's Volley Rk. II	SoD
+84	Eradicator's Volley Rk. III	SoD
+84	Jarring Clash	SoD
+84	Jarring Clash Rk. II	SoD
+84	Jarring Clash Rk. III	SoD
+85	Axe of Rallos	UF
+85	Axe of Rallos Rk. II	UF
+85	Axe of Rallos Rk. III	UF
+85	Combat Frenzy	SoD
+85	Combat Frenzy Rk. II	SoD
+85	Combat Frenzy Rk. III	SoD
+85	Shared Bloodlust	UF
+85	Shared Bloodlust Rk. II	UF
+85	Shared Bloodlust Rk. III	UF
+86	Axe of the Savage	HoT
+86	Cleaving Acrimony Discipline	HoT
+86	Cleaving Acrimony Discipline Rk. II	HoT
+86	Cleaving Acrimony Discipline Rk. III	HoT
+86	Overwhelming Frenzy	HoT
+86	Overwhelming Frenzy Rk. II	HoT
+86	Overwhelming Frenzy Rk. III	HoT
+86	Respite	HoT
+86	Respite Rk. II	HoT
+86	Respite Rk. III	HoT
+86	Tendon Lacerate	HoT
+86	Tendon Lacerate Rk. II	HoT
+86	Tendon Lacerate Rk. III	HoT
+87	Distracting Scream	HoT
+87	Distracting Scream Rk. II	HoT
+87	Distracting Scream Rk. III	HoT
+87	Fifth Wind	HoT
+87	Fifth Wind Rk. II	HoT
+87	Fifth Wind Rk. III	HoT
+87	Slap in the Face	HoT
+87	Slap in the Face Rk. II	HoT
+87	Slap in the Face Rk. III	HoT
+88	Blood Axe	HoT
+88	Blood Axe Rk. II	HoT
+88	Blood Axe Rk. III	HoT
+88	Energetic Axe Throw	HoT
+88	Energetic Axe Throw Rk. II	HoT
+88	Energetic Axe Throw Rk. III	HoT
+88	Temple Chop	HoT
+88	Temple Chop Rk. II	HoT
+88	Temple Chop Rk. III	HoT
+89	Avenging Flurry Discipline	HoT
+89	Avenging Flurry Discipline Rk. II	HoT
+89	Avenging Flurry Discipline Rk. III	HoT
+89	Jarring Slam	HoT
+89	Jarring Slam Rk. II	HoT
+89	Jarring Slam Rk. III	HoT
+89	Savage Volley	HoT
+89	Savage Volley Rk. II	HoT
+89	Savage Volley Rk. III	HoT
+90	Axe of Graster	HoT
+90	Axe of Graster Rk. II	HoT
+90	Axe of Graster Rk. III	HoT
+90	Fighting Frenzy	HoT
+90	Fighting Frenzy Rk. II	HoT
+90	Fighting Frenzy Rk. III	HoT
+90	Shared Brutality	HoT
+90	Shared Brutality Rk. II	HoT
+90	Shared Brutality Rk. III	HoT
+91	Axe of the Sunderer	VoA
+91	Conquering Frenzy	VoA
+91	Conquering Frenzy Rk. II	VoA
+91	Conquering Frenzy Rk. III	VoA
+91	Early Retaliation	VoA
+91	Early Retaliation Rk. II	VoA
+91	Early Retaliation Rk. III	VoA
+91	Reprieve	VoA
+91	Reprieve Rk. II	VoA
+91	Reprieve Rk. III	VoA
+91	Tendon Slash	VoA
+91	Tendon Slash Rk. II	VoA
+91	Tendon Slash Rk. III	VoA
+92	Kick in the Teeth	VoA
+92	Kick in the Teeth Rk. II	VoA
+92	Kick in the Teeth Rk. III	VoA
+92	Perturbing Scream	VoA
+92	Perturbing Scream Rk. II	VoA
+92	Perturbing Scream Rk. III	VoA
+92	Sixth Wind	VoA
+92	Sixth Wind Rk. II	VoA
+92	Sixth Wind Rk. III	VoA
+93	Blood Blade	VoA
+93	Blood Blade Rk. II	VoA
+93	Blood Blade Rk. III	VoA
+93	Inner Rejuvenation	VoA
+93	Inner Rejuvenation Rk. II	VoA
+93	Inner Rejuvenation Rk. III	VoA
+93	Spirited Axe Throw	VoA
+93	Spirited Axe Throw Rk. II	VoA
+93	Spirited Axe Throw Rk. III	VoA
+93	Temple Smash	VoA
+93	Temple Smash Rk. II	VoA
+93	Temple Smash Rk. III	VoA
+93	Unyielding Will Discipline	VoA
+93	Unyielding Will Discipline Rk. II	VoA
+93	Unyielding Will Discipline Rk. III	VoA
+94	Frenzied Resolve Discipline	VoA
+94	Frenzied Resolve Discipline Rk. II	VoA
+94	Frenzied Resolve Discipline Rk. III	VoA
+94	Jarring Blow	VoA
+94	Jarring Blow Rk. II	VoA
+94	Jarring Blow Rk. III	VoA
+94	Sundering Volley	VoA
+94	Sundering Volley Rk. II	VoA
+94	Sundering Volley Rk. III	VoA
+95	Axe of Illdaera	VoA
+95	Axe of Illdaera Rk. II	VoA
+95	Axe of Illdaera Rk. III	VoA
+95	Shared Savagery	VoA
+95	Shared Savagery Rk. II	VoA
+95	Shared Savagery Rk. III	VoA
+95	Steel Frenzy	VoA
+95	Steel Frenzy Rk. II	VoA
+95	Steel Frenzy Rk. III	VoA
+95	Sundering Discipline	VoA
+95	Sundering Discipline Rk. II	VoA
+95	Sundering Discipline Rk. III	VoA
+96	Advanced Retaliation	VoA
+96	Advanced Retaliation Rk. II	VoA
+96	Advanced Retaliation Rk. III	VoA
+96	Axe of the Brute	VoA
+96	Capricious Rage Discipline	VoA
+96	Capricious Rage Discipline Rk. II	VoA
+96	Capricious Rage Discipline Rk. III	VoA
+96	Open Wound	CotF
+96	Open Wound Rk. II	CotF
+96	Open Wound Rk. III	CotF
+96	Rest	RoF
+96	Rest Rk. II	RoF
+96	Rest Rk. III	RoF
+96	Tendon Gash	VoA
+96	Tendon Gash Rk. II	VoA
+96	Tendon Gash Rk. III	VoA
+96	Vanquishing Frenzy	VoA
+96	Vanquishing Frenzy Rk. II	VoA
+96	Vanquishing Frenzy Rk. III	VoA
+97	Conditioned Retaliation	CotF
+97	Conditioned Retaliation Rk. II	CotF
+97	Conditioned Retaliation Rk. III	CotF
+97	Punch in the Throat	VoA
+97	Punch in the Throat Rk. II	VoA
+97	Punch in the Throat Rk. III	VoA
+97	Seventh Wind	RoF
+97	Seventh Wind Rk. II	RoF
+97	Seventh Wind Rk. III	RoF
+97	Vicious Spiral	VoA
+97	Vicious Spiral Rk. II	VoA
+97	Vicious Spiral Rk. III	VoA
+98	Blood Brand	VoA
+98	Blood Brand Rk. II	VoA
+98	Blood Brand Rk. III	VoA
+98	Brutal Axe Throw	VoA
+98	Brutal Axe Throw Rk. II	VoA
+98	Brutal Axe Throw Rk. III	VoA
+98	Cry Carnage	RoF
+98	Cry Carnage Rk. II	RoF
+98	Cry Carnage Rk. III	RoF
+98	Festering Rage	CotF
+98	Festering Rage Rk. II	CotF
+98	Festering Rage Rk. III	CotF
+98	Temple Crush	VoA
+98	Temple Crush Rk. II	VoA
+98	Temple Crush Rk. III	VoA
+99	Arcblade	CotF
+99	Arcblade Rk. II	CotF
+99	Arcblade Rk. III	CotF
+99	Augmented Frenzy	VoA
+99	Augmented Frenzy Rk. II	VoA
+99	Augmented Frenzy Rk. III	VoA
+99	Brutal Volley	VoA
+99	Brutal Volley Rk. II	VoA
+99	Brutal Volley Rk. III	VoA
+99	Jarring Crush	VoA
+99	Jarring Crush Rk. II	VoA
+99	Jarring Crush Rk. III	VoA
+100	Axe of Zurel	RoF
+100	Axe of Zurel Rk. II	RoF
+100	Axe of Zurel Rk. III	RoF
+100	Brutal Discipline	RoF
+100	Brutal Discipline Rk. II	RoF
+100	Brutal Discipline Rk. III	RoF
+100	Fearless Frenzy	RoF
+100	Fearless Frenzy Rk. II	RoF
+100	Fearless Frenzy Rk. III	RoF
+100	Phantom Assailant	CotF
+100	Phantom Assailant Rk. II	CotF
+100	Phantom Assailant Rk. III	CotF
+100	Shared Viciousness	RoF
+100	Shared Viciousness Rk. II	RoF
+100	Shared Viciousness Rk. III	RoF
+101	Axe of the Demolisher	TDS
+101	Breather	TDS
+101	Breather Rk. II	TDS
+101	Breather Rk. III	TDS
+101	Demolishing Frenzy	TDS
+101	Demolishing Frenzy Rk. II	TDS
+101	Demolishing Frenzy Rk. III	TDS
+101	Dichotomic Rage	TBM
+101	Prior Retaliation	TDS
+101	Prior Retaliation Rk. II	TDS
+101	Prior Retaliation Rk. III	TDS
+101	Tendon Tear	TDS
+101	Tendon Tear Rk. II	TDS
+101	Tendon Tear Rk. III	TDS
+102	Axe of the Aeons	EoK
+102	Axe of the Aeons Rk. II	EoK
+102	Axe of the Aeons Rk. III	EoK
+102	Bubbling Rage	TDS
+102	Bubbling Rage Rk. II	TDS
+102	Bubbling Rage Rk. III	TDS
+102	Kick in the Shins	TDS
+102	Kick in the Shins Rk. II	TDS
+102	Kick in the Shins Rk. III	TDS
+102	Vicious Cyclone	TDS
+102	Vicious Cyclone Rk. II	TDS
+102	Vicious Cyclone Rk. III	TDS
+103	Demolishing Axe Throw	TDS
+103	Demolishing Axe Throw Rk. II	TDS
+103	Demolishing Axe Throw Rk. III	TDS
+103	Sapping Strikes	EoK
+103	Sapping Strikes Rk. II	EoK
+103	Sapping Strikes Rk. III	EoK
+103	Temple Demolish	TDS
+103	Temple Demolish Rk. II	TDS
+103	Temple Demolish Rk. III	TDS
+104	Amplified Frenzy	TDS
+104	Amplified Frenzy Rk. II	TDS
+104	Amplified Frenzy Rk. III	TDS
+104	Arcslice	TBM
+104	Arcslice Rk. II	TBM
+104	Arcslice Rk. III	TBM
+104	Demolishing Volley	TDS
+104	Demolishing Volley Rk. II	TDS
+104	Demolishing Volley Rk. III	TDS
+104	Disconcerting Discipline	EoK
+104	Disconcerting Discipline Rk. II	EoK
+104	Disconcerting Discipline Rk. III	EoK
+104	Jarring Smite	TDS
+104	Jarring Smite Rk. II	TDS
+104	Jarring Smite Rk. III	TDS
+105	Axe of Numicia	TDS
+105	Axe of Numicia Rk. II	TDS
+105	Axe of Numicia Rk. III	TDS
+105	Demolisher's Alliance	EoK
+105	Demolisher's Alliance Rk. II	EoK
+105	Demolisher's Alliance Rk. III	EoK
+105	Shared Cruelty	TDS
+105	Shared Cruelty Rk. II	TDS
+105	Shared Cruelty Rk. III	TDS
+105	Stormwild Frenzy	TDS
+105	Stormwild Frenzy Rk. II	TDS
+105	Stormwild Frenzy Rk. III	TDS
+106	Axe of the Mangler	RoS
+106	Dissident Rage	TBL
+106	Hiatus	RoS
+106	Hiatus Rk. II	RoS
+106	Hiatus Rk. III	RoS
+106	Mangling Frenzy	RoS
+106	Mangling Frenzy Rk. II	RoS
+106	Mangling Frenzy Rk. III	RoS
+106	Proactive Retaliation	RoS
+106	Proactive Retaliation Rk. II	RoS
+106	Proactive Retaliation Rk. III	RoS
+106	Ritual Scarification	RoS
+106	Ritual Scarification Rk. II	RoS
+106	Ritual Scarification Rk. III	RoS
+106	Tendon Rupture	RoS
+106	Tendon Rupture Rk. II	RoS
+106	Tendon Rupture Rk. III	RoS
+107	Axe of Empyr	TBL
+107	Axe of Empyr Rk. II	TBL
+107	Axe of Empyr Rk. III	TBL
+107	Smoldering Rage	RoS
+107	Smoldering Rage Rk. II	RoS
+107	Smoldering Rage Rk. III	RoS
+107	Sucker Punch	RoS
+107	Sucker Punch Rk. II	RoS
+107	Sucker Punch Rk. III	RoS
+107	Vicious Cycle	RoS
+107	Vicious Cycle Rk. II	RoS
+107	Vicious Cycle Rk. III	RoS
+108	Mangling Axe Throw	RoS
+108	Mangling Axe Throw Rk. II	RoS
+108	Mangling Axe Throw Rk. III	RoS
+108	Mangling Discipline	RoS
+108	Mangling Discipline Rk. II	RoS
+108	Mangling Discipline Rk. III	RoS
+108	Temple Slam	RoS
+108	Temple Slam Rk. II	RoS
+108	Temple Slam Rk. III	RoS
+109	Arcsteel	TBL
+109	Arcsteel Rk. II	TBL
+109	Arcsteel Rk. III	TBL
+109	Bolstered Frenzy	RoS
+109	Bolstered Frenzy Rk. II	RoS
+109	Bolstered Frenzy Rk. III	RoS
+109	Jarring Jolt	RoS
+109	Jarring Jolt Rk. II	RoS
+109	Jarring Jolt Rk. III	RoS
+109	Mangling Volley	RoS
+109	Mangling Volley Rk. II	RoS
+109	Mangling Volley Rk. III	RoS
+110	Axe of Rekatok	RoS
+110	Axe of Rekatok Rk. II	RoS
+110	Axe of Rekatok Rk. III	RoS
+110	Mangler's Covenant	TBL
+110	Mangler's Covenant Rk. II	TBL
+110	Mangler's Covenant Rk. III	TBL
+110	Shared Ruthlessness	RoS
+110	Shared Ruthlessness Rk. II	RoS
+110	Shared Ruthlessness Rk. III	RoS
+110	Torrid Frenzy	RoS
+110	Torrid Frenzy Rk. II	RoS
+110	Torrid Frenzy Rk. III	RoS
+111	Axe of the Vindicator	ToV
+111	Composite Rage	CoV
+111	Premature Retaliation	ToV
+111	Premature Retaliation Rk. II	ToV
+111	Premature Retaliation Rk. III	ToV
+111	Relax	ToV
+111	Relax Rk. II	ToV
+111	Relax Rk. III	ToV
+111	Tendon Rip	ToV
+111	Tendon Rip Rk. II	ToV
+111	Tendon Rip Rk. III	ToV
+111	Vindicating Frenzy	ToV
+111	Vindicating Frenzy Rk. II	ToV
+111	Vindicating Frenzy Rk. III	ToV
+112	Rabbit Punch	ToV
+112	Rabbit Punch Rk. II	ToV
+112	Rabbit Punch Rk. III	ToV
+112	Seething Rage	ToV
+112	Seething Rage Rk. II	ToV
+112	Seething Rage Rk. III	ToV
+112	Vicious Revolution	ToV
+112	Vicious Revolution Rk. II	ToV
+112	Vicious Revolution Rk. III	ToV
+113	Reflexive Retaliation	ToV
+113	Reflexive Retaliation Rk. II	ToV
+113	Reflexive Retaliation Rk. III	ToV
+113	Shriveling Strikes	CoV
+113	Shriveling Strikes Rk. II	CoV
+113	Shriveling Strikes Rk. III	CoV
+113	Temple Crack	ToV
+113	Temple Crack Rk. II	ToV
+113	Temple Crack Rk. III	ToV
+113	Vindicating Axe Throw	ToV
+113	Vindicating Axe Throw Rk. II	ToV
+113	Vindicating Axe Throw Rk. III	ToV
+114	Arcslash	CoV
+114	Arcslash Rk. II	CoV
+114	Arcslash Rk. III	CoV
+114	Jarring Shock	ToV
+114	Jarring Shock Rk. II	ToV
+114	Jarring Shock Rk. III	ToV
+114	Magnified Frenzy	ToV
+114	Magnified Frenzy Rk. II	ToV
+114	Magnified Frenzy Rk. III	ToV
+114	Vindicating Volley	ToV
+114	Vindicating Volley Rk. II	ToV
+114	Vindicating Volley Rk. III	ToV
+115	Axe of Derakor	ToV
+115	Axe of Derakor Rk. II	ToV
+115	Axe of Derakor Rk. III	ToV
+115	Restless Frenzy	ToV
+115	Restless Frenzy Rk. II	ToV
+115	Restless Frenzy Rk. III	ToV
+115	Shared Atavism	ToV
+115	Shared Atavism Rk. II	ToV
+115	Shared Atavism Rk. III	ToV
+115	Vindicator's Coalition	CoV
+115	Vindicator's Coalition Rk. II	CoV
+115	Vindicator's Coalition Rk. III	CoV
+116	Axe of the Conqueror	ToL
+116	Ecliptic Rage	NoS
+116	Night's Calming	ToL
+116	Night's Calming Rk. II	ToL
+116	Night's Calming Rk. III	ToL
+116	Oppressing Frenzy	ToL
+116	Oppressing Frenzy Rk. II	ToL
+116	Oppressing Frenzy Rk. III	ToL
+116	Primed Retaliation	ToL
+116	Primed Retaliation Rk. II	ToL
+116	Primed Retaliation Rk. III	ToL
+116	Stinging Incision	ToL
+116	Tendon Shred	ToL
+116	Tendon Shred Rk. II	ToL
+116	Tendon Shred Rk. III	ToL
+117	Frothing Rage	ToL
+117	Frothing Rage Rk. II	ToL
+117	Frothing Rage Rk. III	ToL
+117	Swift Punch	ToL
+117	Swift Punch Rk. II	ToL
+117	Swift Punch Rk. III	ToL
+117	Vicious Whirl	ToL
+117	Vicious Whirl Rk. II	ToL
+117	Vicious Whirl Rk. III	ToL
+118	Instinctive Retaliation	ToL
+118	Instinctive Retaliation Rk. II	ToL
+118	Instinctive Retaliation Rk. III	ToL
+118	Maiming Axe Throw	ToL
+118	Maiming Axe Throw Rk. II	ToL
+118	Maiming Axe Throw Rk. III	ToL
+118	Temple Shatter	ToL
+118	Temple Shatter Rk. II	ToL
+118	Temple Shatter Rk. III	ToL
+119	Arcshear	NoS
+119	Arcshear Rk. II	NoS
+119	Arcshear Rk. III	NoS
+119	Buttressed Frenzy	ToL
+119	Buttressed Frenzy Rk. II	ToL
+119	Buttressed Frenzy Rk. III	ToL
+119	Jarring Impact	ToL
+119	Jarring Impact Rk. II	ToL
+119	Jarring Impact Rk. III	ToL
+119	Pulverizing Volley	ToL
+119	Pulverizing Volley Rk. II	ToL
+119	Pulverizing Volley Rk. III	ToL
+120	Axe of Xin Diabo	ToL
+120	Axe of Xin Diabo Rk. II	ToL
+120	Axe of Xin Diabo Rk. III	ToL
+120	Blinding Frenzy	ToL
+120	Blinding Frenzy Rk. II	ToL
+120	Blinding Frenzy Rk. III	ToL
+120	Conqueror's Conjunction	NoS
+120	Conqueror's Conjunction Rk. II	NoS
+120	Conqueror's Conjunction Rk. III	NoS
+120	Shared Violence	ToL
+120	Shared Violence Rk. II	ToL
+120	Shared Violence Rk. III	ToL
+121	Axe of the Eviscerator	LS
+121	Convalesce	LS
+121	Convalesce Rk. II	LS
+121	Convalesce Rk. III	LS
+121	Eviscerating Frenzy	LS
+121	Eviscerating Frenzy Rk. II	LS
+121	Eviscerating Frenzy Rk. III	LS
+121	Preemptive Retaliation	LS
+121	Preemptive Retaliation Rk. II	LS
+121	Preemptive Retaliation Rk. III	LS
+121	Tendon Slice	LS
+121	Tendon Slice Rk. II	LS
+121	Tendon Slice Rk. III	LS
+122	Punch to the Gut	LS
+122	Punch to the Gut Rk. II	LS
+122	Punch to the Gut Rk. III	LS
+122	Roiling Rage	LS
+122	Roiling Rage Rk. II	LS
+122	Roiling Rage Rk. III	LS
+122	Vicious Vortex	LS
+122	Vicious Vortex Rk. II	LS
+122	Vicious Vortex Rk. III	LS
+123	Rending Axe Throw	LS
+123	Rending Axe Throw Rk. II	LS
+123	Rending Axe Throw Rk. III	LS
+123	Skull Strike	LS
+123	Skull Strike Rk. II	LS
+123	Skull Strike Rk. III	LS
+123	Unthinking Retaliation	LS
+123	Unthinking Retaliation Rk. II	LS
+123	Unthinking Retaliation Rk. III	LS
+124	Eviscerating Volley	LS
+124	Eviscerating Volley Rk. II	LS
+124	Eviscerating Volley Rk. III	LS
+124	Heightened Frenzy	LS
+124	Heightened Frenzy Rk. II	LS
+124	Heightened Frenzy Rk. III	LS
+124	Jarring Crash	LS
+124	Jarring Crash Rk. II	LS
+124	Jarring Crash Rk. III	LS
+125	Axe of Orrak	LS
+125	Axe of Orrak Rk. II	LS
+125	Axe of Orrak Rk. III	LS
+125	Desperate Frenzy	LS
+125	Desperate Frenzy Rk. II	LS
+125	Desperate Frenzy Rk. III	LS
+125	Shared Barbarism	LS
+125	Shared Barbarism Rk. II	LS
+125	Shared Barbarism Rk. III	LS
+250	Composite Bloodsplash 1	CoV
+250	Composite Bloodsplash 2	CoV
+250	Composite Bloodsplash 3	CoV
+250	Composite Bloodsplash 4	CoV
+250	Composite Bloodsplash 5	CoV
+250	Composite Bloodsplash 6	CoV
+250	Composite Rage 1	CoV
+250	Composite Rage 2	CoV
+250	Composite Rage 3	CoV
+250	Composite Rage 4	CoV
+250	Composite Rage 5	CoV
+250	Composite Rage 6	CoV
+250	Dichotomic Bloodsplash 1	TBM
+250	Dichotomic Bloodsplash 2	TBM
+250	Dichotomic Bloodsplash 3	TBM
+250	Dichotomic Bloodsplash 4	TBM
+250	Dichotomic Bloodsplash 5	TBM
+250	Dichotomic Bloodsplash 6	TBM
+250	Dichotomic Rage 1	TBM
+250	Dichotomic Rage 2	TBM
+250	Dichotomic Rage 3	TBM
+250	Dichotomic Rage 4	TBM
+250	Dichotomic Rage 5	TBM
+250	Dichotomic Rage 6	TBM
+250	Dissident Bloodsplash 1	TBL
+250	Dissident Bloodsplash 2	TBL
+250	Dissident Bloodsplash 3	TBL
+250	Dissident Bloodsplash 4	TBL
+250	Dissident Bloodsplash 5	TBL
+250	Dissident Bloodsplash 6	TBL
+250	Dissident Rage 1	TBL
+250	Dissident Rage 2	TBL
+250	Dissident Rage 3	TBL
+250	Dissident Rage 4	TBL
+250	Dissident Rage 5	TBL
+250	Dissident Rage 6	TBL
+250	Ecliptic Bloodsplash 1	NoS
+250	Ecliptic Bloodsplash 2	NoS
+250	Ecliptic Bloodsplash 3	NoS
+250	Ecliptic Bloodsplash 4	NoS
+250	Ecliptic Bloodsplash 5	NoS
+250	Ecliptic Bloodsplash 6	NoS
+250	Ecliptic Rage 1	NoS
+250	Ecliptic Rage 2	NoS
+250	Ecliptic Rage 3	NoS
+250	Ecliptic Rage 4	NoS
+250	Ecliptic Rage 5	NoS
+250	Ecliptic Rage 6	NoS

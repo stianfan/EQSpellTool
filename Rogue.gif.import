@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bqm4e1gc3517y"
+path="res://.godot/imported/Rogue.gif-680962ce6242e9ca7481440c74445be0.tres"
+
+[deps]
+
+source_file="res://Rogue.gif"
+dest_files=["res://.godot/imported/Rogue.gif-680962ce6242e9ca7481440c74445be0.tres"]
+
+[params]
+
+frames_per_second=30

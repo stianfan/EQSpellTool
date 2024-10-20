@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://eo8s8rogvhrc"
+path="res://.godot/imported/Magician.gif-bf466404a92475579ea3252dd9513d91.tres"
+
+[deps]
+
+source_file="res://Magician.gif"
+dest_files=["res://.godot/imported/Magician.gif-bf466404a92475579ea3252dd9513d91.tres"]
+
+[params]
+
+frames_per_second=30

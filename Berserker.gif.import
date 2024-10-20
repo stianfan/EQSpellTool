@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://ck8mhn8uvq0qn"
+path="res://.godot/imported/Berserker.gif-433688b8bbbc9ab9663de203ca9ec091.tres"
+
+[deps]
+
+source_file="res://Berserker.gif"
+dest_files=["res://.godot/imported/Berserker.gif-433688b8bbbc9ab9663de203ca9ec091.tres"]
+
+[params]
+
+frames_per_second=30

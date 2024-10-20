@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://lgp534va8j78"
+path="res://.godot/imported/Monk.gif-1aa652d7b0b41b7425282854df366be4.tres"
+
+[deps]
+
+source_file="res://Monk.gif"
+dest_files=["res://.godot/imported/Monk.gif-1aa652d7b0b41b7425282854df366be4.tres"]
+
+[params]
+
+frames_per_second=30

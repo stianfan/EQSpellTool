@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cvbnph82f0umc"
+path="res://.godot/imported/Enchanter.gif-eb3ae6ce5675026a4b6e6a6f16f48eda.tres"
+
+[deps]
+
+source_file="res://Enchanter.gif"
+dest_files=["res://.godot/imported/Enchanter.gif-eb3ae6ce5675026a4b6e6a6f16f48eda.tres"]
+
+[params]
+
+frames_per_second=30

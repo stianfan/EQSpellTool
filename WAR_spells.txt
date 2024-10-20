@@ -1,0 +1,532 @@
+1	Mercenary Taunt	EQ
+1	Throw Stone	EQ
+5	Elbow Strike	EQ
+10	Focused Will Discipline	EQ
+20	Provoke	EQ
+30	Resistant Discipline	Kunark
+40	Fearless Discipline	Kunark
+52	Bellow	Kunark
+52	Evasive Discipline	Kunark
+53	Charge Discipline	Kunark
+54	Mighty Strike Discipline	Kunark
+55	Defensive Discipline	Kunark
+55	Myrmidon's Aura	PoR
+56	Berate	Kunark
+56	Furious Discipline	Kunark
+57	Precision Discipline	Kunark
+58	Fellstrike Discipline	Kunark
+59	Fortitude Discipline	Kunark
+59	Mercenary Area Taunt	EQ
+60	Aggressive Discipline	Kunark
+61	Spirit of Rage Discipline	PoP
+61	Whirlwind Blade	DoN
+63	Healing Will Discipline	PoP
+63	Incite	PoP
+65	Ancient: Chaos Cry	Gates
+65	Bellow of the Mastruq	Gates
+65	Stonewall Discipline	PoP
+66	Aura of Runes Discipline	Omens
+68	Commanding Voice	DoD
+68	Savage Onslaught Discipline	Omens
+69	Bazu Bellow	Omens
+69	Cyclone Blade	DoN
+70	Champion's Aura	PoR
+70	Mock	PoR
+70	Shocking Defense Discipline	Omens
+71	Aura of Draconic Runes	TSS
+71	Aura of Draconic Runes Rk. II	TSS
+71	Aura of Draconic Runes Rk. III	TSS
+72	Final Stand Discipline	TSS
+72	Final Stand Discipline Rk. II	TSS
+72	Second Wind	TBS
+72	Second Wind Rk. II	TBS
+72	Second Wind Rk. III	TBS
+73	Throat Jab	TSS
+73	Throat Jab Rk. II	TSS
+74	Brutal Onslaught Discipline	TBS
+74	Brutal Onslaught Discipline Rk. II	TBS
+74	Brutal Onslaught Discipline Rk. III	TBS
+74	Vortex Blade	TSS
+74	Vortex Blade Rk. II	TSS
+74	Vortex Blade Rk. III	TSS
+75	Scowl	TSS
+75	Scowl Rk. II	TSS
+75	Scowl Rk. III	TSS
+76	Armor of Draconic Runes	SoF
+76	Armor of Draconic Runes Rk. II	SoF
+76	Armor of Draconic Runes Rk. III	SoF
+77	Shield Reflect	SoF
+77	Shield Reflect Rk. II	SoF
+77	Shield Reflect Rk. III	SoF
+77	Third Wind	SoF
+77	Third Wind Rk. II	SoF
+77	Third Wind Rk. III	SoF
+78	Opportunistic Strike	SoF
+78	Opportunistic Strike Rk. II	SoF
+78	Opportunistic Strike Rk. III	SoF
+79	Whorl Blade	SoF
+79	Whorl Blade Rk. II	SoF
+79	Whorl Blade Rk. III	SoF
+80	Knuckle Smash	SoF
+80	Knuckle Smash Rk. II	SoF
+80	Knuckle Smash Rk. III	SoF
+80	Sneer	SoF
+80	Sneer Rk. II	SoF
+80	Sneer Rk. III	SoF
+81	Armor of Timeworn Runes	SoD
+81	Armor of Timeworn Runes Rk. II	SoD
+81	Armor of Timeworn Runes Rk. III	SoD
+81	Bazu Bluster	SoD
+81	Bazu Bluster Rk. II	SoD
+81	Bazu Bluster Rk. III	SoD
+82	Fourth Wind	SoD
+82	Fourth Wind Rk. II	SoD
+82	Fourth Wind Rk. III	SoD
+83	Lionhearted Rally-Cry	UF
+83	Lionhearted Rally-Cry Rk. II	UF
+83	Lionhearted Rally-Cry Rk. III	UF
+83	Shield Topple	SoD
+83	Shield Topple Rk. II	SoD
+83	Shield Topple Rk. III	SoD
+84	Maelstrom Blade	SoD
+84	Maelstrom Blade Rk. II	SoD
+84	Maelstrom Blade Rk. III	SoD
+84	Punch Through	SoD
+84	Punch Through Rk. II	SoD
+84	Punch Through Rk. III	SoD
+85	Bracing Defense	UF
+85	Bracing Defense Rk. II	UF
+85	Bracing Defense Rk. III	UF
+85	Field Armorer	UF
+85	Field Armorer Rk. II	UF
+85	Field Armorer Rk. III	UF
+85	Jeer	SoD
+85	Jeer Rk. II	SoD
+85	Jeer Rk. III	SoD
+85	Knuckle Crush	SoD
+85	Knuckle Crush Rk. II	SoD
+85	Knuckle Crush Rk. III	SoD
+86	Armor of Phantasmic Runes	HoT
+86	Armor of Phantasmic Runes Rk. II	HoT
+86	Armor of Phantasmic Runes Rk. III	HoT
+86	Bazu Roar	HoT
+86	Bazu Roar Rk. II	HoT
+86	Bazu Roar Rk. III	HoT
+86	Respite	HoT
+86	Respite Rk. II	HoT
+86	Respite Rk. III	HoT
+87	Fifth Wind	HoT
+87	Fifth Wind Rk. II	HoT
+87	Fifth Wind Rk. III	HoT
+87	Flash of Anger	HoT
+87	Flash of Anger Effect	VoA
+87	Flash of Anger Effect II	VoA
+87	Flash of Anger Effect III	VoA
+87	Flash of Anger Rk. II	HoT
+87	Flash of Anger Rk. III	HoT
+87	Weapon Affiliation	HoT
+87	Weapon Affiliation Rk. II	HoT
+87	Weapon Affiliation Rk. III	HoT
+88	Rallying Roar	HoT
+88	Rallying Roar Rk. II	HoT
+88	Rallying Roar Rk. III	HoT
+88	Strategic Strike	HoT
+88	Strategic Strike Rk. II	HoT
+88	Strategic Strike Rk. III	HoT
+89	Forceful Attraction	HoT
+89	Forceful Attraction Rk. II	HoT
+89	Forceful Attraction Rk. III	HoT
+89	Jab Through	HoT
+89	Jab Through Rk. II	HoT
+89	Jab Through Rk. III	HoT
+89	Wheeling Blades	HoT
+89	Wheeling Blades Rk. II	HoT
+89	Wheeling Blades Rk. III	HoT
+90	Field Outfitter	HoT
+90	Field Outfitter Rk. II	HoT
+90	Field Outfitter Rk. III	HoT
+90	Knuckle Snap	HoT
+90	Knuckle Snap Rk. II	HoT
+90	Knuckle Snap Rk. III	HoT
+90	Scoff	HoT
+90	Scoff Rk. II	HoT
+90	Scoff Rk. III	HoT
+90	Staunch Defense	HoT
+90	Staunch Defense Rk. II	HoT
+90	Staunch Defense Rk. III	HoT
+91	Armor of Mystical Runes	VoA
+91	Armor of Mystical Runes Rk. II	VoA
+91	Armor of Mystical Runes Rk. III	VoA
+91	Grendlaen Roar	VoA
+91	Grendlaen Roar Rk. II	VoA
+91	Grendlaen Roar Rk. III	VoA
+91	Reprieve	VoA
+91	Reprieve Rk. II	VoA
+91	Reprieve Rk. III	VoA
+92	Sixth Wind	VoA
+92	Sixth Wind Rk. II	VoA
+92	Sixth Wind Rk. III	VoA
+92	Undivided Attention	VoA
+92	Undivided Attention Rk. II	VoA
+92	Undivided Attention Rk. III	VoA
+92	Weapon Bond	VoA
+92	Weapon Bond Rk. II	VoA
+92	Weapon Bond Rk. III	VoA
+93	Inner Rejuvenation	VoA
+93	Inner Rejuvenation Rk. II	VoA
+93	Inner Rejuvenation Rk. III	VoA
+93	Roar of Challenge	VoA
+93	Roar of Challenge Rk. II	VoA
+93	Roar of Challenge Rk. III	VoA
+93	Vital Strike	VoA
+93	Vital Strike Rk. II	VoA
+93	Vital Strike Rk. III	VoA
+94	Barbed Tongue Discipline	VoA
+94	Barbed Tongue Discipline Rk. II	VoA
+94	Barbed Tongue Discipline Rk. III	VoA
+94	Cyclonic Blades	VoA
+94	Cyclonic Blades Rk. II	VoA
+94	Cyclonic Blades Rk. III	VoA
+95	Field Defender	VoA
+95	Field Defender Rk. II	VoA
+95	Field Defender Rk. III	VoA
+95	Knuckle Break	VoA
+95	Knuckle Break Rk. II	VoA
+95	Knuckle Break Rk. III	VoA
+95	Scorn	VoA
+95	Scorn Rk. II	VoA
+95	Scorn Rk. III	VoA
+95	Stalwart Defense	VoA
+95	Stalwart Defense Rk. II	VoA
+95	Stalwart Defense Rk. III	VoA
+96	Armor of Stalwart Runes	RoF
+96	Armor of Stalwart Runes Rk. II	RoF
+96	Armor of Stalwart Runes Rk. III	RoF
+96	Krondal's Roar	RoF
+96	Krondal's Roar Rk. II	RoF
+96	Krondal's Roar Rk. III	RoF
+96	No Time to Bleed	CotF
+96	No Time to Bleed Rk. II	CotF
+96	No Time to Bleed Rk. III	CotF
+96	Rest	RoF
+96	Rest Rk. II	RoF
+96	Rest Rk. III	RoF
+97	Determined Reprisal	CotF
+97	Determined Reprisal Rk. II	CotF
+97	Determined Reprisal Rk. III	CotF
+97	Offensive Discipline	RoF
+97	Offensive Discipline Rk. II	RoF
+97	Offensive Discipline Rk. III	RoF
+97	Seventh Wind	RoF
+97	Seventh Wind Rk. II	RoF
+97	Seventh Wind Rk. III	RoF
+97	Unbroken Attention	RoF
+97	Unbroken Attention Rk. II	RoF
+97	Unbroken Attention Rk. III	RoF
+97	Weapon Covenant	RoF
+97	Weapon Covenant Rk. II	RoF
+97	Weapon Covenant Rk. III	RoF
+98	Harassing Shout	RoF
+98	Harassing Shout Rk. II	RoF
+98	Harassing Shout Rk. III	RoF
+98	Last Stand Discipline	CotF
+98	Last Stand Discipline Rk. II	CotF
+98	Last Stand Discipline Rk. III	CotF
+98	Ridicule	RoF
+98	Ridicule Rk. II	RoF
+98	Ridicule Rk. III	RoF
+99	Stormwheel Blades	RoF
+99	Stormwheel Blades Rk. II	RoF
+99	Stormwheel Blades Rk. III	RoF
+99	Wade into Battle	CotF
+99	Wade into Battle Rk. II	CotF
+99	Wade into Battle Rk. III	CotF
+99	Warrior's Auspice	RoF
+99	Warrior's Auspice Rk. II	RoF
+99	Warrior's Auspice Rk. III	RoF
+100	Field Guardian	RoF
+100	Field Guardian Rk. II	RoF
+100	Field Guardian Rk. III	RoF
+100	Phantom Aggressor	CotF
+100	Phantom Aggressor Rk. II	CotF
+100	Phantom Aggressor Rk. III	CotF
+100	Steadfast Defense	RoF
+100	Steadfast Defense Rk. II	RoF
+100	Steadfast Defense Rk. III	RoF
+100	Tempestuous Defense Discipline	RoF
+100	Tempestuous Defense Discipline Rk. II	RoF
+100	Tempestuous Defense Discipline Rk. III	RoF
+101	Armor of Darkened Runes	TDS
+101	Armor of Darkened Runes Rk. II	TDS
+101	Armor of Darkened Runes Rk. III	TDS
+101	Breather	TDS
+101	Breather Rk. II	TDS
+101	Breather Rk. III	TDS
+101	Cyclone Roar	TDS
+101	Cyclone Roar Rk. II	TDS
+101	Cyclone Roar Rk. III	TDS
+101	Dichotomic Shield	TBM
+102	Harmonious Expanse	EoK
+102	Harmonious Expanse Rk. II	EoK
+102	Harmonious Expanse Rk. III	EoK
+102	Pain Doesn't Hurt	TBM
+102	Pain Doesn't Hurt Rk. II	TBM
+102	Pain Doesn't Hurt Rk. III	TBM
+102	Unflinching Attention	TDS
+102	Unflinching Attention Rk. II	TDS
+102	Unflinching Attention Rk. III	TDS
+103	Harmonious Precision	EoK
+103	Harmonious Precision Rk. II	EoK
+103	Harmonious Precision Rk. III	EoK
+103	Insult	TDS
+103	Insult Rk. II	TDS
+103	Insult Rk. III	TDS
+103	Tormenting Shout	TDS
+103	Tormenting Shout Rk. II	TDS
+103	Tormenting Shout Rk. III	TDS
+104	Calculated Strike	TDS
+104	Calculated Strike Rk. II	TDS
+104	Calculated Strike Rk. III	TDS
+104	Shield Break	EoK
+104	Shield Break Rk. II	EoK
+104	Shield Break Rk. III	EoK
+104	Stormstrike Blades	TDS
+104	Stormstrike Blades Rk. II	TDS
+104	Stormstrike Blades Rk. III	TDS
+104	Warrior's Bulwark	TDS
+104	Warrior's Bulwark Rk. II	TDS
+104	Warrior's Bulwark Rk. III	TDS
+105	Field Protector	TDS
+105	Field Protector Rk. II	TDS
+105	Field Protector Rk. III	TDS
+105	Stout Defense	TDS
+105	Stout Defense Rk. II	TDS
+105	Stout Defense Rk. III	TDS
+105	Strike Through	TDS
+105	Strike Through Rk. II	TDS
+105	Strike Through Rk. III	TDS
+106	Armor of Tenacious Runes	RoS
+106	Armor of Tenacious Runes Rk. II	RoS
+106	Armor of Tenacious Runes Rk. III	RoS
+106	Dissident Shield	TBL
+106	Hiatus	RoS
+106	Hiatus Rk. II	RoS
+106	Hiatus Rk. III	RoS
+106	Kluzen's Roar	RoS
+106	Kluzen's Roar Rk. II	RoS
+106	Kluzen's Roar Rk. III	RoS
+107	Biting Tongue Discipline	RoS
+107	Biting Tongue Discipline Rk. II	RoS
+107	Biting Tongue Discipline Rk. III	RoS
+107	Concordant Expanse	TBL
+107	Concordant Expanse Rk. II	TBL
+107	Concordant Expanse Rk. III	TBL
+107	Unyielding Attention	RoS
+107	Unyielding Attention Rk. II	RoS
+107	Unyielding Attention Rk. III	RoS
+108	Burning Shout	RoS
+108	Burning Shout Rk. II	RoS
+108	Burning Shout Rk. III	RoS
+108	Concordant Precision	TBL
+108	Concordant Precision Rk. II	TBL
+108	Concordant Precision Rk. III	TBL
+108	Culminating Stand Discipline	RoS
+108	Culminating Stand Discipline Rk. II	RoS
+108	Culminating Stand Discipline Rk. III	RoS
+108	Slander	RoS
+108	Slander Rk. II	RoS
+108	Slander Rk. III	RoS
+109	Cunning Strike	RoS
+109	Cunning Strike Rk. II	RoS
+109	Cunning Strike Rk. III	RoS
+109	Dragonstrike Blades	RoS
+109	Dragonstrike Blades Rk. II	RoS
+109	Dragonstrike Blades Rk. III	RoS
+109	Warrior's Bastion	RoS
+109	Warrior's Bastion Rk. II	RoS
+109	Warrior's Bastion Rk. III	RoS
+110	Field Champion	RoS
+110	Field Champion Rk. II	RoS
+110	Field Champion Rk. III	RoS
+110	Resolute Defense	RoS
+110	Resolute Defense Rk. II	RoS
+110	Resolute Defense Rk. III	RoS
+110	Shield Sunder	TBL
+110	Shield Sunder Rk. II	TBL
+110	Shield Sunder Rk. III	TBL
+110	Stormstrike Defense Discipline	RoS
+110	Stormstrike Defense Discipline Rk. II	RoS
+110	Stormstrike Defense Discipline Rk. III	RoS
+111	Armor of Relentless Runes	ToV
+111	Armor of Relentless Runes Rk. II	ToV
+111	Armor of Relentless Runes Rk. III	ToV
+111	Composite Shield	CoV
+111	Kragek's Roar	ToV
+111	Kragek's Roar Rk. II	ToV
+111	Kragek's Roar Rk. III	ToV
+111	Relax	ToV
+111	Relax Rk. II	ToV
+111	Relax Rk. III	ToV
+112	Confluent Expanse	CoV
+112	Confluent Expanse Rk. II	CoV
+112	Confluent Expanse Rk. III	CoV
+112	Finish the Fight	ToV
+112	Finish the Fight Rk. II	ToV
+112	Finish the Fight Rk. III	ToV
+112	Unending Attention	ToV
+112	Unending Attention Rk. II	ToV
+112	Unending Attention Rk. III	ToV
+113	Aggravate	ToV
+113	Aggravate Rk. II	ToV
+113	Aggravate Rk. III	ToV
+113	Confluent Precision	CoV
+113	Confluent Precision Rk. II	CoV
+113	Confluent Precision Rk. III	CoV
+113	Oppressing Shout	ToV
+113	Oppressing Shout Rk. II	ToV
+113	Oppressing Shout Rk. III	ToV
+113	Ultimate Stand Discipline	ToV
+113	Ultimate Stand Discipline Rk. II	ToV
+113	Ultimate Stand Discipline Rk. III	ToV
+114	Precision Strike	ToV
+114	Precision Strike Rk. II	ToV
+114	Precision Strike Rk. III	ToV
+114	Tempest Blades	ToV
+114	Tempest Blades Rk. II	ToV
+114	Tempest Blades Rk. III	ToV
+114	Warrior's Rampart	ToV
+114	Warrior's Rampart Rk. II	ToV
+114	Warrior's Rampart Rk. III	ToV
+115	Courageous Defense	ToV
+115	Courageous Defense Rk. II	ToV
+115	Courageous Defense Rk. III	ToV
+115	Paragon Champion	ToV
+115	Paragon Champion Rk. II	ToV
+115	Paragon Champion Rk. III	ToV
+115	Shield Splinter	CoV
+115	Shield Splinter Rk. II	CoV
+115	Shield Splinter Rk. III	CoV
+116	Armor of Akhevan Runes	ToL
+116	Armor of Akhevan Runes Rk. II	ToL
+116	Armor of Akhevan Runes Rk. III	ToL
+116	Ecliptic Shield	NoS
+116	Namdrows' Roar	ToL
+116	Namdrows' Roar Rk. II	ToL
+116	Namdrows' Roar Rk. III	ToL
+116	Night's Calming	ToL
+116	Night's Calming Rk. II	ToL
+116	Night's Calming Rk. III	ToL
+117	Brightfeld's Onslaught Discipline	ToL
+117	Brightfeld's Onslaught Discipline Rk. II	ToL
+117	Brightfeld's Onslaught Discipline Rk. III	ToL
+117	Penumbral Expanse	NoS
+117	Penumbral Expanse Rk. II	NoS
+117	Penumbral Expanse Rk. III	NoS
+117	Unrelenting Attention	ToL
+117	Unrelenting Attention Rk. II	ToL
+117	Unrelenting Attention Rk. III	ToL
+118	Bristle	ToL
+118	Bristle Rk. II	ToL
+118	Bristle Rk. III	ToL
+118	Penumbral Precision	NoS
+118	Penumbral Precision Rk. II	NoS
+118	Penumbral Precision Rk. III	NoS
+118	Resolute Stand	ToL
+118	Resolute Stand Rk. II	ToL
+118	Resolute Stand Rk. III	ToL
+118	Twilight Shout	ToL
+118	Twilight Shout Rk. II	ToL
+118	Twilight Shout Rk. III	ToL
+119	Exploitive Strike	ToL
+119	Exploitive Strike Rk. II	ToL
+119	Exploitive Strike Rk. III	ToL
+119	Hurricane Blades	ToL
+119	Hurricane Blades Rk. II	ToL
+119	Hurricane Blades Rk. III	ToL
+119	Wade into Conflict	NoS
+119	Wade into Conflict Rk. II	NoS
+119	Wade into Conflict Rk. III	NoS
+119	Warrior's Aegis	ToL
+119	Warrior's Aegis Rk. II	ToL
+119	Warrior's Aegis Rk. III	ToL
+120	Full Moon's Champion	ToL
+120	Full Moon's Champion Rk. II	ToL
+120	Full Moon's Champion Rk. III	ToL
+120	Levincrash Defense Discipline	ToL
+120	Levincrash Defense Discipline Rk. II	ToL
+120	Levincrash Defense Discipline Rk. III	ToL
+120	Perforate	ToL
+120	Perforate Rk. II	ToL
+120	Perforate Rk. III	ToL
+120	Primal Defense	ToL
+120	Primal Defense Rk. II	ToL
+120	Primal Defense Rk. III	ToL
+120	Shield Rupture	NoS
+120	Shield Rupture Rk. II	NoS
+120	Shield Rupture Rk. III	NoS
+121	Armor of Rallosian Runes	LS
+121	Armor of Rallosian Runes Rk. II	LS
+121	Armor of Rallosian Runes Rk. III	LS
+121	Convalesce	LS
+121	Convalesce Rk. II	LS
+121	Convalesce Rk. III	LS
+121	Mortimus' Roar	LS
+121	Mortimus' Roar Rk. II	LS
+121	Mortimus' Roar Rk. III	LS
+122	End of the Line	LS
+122	End of the Line Rk. II	LS
+122	End of the Line Rk. III	LS
+122	Razor Tongue Discipline	LS
+122	Razor Tongue Discipline Rk. II	LS
+122	Razor Tongue Discipline Rk. III	LS
+122	Unconditional Attention	LS
+122	Unconditional Attention Rk. II	LS
+122	Unconditional Attention Rk. III	LS
+123	Climactic Stand	LS
+123	Climactic Stand Rk. II	LS
+123	Climactic Stand Rk. III	LS
+123	Distressing Shout	LS
+123	Distressing Shout Rk. II	LS
+123	Distressing Shout Rk. III	LS
+123	Infuriate	LS
+123	Infuriate Rk. II	LS
+123	Infuriate Rk. III	LS
+124	Decisive Strike	LS
+124	Decisive Strike Rk. II	LS
+124	Decisive Strike Rk. III	LS
+124	Spiraling Blades	LS
+124	Spiraling Blades Rk. II	LS
+124	Spiraling Blades Rk. III	LS
+124	Warrior's Resolve	LS
+124	Warrior's Resolve Rk. II	LS
+124	Warrior's Resolve Rk. III	LS
+125	Field Bulwark	LS
+125	Field Bulwark Rk. II	LS
+125	Field Bulwark Rk. III	LS
+125	Vigorous Defense	LS
+125	Vigorous Defense Rk. II	LS
+125	Vigorous Defense Rk. III	LS
+250	Composite Shielding 1	CoV
+250	Composite Shielding 2	CoV
+250	Composite Shielding 3	CoV
+250	Composite Shielding 4	CoV
+250	Composite Shielding 5	CoV
+250	Composite Shielding 6	CoV
+250	Dichotomic Shielding 1	TBM
+250	Dichotomic Shielding 2	TBM
+250	Dichotomic Shielding 3	TBM
+250	Dichotomic Shielding 4	TBM
+250	Dichotomic Shielding 5	TBM
+250	Dichotomic Shielding 6	TBM
+250	Dissident Shielding 1	TBL
+250	Dissident Shielding 2	TBL
+250	Dissident Shielding 3	TBL
+250	Dissident Shielding 4	TBL
+250	Dissident Shielding 5	TBL
+250	Dissident Shielding 6	TBL
+250	Ecliptic Shielding 1	NoS
+250	Ecliptic Shielding 2	NoS
+250	Ecliptic Shielding 3	NoS
+250	Ecliptic Shielding 4	NoS
+250	Ecliptic Shielding 5	NoS
+250	Ecliptic Shielding 6	NoS

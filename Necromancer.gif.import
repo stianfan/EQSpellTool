@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://da325srg0uaqu"
+path="res://.godot/imported/Necromancer.gif-63cf2f4d0121b8bde4d4edb97a0802d6.tres"
+
+[deps]
+
+source_file="res://Necromancer.gif"
+dest_files=["res://.godot/imported/Necromancer.gif-63cf2f4d0121b8bde4d4edb97a0802d6.tres"]
+
+[params]
+
+frames_per_second=30

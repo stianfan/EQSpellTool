@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://b8jdlx8anyy7a"
+path="res://.godot/imported/Ranger.gif-5c010451f01165dc0fb505a74971b8c8.tres"
+
+[deps]
+
+source_file="res://Ranger.gif"
+dest_files=["res://.godot/imported/Ranger.gif-5c010451f01165dc0fb505a74971b8c8.tres"]
+
+[params]
+
+frames_per_second=30

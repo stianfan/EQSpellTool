@@ -1,0 +1,2108 @@
+1	Lull	EQ
+1	Minor Shielding	EQ
+1	Pendril's Animation	EQ
+1	Reclaim Energy	EQ
+1	Shallow Breath	EQ
+1	Strengthen	EQ
+1	Taper Enchantment	EQ
+1	True North	EQ
+1	Weaken	EQ
+2	Illusion: Human	EQ
+2	Juli's Animation	EQ
+2	Mesmerize	EQ
+2	Tashina	EQ
+3	Color Flux	EQ
+3	Fear	EQ
+3	Haze	EQ
+3	Illusion: Half-Elf	EQ
+4	Enfeeblement	EQ
+4	Gate	EQ
+4	Invisibility	EQ
+4	Suffocating Sphere	EQ
+5	Eye of Confusion	EQ
+5	Illusion: Wood Elf	EQ
+5	Sentinel	EQ
+6	Lesser Shielding	EQ
+6	Root	EQ
+6	See Invisible	EQ
+6	Soothe	EQ
+7	Cancel Magic	EQ
+7	Chaotic Feedback	EQ
+7	Enchant Silver	EQ
+7	Mass Enchant Silver	EQ
+7	Mircyl's Animation	EQ
+8	Alliance	EQ
+8	Bind Sight	EQ
+8	Enchant Clay	EQ
+8	Illusion: Gnome	EQ
+8	Mass Enchant Clay	EQ
+9	Ebbing Strength	EQ
+9	Kilan's Animation	EQ
+9	Languid Pace	EQ
+9	Whirl Till You Hurl	EQ
+10	Illusion: Burning Nekhon	EQ
+10	Illusion: Dark Elf	EQ
+10	Illusion: Kedge	EQ
+10	Illusion: Simple Gnoll	EQ
+10	Illusion: Steam Suit	EQ
+10	Memory Blur	EQ
+10	Mist	EQ
+10	Serpent Sight	EQ
+11	Charm	EQ
+11	Choke	EQ
+11	Greater Mass Enchant Silver	SoF
+11	Illusion: High Elf	EQ
+11	Intellectual Advancement	Luclin
+11	Mass Thicken Mana	EQ
+11	Thicken Mana	EQ
+12	Bind Affinity	EQ
+12	Enduring Breath	EQ
+12	Greater Mass Enchant Clay	CoV
+12	Illusion: Erudite	EQ
+12	Illusion: Halfling	EQ
+13	Enthrall	EQ
+13	Illusion: Dwarf	EQ
+13	Rune I	EQ
+13	Wuggan's Lesser Appraisal	LDoN
+14	Breeze	Kunark
+14	Enchant Electrum	EQ
+14	Invisibility Versus Undead	EQ
+14	Mass Enchant Electrum	EQ
+14	Shalee's Animation	EQ
+14	Wuggan's Lesser Discombobulation	LDoN
+14	Wuggan's Lesser Extrication	LDoN
+15	Identify	EQ
+15	Illusion: Barbarian	EQ
+15	Illusion: Tree	EQ
+15	Levitate	EQ
+15	Quickness	EQ
+16	Chase the Moon	EQ
+16	Disempower	EQ
+16	Focus Crude Spellcaster's Empowering Essence	SoF
+16	Focus Makeshift Spellcaster's Empowering Essence	SoF
+16	Focus Primitive Spellcaster's Empowering Essence	SoF
+16	Focus Rudimentary Spellcaster's Empowering Essence	SoF
+16	Mesmerization	EQ
+16	Sanity Warp	EQ
+16	Shielding	EQ
+17	Cloud	EQ
+17	Endure Magic	EQ
+17	Greater Mass Thicken Mana	CoV
+17	Illusion: Ogre	EQ
+17	Intellectual Superiority	Luclin
+17	Sisna's Animation	EQ
+18	Calm	EQ
+18	Illusion: Troll	EQ
+18	Sympathetic Aura	EQ
+18	Tashani	EQ
+19	Berserker Strength	EQ
+19	Crystallize Mana	EQ
+19	Feckless Might	EQ
+19	Greater Mass Enchant Electrum	SoF
+19	Tiny Companion	EQ
+20	Benevolence	EQ
+20	Color Shift	EQ
+20	Focus Mass Crude Spellcaster's Empowering Essence	SoF
+20	Focus Mass Makeshift Spellcaster's Empowering Essence	SoF
+20	Focus Mass Primitive Spellcaster's Empowering Essence	SoF
+20	Focus Mass Rudimentary Spellcaster's Empowering Essence	SoF
+20	Illusion: Iksar	Kunark
+20	Mass Crystallize Mana	EQ
+20	Shifting Sight	EQ
+21	Alacrity	EQ
+21	Chaos Flux	EQ
+21	Illusion: Earth Elemental	EQ
+22	Rune II	EQ
+22	Sagar's Animation	EQ
+22	Strip Enchantment	EQ
+23	Beguile	EQ
+23	Major Shielding	EQ
+23	Tepid Deeds	EQ
+23	Wuggan's Appraisal	LDoN
+24	Enchant Gold	EQ
+24	Illusion: Skeleton	EQ
+24	Mass Enchant Gold	EQ
+24	Wuggan's Discombobulation	LDoN
+24	Wuggan's Extrication	LDoN
+25	Feedback	EQ
+25	Focus Elementary Spellcaster's Empowering Essence	SoF
+25	Instill	EQ
+25	Listless Power	EQ
+26	Clarity	EQ
+26	Curse of the Simple Mind	EQ
+26	Haunting Visage	Luclin
+26	Suffocate	EQ
+27	Clarify Mana	EQ
+27	Obscure	EQ
+27	Ultravision	EQ
+28	Augmentation	EQ
+28	Dyn's Dizzying Draught	EQ
+28	Greater Mass Enchant Gold	SoF
+28	Illusion: Water Elemental	EQ
+28	Nullify Magic	EQ
+29	Focus Mass Elementary Spellcaster's Empowering Essence	SoF
+29	Illusion: Air Elemental	EQ
+29	Mass Clarify Mana	EQ
+29	Uleen's Animation	EQ
+29	Ward of Alendar	LDoN
+30	Entrance	EQ
+30	Entrancing Lights	EQ
+30	Greater Mass Crystallize Mana	CoV
+30	Illusion: Drakkin of Draton`ra	TSS
+30	Illusion: Drakkin of Osh`vir	TSS
+30	Illusion: Drakkin of Venesh	TSS
+30	Mana Sieve	EQ
+31	Boltran's Animation	EQ
+31	Greater Shielding	EQ
+31	Radiant Visage	EQ
+32	Anarchy	EQ
+32	Cast Sight	EQ
+32	Enchant Platinum	EQ
+32	Mass Enchant Platinum	EQ
+33	Illusion: Fire Elemental	EQ
+33	Rune III	EQ
+33	Wuggan's Greater Appraisal	LDoN
+34	Gift of Magic	Velious
+34	Insipid Weakness	EQ
+34	Wuggan's Greater Discombobulation	LDoN
+34	Wuggan's Greater Extrication	LDoN
+35	Focus Modest Spellcaster's Empowering Essence	SoF
+35	Insight	EQ
+35	Invoke Fear	EQ
+35	Pacify	EQ
+36	Calming Visage	Luclin
+36	Gravity Flux	EQ
+36	Mind Wipe	EQ
+37	Aanya's Animation	EQ
+37	Cajoling Whispers	EQ
+37	Illusion: Dry Bone	EQ
+37	Resist Magic	EQ
+37	Shade	EQ
+38	Distill Mana	EQ
+38	Greater Mass Enchant Platinum	SoF
+38	Illusion: Spirit Wolf	EQ
+38	Rampage	EQ
+38	Wandering Mind	Velious
+39	Celerity	EQ
+39	Focus Mass Modest Spellcaster's Empowering Essence	SoF
+39	Immobilize	EQ
+39	Mass Distill Mana	EQ
+40	Arch Shielding	EQ
+40	Boon of the Garou	Velious
+40	Incapacitate	EQ
+40	Rune IV	EQ
+41	Brilliance	EQ
+41	Shiftless Deeds	EQ
+41	Tashania	EQ
+41	Yegoreff's Animation	EQ
+42	Boon of the Clear Mind	Kunark
+42	Illusion: Werewolf	Velious
+42	Pillage Enchantment	EQ
+42	Weakness	EQ
+43	Bounce	LDoN
+43	Color Skew	EQ
+43	Discordant Mind	EQ
+43	Enchant Velium	Velious
+43	Summon Companion	Velious
+44	Greater Mass Clarify Mana	CoV
+44	Greater Mass Enchant Velium	SoF
+44	Guard of Alendar	LDoN
+44	Illusion: Scaled Wolf	PoP
+44	Leviathan Eyes	EQ
+44	Mass Enchant Velium	Velious
+45	Focus Simple Spellcaster's Empowering Essence	SoF
+45	Illusion: Imp	Luclin
+45	Paralyzing Earth	Kunark
+45	Purify Mana	EQ
+45	Reoccurring Amnesia	EQ
+46	Adorning Grace	EQ
+46	Allure	EQ
+46	Blanket of Forgetfulness	EQ
+46	Enchant Steel	EQ
+47	Berserker Spirit	EQ
+47	Dazzle	EQ
+47	Gasping Embrace	EQ
+47	Mass Purify Mana	EQ
+47	Swift Like the Wind	EQ
+48	Enchant Adamantite	EQ
+48	Enchant Mithril	EQ
+48	Group Resist Magic	EQ
+48	Kintaz's Animation	EQ
+48	Shadow	EQ
+49	Enchant Brellium	EQ
+49	Focus Mass Simple Spellcaster's Empowering Essence	SoF
+49	Mass Enchant Adamantite	EQ
+49	Mass Enchant Brellium	EQ
+49	Mass Enchant Mithril	EQ
+49	Mass Enchant Steel	EQ
+50	Collaboration	Kunark
+50	Focus Spellcaster's Empowering Essence	SoF
+50	Improved Invisibility	Velious
+50	Theft of Thought	Kunark
+51	Everlasting Breath	Luclin
+51	Levitation	Luclin
+51	Wake of Tranquility	Kunark
+52	Clarity II	Kunark
+52	Color Slant	Kunark
+52	Fascination	Kunark
+52	Illusion: Guktan	LoY
+52	Ordinance	LDoN
+52	Rune V	Kunark
+52	Scryer's Trespass	LoY
+52	Trickster's Augmentation	Luclin
+53	Aanya's Quickening	Kunark
+53	Boltran's Agacerie	Kunark
+53	Cripple	Kunark
+53	Recant Magic	Kunark
+54	Beguiling Visage	Luclin
+54	Dementia	Kunark
+54	Focus Mass Spellcaster's Empowering Essence	SoF
+54	Glamour of Kintaz	Kunark
+54	Illusion: Orc	DoD
+54	Illusion: Vah Shir	Luclin
+54	Shield of the Magi	Kunark
+55	Beguiler's Aura	PoR
+55	Focus Refined Spellcaster's Empowering Essence	SoF
+55	Gift of Insight	Velious
+55	Illusion: Frost Bone	Velious
+55	Largarn's Lamentation	Kunark
+55	Memory Flux	Kunark
+55	Protection of Alendar	LDoN
+55	Wind of Tashani	Kunark
+55	Zumaik's Animation	Kunark
+56	Augment	Kunark
+56	Gift of Pure Thought	Kunark
+56	Horrifying Visage	Luclin
+56	Imbue Disease	PoP
+56	Imbue Justice	PoP
+56	Overwhelming Splendor	Kunark
+56	Torment of Argli	Kunark
+56	Trepidation	Kunark
+57	Enlightenment	Kunark
+57	Forlorn Deeds	Kunark
+57	Imbue Earth	PoP
+57	Imbue Nightmare	PoP
+57	Imbue Storm	PoP
+57	Imbue Torment	PoP
+57	Phobia	DoN
+57	Tashanian	Kunark
+57	Umbra	Kunark
+58	Bedlam	Kunark
+58	Dementing Visions	Kunark
+58	Fetter	Kunark
+58	Glamorous Visage	Luclin
+58	Imbue Valor	PoP
+58	Imbue War	PoP
+58	Reflect	LDoN
+58	Wondrous Rapidity	Kunark
+59	Asphyxiate	Kunark
+59	Focus Mass Refined Spellcaster's Empowering Essence	SoF
+59	Greater Mass Distill Mana	CoV
+59	Imbue Air	PoP
+59	Rapture	Kunark
+60	Ancient: Chaotic Visions	Luclin
+60	Ancient: Eternal Rapture	Luclin
+60	Dictate	Kunark
+60	Focus Intricate Spellcaster's Empowering Essence	SoF
+60	Gift of Brilliance	Velious
+60	Imbue Fire	PoP
+60	Imbue Water	PoP
+60	Koadic's Endless Intellect	Luclin
+60	Speed of the Brood	Luclin
+60	Visions of Grandeur	Kunark
+60	Wind of Tashanian	Kunark
+61	Apathy	PoP
+61	Arcane Rune	PoP
+61	Boggle	PoP
+61	Greater Fetter	PoP
+61	Howl of Tashan	PoP
+61	Rune of the Scale	DoN
+61	Rune of Zebuxoruk	PoP
+61	Shield of the Arcane	PoP
+62	Aeldorb's Animation	PoP
+62	Beckon	PoP
+62	Guard of Druzzil	PoP
+62	Jitterskin	DoN
+62	Pacification	PoP
+62	Speed of Vallon	PoP
+62	Strangle	PoP
+62	Word of Morell	PoP
+63	Bulwark of Alendar	LDoN
+63	Color Cloud	LDoN
+63	Night's Dark Terror	PoP
+63	Sleep	PoP
+63	Torment of Scio	PoP
+63	Tranquility	PoP
+63	Uproar	PoP
+64	Bliss	PoP
+64	Command of Druzzil	PoP
+64	Focus Mass Intricate Spellcaster's Empowering Essence	SoF
+64	Insanity	PoP
+64	Shield of Maelin	PoP
+65	Ancient: Chaos Madness	Gates
+65	Bliss of the Nihil	Gates
+65	Dreary Deeds	Gates
+65	Focus Elaborate Spellcaster's Empowering Essence	SoF
+65	Illusion: Froglok	PoP
+65	Illusion: Kunark Goblin	PoP
+65	Madness of Ikkibi	Gates
+65	Vallon's Quickening	PoP
+65	Voice of Quellious	PoP
+66	Ethereal Rune	Omens
+66	Mystic Shield	Omens
+66	Salik's Animation	Omens
+66	Suppression Field	Omens
+66	Synapsis Spasm	Omens
+67	Anxiety Attack	DoD
+67	Felicity	Omens
+67	Placate	Omens
+67	Rune of Salik	Omens
+67	Speed of Salik	Omens
+68	Circle of Dreams	Omens
+68	Clairvoyance	Omens
+68	Compel	Omens
+68	Echoing Madness	DoD
+68	Psychosis	Omens
+68	Wall of Alendar	Omens
+69	Arcane Noose	Omens
+69	Color Snap	Omens
+69	Colored Chaos	DoD
+69	Desolate Deeds	DoD
+69	Euphoria	Omens
+69	Focus Mass Elaborate Spellcaster's Empowering Essence	SoF
+69	Mayhem	Omens
+69	Rune of Rikkukin	DoN
+69	Wake of Felicity	Omens
+70	Ancient: Neurosis	Omens
+70	Ancient: Voice of Muram	Omens
+70	Circle of Alendar	Omens
+70	Focus Ornate Spellcaster's Empowering Essence	SoF
+70	Hastening of Salik	Omens
+70	Illusionist's Aura	PoR
+70	Mana Flare	DoD
+70	Mind Shatter	PoR
+70	True Name	Omens
+70	Voice of Clairvoyance	Omens
+70	Ward of Bedazzlement	PoR
+71	Draconic Rune	TSS
+71	Draconic Rune Rk. II	TSS
+71	Draconic Rune Rk. III	TSS
+71	Ellowind's Animation	TSS
+71	Fractured Consciousness	TSS
+71	Fractured Consciousness Rk. II	TSS
+71	Greater Mass Purify Mana	CoV
+71	Perplexing Flash	TBS
+71	Perplexing Flash Rk. II	TBS
+71	Perplexing Flash Rk. III	TBS
+71	Rune of Ellowind	TSS
+71	Rune of Ellowind Rk. II	TSS
+71	Rune of Ellowind Rk. III	TSS
+71	Sorcerous Shield	TSS
+71	Sorcerous Shield Rk. II	TSS
+72	Bewilderment	TSS
+72	Bewilderment Rk. II	TSS
+72	Bewilderment Rk. III	TSS
+72	Coax	TSS
+72	Coax Rk. II	TSS
+72	Echo of Tashan	TSS
+72	Echo of Tashan Rk. II	TSS
+72	Entrancer's Aura	TBS
+72	Entrancer's Aura Rk. II	TBS
+72	Entrancer's Aura Rk. III	TBS
+72	Quiet Mind	TSS
+72	Quiet Mind Rk. II	TSS
+72	Speed of Ellowind	TSS
+72	Speed of Ellowind Rk. II	TSS
+72	Speed of Ellowind Rk. III	TSS
+73	Aegis of Alendar	TSS
+73	Aegis of Alendar Rk. II	TSS
+73	Aegis of Alendar Rk. III	TSS
+73	Dreams of Veldyn	TSS
+73	Dreams of Veldyn Rk. II	TSS
+73	Mana Recursion	TBS
+73	Mana Recursion Rk. II	TBS
+73	Mana Recursion Rk. III	TBS
+73	Polychromatic Assault	TSS
+73	Polychromatic Assault Rk. II	TSS
+73	Polychromatic Assault Rk. III	TSS
+73	Seer's Intuition	TSS
+73	Seer's Intuition Rk. II	TSS
+73	Seer's Intuition Rk. III	TSS
+73	Thin Air	TSS
+73	Thin Air Rk. II	TSS
+73	Thin Air Rk. III	TSS
+74	Brimstone Body	TSS
+74	Brimstone Body Rk. II	TSS
+74	Color Collapse	TSS
+74	Color Collapse Rk. II	TSS
+74	Color Collapse Rk. III	TSS
+74	Focus Mass Ornate Spellcaster's Empowering Essence	SoF
+74	Greater Mass Enchant Adamantite	CoV
+74	Greater Mass Enchant Brellium	CoV
+74	Greater Mass Enchant Mithril	CoV
+74	Greater Mass Enchant Steel	CoV
+74	Legion of Alendar	TSS
+74	Legion of Alendar Rk. II	TSS
+74	Legion of Alendar Rk. III	TSS
+74	Rune of the Kedge	TBS
+74	Rune of the Kedge Rk. II	TBS
+74	Rune of the Kedge Rk. III	TBS
+74	Spinning into the Void	TSS
+74	Spinning into the Void Rk. II	TSS
+74	Wake of Subdual	TSS
+74	Wake of Subdual Rk. II	TSS
+75	Dyn`leth's Whispers	TSS
+75	Dyn`leth's Whispers Rk. II	TSS
+75	Focus Runed Spellcaster's Empowering Essence	SoD
+75	Hastening of Ellowind	TSS
+75	Hastening of Ellowind Rk. II	TSS
+75	Hastening of Ellowind Rk. III	TSS
+75	Illusion: Bloodmoon Orc	SoF
+75	Illusion: Violet Sporali	TSS
+75	Mind Phobiate	TBS
+75	Mind Phobiate Rk. II	TBS
+75	Mind Phobiate Rk. III	TBS
+75	Polychromatic Rune	TSS
+75	Polychromatic Rune Rk. II	TSS
+75	Polychromatic Rune Rk. III	TSS
+75	Voice of Intuition	TSS
+75	Voice of Intuition Rk. II	TSS
+75	Voice of Intuition Rk. III	TSS
+75	Ward of Bewilderment	TSS
+76	Erradien's Animation	SoF
+76	Erradien's Animation Rk. II	SoF
+76	Erradien's Animation Rk. III	SoF
+76	Learner's Aura	SoF
+76	Learner's Aura Rk. II	SoF
+76	Learner's Aura Rk. III	SoF
+76	Mystifying Flash	SoF
+76	Mystifying Flash Rk. II	SoF
+76	Mystifying Flash Rk. III	SoF
+76	Opalescent Rune	SoF
+76	Opalescent Rune Rk. II	SoF
+76	Opalescent Rune Rk. III	SoF
+76	Rune of Erradien	SoF
+76	Rune of Erradien Rk. II	SoF
+76	Rune of Erradien Rk. III	SoF
+76	Shattered Consciousness	SoF
+76	Shattered Consciousness Rk. II	SoF
+76	Shattered Consciousness Rk. III	SoF
+76	Spellbound Shield	SoF
+76	Spellbound Shield Rk. II	SoF
+76	Spellbound Shield Rk. III	SoF
+77	Cajole	SoF
+77	Cajole Rk. II	SoF
+77	Cajole Rk. III	SoF
+77	Din of Tashan	SoF
+77	Din of Tashan Rk. II	SoF
+77	Din of Tashan Rk. III	SoF
+77	Mystifier's Aura	SoF
+77	Mystifier's Aura Rk. II	SoF
+77	Mystifier's Aura Rk. III	SoF
+77	Mystify	SoF
+77	Mystify Rk. II	SoF
+77	Mystify Rk. III	SoF
+77	Runic Swirl Aura	SoF
+77	Runic Swirl Aura Rk. II	SoF
+77	Runic Swirl Aura Rk. III	SoF
+77	Silent Mind	SoF
+77	Silent Mind Rk. II	SoF
+77	Silent Mind Rk. III	SoF
+77	Speed of Erradien	SoF
+77	Speed of Erradien Rk. II	SoF
+77	Speed of Erradien Rk. III	SoF
+78	Aegis of Qandieal	SoF
+78	Aegis of Qandieal Rk. II	SoF
+78	Aegis of Qandieal Rk. III	SoF
+78	Mana Resurgence	SoF
+78	Mana Resurgence Rk. II	SoF
+78	Mana Resurgence Rk. III	SoF
+78	Multichromatic Assault	SoF
+78	Multichromatic Assault Rk. II	SoF
+78	Multichromatic Assault Rk. III	SoF
+78	Seer's Cognizance	SoF
+78	Seer's Cognizance Rk. II	SoF
+78	Seer's Cognizance Rk. III	SoF
+78	Strangling Air	SoF
+78	Strangling Air Rk. II	SoF
+78	Strangling Air Rk. III	SoF
+78	Visions of Kirathas	SoF
+78	Visions of Kirathas Rk. II	SoF
+78	Visions of Kirathas Rk. III	SoF
+78	Wake of Atrophy Aura	SoF
+78	Wake of Atrophy Aura Rk. II	SoF
+78	Wake of Atrophy Aura Rk. III	SoF
+79	Aura of Endless Glamour	SoF
+79	Aura of Endless Glamour Rk. II	SoF
+79	Aura of Endless Glamour Rk. III	SoF
+79	Aura of Horror	SoF
+79	Aura of Horror Rk. II	SoF
+79	Aura of Horror Rk. III	SoF
+79	Brimstone Tenement	SoF
+79	Brimstone Tenement Rk. II	SoF
+79	Brimstone Tenement Rk. III	SoF
+79	Color Cataclysm	SoF
+79	Color Cataclysm Rk. II	SoF
+79	Color Cataclysm Rk. III	SoF
+79	Focus Mass Runed Spellcaster's Empowering Essence	SoD
+79	Legion of Qandieal	SoF
+79	Legion of Qandieal Rk. II	SoF
+79	Legion of Qandieal Rk. III	SoF
+79	Quelling Wave	Sof
+79	Quelling Wave Rk. II	Sof
+79	Quelling Wave Rk. III	Sof
+79	Rune of the Deep	Sof
+79	Rune of the Deep Rk. II	Sof
+79	Rune of the Deep Rk. III	Sof
+79	Whirling into the Hollow	SoF
+79	Whirling into the Hollow Rk. II	SoF
+79	Whirling into the Hollow Rk. III	SoF
+80	Hastening of Erradien	Sof
+80	Hastening of Erradien Rk. II	Sof
+80	Hastening of Erradien Rk. III	Sof
+80	Haunting Whispers	SoF
+80	Haunting Whispers Rk. II	SoF
+80	Haunting Whispers Rk. III	SoF
+80	Mana Resurgence Aura	SoF
+80	Mana Resurgence Aura Rk. II	SoF
+80	Mana Resurgence Aura Rk. III	SoF
+80	Mind Oscillate	SoF
+80	Mind Oscillate Rk. II	SoF
+80	Mind Oscillate Rk. III	SoF
+80	Multichromatic Rune	SoF
+80	Multichromatic Rune Rk. II	SoF
+80	Multichromatic Rune Rk. III	SoF
+80	Tears of Qandieal	SoF
+80	Tears of Qandieal Rk. II	SoF
+80	Tears of Qandieal Rk. III	SoF
+80	Voice of Cognizance	Sof
+80	Voice of Cognizance Rk. II	Sof
+80	Voice of Cognizance Rk. III	Sof
+80	Ward of Mystifying	SoF
+80	Ward of Mystifying Rk. II	SoF
+80	Ward of Mystifying Rk. III	SoF
+81	Befuddling Flash	SoD
+81	Befuddling Flash Rk. II	SoD
+81	Befuddling Flash Rk. III	SoD
+81	Fragmented Consciousness	SoD
+81	Fragmented Consciousness Rk. II	SoD
+81	Fragmented Consciousness Rk. III	SoD
+81	Pearlescent Rune	SoD
+81	Pearlescent Rune Rk. II	SoD
+81	Pearlescent Rune Rk. III	SoD
+81	Rune of Yozan	SoD
+81	Rune of Yozan Rk. II	SoD
+81	Rune of Yozan Rk. III	SoD
+81	Shield of the Void	SoD
+81	Shield of the Void Rk. II	SoD
+81	Shield of the Void Rk. III	SoD
+81	Yozan's Animation	SoD
+81	Yozan's Animation Rk. II	SoD
+81	Yozan's Animation Rk. III	SoD
+82	Bark of Tashan	SoD
+82	Bark of Tashan Rk. II	SoD
+82	Bark of Tashan Rk. III	SoD
+82	Befuddle	SoD
+82	Befuddle Rk. II	SoD
+82	Befuddle Rk. III	SoD
+82	Befuddler's Aura	SoD
+82	Befuddler's Aura Rk. II	SoD
+82	Befuddler's Aura Rk. III	SoD
+82	Dominating Aura	SoD
+82	Dominating Aura Rk. II	SoD
+82	Dominating Aura Rk. III	SoD
+82	Hushed Mind	SoD
+82	Hushed Mind Rk. II	SoD
+82	Hushed Mind Rk. III	SoD
+82	Runic Shimmer Aura	SoD
+82	Runic Shimmer Aura Rk. II	SoD
+82	Runic Shimmer Aura Rk. III	SoD
+82	Seduction	SoD
+82	Seduction Rk. II	SoD
+82	Seduction Rk. III	SoD
+83	Aegis of Xadrith	SoD
+83	Aegis of Xadrith Rk. II	SoD
+83	Aegis of Xadrith Rk. III	SoD
+83	Aura of Abstract Acumen	SoD
+83	Aura of Abstract Acumen Rk. II	SoD
+83	Aura of Abstract Acumen Rk. III	SoD
+83	Chaotic Befuddling	UF
+83	Chaotic Befuddling Rk. II	UF
+83	Chaotic Befuddling Rk. III	UF
+83	Docility	SoD
+83	Docility Rk. II	SoD
+83	Docility Rk. III	SoD
+83	Mana Reiterate	SoD
+83	Mana Reiterate Rk. II	SoD
+83	Mana Reiterate Rk. III	SoD
+83	Polychaotic Assault	SoD
+83	Polychaotic Assault Rk. II	SoD
+83	Polychaotic Assault Rk. III	SoD
+83	Prescience	SoD
+83	Prescience Rk. II	SoD
+83	Prescience Rk. III	SoD
+83	Smother	SoD
+83	Smother Rk. II	SoD
+83	Smother Rk. III	SoD
+84	Arcane Disjunction Aura	UF
+84	Arcane Disjunction Aura Rk. II	UF
+84	Arcane Disjunction Aura Rk. III	UF
+84	Color Conflux	SoD
+84	Color Conflux Rk. II	SoD
+84	Color Conflux Rk. III	SoD
+84	Dermal Brimstone	SoD
+84	Dermal Brimstone Rk. II	SoD
+84	Dermal Brimstone Rk. III	SoD
+84	Ensorcelling Wave	SoD
+84	Ensorcelling Wave Rk. II	SoD
+84	Ensorcelling Wave Rk. III	SoD
+84	Legion of Xadrith	SoD
+84	Legion of Xadrith Rk. II	SoD
+84	Legion of Xadrith Rk. III	SoD
+84	Rune of the Void	SoD
+84	Rune of the Void Rk. II	SoD
+84	Rune of the Void Rk. III	SoD
+84	The Downward Spiral	SoD
+84	The Downward Spiral Rk. II	SoD
+84	The Downward Spiral Rk. III	SoD
+84	Twincast Aura	SoD
+84	Twincast Aura Rk. II	SoD
+84	Twincast Aura Rk. III	SoD
+85	Compliant Lurch	UF
+85	Compliant Lurch Rk. II	UF
+85	Compliant Lurch Rk. III	UF
+85	Dominate	SoD
+85	Dominate Rk. II	SoD
+85	Dominate Rk. III	SoD
+85	Hypnotic Stare	UF
+85	Hypnotic Stare Mindwipe	UF
+85	Hypnotic Stare Rk. II	UF
+85	Hypnotic Stare Rk. III	UF
+85	Illusion: Capricious Drakkin	SoD
+85	Mana Reiterate Aura	SoD
+85	Mana Reiterate Aura Rk. II	SoD
+85	Mana Reiterate Aura Rk. III	SoD
+85	Mind Twist	SoD
+85	Mind Twist Rk. II	SoD
+85	Mind Twist Rk. III	SoD
+85	Polychaotic Rune	SoD
+85	Polychaotic Rune Rk. II	SoD
+85	Polychaotic Rune Rk. III	SoD
+85	Tears of Xadrith	SoD
+85	Tears of Xadrith Rk. II	SoD
+85	Tears of Xadrith Rk. III	SoD
+85	Voice of Prescience	SoD
+85	Voice of Prescience Rk. II	SoD
+85	Voice of Prescience Rk. III	SoD
+85	Ward of Befuddlement	SoD
+85	Ward of Befuddlement Rk. II	SoD
+85	Ward of Befuddlement Rk. III	SoD
+86	Baffling Flash	HoT
+86	Baffling Flash Rk. II	HoT
+86	Baffling Flash Rk. III	HoT
+86	Chromatic Jab	HoT
+86	Chromatic Jab Rk. II	HoT
+86	Chromatic Jab Rk. III	HoT
+86	Illusion: Scarecrow	HoT
+86	Novak's Animation	HoT
+86	Novak's Animation Rk. II	HoT
+86	Novak's Animation Rk. III	HoT
+86	Rune of Novak	HoT
+86	Rune of Novak Rk. II	HoT
+86	Rune of Novak Rk. III	HoT
+86	Shield of Dreams	HoT
+86	Shield of Dreams Rk. II	HoT
+86	Shield of Dreams Rk. III	HoT
+86	Spectral Rune	HoT
+86	Spectral Rune Rk. II	HoT
+86	Spectral Rune Rk. III	HoT
+86	Speed of Novak	HoT
+86	Speed of Novak Rk. II	HoT
+86	Speed of Novak Rk. III	HoT
+86	Splintered Consciousness	TBM
+86	Splintered Consciousness Rk. II	HoT
+86	Splintered Consciousness Rk. III	HoT
+87	Baffle	HoT
+87	Baffle Rk. II	HoT
+87	Baffle Rk. III	HoT
+87	Baffler's Aura	HoT
+87	Baffler's Aura Rk. II	HoT
+87	Baffler's Aura Rk. III	HoT
+87	Bucolic Mind	HoT
+87	Bucolic Mind Rk. II	HoT
+87	Bucolic Mind Rk. III	HoT
+87	Chromarcana	HoT
+87	Chromarcana Rk. II	HoT
+87	Chromarcana Rk. III	HoT
+87	Clamor of Tashan	HoT
+87	Clamor of Tashan Rk. II	HoT
+87	Clamor of Tashan Rk. III	HoT
+87	Deception	HoT
+87	Deception Rk. II	HoT
+87	Deception Rk. III	HoT
+87	Runic Gleam Aura	HoT
+87	Runic Gleam Aura Rk. II	HoT
+87	Runic Gleam Aura Rk. III	HoT
+87	Subjugating Aura	HoT
+87	Subjugating Aura Rk. II	HoT
+87	Subjugating Aura Rk. III	HoT
+88	Aegis of Zykean	HoT
+88	Aegis of Zykean Rk. II	HoT
+88	Aegis of Zykean Rk. III	HoT
+88	Bucolic Aura	HoT
+88	Bucolic Aura Rk. II	HoT
+88	Bucolic Aura Rk. III	HoT
+88	Chaotic Baffling	HoT
+88	Chaotic Baffling Rk. II	HoT
+88	Chaotic Baffling Rk. III	HoT
+88	Constrict	HoT
+88	Constrict Rk. II	HoT
+88	Constrict Rk. III	HoT
+88	Curtailing Helix	HoT
+88	Curtailing Helix Rk. II	HoT
+88	Curtailing Helix Rk. III	HoT
+88	Forethought	HoT
+88	Forethought Rk. II	HoT
+88	Forethought Rk. III	HoT
+88	Illusion: Amygdalan	HoT
+88	Mana Reiteration	HoT
+88	Mana Reiteration Rk. II	HoT
+88	Mana Reiteration Rk. III	HoT
+88	Serenity	HoT
+88	Serenity Rk. II	HoT
+88	Serenity Rk. III	HoT
+88	Spectral Assault	HoT
+88	Spectral Assault Rk. II	HoT
+88	Spectral Assault Rk. III	HoT
+89	Baffling Constriction	HoT
+89	Baffling Constriction Rk. II	HoT
+89	Baffling Constriction Rk. III	HoT
+89	Brimstone Brawn	HoT
+89	Brimstone Brawn Rk. II	HoT
+89	Brimstone Brawn Rk. III	HoT
+89	Color Clash	HoT
+89	Color Clash Rk. II	HoT
+89	Color Clash Rk. III	HoT
+89	Dizzying Helix	HoT
+89	Dizzying Helix Rk. II	HoT
+89	Dizzying Helix Rk. III	HoT
+89	Echo of Subjugation	HoT
+89	Echo of Subjugation Rk. II	HoT
+89	Echo of Subjugation Rk. III	HoT
+89	Legion of Zykean	HoT
+89	Legion of Zykean Rk. II	HoT
+89	Legion of Zykean Rk. III	HoT
+89	Manastorm	HoT
+89	Manastorm Rk. II	HoT
+89	Manastorm Rk. III	HoT
+89	Serene Wave	HoT
+89	Serene Wave Rk. II	HoT
+89	Serene Wave Rk. III	HoT
+89	Twilight Rune	HoT
+89	Twilight Rune Rk. II	HoT
+89	Twilight Rune Rk. III	HoT
+89	Twilight Shadows	HoT
+89	Twilight Shadows II	HoT
+89	Twilight Shadows III	HoT
+90	Bafflement Effect	HoT
+90	Bafflement Effect II	HoT
+90	Bafflement Effect III	HoT
+90	Hastening of Novak	HoT
+90	Hastening of Novak Rk. II	HoT
+90	Hastening of Novak Rk. III	HoT
+90	Illusion: Polka Dot Bunny	HoT
+90	Illusion: Royal Guardian	HoT
+90	Illusion: Somnium Satyr	HoT
+90	Illusion: White Bunny	HoT
+90	Mana Reiteration Aura	HoT
+90	Mana Reiteration Aura Rk. II	HoT
+90	Mana Reiteration Aura Rk. III	HoT
+90	Mind Helix	HoT
+90	Mind Helix Rk. II	HoT
+90	Mind Helix Rk. III	HoT
+90	Mindblade	HoT
+90	Mindblade Rk. II	HoT
+90	Mindblade Rk. III	HoT
+90	Polyspectral Rune	HoT
+90	Polyspectral Rune Rk. II	HoT
+90	Polyspectral Rune Rk. III	HoT
+90	Polyspectral Rune Strike	HoT
+90	Polyspectral Rune Strike II	HoT
+90	Polyspectral Rune Strike III	HoT
+90	Soporific Stare	HoT
+90	Soporific Stare Rk. II	HoT
+90	Soporific Stare Rk. III	HoT
+90	Spectral Unity	HoT
+90	Spectral Unity Rk. II	HoT
+90	Spectral Unity Rk. III	HoT
+90	Subjugate	HoT
+90	Subjugate Rk. II	HoT
+90	Subjugate Rk. III	HoT
+90	Tears of Zykean	HoT
+90	Tears of Zykean Rk. II	HoT
+90	Tears of Zykean Rk. III	HoT
+90	Voice of Forethought	HoT
+90	Voice of Forethought Rk. II	HoT
+90	Voice of Forethought Rk. III	HoT
+90	Ward of Bafflement	HoT
+90	Ward of Bafflement Rk. II	HoT
+90	Ward of Bafflement Rk. III	HoT
+91	Arcanaward's Rune	VoA
+91	Arcanaward's Rune Rk. II	VoA
+91	Arcanaward's Rune Rk. III	VoA
+91	Chromatic Flash	VoA
+91	Chromatic Flash Rk. II	VoA
+91	Chromatic Flash Rk. III	VoA
+91	Illusion: Ripclaw Raptor	VoA
+91	Misleading Flash	VoA
+91	Misleading Flash Rk. II	VoA
+91	Misleading Flash Rk. III	VoA
+91	Rune of Tonmek	VoA
+91	Rune of Tonmek Rk. II	VoA
+91	Rune of Tonmek Rk. III	VoA
+91	Seronvall's Animation	VoA
+91	Seronvall's Animation Rk. II	VoA
+91	Seronvall's Animation Rk. III	VoA
+91	Shield of Bronze	VoA
+91	Shield of Bronze Rk. II	VoA
+91	Shield of Bronze Rk. III	VoA
+91	Slivered Consciousness	VoA
+91	Slivered Consciousness Rk. II	VoA
+91	Slivered Consciousness Rk. III	VoA
+91	Speed of Aransir	VoA
+91	Speed of Aransir Rk. II	VoA
+91	Speed of Aransir Rk. III	VoA
+92	Arctender's Aura	VoA
+92	Arctender's Aura Rk. II	VoA
+92	Arctender's Aura Rk. III	VoA
+92	Arctender's Echo	VoA
+92	Arctender's Echo Rk. II	VoA
+92	Arctender's Echo Rk. III	VoA
+92	Chromaruin	VoA
+92	Chromaruin Rk. II	VoA
+92	Chromaruin Rk. III	VoA
+92	Compelling Edict	VoA
+92	Compelling Edict Rk. II	VoA
+92	Compelling Edict Rk. III	VoA
+92	Declaration of Tashan	VoA
+92	Declaration of Tashan Rk. II	VoA
+92	Declaration of Tashan Rk. III	VoA
+92	Governing Aura	VoA
+92	Governing Aura Rk. II	VoA
+92	Governing Aura Rk. III	VoA
+92	Halcyon Mind	VoA
+92	Halcyon Mind Rk. II	VoA
+92	Halcyon Mind Rk. III	VoA
+92	Mislead	VoA
+92	Mislead Rk. II	VoA
+92	Mislead Rk. III	VoA
+92	Remote Color Convergence	VoA
+92	Remote Color Convergence Rk. II	VoA
+92	Remote Color Convergence Rk. III	VoA
+92	Runic Glow Aura	VoA
+92	Runic Glow Aura Rk. II	VoA
+92	Runic Glow Aura Rk. III	VoA
+93	Aegis of Soliadal	VoA
+93	Aegis of Soliadal Rk. II	VoA
+93	Aegis of Soliadal Rk. III	VoA
+93	Arcane Assault	VoA
+93	Arcane Assault Rk. II	VoA
+93	Arcane Assault Rk. III	VoA
+93	Attenuating Helix	VoA
+93	Attenuating Helix Rk. II	VoA
+93	Attenuating Helix Rk. III	VoA
+93	Chaotic Confusion	VoA
+93	Chaotic Confusion Rk. II	VoA
+93	Chaotic Confusion Rk. III	VoA
+93	Confusion	VoA
+93	Confusion Rk. II	VoA
+93	Confusion Rk. III	VoA
+93	Horrifying Rune	VoA
+93	Horrifying Rune Effect	VoA
+93	Horrifying Rune Effect II	VoA
+93	Horrifying Rune Effect III	VoA
+93	Horrifying Rune Rk. II	VoA
+93	Horrifying Rune Rk. III	VoA
+93	Illusion: Deadraiser	VoA
+93	Mana Repercussion	VoA
+93	Mana Repercussion Rk. II	VoA
+93	Mana Repercussion Rk. III	VoA
+93	Placid Issuance	VoA
+93	Placid Issuance Rk. II	VoA
+93	Placid Issuance Rk. III	VoA
+93	Premeditation	VoA
+93	Premeditation Rk. II	VoA
+93	Premeditation Rk. III	VoA
+93	Suffocation	VoA
+93	Suffocation Rk. II	VoA
+93	Suffocation Rk. III	VoA
+94	Brimstone Potency	VoA
+94	Brimstone Potency Rk. II	VoA
+94	Brimstone Potency Rk. III	VoA
+94	Color Convergence	VoA
+94	Color Convergence Rk. II	VoA
+94	Color Convergence Rk. III	VoA
+94	Confusing Constriction	VoA
+94	Confusing Constriction Rk. II	VoA
+94	Confusing Constriction Rk. III	VoA
+94	Dizzying Gyre	VoA
+94	Dizzying Gyre Rk. II	VoA
+94	Dizzying Gyre Rk. III	VoA
+94	Echo of Coercion	VoA
+94	Echo of Coercion Rk. II	VoA
+94	Echo of Coercion Rk. III	VoA
+94	Legion of Tonmek	VoA
+94	Legion of Tonmek Rk. II	VoA
+94	Legion of Tonmek Rk. III	VoA
+94	Obscuring Shadows	VoA
+94	Obscuring Shadows II	VoA
+94	Obscuring Shadows III	VoA
+94	Peaceful Wave	VoA
+94	Peaceful Wave Rk. II	VoA
+94	Peaceful Wave Rk. III	VoA
+94	Shadowed Rune	VoA
+94	Shadowed Rune Rk. II	VoA
+94	Shadowed Rune Rk. III	VoA
+95	Arcane Unity	VoA
+95	Arcane Unity Rk. II	VoA
+95	Arcane Unity Rk. III	VoA
+95	Arctending Effect	VoA
+95	Arctending Effect II	VoA
+95	Arctending Effect III	VoA
+95	Enforce	VoA
+95	Enforce Rk. II	VoA
+95	Enforce Rk. III	VoA
+95	Hastening of Aransir	VoA
+95	Hastening of Aransir Rk. II	VoA
+95	Hastening of Aransir Rk. III	VoA
+95	Illusion: Hadal	VoA
+95	Illusion: Putrid Swinetor	RoF
+95	Illusion: Revenant of Thelasa	VoA
+95	Issuance of Mana Repercussion	VoA
+95	Issuance of Mana Repercussion Rk. II	VoA
+95	Issuance of Mana Repercussion Rk. III	VoA
+95	Mana Repercussion Aura	VoA
+95	Mana Repercussion Aura Rk. II	VoA
+95	Mana Repercussion Aura Rk. III	VoA
+95	Mind Spiral	VoA
+95	Mind Spiral Rk. II	VoA
+95	Mind Spiral Rk. III	VoA
+95	Mindscythe	VoA
+95	Mindscythe Rk. II	VoA
+95	Mindscythe Rk. III	VoA
+95	Polyarcanic Rune	VoA
+95	Polyarcanic Rune Rk. II	VoA
+95	Polyarcanic Rune Rk. III	VoA
+95	Polyarcanic Rune Strike	VoA
+95	Polyarcanic Rune Strike II	VoA
+95	Polyarcanic Rune Strike III	VoA
+95	Sedative Stare	VoA
+95	Sedative Stare Rk. II	VoA
+95	Sedative Stare Rk. III	VoA
+95	Tears of Wreliard	VoA
+95	Tears of Wreliard Rk. II	VoA
+95	Tears of Wreliard Rk. III	VoA
+95	Voice of Premeditation	VoA
+95	Voice of Premeditation Rk. II	VoA
+95	Voice of Premeditation Rk. III	VoA
+95	Ward of Arctending	VoA
+95	Ward of Arctending Rk. II	VoA
+95	Ward of Arctending Rk. III	VoA
+96	Chromatic Percussion	RoF
+96	Chromatic Percussion Rk. II	RoF
+96	Chromatic Percussion Rk. III	RoF
+96	Confound	RoF
+96	Confound Rk. II	RoF
+96	Confound Rk. III	RoF
+96	Demolished Consciousness	RoF
+96	Demolished Consciousness Rk. II	RoF
+96	Demolished Consciousness Rk. III	RoF
+96	Mastermind's Rune	RoF
+96	Mastermind's Rune Rk. II	RoF
+96	Mastermind's Rune Rk. III	RoF
+96	Mental Appropriation	CotF
+96	Mental Appropriation Rk. II	CotF
+96	Mental Appropriation Rk. III	CotF
+96	Rune of Xolok	RoF
+96	Rune of Xolok Rk. II	RoF
+96	Rune of Xolok Rk. III	RoF
+96	Shield of the Dauntless	RoF
+96	Shield of the Dauntless Rk. II	RoF
+96	Shield of the Dauntless Rk. III	RoF
+96	Speed of Sviir	RoF
+96	Speed of Sviir Rk. II	RoF
+96	Speed of Sviir Rk. III	RoF
+96	Xorlex's Animation	RoF
+96	Xorlex's Animation Rk. II	RoF
+96	Xorlex's Animation Rk. III	RoF
+97	Chromaclash	RoF
+97	Chromaclash Rk. II	RoF
+97	Chromaclash Rk. III	RoF
+97	Confounding Flash	RoF
+97	Confounding Flash Rk. II	RoF
+97	Confounding Flash Rk. III	RoF
+97	Empowered Minion	CotF
+97	Empowered Minion Rk. II	CotF
+97	Empowered Minion Rk. III	CotF
+97	Enunciation of Tashan	RoF
+97	Enunciation of Tashan Rk. II	RoF
+97	Enunciation of Tashan Rk. III	RoF
+97	Mastermind's Aura	RoF
+97	Mastermind's Aura Rk. II	RoF
+97	Mastermind's Aura Rk. III	RoF
+97	Mastermind's Echo	RoF
+97	Mastermind's Echo Rk. II	RoF
+97	Mastermind's Echo Rk. III	RoF
+97	Quiescent Mind	RoF
+97	Quiescent Mind Rk. II	RoF
+97	Quiescent Mind Rk. III	RoF
+97	Remote Color Confluence	RoF
+97	Remote Color Confluence Rk. II	RoF
+97	Remote Color Confluence Rk. III	RoF
+97	Runic Radiance Aura	RoF
+97	Runic Radiance Aura Rk. II	RoF
+97	Runic Radiance Aura Rk. III	RoF
+97	Shield of Fate	CotF
+97	Shield of Fate Rk. II	CotF
+97	Shield of Fate Rk. III	CotF
+97	Temptation	RoF
+97	Temptation Rk. II	RoF
+97	Temptation Rk. III	RoF
+97	Tempting Aura	RoF
+97	Tempting Aura Rk. II	RoF
+97	Tempting Aura Rk. III	RoF
+98	Aegis of the Keeper	CotF
+98	Aegis of the Keeper Rk. II	CotF
+98	Aegis of the Keeper Rk. III	CotF
+98	Aegis of Xorbb	RoF
+98	Aegis of Xorbb Rk. II	RoF
+98	Aegis of Xorbb Rk. III	RoF
+98	Amplifying Aura	RoF
+98	Amplifying Aura Rk. II	RoF
+98	Amplifying Aura Rk. III	RoF
+98	Chaotic Confounding	RoF
+98	Chaotic Confounding Rk. II	RoF
+98	Chaotic Confounding Rk. III	RoF
+98	Diminishing Helix	RoF
+98	Diminishing Helix Rk. II	RoF
+98	Diminishing Helix Rk. III	RoF
+98	Disorientation	RoF
+98	Disorientation Rk. II	RoF
+98	Disorientation Rk. III	RoF
+98	Foresight	RoF
+98	Foresight Rk. II	RoF
+98	Foresight Rk. III	RoF
+98	Illusion: Chetari	RoF
+98	Illusion: Coldain	RoF
+98	Mana Reverberation	RoF
+98	Mana Reverberation Rk. II	RoF
+98	Mana Reverberation Rk. III	RoF
+98	Mirror	CotF
+98	Mirror Rk. II	CotF
+98	Mirror Rk. III	CotF
+98	Phantasmal Assault	RoF
+98	Phantasmal Assault Rk. II	RoF
+98	Phantasmal Assault Rk. III	RoF
+98	Quiescent Issuance	RoF
+98	Quiescent Issuance Rk. II	RoF
+98	Quiescent Issuance Rk. III	RoF
+98	Stifle	RoF
+98	Stifle Rk. II	RoF
+98	Stifle Rk. III	RoF
+98	Terrifying Rune	RoF
+98	Terrifying Rune Effect	RoF
+98	Terrifying Rune Rk. II	RoF
+98	Terrifying Rune Rk. III	RoF
+99	Brimstone Eminence	RoF
+99	Brimstone Eminence Rk. II	RoF
+99	Brimstone Eminence Rk. III	RoF
+99	Color Confluence	RoF
+99	Color Confluence Rk. II	RoF
+99	Color Confluence Rk. III	RoF
+99	Confounding Constriction	RoF
+99	Confounding Constriction Rk. II	RoF
+99	Confounding Constriction Rk. III	RoF
+99	Dizzying Squall	RoF
+99	Dizzying Squall Rk. II	RoF
+99	Dizzying Squall Rk. III	RoF
+99	Echo of Temptation	RoF
+99	Echo of Temptation Rk. II	RoF
+99	Echo of Temptation Rk. III	RoF
+99	Legion of Xolok	RoF
+99	Legion of Xolok Rk. II	RoF
+99	Legion of Xolok Rk. III	RoF
+99	Obscuring Umbra	RoF
+99	Obscuring Umbra II	RoF
+99	Obscuring Umbra III	RoF
+99	Slackening Glance	CotF
+99	Slackening Glance Rk. II	CotF
+99	Slackening Glance Rk. III	CotF
+99	Slackening Wave	RoF
+99	Slackening Wave Rk. II	RoF
+99	Slackening Wave Rk. III	RoF
+99	Umbral Auspice	RoF
+99	Umbral Auspice Rk. II	RoF
+99	Umbral Auspice Rk. III	RoF
+99	Umbral Rune	RoF
+99	Umbral Rune Rk. II	RoF
+99	Umbral Rune Rk. III	RoF
+100	Hastening of Sviir	RoF
+100	Hastening of Sviir Rk. II	RoF
+100	Hastening of Sviir Rk. III	RoF
+100	Illusion: Lord Soptyvr	RoF
+100	Impose	RoF
+100	Impose Rk. II	RoF
+100	Impose Rk. III	RoF
+100	Issuance of Mana Reverberation	RoF
+100	Issuance of Mana Reverberation Rk. II	RoF
+100	Issuance of Mana Reverberation Rk. III	RoF
+100	Legion of the Keeper	CotF
+100	Legion of the Keeper Rk. II	CotF
+100	Legion of the Keeper Rk. III	CotF
+100	Mana Reverberation Aura	RoF
+100	Mana Reverberation Aura Rk. II	RoF
+100	Mana Reverberation Aura Rk. III	RoF
+100	Mastermind's Warding Effect	RoF
+100	Mastermind's Warding Effect II	RoF
+100	Mastermind's Warding Effect III	RoF
+100	Mesmerizing Stare	RoF
+100	Mesmerizing Stare Rk. II	RoF
+100	Mesmerizing Stare Rk. III	RoF
+100	Mind Squall	RoF
+100	Mind Squall Rk. II	RoF
+100	Mind Squall Rk. III	RoF
+100	Mindcleave	RoF
+100	Mindcleave Rk. II	RoF
+100	Mindcleave Rk. III	RoF
+100	Perilous Disorientation	RoF
+100	Perilous Disorientation Rk. II	RoF
+100	Perilous Disorientation Rk. III	RoF
+100	Phantasmal Unity	RoF
+100	Phantasmal Unity Rk. II	RoF
+100	Phantasmal Unity Rk. III	RoF
+100	Polyiridescent Rune	RoF
+100	Polyiridescent Rune Rk. II	RoF
+100	Polyiridescent Rune Rk. III	RoF
+100	Polyiridescent Rune Strike	RoF
+100	Polyiridescent Rune Strike II	RoF
+100	Polyiridescent Rune Strike III	RoF
+100	Tears of Syrkl	RoF
+100	Tears of Syrkl Rk. II	RoF
+100	Tears of Syrkl Rk. III	RoF
+100	Voice of Foresight	RoF
+100	Voice of Foresight Rk. II	RoF
+100	Voice of Foresight Rk. III	RoF
+100	Ward of the Mastermind	RoF
+100	Ward of the Mastermind Rk. II	RoF
+100	Ward of the Mastermind Rk. III	RoF
+101	Aegis of the Indagator	TDS
+101	Aegis of the Indagator Rk. II	TDS
+101	Aegis of the Indagator Rk. III	TDS
+101	Bewilder	TDS
+101	Bewilder Rk. II	TDS
+101	Bewilder Rk. III	TDS
+101	Chromatic Alliance	EoK
+101	Chromatic Alliance Rk. II	EoK
+101	Chromatic Alliance Rk. III	EoK
+101	Chromatic Blink	TDS
+101	Chromatic Blink Rk. II	TDS
+101	Chromatic Blink Rk. III	TDS
+101	Dichotomic Reinforcement	TBM
+101	Enticer's Rune	TDS
+101	Enticer's Rune Rk. II	TDS
+101	Enticer's Rune Rk. III	TDS
+101	Gordianus' Animation	TDS
+101	Gordianus' Animation Rk. II	TDS
+101	Gordianus' Animation Rk. III	TDS
+101	Intellectual Appropriation	TDS
+101	Intellectual Appropriation Rk. II	TDS
+101	Intellectual Appropriation Rk. III	TDS
+101	Rune of Lucem	TDS
+101	Rune of Lucem Rk. II	TDS
+101	Rune of Lucem Rk. III	TDS
+101	Shield of the Pellarus	TDS
+101	Shield of the Pellarus Rk. II	TDS
+101	Shield of the Pellarus Rk. III	TDS
+101	Speed of Prokev	TDS
+101	Speed of Prokev Rk. II	TDS
+101	Speed of Prokev Rk. III	TDS
+101	Tears of Visius	TDS
+101	Tears of Visius Rk. II	TDS
+101	Tears of Visius Rk. III	TDS
+102	Bewildering Flash	TDS
+102	Bewildering Flash Rk. II	TDS
+102	Bewildering Flash Rk. III	TDS
+102	Captivation	TDS
+102	Captivation Rk. II	TDS
+102	Captivation Rk. III	TDS
+102	Chromarift	TDS
+102	Chromarift Rk. II	TDS
+102	Chromarift Rk. III	TDS
+102	Decree of Tashan	TDS
+102	Decree of Tashan Rk. II	TDS
+102	Decree of Tashan Rk. III	TDS
+102	Enticer's Aura	TDS
+102	Enticer's Aura Rk. II	TDS
+102	Enticer's Aura Rk. III	TDS
+102	Enticer's Auspice	EoK
+102	Enticer's Auspice Rk. II	EoK
+102	Enticer's Auspice Rk. III	EoK
+102	Enticer's Echo	TDS
+102	Enticer's Echo Rk. II	TDS
+102	Enticer's Echo Rk. III	TDS
+102	Legion of the Indagator	TDS
+102	Legion of the Indagator Rk. II	TDS
+102	Legion of the Indagator Rk. III	TDS
+102	Pacified Mind	TDS
+102	Pacified Mind Rk. II	TDS
+102	Pacified Mind Rk. III	TDS
+102	Remote Color Concourse	TDS
+102	Remote Color Concourse Rk. II	TDS
+102	Remote Color Concourse Rk. III	TDS
+102	Runic Torrent Aura	TDS
+102	Runic Torrent Aura Rk. II	TDS
+102	Runic Torrent Aura Rk. III	TDS
+102	Shield of Consequence	TDS
+102	Shield of Consequence Rk. II	TDS
+102	Shield of Consequence Rk. III	TDS
+103	Aegis of Gordianus	TDS
+103	Aegis of Gordianus Rk. II	TDS
+103	Aegis of Gordianus Rk. III	TDS
+103	Augmenting Aura	TDS
+103	Augmenting Aura Rk. II	TDS
+103	Augmenting Aura Rk. III	TDS
+103	Bafflement	TDS
+103	Bafflement Rk. II	TDS
+103	Bafflement Rk. III	TDS
+103	Chaotic Bewildering	TDS
+103	Chaotic Bewildering Rk. II	TDS
+103	Chaotic Bewildering Rk. III	TDS
+103	Drown	TDS
+103	Drown Rk. II	TDS
+103	Drown Rk. III	TDS
+103	Frightening Rune	TDS
+103	Frightening Rune Effect	TDS
+103	Frightening Rune Rk. II	TDS
+103	Frightening Rune Rk. III	TDS
+103	Illusion: Thaell Ew	TDS
+103	Mana Reciprocation	TDS
+103	Mana Reciprocation Rk. II	TDS
+103	Mana Reciprocation Rk. III	TDS
+103	Night's Endless Terror	TBM
+103	Night's Endless Terror Rk. II	TBM
+103	Night's Endless Terror Rk. III	TBM
+103	Pacifying Issuance	TDS
+103	Pacifying Issuance Rk. II	TDS
+103	Pacifying Issuance Rk. III	TDS
+103	Polyrefractive Assault	TDS
+103	Polyrefractive Assault Rk. II	TDS
+103	Polyrefractive Assault Rk. III	TDS
+103	Precognition	TDS
+103	Precognition Rk. II	TDS
+103	Precognition Rk. III	TDS
+103	Undermining Helix	TDS
+103	Undermining Helix Rk. II	TDS
+103	Undermining Helix Rk. III	TDS
+104	Bewildering Constriction	TDS
+104	Bewildering Constriction Rk. II	TDS
+104	Bewildering Constriction Rk. III	TDS
+104	Brimstone Resolution	TDS
+104	Brimstone Resolution Rk. II	TDS
+104	Brimstone Resolution Rk. III	TDS
+104	Color Concourse	TDS
+104	Color Concourse Rk. II	TDS
+104	Color Concourse Rk. III	TDS
+104	Darkened Auspice	TDS
+104	Darkened Auspice Rk. II	TDS
+104	Darkened Auspice Rk. III	TDS
+104	Darkened Rune	TDS
+104	Darkened Rune Rk. II	TDS
+104	Darkened Rune Rk. III	TDS
+104	Deadening Wave	TDS
+104	Deadening Wave Rk. II	TDS
+104	Deadening Wave Rk. III	TDS
+104	Dizzying Storm	TDS
+104	Dizzying Storm Rk. II	TDS
+104	Dizzying Storm Rk. III	TDS
+104	Echo of Pacification	TDS
+104	Echo of Pacification Rk. II	TDS
+104	Echo of Pacification Rk. III	TDS
+104	Enticer's Demand	EoK
+104	Enticer's Demand Rk. II	EoK
+104	Enticer's Demand Rk. III	EoK
+104	Gravity Twist	TBM
+104	Gravity Twist Rk. II	TBM
+104	Gravity Twist Rk. III	TBM
+104	Hastening of Prokev	TDS
+104	Hastening of Prokev Rk. II	TDS
+104	Hastening of Prokev Rk. III	TDS
+104	Illusion: Arc Worker	TDS
+104	Illusion: Goblin Shaman	EoK
+104	Legion of Lucem	TDS
+104	Legion of Lucem Rk. II	TDS
+104	Legion of Lucem Rk. III	TDS
+104	Obscuring Darkness	TDS
+104	Obscuring Darkness II	TDS
+104	Obscuring Darkness III	TDS
+105	Anodyne Stare	TDS
+105	Anodyne Stare Rk. II	TDS
+105	Anodyne Stare Rk. III	TDS
+105	Enticer's Command	TDS
+105	Enticer's Command Rk. II	TDS
+105	Enticer's Command Rk. III	TDS
+105	Enticer's Unity	TDS
+105	Enticer's Unity Rk. II	TDS
+105	Enticer's Unity Rk. III	TDS
+105	Enticer's Warding Effect	TDS
+105	Enticer's Warding Effect II	TDS
+105	Enticer's Warding Effect III	TDS
+105	Illusion: Cursed Siren	TDS
+105	Illusion: Glare Lord	TBM
+105	Issuance of Mana Reciprocation	TDS
+105	Issuance of Mana Reciprocation Rk. II	TDS
+105	Issuance of Mana Reciprocation Rk. III	TDS
+105	Mana Reciprocation Aura	TDS
+105	Mana Reciprocation Aura Rk. II	TDS
+105	Mana Reciprocation Aura Rk. III	TDS
+105	Mind Storm	TDS
+105	Mind Storm Rk. II	TDS
+105	Mind Storm Rk. III	TDS
+105	Mindsunder	TDS
+105	Mindsunder Rk. II	TDS
+105	Mindsunder Rk. III	TDS
+105	Perilous Bafflement	TDS
+105	Perilous Bafflement Rk. II	TDS
+105	Perilous Bafflement Rk. III	TDS
+105	Polyrefractive Rune	TDS
+105	Polyrefractive Rune Rk. II	TDS
+105	Polyrefractive Rune Rk. III	TDS
+105	Polyrefractive Rune Strike	TDS
+105	Polyrefractive Rune Strike II	TDS
+105	Polyrefractive Rune Strike III	TDS
+105	Voice of Precognition	TDS
+105	Voice of Precognition Rk. II	TDS
+105	Voice of Precognition Rk. III	TDS
+105	Ward of the Enticer	TDS
+105	Ward of the Enticer Rk. II	TDS
+105	Ward of the Enticer Rk. III	TDS
+106	Aegis of Milyex	RoS
+106	Aegis of Milyex Rk. II	RoS
+106	Aegis of Milyex Rk. III	RoS
+106	Chromatic Flicker	RoS
+106	Chromatic Flicker Rk. II	RoS
+106	Chromatic Flicker Rk. III	RoS
+106	Delude	RoS
+106	Delude Rk. II	RoS
+106	Delude Rk. III	RoS
+106	Dissident Reinforcement	TBL
+106	Nureya's Animation	RoS
+106	Nureya's Animation Rk. II	RoS
+106	Nureya's Animation Rk. III	RoS
+106	Psychic Appropriation	RoS
+106	Psychic Appropriation Rk. II	RoS
+106	Psychic Appropriation Rk. III	RoS
+106	Rune of Skrizix	RoS
+106	Rune of Skrizix Rk. II	RoS
+106	Rune of Skrizix Rk. III	RoS
+106	Shield of Scales	RoS
+106	Shield of Scales Rk. II	RoS
+106	Shield of Scales Rk. III	RoS
+106	Speed of Milyex	RoS
+106	Speed of Milyex Rk. II	RoS
+106	Speed of Milyex Rk. III	RoS
+106	Tears of Skrizix	RoS
+106	Tears of Skrizix Rk. II	RoS
+106	Tears of Skrizix Rk. III	RoS
+106	Transfixer's Rune	RoS
+106	Transfixer's Rune Rk. II	RoS
+106	Transfixer's Rune Rk. III	RoS
+107	Chromareave	RoS
+107	Chromareave Rk. II	RoS
+107	Chromareave Rk. III	RoS
+107	Deluding Flash	RoS
+107	Deluding Flash Rk. II	RoS
+107	Deluding Flash Rk. III	RoS
+107	Infused Minion	RoS
+107	Infused Minion Rk. II	RoS
+107	Infused Minion Rk. III	RoS
+107	Legion of Milyex	RoS
+107	Legion of Milyex Rk. II	RoS
+107	Legion of Milyex Rk. III	RoS
+107	Mollified Mind	RoS
+107	Mollified Mind Rk. II	RoS
+107	Mollified Mind Rk. III	RoS
+107	Order of Tashan	RoS
+107	Order of Tashan Rk. II	RoS
+107	Order of Tashan Rk. III	RoS
+107	Remote Color Congruence	RoS
+107	Remote Color Congruence Rk. II	RoS
+107	Remote Color Congruence Rk. III	RoS
+107	Runic Cascade Aura	RoS
+107	Runic Cascade Aura Rk. II	RoS
+107	Runic Cascade Aura Rk. III	RoS
+107	Shield of Order	RoS
+107	Shield of Order Rk. II	RoS
+107	Shield of Order Rk. III	RoS
+107	Spellbinding	RoS
+107	Spellbinding Rk. II	RoS
+107	Spellbinding Rk. III	RoS
+107	Transfixer's Aura	RoS
+107	Transfixer's Aura Rk. II	RoS
+107	Transfixer's Aura Rk. III	RoS
+107	Transfixer's Auspice	TBL
+107	Transfixer's Auspice Rk. II	TBL
+107	Transfixer's Auspice Rk. III	TBL
+107	Transfixer's Echo	RoS
+107	Transfixer's Echo Rk. II	RoS
+107	Transfixer's Echo Rk. III	RoS
+108	Aegis of Nureya	RoS
+108	Aegis of Nureya Rk. II	RoS
+108	Aegis of Nureya Rk. III	RoS
+108	Bolstering Aura	RoS
+108	Bolstering Aura Rk. II	RoS
+108	Bolstering Aura Rk. III	RoS
+108	Chaotic Delusion	RoS
+108	Chaotic Delusion Rk. II	RoS
+108	Chaotic Delusion Rk. III	RoS
+108	Chromatic Covenant	TBL
+108	Chromatic Covenant Rk. II	TBL
+108	Chromatic Covenant Rk. III	TBL
+108	Constraining Helix	RoS
+108	Constraining Helix Rk. II	RoS
+108	Constraining Helix Rk. III	RoS
+108	Dreadful Rune	RoS
+108	Dreadful Rune Effect	RoS
+108	Dreadful Rune Rk. II	RoS
+108	Dreadful Rune Rk. III	RoS
+108	Illusion: Burynai Taskmaster	RoS
+108	Mana Repetition	RoS
+108	Mana Repetition Rk. II	RoS
+108	Mana Repetition Rk. III	RoS
+108	Mollifying Issuance	RoS
+108	Mollifying Issuance Rk. II	RoS
+108	Mollifying Issuance Rk. III	RoS
+108	Perplex	RoS
+108	Perplex Rk. II	RoS
+108	Perplex Rk. III	RoS
+108	Perspicacity	RoS
+108	Perspicacity Rk. II	RoS
+108	Perspicacity Rk. III	RoS
+108	Polyfluorescent Assault	RoS
+108	Polyfluorescent Assault Rk. II	RoS
+108	Polyfluorescent Assault Rk. III	RoS
+108	Strangulate	RoS
+108	Strangulate Rk. II	RoS
+108	Strangulate Rk. III	RoS
+109	Brimstone Durability	RoS
+109	Brimstone Durability Rk. II	RoS
+109	Brimstone Durability Rk. III	RoS
+109	Color Congruence	RoS
+109	Color Congruence Rk. II	RoS
+109	Color Congruence Rk. III	RoS
+109	Deluding Constriction	RoS
+109	Deluding Constriction Rk. II	RoS
+109	Deluding Constriction Rk. III	RoS
+109	Dizzying Wheel	RoS
+109	Dizzying Wheel Rk. II	RoS
+109	Dizzying Wheel Rk. III	RoS
+109	Echo of Mollification	RoS
+109	Echo of Mollification Rk. II	RoS
+109	Echo of Mollification Rk. III	RoS
+109	Hastening of Milyex	RoS
+109	Hastening of Milyex Rk. II	RoS
+109	Hastening of Milyex Rk. III	RoS
+109	Legion of Skrizix	RoS
+109	Legion of Skrizix Rk. II	RoS
+109	Legion of Skrizix Rk. III	RoS
+109	Perplexing Glance	RoS
+109	Perplexing Glance Rk. II	RoS
+109	Perplexing Glance Rk. III	RoS
+109	Perplexing Wave	RoS
+109	Perplexing Wave Rk. II	RoS
+109	Perplexing Wave Rk. III	RoS
+109	Tenebrous Auspice	RoS
+109	Tenebrous Auspice Rk. II	RoS
+109	Tenebrous Auspice Rk. III	RoS
+109	Tenebrous Rune	RoS
+109	Tenebrous Rune Rk. II	RoS
+109	Tenebrous Rune Rk. III	RoS
+109	Tenebrous Shadows	RoS
+109	Tenebrous Shadows II	RoS
+109	Tenebrous Shadows III	RoS
+109	Transfixer's Demand	TBL
+109	Transfixer's Demand Rk. II	TBL
+109	Transfixer's Demand Rk. III	TBL
+110	Illusion: Palace Efreet	TBL
+110	Illusion: Sarnak Oracle	RoS
+110	Issuance of Mana Repetition	RoS
+110	Issuance of Mana Repetition Rk. II	RoS
+110	Issuance of Mana Repetition Rk. III	RoS
+110	Mana Repetition Aura	RoS
+110	Mana Repetition Aura Rk. II	RoS
+110	Mana Repetition Aura Rk. III	RoS
+110	Mind Tempest	RoS
+110	Mind Tempest Rk. II	RoS
+110	Mind Tempest Rk. III	RoS
+110	Mindslash	RoS
+110	Mindslash Rk. II	RoS
+110	Mindslash Rk. III	RoS
+110	Perilous Perplexing	RoS
+110	Perilous Perplexing Rk. II	RoS
+110	Perilous Perplexing Rk. III	RoS
+110	Polyfluorescent Rune	RoS
+110	Polyfluorescent Rune Rk. II	RoS
+110	Polyfluorescent Rune Rk. III	RoS
+110	Polyfluorescent Rune Strike	RoS
+110	Polyfluorescent Rune Strike II	RoS
+110	Polyfluorescent Rune Strike III	RoS
+110	Transfixer's Command	RoS
+110	Transfixer's Command Rk. II	RoS
+110	Transfixer's Command Rk. III	RoS
+110	Transfixer's Unity	RoS
+110	Transfixer's Warding Effect	RoS
+110	Transfixer's Warding Effect II	RoS
+110	Transfixer's Warding Effect III	RoS
+110	Transfixing Stare	RoS
+110	Transfixing Stare Rk. II	RoS
+110	Transfixing Stare Rk. III	RoS
+110	Voice of Perspicacity	RoS
+110	Voice of Perspicacity Rk. II	RoS
+110	Voice of Perspicacity Rk. III	RoS
+110	Ward of the Transfixer	RoS
+110	Ward of the Transfixer Rk. II	RoS
+110	Ward of the Transfixer Rk. III	RoS
+111	Aegis of Cekenar	ToV
+111	Aegis of Cekenar Rk. II	ToV
+111	Aegis of Cekenar Rk. III	ToV
+111	Chromatic Stab	ToV
+111	Chromatic Stab Rk. II	ToV
+111	Chromatic Stab Rk. III	ToV
+111	Composite Reinforcement	CoV
+111	Deceive	ToV
+111	Deceive Rk. II	ToV
+111	Deceive Rk. III	ToV
+111	Deviser's Rune	ToV
+111	Deviser's Rune Rk. II	ToV
+111	Deviser's Rune Rk. III	ToV
+111	Gravity Roil	CoV
+111	Gravity Roil Rk. II	CoV
+111	Gravity Roil Rk. III	CoV
+111	Ideological Appropriation	ToV
+111	Ideological Appropriation Rk. II	ToV
+111	Ideological Appropriation Rk. III	ToV
+111	Omica's Animation	ToV
+111	Omica's Animation Rk. II	ToV
+111	Omica's Animation Rk. III	ToV
+111	Rune of Kildrukaun	ToV
+111	Rune of Kildrukaun Rk. II	ToV
+111	Rune of Kildrukaun Rk. III	ToV
+111	Shield of Restless Ice	ToV
+111	Shield of Restless Ice Rk. II	ToV
+111	Shield of Restless Ice Rk. III	ToV
+111	Speed of Cekenar	ToV
+111	Tears of Aaryonar	ToV
+111	Tears of Aaryonar Rk. II	ToV
+111	Tears of Aaryonar Rk. III	ToV
+112	Chromashock	ToV
+112	Chromashock Rk. II	ToV
+112	Chromashock Rk. III	ToV
+112	Deceiving Flash	ToV
+112	Deceiving Flash Rk. II	ToV
+112	Deceiving Flash Rk. III	ToV
+112	Deviser's Aura	ToV
+112	Deviser's Aura Rk. II	ToV
+112	Deviser's Aura Rk. III	ToV
+112	Deviser's Auspice	CoV
+112	Deviser's Auspice Rk. II	CoV
+112	Deviser's Auspice Rk. III	CoV
+112	Deviser's Echo	ToV
+112	Deviser's Echo Rk. II	ToV
+112	Deviser's Echo Rk. III	ToV
+112	Enrapture	ToV
+112	Enrapture Rk. II	ToV
+112	Enrapture Rk. III	ToV
+112	Illusion: Armor of Zek	ToV
+112	Legion of Cekenar	ToV
+112	Legion of Cekenar Rk. II	ToV
+112	Legion of Cekenar Rk. III	ToV
+112	Proclamation of Tashan	ToV
+112	Proclamation of Tashan Rk. II	ToV
+112	Proclamation of Tashan Rk. III	ToV
+112	Remote Color Cascade	ToV
+112	Remote Color Cascade Rk. II	ToV
+112	Remote Color Cascade Rk. III	ToV
+112	Runic Luminescense Aura	ToV
+112	Runic Luminescense Aura Rk. II	ToV
+112	Runic Luminescense Aura Rk. III	ToV
+112	Serene Mind	ToV
+112	Serene Mind Rk. II	ToV
+112	Serene Mind Rk. III	ToV
+112	Shield of Destiny	ToV
+112	Shield of Destiny Rk. II	ToV
+112	Shield of Destiny Rk. III	ToV
+113	Aegis of Omica	ToV
+113	Aegis of Omica Rk. II	ToV
+113	Aegis of Omica Rk. III	ToV
+113	Chaotic Deception	ToV
+113	Chaotic Deception Rk. II	ToV
+113	Chaotic Deception Rk. III	ToV
+113	Chromatic Coalition	CoV
+113	Chromatic Coalition Rk. II	CoV
+113	Chromatic Coalition Rk. III	CoV
+113	Constraining Coil	ToV
+113	Constraining Coil Rk. II	ToV
+113	Constraining Coil Rk. III	ToV
+113	Fortifying Aura	ToV
+113	Fortifying Aura Rk. II	ToV
+113	Fortifying Aura Rk. III	ToV
+113	Horrendous Rune	ToV
+113	Horrendous Rune Effect	ToV
+113	Horrendous Rune Rk. II	ToV
+113	Horrendous Rune Rk. III	ToV
+113	Mana Replication	ToV
+113	Mana Replication Rk. II	ToV
+113	Mana Replication Rk. III	ToV
+113	Neutralize	ToV
+113	Neutralize Rk. II	ToV
+113	Neutralize Rk. III	ToV
+113	Placating Issuance	ToV
+113	Placating Issuance Rk. II	ToV
+113	Placating Issuance Rk. III	ToV
+113	Polycascading Assault	ToV
+113	Polycascading Assault Rk. II	ToV
+113	Polycascading Assault Rk. III	ToV
+113	Pulmonary Grip	ToV
+113	Pulmonary Grip Rk. II	ToV
+113	Pulmonary Grip Rk. III	ToV
+113	Sagacity	ToV
+114	Brimstone Fortitude	ToV
+114	Brimstone Fortitude Rk. II	ToV
+114	Brimstone Fortitude Rk. III	ToV
+114	Color Cascade	ToV
+114	Color Cascade Rk. II	ToV
+114	Color Cascade Rk. III	ToV
+114	Crepuscular Auspice	ToV
+114	Crepuscular Auspice Rk. II	ToV
+114	Crepuscular Auspice Rk. III	ToV
+114	Crepuscular Rune	ToV
+114	Crepuscular Rune Rk. II	ToV
+114	Crepuscular Rune Rk. III	ToV
+114	Crepuscular Shadows	ToV
+114	Crepuscular Shadows II	ToV
+114	Crepuscular Shadows III	ToV
+114	Deceiving Constriction	ToV
+114	Deceiving Constriction Rk. II	ToV
+114	Deceiving Constriction Rk. III	ToV
+114	Deviser's Demand	CoV
+114	Deviser's Demand Rk. II	CoV
+114	Deviser's Demand Rk. III	CoV
+114	Dizzying Coil	ToV
+114	Dizzying Coil Rk. II	ToV
+114	Dizzying Coil Rk. III	ToV
+114	Hastening of Cekenar	ToV
+114	Legion of Kildrukaun	ToV
+114	Legion of Kildrukaun Rk. II	ToV
+114	Legion of Kildrukaun Rk. III	ToV
+114	Neutralizing Glance	ToV
+114	Neutralizing Glance Rk. II	ToV
+114	Neutralizing Glance Rk. III	ToV
+114	Neutralizing Wave	ToV
+114	Neutralizing Wave Rk. II	ToV
+114	Neutralizing Wave Rk. III	ToV
+115	Deceiving Stare	ToV
+115	Deceiving Stare Rk. II	ToV
+115	Deceiving Stare Rk. III	ToV
+115	Deviser's Command	ToV
+115	Deviser's Command Rk. II	ToV
+115	Deviser's Command Rk. III	ToV
+115	Deviser's Unity	ToV
+115	Deviser's Warding Effect	ToV
+115	Deviser's Warding Effect II	ToV
+115	Deviser's Warding Effect III	ToV
+115	Illusion: Hooded Othmir	CoV
+115	Illusion: Shadow Beast	ToV
+115	Issuance of Mana Replication	ToV
+115	Issuance of Mana Replication Rk. II	ToV
+115	Issuance of Mana Replication Rk. III	ToV
+115	Mana Replication Aura	ToV
+115	Mana Replication Aura Rk. II	ToV
+115	Mana Replication Aura Rk. III	ToV
+115	Mind Coil	ToV
+115	Mind Coil Rk. II	ToV
+115	Mind Coil Rk. III	ToV
+115	Mindrift	ToV
+115	Mindrift Rk. II	ToV
+115	Mindrift Rk. III	ToV
+115	Night's Perpetual Terror	CoV
+115	Night's Perpetual Terror Rk. II	CoV
+115	Night's Perpetual Terror Rk. III	CoV
+115	Perilous Neutralization	ToV
+115	Perilous Neutralization Rk. II	ToV
+115	Perilous Neutralization Rk. III	ToV
+115	Polycascading Rune	ToV
+115	Polycascading Rune Rk. II	ToV
+115	Polycascading Rune Rk. III	ToV
+115	Polycascading Rune Strike	ToV
+115	Polycascading Rune Strike II	ToV
+115	Polycascading Rune Strike III	ToV
+115	Voice of Sagacity	ToV
+115	Ward of the Deviser	ToV
+115	Ward of the Deviser Rk. II	ToV
+115	Ward of the Deviser Rk. III	ToV
+116	Addle	ToL
+116	Addle Rk. II	ToL
+116	Addle Rk. III	ToL
+116	Aegis of Xetheg	ToL
+116	Aegis of Xetheg Rk. II	ToL
+116	Aegis of Xetheg Rk. III	ToL
+116	Chromatic Flare	ToL
+116	Chromatic Flare Rk. II	ToL
+116	Chromatic Flare Rk. III	ToL
+116	Constance's Animation	ToL
+116	Constance's Animation Rk. II	ToL
+116	Constance's Animation Rk. III	ToL
+116	Ecliptic Reinforcement	NoS
+116	Marvel's Rune	ToL
+116	Marvel's Rune Rk. II	ToL
+116	Marvel's Rune Rk. III	ToL
+116	Psychological Appropriation	ToL
+116	Psychological Appropriation Rk. II	ToL
+116	Psychological Appropriation Rk. III	ToL
+116	Rune of Tearc	ToL
+116	Rune of Tearc Rk. II	ToL
+116	Rune of Tearc Rk. III	ToL
+116	Shield of Shadow	ToL
+116	Shield of Shadow Rk. II	ToL
+116	Shield of Shadow Rk. III	ToL
+116	Speed of Itzal	ToL
+116	Tears of Xenacious	ToL
+116	Tears of Xenacious Rk. II	ToL
+116	Tears of Xenacious Rk. III	ToL
+117	Addling Flash	ToL
+117	Addling Flash Rk. II	ToL
+117	Addling Flash Rk. III	ToL
+117	Chromashear	ToL
+117	Chromashear Rk. II	ToL
+117	Chromashear Rk. III	ToL
+117	Edict of Tashan	ToL
+117	Edict of Tashan Rk. II	ToL
+117	Edict of Tashan Rk. III	ToL
+117	Illusion: Syl Ren	ToL
+117	Inveigle	ToL
+117	Inveigle Rk. II	ToL
+117	Inveigle Rk. III	ToL
+117	Invigorated Minion	ToL
+117	Invigorated Minion Rk. II	ToL
+117	Invigorated Minion Rk. III	ToL
+117	Legion of Xetheg	ToL
+117	Legion of Xetheg Rk. II	ToL
+117	Legion of Xetheg Rk. III	ToL
+117	Marvel's Aura	ToL
+117	Marvel's Aura Rk. II	ToL
+117	Marvel's Aura Rk. III	ToL
+117	Marvel's Auspice	NoS
+117	Marvel's Auspice Rk. II	NoS
+117	Marvel's Auspice Rk. III	NoS
+117	Marvel's Echo	ToL
+117	Marvel's Echo Rk. II	ToL
+117	Marvel's Echo Rk. III	ToL
+117	Remote Color Conflagration	ToL
+117	Remote Color Conflagration Rk. II	ToL
+117	Remote Color Conflagration Rk. III	ToL
+117	Runic Incandescence Aura	ToL
+117	Runic Incandescence Aura Rk. II	ToL
+117	Runic Incandescence Aura Rk. III	ToL
+117	Shield of Inevitability	ToL
+117	Shield of Inevitability Rk. II	ToL
+117	Shield of Inevitability Rk. III	ToL
+117	Still Mind	ToL
+117	Still Mind Rk. II	ToL
+117	Still Mind Rk. III	ToL
+118	Aegis of Sefra	ToL
+118	Aegis of Sefra Rk. II	ToL
+118	Aegis of Sefra Rk. III	ToL
+118	Bewilderment	ToL
+118	Bewilderment Rk. II	ToL
+118	Bewilderment Rk. III	ToL
+118	Chaotic Puzzlement	ToL
+118	Chaotic Puzzlement Rk. II	ToL
+118	Chaotic Puzzlement Rk. III	ToL
+118	Chromatic Conjunction	NoS
+118	Chromatic Conjunction Rk. II	NoS
+118	Chromatic Conjunction Rk. III	NoS
+118	Enhancing Aura	ToL
+118	Enhancing Aura Rk. II	ToL
+118	Enhancing Aura Rk. III	ToL
+118	Ghastly Rune	ToL
+118	Ghastly Rune Effect	ToL
+118	Ghastly Rune Rk. II	ToL
+118	Ghastly Rune Rk. III	ToL
+118	Mana Rebirth	ToL
+118	Mana Rebirth Rk. II	ToL
+118	Mana Rebirth Rk. III	ToL
+118	Polyluminous Assault	ToL
+118	Polyluminous Assault Rk. II	ToL
+118	Polyluminous Assault Rk. III	ToL
+118	Scrying Visions	ToL
+118	Throttling Grip	ToL
+118	Throttling Grip Rk. II	ToL
+118	Throttling Grip Rk. III	ToL
+118	Tranquil Issuance	ToL
+118	Tranquil Issuance Rk. II	ToL
+118	Tranquil Issuance Rk. III	ToL
+119	Bewildering Wave	ToL
+119	Bewildering Wave Rk. II	ToL
+119	Bewildering Wave Rk. III	ToL
+119	Brimstone Endurance	ToL
+119	Brimstone Endurance Rk. II	ToL
+119	Brimstone Endurance Rk. III	ToL
+119	Color Conflagration	ToL
+119	Color Conflagration Rk. II	ToL
+119	Color Conflagration Rk. III	ToL
+119	Confounding Glance	ToL
+119	Confounding Glance Rk. II	ToL
+119	Confounding Glance Rk. III	ToL
+119	Dizzying Vortex	ToL
+119	Dizzying Vortex Rk. II	ToL
+119	Dizzying Vortex Rk. III	ToL
+119	Eclipsed Auspice	ToL
+119	Eclipsed Auspice Rk. II	ToL
+119	Eclipsed Auspice Rk. III	ToL
+119	Eclipsed Rune	ToL
+119	Eclipsed Rune Rk. II	ToL
+119	Eclipsed Rune Rk. III	ToL
+119	Hastening of Jharin	ToL
+119	Issuance of Amelioration	ToL
+119	Issuance of Amelioration Rk. II	ToL
+119	Issuance of Amelioration Rk. III	ToL
+119	Legion of Liako	ToL
+119	Legion of Liako Rk. II	ToL
+119	Legion of Liako Rk. III	ToL
+119	Marvel's Demand	NoS
+119	Marvel's Demand Rk. II	NoS
+119	Marvel's Demand Rk. III	NoS
+119	Obscuring Eclipse	ToL
+119	Obscuring Eclipse II	ToL
+119	Obscuring Eclipse III	ToL
+119	Perplexing Constriction	ToL
+119	Perplexing Constriction Rk. II	ToL
+119	Perplexing Constriction Rk. III	ToL
+120	Gravity Surge	NoS
+120	Gravity Surge Rk. II	NoS
+120	Gravity Surge Rk. III	NoS
+120	Illusion: Deepshade Fungus	NoS
+120	Illusion: Shade	ToL
+120	Issuance of Mana Radix	ToL
+120	Issuance of Mana Radix Rk. II	ToL
+120	Issuance of Mana Radix Rk. III	ToL
+120	Mana Radix Aura	ToL
+120	Mana Radix Aura Rk. II	ToL
+120	Mana Radix Aura Rk. III	ToL
+120	Marvel's Command	ToL
+120	Marvel's Command Rk. II	ToL
+120	Marvel's Command Rk. III	ToL
+120	Marvel's Unity	ToL
+120	Mesmeric Stare	ToL
+120	Mesmeric Stare Rk. II	ToL
+120	Mesmeric Stare Rk. III	ToL
+120	Mind Vortex	ToL
+120	Mind Vortex Rk. II	ToL
+120	Mind Vortex Rk. III	ToL
+120	Mindreap	ToL
+120	Mindreap Rk. II	ToL
+120	Mindreap Rk. III	ToL
+120	Perilous Bewilderment	ToL
+120	Perilous Bewilderment Rk. II	ToL
+120	Perilous Bewilderment Rk. III	ToL
+120	Polyluminous Rune	ToL
+120	Polyluminous Rune Rk. II	ToL
+120	Polyluminous Rune Rk. III	ToL
+120	Polyluminous Rune Strike	ToL
+120	Polyluminous Rune Strike II	ToL
+120	Polyluminous Rune Strike III	ToL
+120	Voice of Perception	ToL
+120	Ward of the Beguiler	ToL
+120	Ward of the Beguiler Rk. II	ToL
+120	Ward of the Beguiler Rk. III	ToL
+121	Aegis of Dhakka	LS
+121	Aegis of Dhakka Rk. II	LS
+121	Aegis of Dhakka Rk. III	LS
+121	Chromatic Spike	LS
+121	Chromatic Spike Rk. II	LS
+121	Chromatic Spike Rk. III	LS
+121	Cognitive Appropriation	LS
+121	Cognitive Appropriation Rk. II	LS
+121	Cognitive Appropriation Rk. III	LS
+121	Esoteric Rune	LS
+121	Esoteric Rune Rk. II	LS
+121	Esoteric Rune Rk. III	LS
+121	Flariton's Animation	LS
+121	Flariton's Animation Rk. II	LS
+121	Flariton's Animation Rk. III	LS
+121	Flummox	LS
+121	Flummox Rk. II	LS
+121	Flummox Rk. III	LS
+121	Legion of Dhakka	LS
+121	Legion of Dhakka Rk. II	LS
+121	Legion of Dhakka Rk. III	LS
+121	Rune of Zoraxmen	LS
+121	Rune of Zoraxmen Rk. II	LS
+121	Rune of Zoraxmen Rk. III	LS
+121	Shield of Memories	LS
+121	Shield of Memories Rk. II	LS
+121	Shield of Memories Rk. III	LS
+121	Speed of Margator	LS
+121	Tears of Kasha	LS
+121	Tears of Kasha Rk. II	LS
+121	Tears of Kasha Rk. III	LS
+122	Chromaclap	LS
+122	Chromaclap Rk. II	LS
+122	Chromaclap Rk. III	LS
+122	Compulsion	LS
+122	Compulsion Rk. II	LS
+122	Compulsion Rk. III	LS
+122	Docile Mind	LS
+122	Docile Mind Rk. II	LS
+122	Docile Mind Rk. III	LS
+122	Esoteric Aura	LS
+122	Esoteric Aura Rk. II	LS
+122	Esoteric Aura Rk. III	LS
+122	Esoteric Echo	LS
+122	Esoteric Echo Rk. II	LS
+122	Esoteric Echo Rk. III	LS
+122	Flummoxing Flash	LS
+122	Flummoxing Flash Rk. II	LS
+122	Flummoxing Flash Rk. III	LS
+122	Illusion: Pal`Lomen Infiltrator	LS
+122	Remote Color Calibration	LS
+122	Remote Color Calibration Rk. II	LS
+122	Remote Color Calibration Rk. III	LS
+122	Roar of Tashan	LS
+122	Roar of Tashan Rk. II	LS
+122	Roar of Tashan Rk. III	LS
+122	Runic Scintillation Aura	LS
+122	Runic Scintillation Aura Rk. II	LS
+122	Runic Scintillation Aura Rk. III	LS
+122	Shield of Inescapability	LS
+122	Shield of Inescapability Rk. II	LS
+122	Shield of Inescapability Rk. III	LS
+123	Aegis of Elmara	LS
+123	Aegis of Elmara Rk. II	LS
+123	Aegis of Elmara Rk. III	LS
+123	Asphyxiating Grasp	LS
+123	Asphyxiating Grasp Rk. II	LS
+123	Asphyxiating Grasp Rk. III	LS
+123	Chaotic Conundrum	LS
+123	Chaotic Conundrum Rk. II	LS
+123	Chaotic Conundrum Rk. III	LS
+123	Consoling Issuance	LS
+123	Consoling Issuance Rk. II	LS
+123	Consoling Issuance Rk. III	LS
+123	Disquieting Rune	LS
+123	Disquieting Rune Effect	LS
+123	Disquieting Rune Rk. II	LS
+123	Disquieting Rune Rk. III	LS
+123	Inhibiting Helix	LS
+123	Inhibiting Helix Rk. II	LS
+123	Inhibiting Helix Rk. III	LS
+123	Intensifying Aura	LS
+123	Intensifying Aura Rk. II	LS
+123	Intensifying Aura Rk. III	LS
+123	Mana Reproduction	LS
+123	Mana Reproduction Rk. II	LS
+123	Mana Reproduction Rk. III	LS
+123	Polyradiant Assault	LS
+123	Polyradiant Assault Rk. II	LS
+123	Polyradiant Assault Rk. III	LS
+123	Preordination	LS
+123	Wonderment	LS
+123	Wonderment Rk. II	LS
+123	Wonderment Rk. III	LS
+124	Brimstone Stability	LS
+124	Brimstone Stability Rk. II	LS
+124	Brimstone Stability Rk. III	LS
+124	Color Calibration	LS
+124	Color Calibration Rk. II	LS
+124	Color Calibration Rk. III	LS
+124	Dismaying Constriction	LS
+124	Dismaying Constriction Rk. II	LS
+124	Dismaying Constriction Rk. III	LS
+124	Dizzying Spindle	LS
+124	Dizzying Spindle Rk. II	LS
+124	Dizzying Spindle Rk. III	LS
+124	Gloaming Auspice	LS
+124	Gloaming Auspice Rk. II	LS
+124	Gloaming Auspice Rk. III	LS
+124	Gloaming Rune	LS
+124	Gloaming Rune Rk. II	LS
+124	Gloaming Rune Rk. III	LS
+124	Hastening of Margator	LS
+124	Legion of Ogna	LS
+124	Legion of Ogna Rk. II	LS
+124	Legion of Ogna Rk. III	LS
+124	Obscuring Gloam	LS
+124	Obscuring Gloam II	LS
+124	Obscuring Gloam III	LS
+124	Stupefying Wave	LS
+124	Stupefying Wave Rk. II	LS
+124	Stupefying Wave Rk. III	LS
+124	Vexing Glance	LS
+124	Vexing Glance Rk. II	LS
+124	Vexing Glance Rk. III	LS
+125	Entrancing Stare	LS
+125	Entrancing Stare Rk. II	LS
+125	Entrancing Stare Rk. III	LS
+125	Esoteric Command	LS
+125	Esoteric Command Rk. II	LS
+125	Esoteric Command Rk. III	LS
+125	Esoteric Unity	LS
+125	Illusion: Fernshade Defender	LS
+125	Issuance of Mana Ripple	LS
+125	Issuance of Mana Ripple Rk. II	LS
+125	Issuance of Mana Ripple Rk. III	LS
+125	Mana Ripple Aura	LS
+125	Mana Ripple Aura Rk. II	LS
+125	Mana Ripple Aura Rk. III	LS
+125	Mind Whirl	LS
+125	Mind Whirl Rk. II	LS
+125	Mind Whirl Rk. III	LS
+125	Mindrend	LS
+125	Mindrend Rk. II	LS
+125	Mindrend Rk. III	LS
+125	Perilous Confounding	LS
+125	Perilous Confounding Rk. II	LS
+125	Perilous Confounding Rk. III	LS
+125	Polyradiant Rune	LS
+125	Polyradiant Rune Rk. II	LS
+125	Polyradiant Rune Rk. III	LS
+125	Polyradiant Rune Strike	LS
+125	Polyradiant Rune Strike II	LS
+125	Polyradiant Rune Strike III	LS
+125	Voice of Preordination	LS
+125	Ward of the Stupefier	LS
+125	Ward of the Stupefier Rk. II	LS
+125	Ward of the Stupefier Rk. III	LS
+250	Composite Reinforcement 1	CoV
+250	Composite Reinforcement 2	CoV
+250	Composite Reinforcement 3	CoV
+250	Composite Reinforcement 4	CoV
+250	Composite Reinforcement 5	CoV
+250	Composite Reinforcement 6	CoV
+250	Dichotomic Reinforcement 1	TBM
+250	Dichotomic Reinforcement 2	TBM
+250	Dichotomic Reinforcement 3	TBM
+250	Dichotomic Reinforcement 4	TBM
+250	Dichotomic Reinforcement 5	TBM
+250	Dichotomic Reinforcement 6	TBM
+250	Dissident Reinforcement 1	TBL
+250	Dissident Reinforcement 2	TBL
+250	Dissident Reinforcement 3	TBL
+250	Dissident Reinforcement 4	TBL
+250	Dissident Reinforcement 5	TBL
+250	Dissident Reinforcement 6	TBL
+250	Ecliptic Reinforcement 1	NoS
+250	Ecliptic Reinforcement 2	NoS
+250	Ecliptic Reinforcement 3	NoS
+250	Ecliptic Reinforcement 4	NoS
+250	Ecliptic Reinforcement 5	NoS
+250	Ecliptic Reinforcement 6	NoS

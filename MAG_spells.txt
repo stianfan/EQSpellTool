@@ -1,0 +1,1757 @@
+1	Burst of Flame	EQ
+1	Fire Flux	EQ
+1	Flare	EQ
+1	Line of Sight	EQ
+1	Minor Shielding	EQ
+1	Reclaim Energy	EQ
+1	Summon Dagger	EQ
+1	Summon Drink	EQ
+1	Summon Food	EQ
+1	True North	EQ
+2	Elementalkin: Water	EQ
+2	Summon Bandages	EQ
+2	Summon Brass Choker	EQ
+3	Elementalkin: Fire	EQ
+3	Sense Summoned	EQ
+3	Summon Wisp	EQ
+4	Burn	EQ
+4	Elementalkin: Air	EQ
+4	Gate	EQ
+5	Elementalkin: Earth	EQ
+5	Flame Bolt	EQ
+5	Line of Sight	EQ
+5	Lesser Shielding	EQ
+6	Dimensional Pocket	EQ
+6	Elementaling: Water	EQ
+6	Eye of Zomm	EQ
+7	Elementaling: Fire	EQ
+7	Renew Elements	EQ
+7	Shield of Fire	EQ
+7	Shock of Blades	EQ
+8	Elementaling: Air	EQ
+8	Invisibility	EQ
+8	Staff of Tracing	EQ
+8	Summon Linen Mantle	Luclin
+9	Elementaling: Earth	EQ
+9	Summon Fang	EQ
+9	Ward Summoned	EQ
+10	Cancel Magic	EQ
+10	Elemental: Water	EQ
+10	Rain of Blades	EQ
+10	Summon Tarnished Bauble	Luclin
+11	Burnout	EQ
+11	Elemental: Fire	EQ
+11	Summon Elemental Defender	Luclin
+12	Bind Affinity	EQ
+12	Column of Fire	EQ
+12	Elemental: Air	EQ
+13	Elemental: Earth	EQ
+13	Identify	EQ
+13	Phantom Leather	EQ
+13	Wuggan's Lesser Appraisal	LDoN
+14	Minor Summoning: Water	EQ
+14	Staff of Warding	EQ
+14	Wuggan's Lesser Discombobulation	LDoN
+14	Wuggan's Lesser Extrication	LDoN
+15	Minor Summoning: Fire	Luclin
+15	Shock of Flame	EQ
+15	Summon Heatstone	EQ
+15	Summon Throwing Dagger	EQ
+16	Focus Crude Spellcaster's Empowering Essence	SoF
+16	Focus Primitive Spellcaster's Empowering Essence	SoF
+16	Focus Rudimentary Spellcaster's Empowering Essence	SoF
+16	Minor Summoning: Air	EQ
+16	See Invisible	EQ
+16	Shielding	EQ
+16	Summon Tiny Ring	Luclin
+17	Minor Summoning: Earth	EQ
+17	Rain of Fire	EQ
+17	Summon Phantom Leather	Luclin
+17	Summon Waterstone	EQ
+18	Bolt of Flame	EQ
+18	Line of Sight	EQ
+18	Expulse Summoned	EQ
+18	Lesser Summoning: Water	EQ
+18	Renew Summoning	Kunark
+19	Elemental Shield	EQ
+19	Lesser Summoning: Fire	EQ
+19	Shield of Flame	EQ
+19	Tiny Companion	EQ
+20	Focus Makeshift Spellcaster's Empowering Essence	SoF
+20	Focus Mass Crude Spellcaster's Empowering Essence	SoF
+20	Focus Mass Primitive Spellcaster's Empowering Essence	SoF
+20	Focus Mass Rudimentary Spellcaster's Empowering Essence	SoF
+20	Lesser Summoning: Air	EQ
+20	Spear of Warding	EQ
+20	Summon Arrows	EQ
+20	Summon Jade Bracelet	Luclin
+20	Summon Wooden Bracelet	Luclin
+21	Cornucopia	EQ
+21	Lesser Summoning: Earth	EQ
+21	Summon Silver Choker	Luclin
+22	Everfount	EQ
+22	Flame Flux	EQ
+22	Malaise	EQ
+22	Summoning: Water	EQ
+23	Shock of Spikes	EQ
+23	Summoning: Fire	EQ
+23	Wuggan's Appraisal	LDoN
+24	Focus Mass Makeshift Spellcaster's Empowering Essence	SoF
+24	Major Shielding	EQ
+24	Staff of Runes	EQ
+24	Summoning: Air	EQ
+24	Wuggan's Discombobulation	LDoN
+24	Wuggan's Extrication	LDoN
+25	Dismiss Summoned	EQ
+25	Phantom Chain	EQ
+25	Summon Phantom Chain	Luclin
+25	Summoning: Earth	EQ
+26	Greater Summoning: Water	EQ
+26	Rain of Spikes	EQ
+26	Sword of Runes	EQ
+27	Expedience	Luclin
+27	Greater Summoning: Fire	EQ
+27	Summon Leather Mantle	Luclin
+28	Expel Summoned	EQ
+28	Greater Summoning: Air	EQ
+28	Inferno Shield	EQ
+29	Burnout II	EQ
+29	Greater Summoning: Earth	EQ
+29	Summon Coldstone	EQ
+30	Dimensional Hole	EQ
+30	Focus Elementary Spellcaster's Empowering Essence	SoF
+30	Monster Summoning I	Velious
+30	Summon Shiny Bauble	Luclin
+31	Blaze	EQ
+31	Minor Conjuration: Water	EQ
+31	Summon Shard of the Core	Velious
+32	Greater Shielding	EQ
+32	Minor Conjuration: Fire	EQ
+32	Nullify Magic	EQ
+33	Cinder Bolt	EQ
+33	Line of Sight	EQ
+33	Minor Conjuration: Air	EQ
+33	Staff of Symbols	EQ
+33	Wuggan's Greater Appraisal	LDoN
+34	Focus Mass Elementary Spellcaster's Empowering Essence	SoF
+34	Minor Conjuration: Earth	EQ
+34	Refresh Summoning	Kunark
+34	Wuggan's Greater Discombobulation	LDoN
+34	Wuggan's Greater Extrication	LDoN
+35	Dagger of Symbols	EQ
+35	Rain of Lava	EQ
+36	Lesser Conjuration: Water	EQ
+36	Summon Companion	Velious
+37	Lesser Conjuration: Fire	EQ
+37	Summon Ring of Flight	EQ
+37	Summon Twisted Ring	Luclin
+38	Barrier of Combustion	EQ
+38	Lesser Conjuration: Air	EQ
+38	Summon Phantom Plate	Luclin
+39	Flame Arc	EQ
+39	Lesser Conjuration: Earth	EQ
+40	Focus Modest Spellcaster's Empowering Essence	SoF
+41	Conjuration: Water	EQ
+41	Elemental Armor	EQ
+41	Phantom Plate	EQ
+41	Shock of Swords	EQ
+42	Bounce	LDoN
+42	Conjuration: Fire	EQ
+42	Summon Opal Bracelet	Luclin
+42	Summon: Orb of Exploration	LDoN
+43	Arch Shielding	EQ
+43	Conjuration: Air	EQ
+43	Elemental Maelstrom	Velious
+44	Conjuration: Earth	EQ
+44	Focus Mass Modest Spellcaster's Empowering Essence	SoF
+44	Malaisement	EQ
+44	Modulating Rod	Kunark
+44	Primal Remedy	LoY
+44	Summon Stone Bracelet	Luclin
+45	Shield of Lava	EQ
+45	Summon Orb	Kunark
+46	Greater Conjuration: Earth	EQ
+46	Ward of Calliav	LDoN
+47	Burnout III	EQ
+47	Greater Conjuration: Fire	EQ
+47	Lava Bolt	EQ
+47	Line of Sight	EQ
+48	Banish Summoned	Kunark
+48	Greater Conjuration: Air	EQ
+48	Summon Elemental Blanket	Luclin
+49	Greater Conjuration: Water	EQ
+49	Rain of Swords	EQ
+50	Focus Simple Spellcaster's Empowering Essence	SoF
+50	Monster Summoning II	Velious
+50	Summon Golden Choker	Luclin
+51	Gift of Xev	Kunark
+51	Malosi	EQ
+51	Scintillation	Kunark
+51	Summon Silken Mantle	Luclin
+51	Vocarate: Earth	Kunark
+52	Bristlebane's Bundle	Kunark
+52	Char	Kunark
+52	Elemental Empathy	LoY
+52	Phantom Armor	Kunark
+52	Summon Brilliant Bauble	Luclin
+52	Transon's Elemental Infusion	Luclin
+52	Vocarate: Fire	Kunark
+53	Annul Magic	Kunark
+53	Boon of Immolation	Kunark
+53	Quiver of Marr	Kunark
+53	Summon Studded Ring	Luclin
+53	Vocarate: Air	Kunark
+54	Bandolier of Luclin	Kunark
+54	Elemental Cloak	PoP
+54	Elemental Draw	Gates
+54	Focus Mass Simple Spellcaster's Empowering Essence	SoF
+54	Kindle	LoY
+54	Pet, Restriction: Fire Pet	LoY
+54	Phantasmal Armor	Luclin
+54	Scars of Sigil	Kunark
+54	Line of Sight	Kunark
+54	Shield of the Magi	Kunark
+54	Summon Iron Bracelet	Luclin
+54	Summon Ruby Bracelet	Luclin
+54	Veil of Elements	Luclin
+54	Vocarate: Water	Kunark
+55	Burnout IV	Velious
+55	Call of the Hero	Kunark
+55	Single In Group	Kunark
+55	Earthen Strength	PoR
+55	Focus Spellcaster's Empowering Essence	SoF
+55	Pouch of Quellious	Kunark
+55	Rage of Zomm	Kunark
+55	Sirocco	Kunark
+55	Wrath of the Elements	Velious
+56	Cadeau of Flame	Kunark
+56	Dyzil's Deafening Decoy	Kunark
+56	Exile Summoned	Kunark
+56	Mass Mystical Transvergence	Luclin
+56	Muzzle of Mardu	Kunark
+56	Rod of Mystical Transvergence	Luclin
+57	Eye of Tallon	Kunark
+57	Greater Vocaration: Earth	Kunark
+57	Imbue Earth	PoP
+57	Shock of Steel	Kunark
+58	Greater Vocaration: Fire	Kunark
+58	Guard of Calliav	LDoN
+58	Malosini	Kunark
+58	Reflect	LDoN
+58	Transon's Phantasmal Protection	Luclin
+58	Velocity	Kunark
+59	Focus Mass Spellcaster's Empowering Essence	SoF
+59	Greater Vocaration: Air	Kunark
+59	Imbue Air	PoP
+59	Manastorm	Kunark
+59	Manifest Elements	Kunark
+59	Seeking Flame of Seukor	Kunark
+59	Line of Sight	Kunark
+59	Valiant Companion	Velious
+60	Aegis of Ro	Kunark
+60	Ancient: Burnout Blaze	Luclin
+60	Ancient: Shock of Sun	Luclin
+60	Banishment	Kunark
+60	Focus Refined Spellcaster's Empowering Essence	SoF
+60	Greater Vocaration: Water	Kunark
+60	Imbue Fire	PoP
+60	Imbue Water	PoP
+60	Maelstrom of Electricity	Luclin
+60	Mala	Kunark
+60	Monster Summoning III	Velious
+60	Shock of Fiery Blades	Luclin
+60	Transon's Elemental Renewal	Luclin
+60	Wind of the Desert	LDoN
+61	Belt of Magi`Kot	PoP
+61	Blade of Walnan	PoP
+61	Elemental Barrier	PoP
+61	Firebolt of Tallon	PoP
+61	Line of Sight	PoP
+61	Flameshield of Ro	PoP
+61	Shield of the Arcane	PoP
+61	Summon Glowing Bauble	PoP
+61	Summon Platinum Choker	PoP
+61	Summon Runed Mantle	PoP
+61	Summon Sapphire Bracelet	PoP
+61	Summon Spiked Ring	PoP
+61	Summon Steel Bracelet	PoP
+61	Summon: Lava Orb	DoN
+61	Ward of Xegony	PoP
+62	Burning Sand	LDoN
+62	Burnout V	PoP
+62	Fist of Ixiblat	PoP
+62	Servant of Marr	PoP
+62	Sun Storm	PoP
+62	Talisman of Return	PoP
+62	Xegony's Phantasmal Guard	PoP
+63	Black Steel	PoP
+63	Blade of The Kedge	PoP
+63	Child of Ro	PoP
+63	Elemental Silence	PoP
+63	Maelstrom of Ro	PoP
+63	Malosinia	PoP
+63	Summon Jewelry Bag	PoP
+64	Destroy Summoned	PoP
+64	Focus Mass Refined Spellcaster's Empowering Essence	SoF
+64	Girdle of Magi`Kot	PoP
+64	Maelstrom of Thunder	PoP
+64	Planar Renewal	PoP
+64	Protection of Calliav	LDoN
+64	Shield of Maelin	PoP
+65	Ancient: Chaos Vortex	Gates
+65	Call of the Arch Mage	PoP
+65	Elemental Siphon	Gates
+65	Focus Intricate Spellcaster's Empowering Essence	SoF
+65	Monster Summoning IV	Gates
+65	Rathe's Son	PoP
+65	Rock of Taelosia	Gates
+65	Sun Vortex	PoP
+66	Bolt of Jerikor	Omens
+66	Child of Wind	Omens
+66	Elemental Aura	Omens
+66	Fireskin	Omens
+66	Summon Calliav's Glowing Bauble	Omens
+66	Summon Calliav's Jeweled Bracelet	Omens
+66	Summon Calliav's Platinum Choker	Omens
+66	Summon Calliav's Runed Mantle	Omens
+66	Summon Calliav's Spiked Ring	Omens
+66	Summon Calliav's Steel Bracelet	Omens
+66	Summon Fireblade	Omens
+67	Child of Water	Omens
+67	Rain of Jerikor	Omens
+67	Summon Crystal Belt	Omens
+67	Summon Dagger of the Deep	Omens
+67	Summon Sphere of Air	Omens
+67	Summon Staff of the North Wind	Omens
+68	Blade Strike	Omens
+68	Burning Aura	DoD
+68	Child of Fire	Omens
+68	Phantom Shield	Omens
+68	Pyrilen Skin	Omens
+68	Summon Pouch of Jerikor	Omens
+69	Bulwark of Calliav	Omens
+69	Burning Earth	Omens
+69	Desolate Summoned	Omens
+69	Elemental Fury	Omens
+69	Fickle Fire	DoD
+69	Focus Mass Intricate Spellcaster's Empowering Essence	SoF
+69	Renewal of Jerikor	Omens
+69	Summon: Molten Orb	DoN
+70	Ancient: Nova Strike	Omens
+70	Ancient: Veil of Pyrilonus	Omens
+70	Child of Earth	Omens
+70	Circle of Fireskin	Omens
+70	Elemental Simulacrum	Omens
+70	Focus Elaborate Spellcaster's Empowering Essence	SoF
+70	Iceflame Guard	PoR
+70	Raging Servant	DoD
+70	Rathe's Strength	PoR
+70	Spear of Ro	PoR
+70	Star Scream	Omens
+70	Star Strike	Omens
+71	Bolt of Molten Slag	TSS
+71	Bolt of Molten Slag Rk. II	TSS
+71	Bolt of Molten Slag Rk. III	TSS
+71	Burnout VI	TBS
+71	Burnout VI Rk. II	TBS
+71	Burnout VI Rk. III	TBS
+71	Essence of Air	TSS
+71	Magmaskin	TSS
+71	Magmaskin Rk. II	TSS
+71	Magmaskin Rk. III	TSS
+71	Malosinise	TSS
+71	Malosinise Rk. II	TSS
+71	Malosinise Rk. III	TSS
+71	Prime Shielding	TSS
+71	Prime Shielding Rk. II	TSS
+71	Summon Aenda's Trinkets	TSS
+71	Summon Muzzle of Mowcha	TSS
+71	Summon Plate of the Elements	TSS
+72	Beam of Molten Slag	TBS
+72	Beam of Molten Slag Rk. II	TBS
+72	Beam of Molten Slag Rk. III	TBS
+72	Essence of Water	TSS
+72	Phantasmal Warden	TSS
+72	Phantasmal Warden Rk. II	TSS
+72	Rain of Molten Slag	TSS
+72	Rain of Molten Slag Rk. II	TSS
+72	Shock of Silvered Steel	TSS
+72	Shock of Silvered Steel Rk. II	TSS
+72	Shock of Silvered Steel Rk. III	TSS
+72	Wand of Elemental Transvergence	TSS
+73	Annihilate the Unnatural	TBS
+73	Annihilate the Unnatural Rk. II	TBS
+73	Annihilate the Unnatural Rk. III	TBS
+73	Essence of Fire	TSS
+73	Granite Stance	TSS
+73	Granite Stance Rk. II	TSS
+73	Granite Stance Rk. III	TSS
+73	Renewal of Aenda	TSS
+73	Renewal of Aenda Rk. II	TSS
+73	Renewal of Aenda Rk. III	TSS
+73	Scalding Sands	TSS
+73	Scalding Sands Rk. II	TSS
+73	Scalding Sands Rk. III	TSS
+73	Scorching Skin	TSS
+73	Scorching Skin Rk. II	TSS
+73	Scorching Skin Rk. III	TSS
+73	Summon Elemental Armaments	TSS
+74	Aegis of Calliav	TSS
+74	Aegis of Calliav Rk. II	TSS
+74	Aegis of Calliav Rk. III	TSS
+74	Circle of Magmaskin	TSS
+74	Circle of Magmaskin Rk. II	TSS
+74	Circle of Magmaskin Rk. III	TSS
+74	Essence of Earth	TSS
+74	Focus Mass Elaborate Spellcaster's Empowering Essence	SoF
+74	Iceflame Body	TBS
+74	Iceflame Body Rk. II	TBS
+74	Iceflame Body Rk. III	TBS
+74	Rain of Thunderbolts	TSS
+74	Rain of Thunderbolts Rk. II	TSS
+74	Summon Wintry Paradox	TSS
+74	Summon Wintry Paradox Rk. II	TSS
+74	Summon Wintry Paradox Rk. III	TSS
+75	Blazing Stance	TBS
+75	Blazing Stance Rk. II	TBS
+75	Blazing Stance Rk. III	TBS
+75	Elemental Symbiosis	TSS
+75	Elemental Symbiosis Rk. II	TSS
+75	Elemental Symbiosis Rk. III	TSS
+75	Fickle Inferno	TSS
+75	Fickle Inferno Rk. II	TSS
+75	Fickle Inferno Rk. III	TSS
+75	Focus Ornate Spellcaster's Empowering Essence	SoF
+75	Mass Elemental Transvergence	TSS
+75	Mass Elemental Transvergence Rk. II	TSS
+75	Monster Summoning V	TSS
+75	Rampaging Servant	TBS
+75	Rampaging Servant Rk. II	TBS
+75	Rampaging Servant Rk. III	TBS
+76	Bolt of Molten Dross	SoF
+76	Bolt of Molten Dross Rk. II	SoF
+76	Bolt of Molten Dross Rk. III	SoF
+76	Burnout VII	SoF
+76	Burnout VII Rk. II	SoF
+76	Burnout VII Rk. III	SoF
+76	Core of Air	SoF
+76	Lavaskin	SoF
+76	Lavaskin Rk. II	SoF
+76	Lavaskin Rk. III	SoF
+76	Malosinatia	SoF
+76	Malosinatia Rk. II	SoF
+76	Malosinatia Rk. III	SoF
+76	Prime Guard	SoF
+76	Prime Guard Rk. II	SoF
+76	Prime Guard Rk. III	SoF
+76	Summon Nastel's Heirlooms	SoF
+76	Summon Plate of the Prime	SoF
+77	Aspect of Zomm	SoF
+77	Aspect of Zomm Rk. II	SoF
+77	Aspect of Zomm Rk. III	SoF
+77	Beam of Molten Dross	SoF
+77	Beam of Molten Dross Rk. II	SoF
+77	Beam of Molten Dross Rk. III	SoF
+77	Core of Water	SoF
+77	Eidolic Guardian	SoF
+77	Eidolic Guardian Rk. II	SoF
+77	Eidolic Guardian Rk. III	SoF
+77	Rain of Molten Dross	Sof
+77	Rain of Molten Dross Rk. II	Sof
+77	Rain of Molten Dross Rk. III	Sof
+77	Shock of Cineral Steel	SoF
+77	Shock of Cineral Steel Rk. II	SoF
+77	Shock of Cineral Steel Rk. III	SoF
+77	Shock of Many	SoF
+77	Shock of Many Rk. II	SoF
+77	Shock of Many Rk. III	SoF
+77	Wand of Prime Transvergence	SoF
+77	Wand of Prime Transvergence Rk. II	SoF
+77	Wand of Prime Transvergence Rk. III	SoF
+78	Annihilate the Aberrant	SoF
+78	Annihilate the Aberrant Rk. II	SoF
+78	Annihilate the Aberrant Rk. III	SoF
+78	Core of Fire	SoF
+78	Grounded Stance	SoF
+78	Grounded Stance Rk. II	SoF
+78	Grounded Stance Rk. III	SoF
+78	Promised Recovery	SoF
+78	Promised Recovery Rk. II	SoF
+78	Promised Recovery Rk. III	SoF
+78	Revival of Aenro	SoF
+78	Revival of Aenro Rk. II	SoF
+78	Revival of Aenro Rk. III	SoF
+78	Scorching Sands	SoF
+78	Scorching Sands Rk. II	SoF
+78	Scorching Sands Rk. III	SoF
+78	Searing Skin	SoF
+78	Searing Skin Rk. II	SoF
+78	Searing Skin Rk. III	SoF
+78	Summon Cauldron of Many Things	SoF
+78	Summon Prime Armaments	SoF
+79	Aegis of Kildrukaun	SoF
+79	Aegis of Kildrukaun Rk. II	SoF
+79	Aegis of Kildrukaun Rk. III	SoF
+79	Burning Brimbody	SoF
+79	Burning Brimbody Rk. II	SoF
+79	Burning Brimbody Rk. III	SoF
+79	Circle of Lavaskin	Sof
+79	Circle of Lavaskin Rk. II	Sof
+79	Circle of Lavaskin Rk. III	Sof
+79	Core of Earth	SoF
+79	Focus Mass Ornate Spellcaster's Empowering Essence	SoF
+79	Iceflame Tenement	SoF
+79	Iceflame Tenement Rk. II	SoF
+79	Iceflame Tenement Rk. III	SoF
+79	Summon Gelid Paradox	SoF
+79	Summon Gelid Paradox Rk. II	SoF
+79	Summon Gelid Paradox Rk. III	SoF
+79	Torrent of Thunderbolts	Sof
+79	Torrent of Thunderbolts Rk. II	Sof
+79	Torrent of Thunderbolts Rk. III	Sof
+80	Fickle Pyroclasm	SoF
+80	Fickle Pyroclasm Rk. II	SoF
+80	Fickle Pyroclasm Rk. III	SoF
+80	Focus Runed Spellcaster's Empowering Essence	SoD
+80	Hungry Flames	SoF
+80	Hungry Flames Rk. II	SoF
+80	Hungry Flames Rk. III	SoF
+80	Mass Prime Transvergence	SoF
+80	Mass Prime Transvergence Rk. II	SoF
+80	Mass Prime Transvergence Rk. III	SoF
+80	Monster Summoning VI	SoF
+80	Prime Symbiosis	SoF
+80	Prime Symbiosis Rk. II	SoF
+80	Prime Symbiosis Rk. III	SoF
+80	Rancorous Servant	SoF
+80	Rancorous Servant Rk. II	SoF
+80	Rancorous Servant Rk. III	SoF
+81	Aspect of Air	SoD
+81	Bolt of Molten Scoria	SoD
+81	Bolt of Molten Scoria Rk. II	SoD
+81	Bolt of Molten Scoria Rk. III	SoD
+81	Brimstoneskin	SoD
+81	Brimstoneskin Rk. II	SoD
+81	Brimstoneskin Rk. III	SoD
+81	Burnout VIII	SoD
+81	Burnout VIII Rk. II	SoD
+81	Burnout VIII Rk. III	SoD
+81	Malosenea	SoD
+81	Malosenea Rk. II	SoD
+81	Malosenea Rk. III	SoD
+81	Shield of the Void	SoD
+81	Shield of the Void Rk. II	SoD
+81	Shield of the Void Rk. III	SoD
+81	Summon Zabella's Heirlooms	SoD
+82	Aspect of Water	SoD
+82	Beam of Molten Scoria	SoD
+82	Beam of Molten Scoria Rk. II	SoD
+82	Beam of Molten Scoria Rk. III	SoD
+82	Empyrean Guardian	SoD
+82	Empyrean Guardian Rk. II	SoD
+82	Empyrean Guardian Rk. III	SoD
+82	Jolt of Many	SoD
+82	Jolt of Many Rk. II	SoD
+82	Jolt of Many Rk. III	SoD
+82	Rain of Molten Scoria	SoD
+82	Rain of Molten Scoria Rk. II	SoD
+82	Rain of Molten Scoria Rk. III	SoD
+82	Shock of Discordant Steel	SoD
+82	Shock of Discordant Steel Rk. II	SoD
+82	Shock of Discordant Steel Rk. III	SoD
+82	Wand of Ethereal Transvergence	SoD
+82	Wand of Ethereal Transvergence Rk. II	SoD
+82	Wand of Ethereal Transvergence Rk. III	SoD
+83	Annihilate the Anomalous	SoD
+83	Annihilate the Anomalous Rk. II	SoD
+83	Annihilate the Anomalous Rk. III	SoD
+83	Aspect of Fire	SoD
+83	Earthen Stance	SoD
+83	Earthen Stance Rk. II	SoD
+83	Earthen Stance Rk. III	SoD
+83	Promised Rejuvenation	SoD
+83	Promised Rejuvenation Rk. II	SoD
+83	Promised Rejuvenation Rk. III	SoD
+83	Renewal of Cadwin	SoD
+83	Renewal of Cadwin Rk. II	SoD
+83	Renewal of Cadwin Rk. III	SoD
+83	Summon Cauldron of Endless Goods	SoD
+83	Summon Ethereal Armaments	SoD
+83	Thaumatize Pet	UF
+83	Thaumatize Pet Rk. II	UF
+83	Thaumatize Pet Rk. III	UF
+83	Torrid Sands	SoD
+83	Torrid Sands Rk. II	SoD
+83	Torrid Sands Rk. III	SoD
+83	Torrid Skin	SoD
+83	Torrid Skin Rk. II	SoD
+83	Torrid Skin Rk. III	SoD
+84	Aspect of Earth	SoD
+84	Burning Pyroshroud	SoD
+84	Burning Pyroshroud Rk. II	SoD
+84	Burning Pyroshroud Rk. III	SoD
+84	Chaotic Boon	UF
+84	Chaotic Boon Rk. II	UF
+84	Chaotic Boon Rk. III	UF
+84	Circle of Brimstoneskin	SoD
+84	Circle of Brimstoneskin Rk. II	SoD
+84	Circle of Brimstoneskin Rk. III	SoD
+84	Deluge of Thunderbolts	SoD
+84	Deluge of Thunderbolts Rk. II	SoD
+84	Deluge of Thunderbolts Rk. III	SoD
+84	Focus Mass Runed Spellcaster's Empowering Essence	SoD
+84	Iceflame Efflux	SoD
+84	Iceflame Efflux Rk. II	SoD
+84	Iceflame Efflux Rk. III	SoD
+84	Summon Elemental Ore	SoD
+84	Summon Frigid Paradox	SoD
+84	Summon Frigid Paradox Rk. II	SoD
+84	Summon Frigid Paradox Rk. III	SoD
+85	Arcane Distillect	UF
+85	Arcane Distillect Rk. II	UF
+85	Arcane Distillect Rk. III	UF
+85	Ethereal Symbiosis	SoD
+85	Ethereal Symbiosis Rk. II	SoD
+85	Ethereal Symbiosis Rk. III	SoD
+85	Fickle Blaze	SoD
+85	Fickle Blaze Rk. II	SoD
+85	Fickle Blaze Rk. III	SoD
+85	Hulking Bodyguard	SoD
+85	Hulking Bodyguard Rk. II	SoD
+85	Hulking Bodyguard Rk. III	SoD
+85	Mass Ethereal Transvergence	SoD
+85	Mass Ethereal Transvergence Rk. II	SoD
+85	Mass Ethereal Transvergence Rk. III	SoD
+85	Monster Summoning VII	EoK
+85	Ravenous Flames	SoD
+85	Ravenous Flames Rk. II	SoD
+85	Ravenous Flames Rk. III	SoD
+85	Rumbling Servant	SoD
+85	Rumbling Servant Rk. II	SoD
+85	Rumbling Servant Rk. III	SoD
+85	Surge of Thaumacretion	UF
+85	Surge of Thaumacretion Rk. II	UF
+85	Surge of Thaumacretion Rk. III	UF
+85	Twincast	SoD
+85	Twincast Rk. II	SoD
+85	Twincast Rk. III	SoD
+86	Bolt of Rhyolite	HoT
+86	Bolt of Rhyolite Rk. II	HoT
+86	Bolt of Rhyolite Rk. III	HoT
+86	Burnout IX	HoT
+86	Burnout IX Rk. II	HoT
+86	Burnout IX Rk. III	HoT
+86	Construct of Air	HoT
+86	Dreamfire Coat	HoT
+86	Dreamfire Coat Rk. II	HoT
+86	Dreamfire Coat Rk. III	HoT
+86	Gift of Daybreak	HoT
+86	Grant Enibik's Heirlooms	HoT
+86	Grant Spectral Plate	HoT
+86	Malosene	HoT
+86	Malosene Rk. II	HoT
+86	Malosene Rk. III	HoT
+86	Shield of Dreams	HoT
+86	Shield of Dreams Rk. II	HoT
+86	Shield of Dreams Rk. III	HoT
+86	Strike of Sand	HoT
+86	Strike of Sand Rk. II	HoT
+86	Strike of Sand Rk. III	HoT
+87	Beam of Rhyolite	HoT
+87	Beam of Rhyolite Rk. II	HoT
+87	Beam of Rhyolite Rk. III	HoT
+87	Clash of Many	HoT
+87	Clash of Many Rk. II	HoT
+87	Clash of Many Rk. III	HoT
+87	Cognitive Guardian	HoT
+87	Cognitive Guardian Rk. II	HoT
+87	Cognitive Guardian Rk. III	HoT
+87	Construct of Water	HoT
+87	Grant Visor of Vabtik	HoT
+87	Rain of Rhyolite	HoT
+87	Rain of Rhyolite Rk. II	HoT
+87	Rain of Rhyolite Rk. III	HoT
+87	Shock of Ethereal Steel	HoT
+87	Shock of Ethereal Steel Rk. II	HoT
+87	Shock of Ethereal Steel Rk. III	HoT
+87	Splash of Lava	HoT
+87	Splash of Lava Rk. II	HoT
+87	Splash of Lava Rk. III	HoT
+87	Wand of Spectral Transvergence	HoT
+87	Wand of Spectral Transvergence Rk. II	HoT
+87	Wand of Spectral Transvergence Rk. III	HoT
+88	Annihilate the Divergent	HoT
+88	Annihilate the Divergent Rk. II	HoT
+88	Annihilate the Divergent Rk. III	HoT
+88	Beam of Daggers	HoT
+88	Beam of Daggers Rk. II	HoT
+88	Beam of Daggers Rk. III	HoT
+88	Blazing Sands	HoT
+88	Blazing Sands Rk. II	HoT
+88	Blazing Sands Rk. III	HoT
+88	Blazing Skin	HoT
+88	Blazing Skin Rk. II	HoT
+88	Blazing Skin Rk. III	HoT
+88	Construct of Fire	HoT
+88	Grant Spectral Armaments	HoT
+88	Promised Wardmending	HoT
+88	Promised Wardmending Rk. II	HoT
+88	Promised Wardmending Rk. III	HoT
+88	Renewal of Volark	HoT
+88	Renewal of Volark Rk. II	HoT
+88	Renewal of Volark Rk. III	HoT
+88	Tellurian Stance	HoT
+88	Tellurian Stance Rk. II	HoT
+88	Tellurian Stance Rk. III	HoT
+89	Burning Veil	HoT
+89	Burning Veil Rk. II	HoT
+89	Burning Veil Rk. III	HoT
+89	Chaotic Blessing	HoT
+89	Chaotic Blessing Rk. II	HoT
+89	Chaotic Blessing Rk. III	HoT
+89	Circle of Dreamfire	HoT
+89	Circle of Dreamfire Rk. II	HoT
+89	Circle of Dreamfire Rk. III	HoT
+89	Construct of Earth	HoT
+89	Grant Glacial Paradox	HoT
+89	Grant Glacial Paradox Rk. II	HoT
+89	Grant Glacial Paradox Rk. III	HoT
+89	Grant Ring of Levitation	HoT
+89	Iceflame Ward	HoT
+89	Iceflame Ward Rk. II	HoT
+89	Iceflame Ward Rk. III	HoT
+89	Rain of Daggers	HoT
+89	Rain of Daggers Rk. II	HoT
+89	Rain of Daggers Rk. III	HoT
+89	Scalding Winds	HoT
+89	Scalding Winds Rk. II	HoT
+89	Scalding Winds Rk. III	HoT
+90	Fickle Flare	HoT
+90	Fickle Flare Rk. II	HoT
+90	Fickle Flare Rk. III	HoT
+90	Gather Potential	HoT
+90	Gather Potential Rk. II	HoT
+90	Gather Potential Rk. III	HoT
+90	Mass Spectral Transvergence	HoT
+90	Mass Spectral Transvergence Rk. II	HoT
+90	Mass Spectral Transvergence Rk. III	HoT
+90	Monster Summoning VIII	EoK
+90	Ruinous Servant	HoT
+90	Ruinous Servant Rk. II	HoT
+90	Ruinous Servant Rk. III	HoT
+90	Spear of Magma	HoT
+90	Spear of Magma Rk. II	HoT
+90	Spear of Magma Rk. III	HoT
+90	Spectral Symbiosis	HoT
+90	Spectral Symbiosis Rk. II	HoT
+90	Spectral Symbiosis Rk. III	HoT
+90	Surge of Shadowflares	HoT
+90	Surge of Shadowflares Rk. II	HoT
+90	Surge of Shadowflares Rk. III	HoT
+90	Tellurian Bodyguard	HoT
+90	Tellurian Bodyguard	HoT
+90	Tellurian Bodyguard II	HoT
+90	Tellurian Bodyguard III	HoT
+90	Tellurian Bodyguard Rk. II	HoT
+90	Tellurian Bodyguard Rk. III	HoT
+90	Voracious Flames	HoT
+90	Voracious Flames Rk. II	HoT
+90	Voracious Flames Rk. III	HoT
+91	Bolt of Molten Steel	VoA
+91	Bolt of Molten Steel Rk. II	VoA
+91	Bolt of Molten Steel Rk. III	VoA
+91	Burnout X	VoA
+91	Burnout X Rk. II	VoA
+91	Burnout X Rk. III	VoA
+91	Burst of Sand	VoA
+91	Burst of Sand Rk. II	VoA
+91	Burst of Sand Rk. III	VoA
+91	Embercoat	VoA
+91	Embercoat Rk. II	VoA
+91	Embercoat Rk. III	VoA
+91	Facet of Air	VoA
+91	Grant Atleris' Heirlooms	VoA
+91	Grant Manaforged Plate	VoA
+91	Grant Sphere of Air	VoA
+91	Maloseneta	VoA
+91	Maloseneta Rk. II	VoA
+91	Maloseneta Rk. III	VoA
+91	Shield of Bronze	VoA
+91	Shield of Bronze Rk. II	VoA
+91	Shield of Bronze Rk. III	VoA
+92	Beam of Molten Steel	VoA
+92	Beam of Molten Steel Rk. II	VoA
+92	Beam of Molten Steel Rk. III	VoA
+92	Facet of Water	VoA
+92	Grant Quiver of Kalkek	VoA
+92	Rain of Molten Steel	VoA
+92	Rain of Molten Steel Rk. II	VoA
+92	Rain of Molten Steel Rk. III	VoA
+92	Shock of Argathian Steel	VoA
+92	Shock of Argathian Steel Rk. II	VoA
+92	Shock of Argathian Steel Rk. III	VoA
+92	Splash of Molten Steel	VoA
+92	Splash of Molten Steel Rk. II	VoA
+92	Splash of Molten Steel Rk. III	VoA
+92	Splendrous Guardian	VoA
+92	Splendrous Guardian Rk. II	VoA
+92	Splendrous Guardian Rk. III	VoA
+92	Strike of Many	VoA
+92	Strike of Many Rk. II	VoA
+92	Strike of Many Rk. III	VoA
+92	Wand of Arcane Transvergence	VoA
+92	Wand of Arcane Transvergence Rk. II	VoA
+92	Wand of Arcane Transvergence Rk. III	VoA
+93	Abolish the Divergent	VoA
+93	Abolish the Divergent Rk. II	VoA
+93	Abolish the Divergent Rk. III	VoA
+93	Beam of Razors	VoA
+93	Beam of Razors Rk. II	VoA
+93	Beam of Razors Rk. III	VoA
+93	Burning Sands	VoA
+93	Burning Sands Rk. II	VoA
+93	Burning Sands Rk. III	VoA
+93	Facet of Fire	VoA
+93	Grant Manaforged Armaments	VoA
+93	Molten Skin	VoA
+93	Molten Skin Rk. II	VoA
+93	Molten Skin Rk. III	VoA
+93	Promised Amendment	VoA
+93	Promised Amendment Rk. II	VoA
+93	Promised Amendment Rk. III	VoA
+93	Renewal of Sirqo	VoA
+93	Renewal of Sirqo Rk. II	VoA
+93	Renewal of Sirqo Rk. III	VoA
+93	Steelstance	VoA
+93	Steelstance Rk. II	VoA
+93	Steelstance Rk. III	VoA
+93	Summon Exigent Servant	VoA
+93	Summon Exigent Servant Rk. II	VoA
+93	Summon Exigent Servant Rk. III	VoA
+93	Summon Servant	VoA
+93	Summon Servant II	VoA
+93	Summon Servant III	VoA
+94	Chaotic Assistance	VoA
+94	Chaotic Assistance Rk. II	VoA
+94	Chaotic Assistance Rk. III	VoA
+94	Circle of Embers	VoA
+94	Circle of Embers Rk. II	VoA
+94	Circle of Embers Rk. III	VoA
+94	Facet of Earth	VoA
+94	Grant Frostrift Paradox	VoA
+94	Grant Frostrift Paradox Rk. II	VoA
+94	Grant Frostrift Paradox Rk. III	VoA
+94	Iceflame Armor	VoA
+94	Iceflame Armor Rk. II	VoA
+94	Iceflame Armor Rk. III	VoA
+94	Magma Blaze	VoA
+94	Molten Veil	VoA
+94	Molten Veil Rk. II	VoA
+94	Molten Veil Rk. III	VoA
+94	Rain of Razors	VoA
+94	Rain of Razors Rk. II	VoA
+94	Rain of Razors Rk. III	VoA
+94	Scalding Blast	VoA
+94	Scalding Blast Rk. II	VoA
+94	Scalding Blast Rk. III	VoA
+94	Summon Blazing Orb	VoA
+95	Arcane Symbiosis	VoA
+95	Arcane Symbiosis Rk. II	VoA
+95	Arcane Symbiosis Rk. III	VoA
+95	Famished Flames	VoA
+95	Famished Flames Rk. II	VoA
+95	Famished Flames Rk. III	VoA
+95	Fickle Flames	VoA
+95	Fickle Flames Rk. II	VoA
+95	Fickle Flames Rk. III	VoA
+95	Gather Capacity	VoA
+95	Gather Capacity Rk. II	VoA
+95	Gather Capacity Rk. III	VoA
+95	Mass Arcane Transvergence	VoA
+95	Mass Arcane Transvergence Rk. II	VoA
+95	Mass Arcane Transvergence Rk. III	VoA
+95	Monster Summoning IX	EoK
+95	Ruthless Servant	VoA
+95	Ruthless Servant Rk. II	VoA
+95	Ruthless Servant Rk. III	VoA
+95	Spear of Molten Steel	VoA
+95	Spear of Molten Steel Rk. II	VoA
+95	Spear of Molten Steel Rk. III	VoA
+95	Steelbound Bodyguard	VoA
+95	Steelbound Bodyguard	VoA
+95	Steelbound Bodyguard II	VoA
+95	Steelbound Bodyguard III	VoA
+95	Steelbound Bodyguard Rk. II	VoA
+95	Steelbound Bodyguard Rk. III	VoA
+95	Summon Exigent Minion	VoA
+95	Summon Exigent Minion Rk. II	VoA
+95	Summon Exigent Minion Rk. III	VoA
+95	Summon Minion	VoA
+95	Summon Minion II	VoA
+95	Summon Minion III	VoA
+95	Surge of Arcanum	VoA
+95	Surge of Arcanum Rk. II	VoA
+95	Surge of Arcanum Rk. III	VoA
+96	Auspice of Shadows	RoF
+96	Auspice of Shadows Rk. II	RoF
+96	Auspice of Shadows Rk. III	RoF
+96	Blast of Sand	RoF
+96	Blast of Sand Rk. II	RoF
+96	Blast of Sand Rk. III	RoF
+96	Bolt of Molten Magma	RoF
+96	Bolt of Molten Magma Rk. II	RoF
+96	Bolt of Molten Magma Rk. III	RoF
+96	Burnout XI	RoF
+96	Burnout XI Rk. II	RoF
+96	Burnout XI Rk. III	RoF
+96	Flameskin	RoF
+96	Flameskin Rk. II	RoF
+96	Flameskin Rk. III	RoF
+96	Grant Frightforged Plate	RoF
+96	Grant Nint's Heirlooms	RoF
+96	Malosenia	RoF
+96	Malosenia Rk. II	RoF
+96	Malosenia Rk. III	RoF
+96	Maloseniac Eminence	CotF
+96	Maloseniac Eminence Rk. II	CotF
+96	Maloseniac Eminence Rk. III	CotF
+96	Shard of Air	RoF
+96	Shield of the Dauntless	RoF
+96	Shield of the Dauntless Rk. II	RoF
+96	Shield of the Dauntless Rk. III	RoF
+97	Beam of Brimstone	RoF
+97	Beam of Brimstone Rk. II	RoF
+97	Beam of Brimstone Rk. III	RoF
+97	Call of the Heroes	CotF
+97	Call of the Heroes Rk. II	CotF
+97	Call of the Heroes Rk. III	CotF
+97	Grant Visor of Gobeker	RoF
+97	Phantasmal Guardian	RoF
+97	Phantasmal Guardian Rk. II	RoF
+97	Phantasmal Guardian Rk. III	RoF
+97	Rain of Blistersteel	RoF
+97	Rain of Blistersteel Rk. II	RoF
+97	Rain of Blistersteel Rk. III	RoF
+97	Salvo of Many	RoF
+97	Salvo of Many Rk. II	RoF
+97	Salvo of Many Rk. III	RoF
+97	Shard of Water	RoF
+97	Shield of Fate	CotF
+97	Shield of Fate Rk. II	CotF
+97	Shield of Fate Rk. III	CotF
+97	Shock of Blistersteel	RoF
+97	Shock of Blistersteel Rk. II	RoF
+97	Shock of Blistersteel Rk. III	RoF
+97	Wand of Phantasmal Modulation	RoF
+97	Wand of Phantasmal Modulation Rk. II	RoF
+97	Wand of Phantasmal Modulation Rk. III	RoF
+98	Beam of Scythes	RoF
+98	Beam of Scythes Rk. II	RoF
+98	Beam of Scythes Rk. III	RoF
+98	Broiling Sands	RoF
+98	Broiling Sands Rk. II	RoF
+98	Broiling Sands Rk. III	RoF
+98	Exterminate the Unnatural	RoF
+98	Exterminate the Unnatural Rk. II	RoF
+98	Exterminate the Unnatural Rk. III	RoF
+98	Grant Frightforged Armaments	RoF
+98	Groundswell Stance	RoF
+98	Groundswell Stance Rk. II	RoF
+98	Groundswell Stance Rk. III	RoF
+98	Infernal Skin	RoF
+98	Infernal Skin Rk. II	RoF
+98	Infernal Skin Rk. III	RoF
+98	Iron Bolt	CotF
+98	Iron Bolt Rk. II	CotF
+98	Iron Bolt Rk. III	CotF
+98	Mirror	CotF
+98	Mirror Rk. II	CotF
+98	Mirror Rk. III	CotF
+98	Promised Amelioration	RoF
+98	Promised Amelioration Rk. II	RoF
+98	Promised Amelioration Rk. III	RoF
+98	Renewal of Hererra	RoF
+98	Renewal of Hererra Rk. II	RoF
+98	Renewal of Hererra Rk. III	RoF
+98	Shard of Fire	RoF
+98	Summon Imperious Servant	RoF
+98	Summon Imperious Servant Rk. II	RoF
+98	Summon Imperious Servant Rk. III	RoF
+98	Summon Servant	RoF
+98	Summon Servant II	RoF
+98	Summon Servant III	RoF
+99	Aegis of Nefori	RoF
+99	Aegis of Nefori Rk. II	RoF
+99	Aegis of Nefori Rk. III	RoF
+99	Broiling Blast	RoF
+99	Broiling Blast Rk. II	RoF
+99	Broiling Blast Rk. III	RoF
+99	Chaotic Benevolence	RoF
+99	Chaotic Benevolence Rk. II	RoF
+99	Chaotic Benevolence Rk. III	RoF
+99	Circle of Flameskin	RoF
+99	Circle of Flameskin Rk. II	RoF
+99	Circle of Flameskin Rk. III	RoF
+99	Grant Icebound Paradox	RoF
+99	Grant Icebound Paradox Rk. II	RoF
+99	Grant Icebound Paradox Rk. III	RoF
+99	Iceflame Eminence	RoF
+99	Iceflame Eminence Rk. II	RoF
+99	Iceflame Eminence Rk. III	RoF
+99	Magmatic Veil	RoF
+99	Magmatic Veil Rk. II	RoF
+99	Magmatic Veil Rk. III	RoF
+99	Rain of Scythes	RoF
+99	Rain of Scythes Rk. II	RoF
+99	Rain of Scythes Rk. III	RoF
+99	Shard of Earth	RoF
+99	Summon Cauldron of Endless Bounty	CotF
+99	Summon Cauldron of Endless Bounty Rk. II	CotF
+99	Summon Cauldron of Endless Bounty Rk. III	CotF
+100	Blistersteel Malosenia	RoF
+100	Blistersteel Malosenia Rk. II	RoF
+100	Blistersteel Malosenia Rk. III	RoF
+100	Ether Shard Strike	CotF
+100	Fickle Magma	RoF
+100	Fickle Magma Rk. II	RoF
+100	Fickle Magma Rk. III	RoF
+100	Gather Magnitude	RoF
+100	Gather Magnitude Rk. II	RoF
+100	Gather Magnitude Rk. III	RoF
+100	Groundswell Bodyguard	RoF
+100	Groundswell Bodyguard	RoF
+100	Groundswell Bodyguard II	RoF
+100	Groundswell Bodyguard III	RoF
+100	Groundswell Bodyguard Rk. II	RoF
+100	Groundswell Bodyguard Rk. III	RoF
+100	Mass Phantasmal Transvergence	RoF
+100	Mass Phantasmal Transvergence Rk. II	RoF
+100	Mass Phantasmal Transvergence Rk. III	RoF
+100	Monster Summoning X	EoK
+100	Phantasmal Symbiosis	RoF
+100	Phantasmal Symbiosis Rk. II	RoF
+100	Phantasmal Symbiosis Rk. III	RoF
+100	Relentless Servant	RoF
+100	Relentless Servant Rk. II	RoF
+100	Relentless Servant Rk. III	RoF
+100	Remote Relentless Servant	CotF
+100	Remote Relentless Servant Rk. II	CotF
+100	Remote Relentless Servant Rk. III	CotF
+100	Spear of Blistersteel	RoF
+100	Spear of Blistersteel Rk. II	RoF
+100	Spear of Blistersteel Rk. III	RoF
+100	Summon Imperious Minion	RoF
+100	Summon Imperious Minion Rk. II	RoF
+100	Summon Imperious Minion Rk. III	RoF
+100	Summon Minion	RoF
+100	Summon Minion II	RoF
+100	Summon Minion III	RoF
+100	Surge of Shadow	RoF
+100	Surge of Shadow Rk. II	RoF
+100	Surge of Shadow Rk. III	RoF
+101	Bolt of Molten Shieldstone	TDS
+101	Bolt of Molten Shieldstone Rk. II	TDS
+101	Bolt of Molten Shieldstone Rk. III	TDS
+101	Burnout XII	TDS
+101	Burnout XII Rk. II	TDS
+101	Burnout XII Rk. III	TDS
+101	Convocation of Air	TDS
+101	Dichotomic Companion	TBM
+101	Firebound Alliance	EoK
+101	Firebound Alliance Rk. II	EoK
+101	Firebound Alliance Rk. III	EoK
+101	Flameweave Coat	TDS
+101	Flameweave Coat Rk. II	TDS
+101	Flameweave Coat Rk. III	TDS
+101	Grant Calix's Heirlooms	TDS
+101	Grant Thassis' Plate	TDS
+101	Malosenete	TDS
+101	Malosenete Rk. II	TDS
+101	Malosenete Rk. III	TDS
+101	Shield of the Pellarus	TDS
+101	Shield of the Pellarus Rk. II	TDS
+101	Shield of the Pellarus Rk. III	TDS
+102	Auspice of Eternity	TBM
+102	Auspice of Eternity Rk. II	TBM
+102	Auspice of Eternity Rk. III	TBM
+102	Beam of Molten Shieldstone	TDS
+102	Beam of Molten Shieldstone Rk. II	TDS
+102	Beam of Molten Shieldstone Rk. III	TDS
+102	Blazing Jet	EoK
+102	Blazing Jet II	EoK
+102	Blazing Jet III	EoK
+102	Convocation of Water	TDS
+102	Praetorian Guardian	TDS
+102	Praetorian Guardian Rk. II	TDS
+102	Praetorian Guardian Rk. III	TDS
+102	Shield of Consequence	TDS
+102	Shield of Consequence Rk. II	TDS
+102	Shield of Consequence Rk. III	TDS
+102	Shock of Darksteel	TDS
+102	Shock of Darksteel Rk. II	TDS
+102	Shock of Darksteel Rk. III	TDS
+102	Storm of Many	TDS
+102	Storm of Many Rk. II	TDS
+102	Storm of Many Rk. III	TDS
+102	Summon Firebound Orb	EoK
+102	Summon Firebound Orb Rk. II	EoK
+102	Summon Firebound Orb Rk. III	EoK
+102	Wand of Dark Modulation	TDS
+102	Wand of Dark Modulation Rk. II	TDS
+102	Wand of Dark Modulation Rk. III	TDS
+103	Convocation of Fire	TDS
+103	Coronal Rain	TDS
+103	Coronal Rain Rk. II	TDS
+103	Coronal Rain Rk. III	TDS
+103	Coronal Skin	TDS
+103	Coronal Skin Rk. II	TDS
+103	Coronal Skin Rk. III	TDS
+103	Eradicate the Unnatural	TDS
+103	Eradicate the Unnatural Rk. II	TDS
+103	Eradicate the Unnatural Rk. III	TDS
+103	Grant Thassis' Armaments	TDS
+103	Meteoric Bolt	TBM
+103	Meteoric Bolt Rk. II	TBM
+103	Meteoric Bolt Rk. III	TBM
+103	Promised Invigoration	TDS
+103	Promised Invigoration Rk. II	TDS
+103	Promised Invigoration Rk. III	TDS
+103	Renewal of Calix	TDS
+103	Renewal of Calix Rk. II	TDS
+103	Renewal of Calix Rk. III	TDS
+103	Searing Sands	TDS
+103	Searing Sands Rk. II	TDS
+103	Searing Sands Rk. III	TDS
+103	Shieldstone Stance	TDS
+103	Shieldstone Stance Rk. II	TDS
+103	Shieldstone Stance Rk. III	TDS
+103	Summon Mutinous Servant	TDS
+103	Summon Mutinous Servant Rk. II	TDS
+103	Summon Mutinous Servant Rk. III	TDS
+103	Summon Servant	TDS
+103	Summon Servant II	TDS
+103	Summon Servant III	TDS
+104	Aegis of Japac	TDS
+104	Aegis of Japac Rk. II	TDS
+104	Aegis of Japac Rk. III	TDS
+104	Chaotic Benefaction	TDS
+104	Chaotic Benefaction Rk. II	TDS
+104	Chaotic Benefaction Rk. III	TDS
+104	Circle of Flameweaving	TDS
+104	Circle of Flameweaving Rk. II	TDS
+104	Circle of Flameweaving Rk. III	TDS
+104	Convocation of Earth	TDS
+104	Darksteel Malosenete	TDS
+104	Darksteel Malosenete Rk. II	TDS
+104	Darksteel Malosenete Rk. III	TDS
+104	Iceflame Armaments	TDS
+104	Iceflame Armaments Rk. II	TDS
+104	Iceflame Armaments Rk. III	TDS
+104	Rain of Cutlasses	TDS
+104	Rain of Cutlasses Rk. II	TDS
+104	Rain of Cutlasses Rk. III	TDS
+104	Searing Blast	TDS
+104	Searing Blast Rk. II	TDS
+104	Searing Blast Rk. III	TDS
+104	Summon Coronal Orb	TBM
+105	Chaotic Fire	EoK
+105	Chaotic Fire Rk. II	EoK
+105	Chaotic Fire Rk. III	EoK
+105	Dark Symbiosis	TDS
+105	Dark Symbiosis Rk. II	TDS
+105	Dark Symbiosis Rk. III	TDS
+105	Fickle Conflagration	TDS
+105	Fickle Conflagration Rk. II	TDS
+105	Fickle Conflagration Rk. III	TDS
+105	Mass Dark Transvergence	TDS
+105	Mass Dark Transvergence Rk. II	TDS
+105	Mass Dark Transvergence Rk. III	TDS
+105	Monster Summoning XI	EoK
+105	Remorseless Servant	TDS
+105	Remorseless Servant Rk. II	TDS
+105	Remorseless Servant Rk. III	TDS
+105	Remote Remorseless Servant	TDS
+105	Remote Remorseless Servant Rk. II	TDS
+105	Remote Remorseless Servant Rk. III	TDS
+105	Shieldstone Bodyguard	TDS
+105	Shieldstone Bodyguard	TDS
+105	Shieldstone Bodyguard II	TDS
+105	Shieldstone Bodyguard III	TDS
+105	Shieldstone Bodyguard Rk. II	TDS
+105	Shieldstone Bodyguard Rk. III	TDS
+105	Spear of Molten Shieldstone	TDS
+105	Spear of Molten Shieldstone Rk. II	TDS
+105	Spear of Molten Shieldstone Rk. III	TDS
+105	Summon Minion	TDS
+105	Summon Minion II	TDS
+105	Summon Minion III	TDS
+105	Summon Mutinous Minion	TDS
+105	Summon Mutinous Minion Rk. II	TDS
+105	Summon Mutinous Minion Rk. III	TDS
+106	Bolt of Skyfire	RoS
+106	Bolt of Skyfire Rk. II	RoS
+106	Bolt of Skyfire Rk. III	RoS
+106	Burnout XIII	RoS
+106	Burnout XIII Rk. II	RoS
+106	Burnout XIII Rk. III	RoS
+106	Dissident Companion	TBL
+106	Embodiment of Air	RoS
+106	Grant Ioulin's Heirlooms	RoS
+106	Grant Wirn's Plate	RoS
+106	Inferno Coat	RoS
+106	Inferno Coat Rk. II	RoS
+106	Inferno Coat Rk. III	RoS
+106	Malosinata	RoS
+106	Malosinata Rk. II	RoS
+106	Malosinata Rk. III	RoS
+106	Shield of Scales	RoS
+106	Shield of Scales Rk. II	RoS
+106	Shield of Scales Rk. III	RoS
+106	Volley of Sand	RoS
+106	Volley of Sand Rk. II	RoS
+106	Volley of Sand Rk. III	RoS
+107	Auspice of Esianti	TBL
+107	Auspice of Esianti Rk. II	TBL
+107	Auspice of Esianti Rk. III	TBL
+107	Beam of Molten Rhyolite	RoS
+107	Beam of Molten Rhyolite Rk. II	RoS
+107	Beam of Molten Rhyolite Rk. III	RoS
+107	Burning Guardian	RoS
+107	Burning Guardian Rk. II	RoS
+107	Burning Guardian Rk. III	RoS
+107	Embodiment of Water	RoS
+107	Shield of Order	RoS
+107	Shield of Order Rk. II	RoS
+107	Shield of Order Rk. III	RoS
+107	Shock of Arcronite Steel	RoS
+107	Shock of Arcronite Steel Rk. II	RoS
+107	Shock of Arcronite Steel Rk. III	RoS
+107	Volley of Many	RoS
+107	Volley of Many Rk. II	RoS
+107	Volley of Many Rk. III	RoS
+107	Wand of Burning Modulation	RoS
+107	Wand of Burning Modulation Rk. II	RoS
+107	Wand of Burning Modulation Rk. III	RoS
+108	Beam of Knives	RoS
+108	Beam of Knives Rk. II	RoS
+108	Beam of Knives Rk. III	RoS
+108	Blistering Sands	RoS
+108	Blistering Sands Rk. II	RoS
+108	Blistering Sands Rk. III	RoS
+108	Blistering Skin	RoS
+108	Blistering Skin Rk. II	RoS
+108	Blistering Skin Rk. III	RoS
+108	Embodiment of Fire	RoS
+108	Grant Wirn's Armaments	RoS
+108	Korascian Bolt	TBL
+108	Korascian Bolt Rk. II	TBL
+108	Korascian Bolt Rk. III	TBL
+108	Promised Alleviation	RoS
+108	Promised Alleviation Rk. II	RoS
+108	Promised Alleviation Rk. III	RoS
+108	Promised Alleviation Trigger	RoS
+108	Promised Alleviation Trigger II	RoS
+108	Promised Alleviation Trigger III	RoS
+108	Rain of Molten Rhyolite	RoS
+108	Rain of Molten Rhyolite Rk. II	RoS
+108	Rain of Molten Rhyolite Rk. III	RoS
+108	Renewal of Ioulin	RoS
+108	Renewal of Ioulin Rk. II	RoS
+108	Renewal of Ioulin Rk. III	RoS
+108	Repudiate the Unnatural	RoS
+108	Repudiate the Unnatural Rk. II	RoS
+108	Repudiate the Unnatural Rk. III	RoS
+108	Rhyolite Stance	RoS
+108	Rhyolite Stance Rk. II	RoS
+108	Rhyolite Stance Rk. III	RoS
+108	Summon Insurgent Servant	RoS
+108	Summon Insurgent Servant Rk. II	RoS
+108	Summon Insurgent Servant Rk. III	RoS
+108	Summon Servant IV Azia	RoS
+108	Summon Servant IV Beza	RoS
+108	Summon Servant IV Caza	RoS
+109	Aegis of Zeklor	RoS
+109	Aegis of Zeklor Rk. II	RoS
+109	Aegis of Zeklor Rk. III	RoS
+109	Arcronite Malosinata	RoS
+109	Burning Blast	RoS
+109	Burning Blast Rk. II	RoS
+109	Burning Blast Rk. III	RoS
+109	Chaotic Munificence	RoS
+109	Chaotic Munificence Rk. II	RoS
+109	Chaotic Munificence Rk. III	RoS
+109	Circle of the Inferno	RoS
+109	Circle of the Inferno Rk. II	RoS
+109	Circle of the Inferno Rk. III	RoS
+109	Embodiment of Earth	RoS
+109	Grant Frostbound Paradox	TBL
+109	Grant Frostbound Paradox Rk. II	TBL
+109	Grant Frostbound Paradox Rk. III	TBL
+109	Iceflame Keep	RoS
+109	Iceflame Keep Rk. II	RoS
+109	Iceflame Keep Rk. III	RoS
+109	Rain of Knives	RoS
+109	Rain of Knives Rk. II	RoS
+109	Rain of Knives Rk. III	RoS
+109	Skyfire Veil	RoS
+109	Skyfire Veil Rk. II	RoS
+109	Skyfire Veil Rk. III	RoS
+110	Burning Symbiosis	RoS
+110	Burning Symbiosis Rk. II	RoS
+110	Burning Symbiosis Rk. III	RoS
+110	Chaotic Inferno	RoS
+110	Chaotic Inferno Rk. II	RoS
+110	Chaotic Inferno Rk. III	RoS
+110	Firebound Covenant	TBL
+110	Firebound Covenant Rk. II	TBL
+110	Firebound Covenant Rk. III	TBL
+110	Gather Capability	RoS
+110	Gather Capability Rk. II	RoS
+110	Gather Capability Rk. III	RoS
+110	Monster Summoning XII	RoS
+110	Reckless Servant	RoS
+110	Reckless Servant Rk. II	RoS
+110	Reckless Servant Rk. III	RoS
+110	Remote Reckless Servant	RoS
+110	Remote Reckless Servant Rk. II	RoS
+110	Remote Reckless Servant Rk. III	RoS
+110	Rhyolitic Bodyguard	RoS
+110	Rhyolitic Bodyguard	RoS
+110	Rhyolitic Bodyguard II	RoS
+110	Rhyolitic Bodyguard III	RoS
+110	Rhyolitic Bodyguard Rk. II	RoS
+110	Rhyolitic Bodyguard Rk. III	RoS
+110	Spear of Molten Arcronite	RoS
+110	Spear of Molten Arcronite Rk. II	RoS
+110	Spear of Molten Arcronite Rk. III	RoS
+110	Summon Insurgent Minion	RoS
+110	Summon Insurgent Minion Rk. II	RoS
+110	Summon Insurgent Minion Rk. III	RoS
+110	Summon Minion IV Azia	RoS
+110	Summon Minion IV Beza	RoS
+110	Summon Minion IV Caza	RoS
+111	Bolt of Molten Komatiite	ToV
+111	Bolt of Molten Komatiite Rk. II	ToV
+111	Bolt of Molten Komatiite Rk. III	ToV
+111	Burnout XIV	ToV
+111	Burnout XIV Rk. II	ToV
+111	Burnout XIV Rk. III	ToV
+111	Composite Companion	CoV
+111	Crash of Sand	ToV
+111	Crash of Sand Rk. II	ToV
+111	Crash of Sand Rk. III	ToV
+111	Grant Bristlebane's Festivity Bundle	CoV
+111	Grant Crystasia's Heirlooms	ToV
+111	Grant Ocoenydd's Plate	ToV
+111	Igneous Coat	ToV
+111	Malosinara	ToV
+111	Malosinara Rk. II	ToV
+111	Malosinara Rk. III	ToV
+111	Manifestation of Air	ToV
+111	Shield of Restless Ice	ToV
+111	Shield of Restless Ice Rk. II	ToV
+111	Shield of Restless Ice Rk. III	ToV
+112	Auspice of Kildrukaun	CoV
+112	Auspice of Kildrukaun Rk. II	CoV
+112	Auspice of Kildrukaun Rk. III	CoV
+112	Beam of Molten Komatiite	ToV
+112	Beam of Molten Komatiite Rk. II	ToV
+112	Beam of Molten Komatiite Rk. III	ToV
+112	Grant Visor of Shoen	CoV
+112	Manifestation of Water	ToV
+112	Restless Guardian	ToV
+112	Restless Guardian Rk. II	ToV
+112	Restless Guardian Rk. III	ToV
+112	Shield of Destiny	ToV
+112	Shield of Destiny Rk. II	ToV
+112	Shield of Destiny Rk. III	ToV
+112	Shock of Burning Steel	ToV
+112	Shock of Burning Steel Rk. II	ToV
+112	Shock of Burning Steel Rk. III	ToV
+112	Shockwave of Many	ToV
+112	Shockwave of Many Rk. II	ToV
+112	Shockwave of Many Rk. III	ToV
+112	Wand of Frozen Modulation	ToV
+112	Wand of Frozen Modulation Rk. II	ToV
+112	Wand of Frozen Modulation Rk. III	ToV
+113	Beam of Scimitars	ToV
+113	Beam of Scimitars Rk. II	ToV
+113	Beam of Scimitars Rk. III	ToV
+113	Burning Skin	ToV
+113	Burning Skin Rk. II	ToV
+113	Burning Skin Rk. III	ToV
+113	Grant Yalrek's Armaments	ToV
+113	Incinerating Sands	ToV
+113	Incinerating Sands Rk. II	ToV
+113	Incinerating Sands Rk. III	ToV
+113	Komatiite Bolt	CoV
+113	Komatiite Bolt Rk. II	CoV
+113	Komatiite Bolt Rk. III	CoV
+113	Manifestation of Fire	ToV
+113	Obliterate the Unnatural	ToV
+113	Obliterate the Unnatural Rk. II	ToV
+113	Obliterate the Unnatural Rk. III	ToV
+113	Promised Healing	ToV
+113	Promised Healing Rk. II	ToV
+113	Promised Healing Rk. III	ToV
+113	Promised Healing Trigger	ToV
+113	Promised Healing Trigger II	ToV
+113	Promised Healing Trigger III	ToV
+113	Pyroxene Stance	ToV
+113	Pyroxene Stance Rk. II	ToV
+113	Pyroxene Stance Rk. III	ToV
+113	Rain of Molten Komatiite	ToV
+113	Rain of Molten Komatiite Rk. II	ToV
+113	Rain of Molten Komatiite Rk. III	ToV
+113	Renewal of Evreth	ToV
+113	Renewal of Evreth Rk. II	ToV
+113	Renewal of Evreth Rk. III	ToV
+113	Summon Imperative Servant	ToV
+113	Summon Imperative Servant Rk. II	ToV
+113	Summon Imperative Servant Rk. III	ToV
+113	Summon Servant V Azia	ToV
+113	Summon Servant V Beza	ToV
+113	Summon Servant V Caza	ToV
+114	Aegis of Orfur	ToV
+114	Aegis of Orfur Rk. II	ToV
+114	Aegis of Orfur Rk. III	ToV
+114	Burning Malosinara	ToV
+114	Chaotic Bestowal	ToV
+114	Chaotic Bestowal Rk. II	ToV
+114	Chaotic Bestowal Rk. III	ToV
+114	Circle of Igneous Skin	ToV
+114	Exothermic Veil	ToV
+114	Exothermic Veil Rk. II	ToV
+114	Exothermic Veil Rk. III	ToV
+114	Flaming Blast	CoV
+114	Flaming Blast Rk. II	CoV
+114	Flaming Blast Rk. III	CoV
+114	Iceflame Rampart	ToV
+114	Iceflame Rampart Rk. II	ToV
+114	Iceflame Rampart Rk. III	ToV
+114	Manifestation of Earth	ToV
+114	Rain of Scimitars	ToV
+114	Rain of Scimitars Rk. II	ToV
+114	Rain of Scimitars Rk. III	ToV
+114	Summon Molten Komatiite Orb	CoV
+115	Chaotic Pyroclasm	ToV
+115	Chaotic Pyroclasm Rk. II	ToV
+115	Chaotic Pyroclasm Rk. III	ToV
+115	Firebound Coalition	CoV
+115	Firebound Coalition Rk. II	CoV
+115	Firebound Coalition Rk. III	CoV
+115	Gather Potency	ToV
+115	Gather Potency Rk. II	ToV
+115	Gather Potency Rk. III	ToV
+115	Monster Summoning XIII	ToV
+115	Pyroxenite Bodyguard	ToV
+115	Pyroxenite Bodyguard	ToV
+115	Pyroxenite Bodyguard II	ToV
+115	Pyroxenite Bodyguard III	ToV
+115	Pyroxenite Bodyguard Rk. II	ToV
+115	Pyroxenite Bodyguard Rk. III	ToV
+115	Remote Riotous Servant	ToV
+115	Remote Riotous Servant Rk. II	ToV
+115	Remote Riotous Servant Rk. III	ToV
+115	Restless Symbiosis	ToV
+115	Restless Symbiosis Rk. II	ToV
+115	Restless Symbiosis Rk. III	ToV
+115	Riotous Servant	ToV
+115	Riotous Servant Rk. II	ToV
+115	Riotous Servant Rk. III	ToV
+115	Spear of Molten Komatiite	ToV
+115	Spear of Molten Komatiite Rk. II	ToV
+115	Spear of Molten Komatiite Rk. III	ToV
+115	Summon Imperative Minion	ToV
+115	Summon Imperative Minion Rk. II	ToV
+115	Summon Imperative Minion Rk. III	ToV
+115	Summon Minion V Azia	ToV
+115	Summon Minion V Beza	ToV
+115	Summon Minion V Caza	ToV
+116	Bolt of Molten Olivine	ToL
+116	Bolt of Molten Olivine Rk. II	ToL
+116	Bolt of Molten Olivine Rk. III	ToL
+116	Burnout XV	ToL
+116	Burnout XV Rk. II	ToL
+116	Burnout XV Rk. III	ToL
+116	Conscription of Air	ToL
+116	Destruction of Sand	ToL
+116	Destruction of Sand Rk. II	ToL
+116	Destruction of Sand Rk. III	ToL
+116	Ecliptic Companion	NoS
+116	Emberweave Coat	ToL
+116	Gift of Dawnlight	NoS
+116	Grant the Centien's Plate	ToL
+116	Grant the Diabo's Heirlooms	ToL
+116	Malosinetra	ToL
+116	Malosinetra Rk. II	ToL
+116	Malosinetra Rk. III	ToL
+116	Ophiolite Bodyguard	ToL
+116	Ophiolite Bodyguard Rk. II	ToL
+116	Ophiolite Bodyguard Rk. III	ToL
+116	Shield of Shadow	ToL
+116	Shield of Shadow Rk. II	ToL
+116	Shield of Shadow Rk. III	ToL
+117	Auspice of Valia	NoS
+117	Auspice of Valia Rk. II	NoS
+117	Auspice of Valia Rk. III	NoS
+117	Barrage of Many	ToL
+117	Barrage of Many Rk. II	ToL
+117	Barrage of Many Rk. III	ToL
+117	Beam of Molten Olivine	ToL
+117	Beam of Molten Olivine Rk. II	ToL
+117	Beam of Molten Olivine Rk. III	ToL
+117	Conscription of Water	ToL
+117	Relentless Guardian	ToL
+117	Relentless Guardian Rk. II	ToL
+117	Relentless Guardian Rk. III	ToL
+117	Relentless Symbiosis	ToL
+117	Relentless Symbiosis Rk. II	ToL
+117	Relentless Symbiosis Rk. III	ToL
+117	Shield of Inevitability	ToL
+117	Shield of Inevitability Rk. II	ToL
+117	Shield of Inevitability Rk. III	ToL
+117	Shock of Carbide Steel	ToL
+117	Shock of Carbide Steel Rk. II	ToL
+117	Shock of Carbide Steel Rk. III	ToL
+117	Sickle of Umbral Modulation	ToL
+117	Sickle of Umbral Modulation Rk. II	ToL
+117	Sickle of Umbral Modulation Rk. III	ToL
+118	Beam of Falchions	ToL
+118	Beam of Falchions Rk. II	ToL
+118	Beam of Falchions Rk. III	ToL
+118	Conscription of Fire	ToL
+118	Grant Shak Dathor's Armaments	ToL
+118	Kanoite Stance	ToL
+118	Kanoite Stance Rk. II	ToL
+118	Kanoite Stance Rk. III	ToL
+118	Luclinite Bolt	NoS
+118	Luclinite Bolt Rk. II	NoS
+118	Luclinite Bolt Rk. III	NoS
+118	Promised Relief	ToL
+118	Promised Relief Rk. II	ToL
+118	Promised Relief Rk. III	ToL
+118	Promised Relief Trigger	ToL
+118	Promised Relief Trigger II	ToL
+118	Promised Relief Trigger III	ToL
+118	Rain of Molten Olivine	ToL
+118	Rain of Molten Olivine Rk. II	ToL
+118	Rain of Molten Olivine Rk. III	ToL
+118	Ravaging Sands	ToL
+118	Ravaging Sands Rk. II	ToL
+118	Ravaging Sands Rk. III	ToL
+118	Renewal of Iilivina 	ToL
+118	Renewal of Iilivina Rk. II	ToL
+118	Renewal of Iilivina Rk. III	ToL
+118	Scorching Skin	ToL
+118	Scorching Skin Rk. II	ToL
+118	Scorching Skin Rk. III	ToL
+118	Summon Forbearing Servant	ToL
+118	Summon Forbearing Servant Rk. II	ToL
+118	Summon Forbearing Servant Rk. III	ToL
+118	Summon Servant VI Azia	ToL
+118	Summon Servant VI Beza	ToL
+118	Summon Servant VI Caza	ToL
+118	Unmend the Unnatural	ToL
+118	Unmend the Unnatural Rk. II	ToL
+118	Unmend the Unnatural Rk. III	ToL
+119	Aegis of Rumblecrush	ToL
+119	Aegis of Rumblecrush Rk. II	ToL
+119	Aegis of Rumblecrush Rk. III	ToL
+119	Carbide Malosinetra	ToL
+119	Chaotic Largesse	ToL
+119	Chaotic Largesse Rk. II	ToL
+119	Chaotic Largesse Rk. III	ToL
+119	Circle of Emberweave Coat	ToL
+119	Conscription of Earth	ToL
+119	Fiery Blast	ToL
+119	Fiery Blast Rk. II	ToL
+119	Fiery Blast Rk. III	ToL
+119	Grant Voidfrost Paradox	NoS
+119	Grant Voidfrost Paradox Rk. II	NoS
+119	Grant Voidfrost Paradox Rk. III	NoS
+119	Iceflame Barricade 	ToL
+119	Iceflame Barricade Rk. II	ToL
+119	Iceflame Barricade Rk. III	ToL
+119	Rain of Falchions	ToL
+119	Rain of Falchions Rk. II	ToL
+119	Rain of Falchions Rk. III	ToL
+119	Volcanic Veil	ToL
+119	Volcanic Veil Rk. II	ToL
+119	Volcanic Veil Rk. III	ToL
+120	Chaotic Calamity	ToL
+120	Chaotic Calamity Rk. II	ToL
+120	Chaotic Calamity Rk. III	ToL
+120	Coronal Blast	NoS
+120	Firebound Conjunction	NoS
+120	Firebound Conjunction Rk. II	NoS
+120	Firebound Conjunction Rk. III	NoS
+120	Gather Vigor	ToL
+120	Gather Vigor Rk. II	ToL
+120	Gather Vigor Rk. III	ToL
+120	Lunashade Bodyguard	ToL
+120	Lunashade Bodyguard II	ToL
+120	Lunashade Bodyguard III	ToL
+120	Monster Summoning XIV	ToL
+120	Remote Roiling Servant	ToL
+120	Remote Roiling Servant Rk. II	ToL
+120	Remote Roiling Servant Rk. III	ToL
+120	Roiling Servant	ToL
+120	Roiling Servant Rk. II	ToL
+120	Roiling Servant Rk. III	ToL
+120	Spear of Molten Luclinite	ToL
+120	Spear of Molten Luclinite Rk. II	ToL
+120	Spear of Molten Luclinite Rk. III	ToL
+120	Summon Cauldron of Endless Abundance	NoS
+120	Summon Cauldron of Endless Abundance Rk. II	NoS
+120	Summon Cauldron of Endless Abundance Rk. III	NoS
+120	Summon Forbearing Minion	ToL
+120	Summon Forbearing Minion Rk. II	ToL
+120	Summon Forbearing Minion Rk. III	ToL
+120	Summon Minion VI Azia	ToL
+120	Summon Minion VI Beza	ToL
+120	Summon Minion VI Caza	ToL
+121	Bolt of Molten Dacite	LS
+121	Bolt of Molten Dacite Rk. II	LS
+121	Bolt of Molten Dacite Rk. III	LS
+121	Burnout XVI	LS
+121	Burnout XVI Rk. II	LS
+121	Burnout XVI Rk. III	LS
+121	Forgefire Coat	LS
+121	Grant Ankexfen's Heirlooms	LS
+121	Grant the Alloy's Plate	LS
+121	Malosinera	LS
+121	Malosinera Rk. II	LS
+121	Malosinera Rk. III	LS
+121	Recruitment of Air	LS
+121	Ruination of Sand	LS
+121	Ruination of Sand Rk. II	LS
+121	Ruination of Sand Rk. III	LS
+121	Shield of Memories	LS
+121	Shield of Memories Rk. II	LS
+121	Shield of Memories Rk. III	LS
+121	Valorforged Bodyguard	LS
+121	Valorforged Bodyguard Rk. II	LS
+121	Valorforged Bodyguard Rk. III	LS
+122	Beam of Molten Dacite	LS
+122	Beam of Molten Dacite Rk. II	LS
+122	Beam of Molten Dacite Rk. III	LS
+122	Courageous Guardian	LS
+122	Courageous Guardian Rk. II	LS
+122	Courageous Guardian Rk. III	LS
+122	Fusillade of Many	LS
+122	Fusillade of Many Rk. II	LS
+122	Fusillade of Many Rk. III	LS
+122	Recruitment of Water	LS
+122	Rod of Courageous Modulation	LS
+122	Shield of Inescapability	LS
+122	Shield of Inescapability Rk. II	LS
+122	Shield of Inescapability Rk. III	LS
+122	Shock of Memorial Steel	LS
+122	Shock of Memorial Steel Rk. II	LS
+122	Shock of Memorial Steel Rk. III	LS
+122	Valiant Symbiosis	LS
+122	Valiant Symbiosis Rk. II	LS
+122	Valiant Symbiosis Rk. III	LS
+123	Beam of Kukris	LS
+123	Beam of Kukris Rk. II	LS
+123	Beam of Kukris Rk. III	LS
+123	Boiling Skin	LS
+123	Boiling Skin Rk. II	LS
+123	Boiling Skin Rk. III	LS
+123	Grant Goliath's Armaments	LS
+123	Omphacite Stance	LS
+123	Omphacite Stance Rk. II	LS
+123	Omphacite Stance Rk. III	LS
+123	Promised Reconstitution	LS
+123	Promised Reconstitution Rk. II	LS
+123	Promised Reconstitution Rk. III	LS
+123	Promised Reconstitution Trigger	LS
+123	Promised Reconstitution Trigger II	LS
+123	Promised Reconstitution Trigger III	LS
+123	Rain of Molten Dacite	LS
+123	Rain of Molten Dacite Rk. II	LS
+123	Rain of Molten Dacite Rk. III	LS
+123	Recruitment of Fire	LS
+123	Renewal of Shoru	LS
+123	Renewal of Shoru Rk. II	LS
+123	Renewal of Shoru Rk. III	LS
+123	Summon Servant VII Azia	LS
+123	Summon Servant VII Beza	LS
+123	Summon Servant VII Caza	LS
+123	Summon Valorous Servant	LS
+123	Summon Valorous Servant Rk. II	LS
+123	Summon Valorous Servant Rk. III	LS
+124	Aegis of Valorforged	LS
+124	Aegis of Valorforged Rk. II	LS
+124	Aegis of Valorforged Rk. III	LS
+124	Chaotic Magnanimity	LS
+124	Chaotic Magnanimity Rk. II	LS
+124	Chaotic Magnanimity Rk. III	LS
+124	Circle of Forgefire Coat	LS
+124	Cremating Sands	LS
+124	Cremating Sands Rk. II	LS
+124	Cremating Sands Rk. III	LS
+124	Dismantle the Unnatural	LS
+124	Dismantle the Unnatural Rk. II	LS
+124	Dismantle the Unnatural Rk. III	LS
+124	Iceflame Palisade	LS
+124	Iceflame Palisade Rk. II	LS
+124	Iceflame Palisade Rk. III	LS
+124	Igneous Veil	LS
+124	Igneous Veil Rk. II	LS
+124	Igneous Veil Rk. III	LS
+124	Memorial Steel Malosinera	LS
+124	Rain of Kukris	LS
+124	Rain of Kukris Rk. II	LS
+124	Rain of Kukris Rk. III	LS
+124	Recruitment of Earth	LS
+125	Chaotic Magma	LS
+125	Chaotic Magma Rk. II	LS
+125	Chaotic Magma Rk. III	LS
+125	Gather Zeal	LS
+125	Gather Zeal Rk. II	LS
+125	Gather Zeal Rk. III	LS
+125	Labradorite Bodyguard	LS
+125	Labradorite Bodyguard II	LS
+125	Labradorite Bodyguard III	LS
+125	Monster Summoning XV	LS
+125	Ravening Servant	LS
+125	Ravening Servant Rk. II	LS
+125	Ravening Servant Rk. III	LS
+125	Remote Ravening Servant	LS
+125	Remote Ravening Servant Rk. II	LS
+125	Remote Ravening Servant Rk. III	LS
+125	Spear of Molten Dacite	LS
+125	Spear of Molten Dacite Rk. II	LS
+125	Spear of Molten Dacite Rk. III	LS
+125	Summon Minion VII Azia	LS
+125	Summon Minion VII Beza	LS
+125	Summon Minion VII Caza	LS
+125	Summon Valorous Minion	LS
+125	Summon Valorous Minion Rk. II	LS
+125	Summon Valorous Minion Rk. III	LS
+250	Composite Companion 1	CoV
+250	Composite Companion 2	CoV
+250	Composite Companion 3	CoV
+250	Composite Companion 4	CoV
+250	Composite Companion 5	CoV
+250	Composite Companion 6	CoV
+250	Dichotomic Companion 1	TBM
+250	Dichotomic Companion 2	TBM
+250	Dichotomic Companion 3	TBM
+250	Dichotomic Companion 4	TBM
+250	Dichotomic Companion 5	TBM
+250	Dichotomic Companion 6	TBM
+250	Dissident Companion 1	TBL
+250	Dissident Companion 2	TBL
+250	Dissident Companion 3	TBL
+250	Dissident Companion 4	TBL
+250	Dissident Companion 5	TBL
+250	Dissident Companion 6	TBL
+250	Ecliptic Companion 1	NoS
+250	Ecliptic Companion 2	NoS
+250	Ecliptic Companion 3	NoS
+250	Ecliptic Companion 4	NoS
+250	Ecliptic Companion 5	NoS
+250	Ecliptic Companion 6	NoS

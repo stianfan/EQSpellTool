@@ -1,0 +1,1537 @@
+1	Salve	Gates
+2	Sense Animals	EQ
+3	Endure Cold	EQ
+4	Cure Disease	EQ
+5	Flash of Light	EQ
+6	Minor Healing	EQ
+7	Inner Fire	EQ
+8	Spirit of Sharik	Luclin
+9	Endure Fire	EQ
+9	Sharik's Replenishing	Luclin
+10	Scale Skin	EQ
+11	Fleeting Fury	EQ
+12	Blast of Frost	Luclin
+13	Cure Poison	EQ
+13	Spirit of Lightning	Luclin
+14	Sicken	EQ
+14	Strengthen	EQ
+15	Keshuval's Rejuvenation	Luclin
+15	Spirit of Khaliz	Luclin
+16	Serpent Sight	EQ
+17	Spirit of Bear	EQ
+17	Summon Drink	EQ
+18	Endure Poison	EQ
+18	Light Healing	EQ
+18	Spirit of the Blizzard	Luclin
+19	Tainted Breath	EQ
+19	Tiny Companion	EQ
+20	Drowsy	EQ
+21	Spirit of Keshuval	Luclin
+22	Endure Disease	EQ
+23	Shrink	EQ
+24	Spirit of Wolf	EQ
+25	Enduring Breath	EQ
+26	Spirit Strike	EQ
+26	Turtle Skin	EQ
+27	Herikol's Soothing	Luclin
+28	Healing	EQ
+28	Spirit of Inferno	Luclin
+28	Spirit Strength	EQ
+29	Spirit Sight	EQ
+29	Summon Food	EQ
+30	Spirit of Herikol	Luclin
+31	Summon Companion	Velious
+32	Levitate	EQ
+33	Ice Spear	Luclin
+34	Endure Magic	EQ
+35	Cancel Magic	EQ
+35	Envenomed Breath	EQ
+36	Yekan's Recovery	Luclin
+37	Spirit of Ox	EQ
+37	Yekan's Quickening	Luclin
+38	Greater Healing	EQ
+38	Spirit of Monkey	EQ
+38	Spirit of the Scorpion	Luclin
+39	Spirit of the Shrew	LDoN
+39	Spirit of Yekan	Luclin
+40	Malaria	Luclin
+41	Raging Strength	EQ
+41	Spiritual Light	Luclin
+42	Spiritual Brawn	Luclin
+43	Invisibility	EQ
+44	Listless Power	EQ
+44	Pack Shrew	LDoN
+45	Counteract Disease	EQ
+46	Spirit of Kashek	Luclin
+46	Spirit of Vermin	Luclin
+47	Frenzy	EQ
+47	Frost Shard	Luclin
+48	Protect	EQ
+48	Spirit Salve	EQ
+49	Vigor of Zehkes	Luclin
+49	Ward of Calliav	LDoN
+50	Sha's Lethargy	Luclin
+51	Resist Disease	EQ
+51	Resistant Discipline	Kunark
+51	Spirit of Wind	Luclin
+51	Ultravision	EQ
+52	Aid of Khurenz	Luclin
+52	Bond of the Wild	Luclin
+52	Health	EQ
+52	Spiritual Radiance	Luclin
+52	Venom of the Snake	EQ
+53	Deftness	EQ
+53	Spirit of the Storm	Kunark
+53	Talisman of Tnarg	EQ
+54	Fearless Discipline	Kunark
+54	Furious Strength	EQ
+54	Ice Shard	Luclin
+54	Resist Poison	EQ
+54	Spirit of Omakin	Luclin
+54	Spirit of Snow	Luclin
+55	Chloroplast	EQ
+55	Omakin's Alacrity	Luclin
+55	Protective Spirit Discipline	Luclin
+55	Sha's Restoration	Luclin
+56	Incapacitate	EQ
+56	Shifting Shield	EQ
+56	Spirit of Flame	Luclin
+56	Spirit of Zehkes	Luclin
+57	Dexterity	EQ
+57	Stamina	EQ
+58	Guard of Calliav	LDoN
+58	Nullify Magic	EQ
+58	Spirit of Khurenz	Luclin
+58	Talisman of Altuna	EQ
+59	Blizzard Blast	EQ
+59	Chloroblast	Kunark
+59	Sha's Ferocity	Luclin
+59	Spiritual Purity	Luclin
+60	Alacrity	EQ
+60	Bestial Fury Discipline	Luclin
+60	Savagery	Luclin
+60	Sha's Advantage	Luclin
+60	Spirit of Khati Sha	Luclin
+60	Spiritual Strength	Luclin
+61	Annul Magic	Kunark
+61	Counteract Poison	EQ
+61	Growl of the Leopard	DoN
+61	Growl of the Leopard	DoN
+61	Healing of Sorsha	PoP
+61	Infusion of Spirit	EQ
+61	Scorpion Venom	PoP
+61	Talisman of Shadoo	Kunark
+62	Spirit of Arag	PoP
+62	Spiritual Vigor	PoP
+62	Talisman of Kragg	Kunark
+63	Abolish Disease	EQ
+63	Arag's Celerity	PoP
+63	Celerity	EQ
+63	Frost Spear	PoP
+63	Spirit of Rellic	PoP
+63	Talisman of Jasinth	Kunark
+64	Protection of Calliav	LDoN
+64	Regrowth	Kunark
+64	Spirit of Sorsha	PoP
+64	Spiritual Dominion	PoP
+65	Acumen	Kunark
+65	Ancient: Frozen Chaos	Gates
+65	Ferocity	PoP
+65	Plague	EQ
+65	Sha's Revenge	PoP
+65	Trushar's Frost	Gates
+65	Trushar's Mending	Gates
+65	Turepta Blood	Gates
+66	Chimera Blood	Omens
+66	Eradicate Disease	RoF
+66	Healing of Mikkily	Omens
+67	Focus of Alladnu	Omens
+67	Muada's Mending	Omens
+67	Spiritual Vitality	Omens
+68	Bestial Empathy	DoD
+68	Growl of the Beast	Omens
+68	Spirit of Alladnu	Omens
+68	Spirit of Irionu	Omens
+69	Empathic Fury	DoD
+69	Feral Guard	Omens
+69	Feral Vigor	Omens
+69	Glacier Spear	Omens
+69	Growl of the Panther	DoN
+69	Growl of the Panther	DoN
+69	Spiritual Ascendance	Omens
+70	Ancient: Savage Ice	Omens
+70	Ferocity of Irionu	Omens
+70	Festering Malady	Omens
+70	Rake	PoR
+70	Sha's Legacy	Omens
+70	Spirit of Oroshar	PoR
+70	Spirit of Rashara	Omens
+71	Diregriffon's Bite	TSS
+71	Diregriffon's Bite Rk. II	TSS
+71	Focus of Amilan	TSS
+71	Focus of Amilan Rk. II	TSS
+71	Focus of Amilan Rk. III	TSS
+71	Healing of Uluanes	TSS
+71	Healing of Uluanes Rk. II	TSS
+71	Healing of Uluanes Rk. III	TSS
+71	Mammoth-Hide Guard	TBS
+71	Mammoth-Hide Guard Rk. II	TBS
+71	Mammoth-Hide Guard Rk. III	TBS
+72	Fever Spike	TSS
+72	Fever Spike Rk. II	TSS
+72	Minohten Mending	TSS
+72	Minohten Mending Rk. II	TSS
+72	Minohten Mending Rk. III	TSS
+72	Spiritual Vim	TSS
+72	Spiritual Vim Rk. II	TSS
+73	Bite of the Empress	TBS
+73	Bite of the Empress Rk. II	TBS
+73	Bite of the Empress Rk. III	TBS
+73	Promised Mending	TSS
+73	Promised Mending Rk. II	TSS
+73	Promised Mending Rk. III	TSS
+73	Spirit of Uluanes	TSS
+73	Unparalleled Voracity	TSS
+73	Unparalleled Voracity Rk. II	TSS
+73	Unparalleled Voracity Rk. III	TSS
+74	Spiked Sleet	TSS
+74	Spiked Sleet Rk. II	TSS
+74	Spiked Sleet Rk. III	TSS
+74	Spirit of Lairn	TSS
+74	Spirit of Lairn Rk. II	TSS
+74	Spiritual Enlightenment	TSS
+74	Spiritual Enlightenment Rk. II	TSS
+74	Spiritual Enlightenment Rk. III	TSS
+75	Bark at the Moon	TBS
+75	Bark at the Moon Call	TBS
+75	Bark at the Moon Call Rk. II	TBS
+75	Bark at the Moon Call Rk. III	TBS
+75	Bark at the Moon Rk. II	TBS
+75	Bark at the Moon Rk. III	TBS
+75	Howling at the Moon	TBS
+75	Ruthless Ferocity	TSS
+75	Ruthless Ferocity Rk. II	TSS
+75	Ruthless Ferocity Rk. III	TSS
+75	Spellbreaker's Guard	TSS
+75	Spellbreaker's Guard Rk. II	TSS
+75	Steeltrap Jaws	TSS
+75	Steeltrap Jaws Rk. II	TSS
+76	Dragonscale Guard	SoF
+76	Dragonscale Guard Rk. II	SoF
+76	Dragonscale Guard Rk. III	SoF
+76	Eradicate Poison	RoF
+76	Falrazim's Gnashing	SoF
+76	Falrazim's Gnashing Rk. II	SoF
+76	Falrazim's Gnashing Rk. III	SoF
+76	Focus of Zott	Sof
+76	Focus of Zott Rk. II	Sof
+76	Focus of Zott Rk. III	Sof
+76	Salve of Feldan	SoF
+76	Salve of Feldan Rk. II	SoF
+76	Salve of Feldan Rk. III	SoF
+77	Bulwark of Tri'Qaras	SoF
+77	Bulwark of Tri'Qaras Rk. II	SoF
+77	Bulwark of Tri'Qaras Rk. III	SoF
+77	Daria's Mending	SoF
+77	Daria's Mending Rk. II	SoF
+77	Daria's Mending Rk. III	SoF
+77	Fever Surge	SoF
+77	Fever Surge Rk. II	SoF
+77	Fever Surge Rk. III	SoF
+77	Spiritual Vivacity	Sof
+77	Spiritual Vivacity Rk. II	Sof
+77	Spiritual Vivacity Rk. III	Sof
+78	Bite of the Borrower	SoF
+78	Bite of the Borrower Rk. II	SoF
+78	Bite of the Borrower Rk. III	SoF
+78	Peerless Penchant	SoF
+78	Peerless Penchant Rk. II	SoF
+78	Peerless Penchant Rk. III	SoF
+78	Promised Recovery	SoF
+78	Promised Recovery Rk. II	SoF
+78	Promised Recovery Rk. III	SoF
+78	Spirit of Silverwing	SoF
+79	Growl of the Puma	SoF
+79	Growl of the Puma	SoF
+79	Growl of the Puma II	SoF
+79	Growl of the Puma III	SoF
+79	Growl of the Puma Rk. II	SoF
+79	Growl of the Puma Rk. III	SoF
+79	Jagged Torrent	SoF
+79	Jagged Torrent Rk. II	SoF
+79	Jagged Torrent Rk. III	SoF
+79	Spirit of Jeswin	SoF
+79	Spirit of Jeswin Rk. II	SoF
+79	Spirit of Jeswin Rk. III	SoF
+79	Spirit of Tala'Tak	EoK
+79	Spiritual Epiphany	Sof
+79	Spiritual Epiphany Rk. II	Sof
+79	Spiritual Epiphany Rk. III	Sof
+80	Baying at the Moon	SoF
+80	Harrow	SoF
+80	Harrow Rk. II	SoF
+80	Harrow Rk. III	SoF
+80	Howl at the Moon	SoF
+80	Howl at the Moon Call	SoF
+80	Howl at the Moon Call Rk. II	SoF
+80	Howl at the Moon Call Rk. III	SoF
+80	Howl at the Moon Rk. II	SoF
+80	Howl at the Moon Rk. III	SoF
+80	Lockfang Jaws	SoF
+80	Lockfang Jaws Rk. II	SoF
+80	Lockfang Jaws Rk. III	SoF
+80	Spellbreaker's Bulwark	SoF
+80	Spellbreaker's Bulwark Rk. II	SoF
+80	Spellbreaker's Bulwark Rk. III	SoF
+80	Vicious Ferocity	SoF
+80	Vicious Ferocity Rk. II	SoF
+80	Vicious Ferocity Rk. III	SoF
+81	Focus of Yemall	SoD
+81	Focus of Yemall Rk. II	SoD
+81	Focus of Yemall Rk. III	SoD
+81	Ikaav Blood	SoD
+81	Ikaav Blood Rk. II	SoD
+81	Ikaav Blood Rk. III	SoD
+81	Salve of Reshan	SoD
+81	Salve of Reshan Rk. II	SoD
+81	Salve of Reshan Rk. III	SoD
+82	Cadmael's Mending	SoD
+82	Cadmael's Mending Rk. II	SoD
+82	Cadmael's Mending Rk. III	SoD
+82	Minax's Mending	SoD
+82	Minax's Mending Rk. II	SoD
+82	Minax's Mending Rk. III	SoD
+82	Spiritual Verve	SoD
+82	Spiritual Verve Rk. II	SoD
+82	Spiritual Verve Rk. III	SoD
+82	Tsetsian Endemic	SoD
+82	Tsetsian Endemic Rk. II	SoD
+82	Tsetsian Endemic Rk. III	SoD
+83	Bite of the Vitrik	SoD
+83	Bite of the Vitrik Rk. II	SoD
+83	Bite of the Vitrik Rk. III	SoD
+83	Friendly Pet	UF
+83	Friendly Pet Heal	UF
+83	Friendly Pet Heal II	UF
+83	Friendly Pet Heal III	UF
+83	Friendly Pet Rk. II	UF
+83	Friendly Pet Rk. III	UF
+83	Frozen Venom Poison Rk. I	UF
+83	Frozen Venom Poison Rk. II	UF
+83	Frozen Venom Poison Rk. III	UF
+83	Promised Rejuvenation	SoD
+83	Promised Rejuvenation Rk. II	SoD
+83	Promised Rejuvenation Rk. III	SoD
+83	Spirit of Hoshkar	SoD
+83	Unrivaled Rapidity	SoD
+83	Unrivaled Rapidity Rk. II	SoD
+83	Unrivaled Rapidity Rk. III	SoD
+84	Frigid Lance	SoD
+84	Frigid Lance Rk. II	SoD
+84	Frigid Lance Rk. III	SoD
+84	Frozen Venom	UF
+84	Frozen Venom Ice Rk. I	UF
+84	Frozen Venom Ice Rk. II	UF
+84	Frozen Venom Ice Rk. III	UF
+84	Frozen Venom Rk. II	UF
+84	Frozen Venom Rk. III	UF
+84	Growl of the Jaguar	SoD
+84	Growl of the Jaguar	SoD
+84	Growl of the Jaguar II	SoD
+84	Growl of the Jaguar III	SoD
+84	Growl of the Jaguar Rk. II	SoD
+84	Growl of the Jaguar Rk. III	SoD
+84	Haergen's Growl I	SoD
+84	Haergen's Growl II	SoD
+84	Haergen's Growl III	SoD
+84	Spirit of Vaxztn	SoD
+84	Spirit of Vaxztn Rk. II	SoD
+84	Spirit of Vaxztn Rk. III	SoD
+84	Spiritual Edification	SoD
+84	Spiritual Edification Rk. II	SoD
+84	Spiritual Edification Rk. III	SoD
+85	Fellgrip Jaws	SoD
+85	Fellgrip Jaws Rk. II	SoD
+85	Fellgrip Jaws Rk. III	SoD
+85	Foray	SoD
+85	Foray Rk. II	SoD
+85	Foray Rk. III	SoD
+85	Haergen's Call I	SoD
+85	Haergen's Call II	SoD
+85	Haergen's Call III	SoD
+85	Haergen's Feralgia	UF
+85	Haergen's Feralgia Rk. II	UF
+85	Haergen's Feralgia Rk. III	UF
+85	Savage Ferocity	SoD
+85	Savage Ferocity Rk. II	SoD
+85	Savage Ferocity Rk. III	SoD
+85	Spellbreaker's Aegis	SoD
+85	Spellbreaker's Aegis Rk. II	SoD
+85	Spellbreaker's Aegis Rk. III	SoD
+85	Yowl at the Moon	SoD
+85	Yowl at the Moon Cal	SoD
+85	Yowl at the Moon Call Rk. II	SoD
+85	Yowl at the Moon Call Rk. III	SoD
+85	Yowl at the Moon Rk. II	SoD
+85	Yowl at the Moon Rk. III	SoD
+85	Yowling at the Moon	SoD
+86	Bestial Vivisection	HoT
+86	Bestial Vivisection Rk. II	HoT
+86	Bestial Vivisection Rk. III	HoT
+86	Focus of Emiq	HoT
+86	Focus of Emiq Rk. II	HoT
+86	Focus of Emiq Rk. III	HoT
+86	Neivr's Aggression	HoT
+86	Neivr's Aggression Rk. II	HoT
+86	Neivr's Aggression Rk. III	HoT
+86	Neivr's Protection	HoT
+86	Neivr's Protection Rk. II	HoT
+86	Neivr's Protection Rk. III	HoT
+86	Respite	HoT
+86	Respite Rk. II	HoT
+86	Respite Rk. III	HoT
+86	Salve of Sevna	HoT
+86	Salve of Sevna Rk. II	HoT
+86	Salve of Sevna Rk. III	HoT
+86	Spinechiller Blood	HoT
+86	Spinechiller Blood Rk. II	HoT
+86	Spinechiller Blood Rk. III	HoT
+86	Warder's Vivisection	HoT
+86	Warder's Vivisection II	HoT
+86	Warder's Vivisection III	HoT
+87	Flurry of Claws	HoT
+87	Flurry of Claws Rk. II	HoT
+87	Flurry of Claws Rk. III	HoT
+87	Jorra's Mending	HoT
+87	Jorra's Mending Rk. II	HoT
+87	Jorra's Mending Rk. III	HoT
+87	Sha's Reprisal	HoT
+87	Sha's Reprisal Rk. II	HoT
+87	Sha's Reprisal Rk. III	HoT
+87	Shiverback Endemic	HoT
+87	Shiverback Endemic Rk. II	HoT
+87	Shiverback Endemic Rk. III	HoT
+87	Spiritual Valor	HoT
+87	Spiritual Valor Rk. II	HoT
+87	Spiritual Valor Rk. III	HoT
+87	Wilap's Mending	HoT
+87	Wilap's Mending Rk. II	HoT
+87	Wilap's Mending Rk. III	HoT
+88	Bolstering Warder	HoT
+88	Bolstering Warder Rk. II	HoT
+88	Bolstering Warder Rk. III	HoT
+88	Incomparable Velocity	HoT
+88	Incomparable Velocity	HoT
+88	Incomparable Velocity II	HoT
+88	Incomparable Velocity III	HoT
+88	Incomparable Velocity Rk. II	HoT
+88	Incomparable Velocity Rk. III	HoT
+88	Nature's Fury	HoT
+88	Nature's Fury Rk. II	HoT
+88	Nature's Fury Rk. III	HoT
+88	Promised Wardmending	HoT
+88	Promised Wardmending Rk. II	HoT
+88	Promised Wardmending Rk. III	HoT
+88	Sarsez' Bite	HoT
+88	Sarsez' Bite Rk. II	HoT
+88	Sarsez' Bite Rk. III	HoT
+88	Spectral Rampart	HoT
+88	Spectral Rampart Rk. II	HoT
+88	Spectral Rampart Rk. III	HoT
+88	Spirit of Averc	HoT
+89	Frozen Venin	HoT
+89	Frozen Venin Ice	HoT
+89	Frozen Venin Ice II	HoT
+89	Frozen Venin Ice II	HoT
+89	Frozen Venin Poison	HoT
+89	Frozen Venin Poison II	HoT
+89	Frozen Venin Poison III	HoT
+89	Frozen Venin Rk. II	HoT
+89	Frozen Venin Rk. III	HoT
+89	Glacial Lance	HoT
+89	Glacial Lance Rk. II	HoT
+89	Glacial Lance Rk. III	HoT
+89	Glacial Roar	HoT
+89	Glacial Roar Rk. II	HoT
+89	Glacial Roar Rk. III	HoT
+89	Growl of the Tiger	HoT
+89	Growl of the Tiger	HoT
+89	Growl of the Tiger II	HoT
+89	Growl of the Tiger III	HoT
+89	Growl of the Tiger Rk. II	HoT
+89	Growl of the Tiger Rk. III	HoT
+89	Spirit of Kron	HoT
+89	Spirit of Kron Rk. II	HoT
+89	Spirit of Kron Rk. III	HoT
+89	Spiritual Enhancement	HoT
+89	Spiritual Enhancement Rk. II	HoT
+89	Spiritual Enhancement Rk. III	HoT
+90	Callous Ferocity	HoT
+90	Callous Ferocity Rk. II	HoT
+90	Callous Ferocity Rk. III	HoT
+90	Deadlock Jaws	HoT
+90	Deadlock Jaws Rk. II	HoT
+90	Deadlock Jaws Rk. III	HoT
+90	Kron's Disease Strike	HoT
+90	Kron's Disease Strike II	HoT
+90	Kron's Disease Strike III	HoT
+90	Kron's Ice Strike	HoT
+90	Kron's Ice Strike II	HoT
+90	Kron's Ice Strike III	HoT
+90	Kron's Maelstrom	HoT
+90	Kron's Maelstrom Rk. II	HoT
+90	Kron's Maelstrom Rk. III	HoT
+90	Kron's Poison Strike	HoT
+90	Kron's Poison Strike II	HoT
+90	Kron's Poison Strike III	HoT
+90	Rush	HoT
+90	Rush Rk. II	HoT
+90	Rush Rk. III	HoT
+90	Shout at the Moon	HoT
+90	Shout at the Moon Call	HoT
+90	Shout at the Moon Call II	HoT
+90	Shout at the Moon Call III	HoT
+90	Shout at the Moon Rk. II	HoT
+90	Shout at the Moon Rk. III	HoT
+90	Shouting at the Moon	HoT
+90	Spellbreaker's Rampart	HoT
+90	Spellbreaker's Rampart Rk. II	HoT
+90	Spellbreaker's Rampart Rk. III	HoT
+90	Tuzil's Call	HoT
+90	Tuzil's Call II	HoT
+90	Tuzil's Call III	HoT
+90	Tuzil's Feralgia	HoT
+90	Tuzil's Feralgia Rk. II	HoT
+90	Tuzil's Feralgia Rk. III	HoT
+90	Tuzil's Growl	HoT
+90	Tuzil's Growl II	HoT
+90	Tuzil's Growl III	HoT
+91	Bestial Rending	VoA
+91	Bestial Rending	VoA
+91	Bestial Rending II	VoA
+91	Bestial Rending III	VoA
+91	Bestial Rending Rk. II	VoA
+91	Bestial Rending Rk. III	VoA
+91	Binaesa Blood	VoA
+91	Binaesa Blood Rk. II	VoA
+91	Binaesa Blood Rk. III	VoA
+91	Companion's Aid	VoA
+91	Companion's Aid II	VoA
+91	Companion's Aid III	VoA
+91	Focus of Klar	VoA
+91	Focus of Klar Rk. II	VoA
+91	Focus of Klar Rk. III	VoA
+91	Mea's Aggression	VoA
+91	Mea's Aggression Rk. II	VoA
+91	Mea's Aggression Rk. III	VoA
+91	Mea's Protection	VoA
+91	Mea's Protection Rk. II	VoA
+91	Mea's Protection Rk. III	VoA
+91	Natural Collaboration	VoA
+91	Natural Collaboration Rk. II	VoA
+91	Natural Collaboration Rk. III	VoA
+91	Reprieve	VoA
+91	Reprieve Rk. II	VoA
+91	Reprieve Rk. III	VoA
+91	Salve of Yubai	VoA
+91	Salve of Yubai Rk. II	VoA
+91	Salve of Yubai Rk. III	VoA
+91	Warder's Rending	VoA
+91	Warder's Rending II	VoA
+91	Warder's Rending III	VoA
+92	Brutal Ferocity	VoA
+92	Brutal Ferocity Rk. II	VoA
+92	Brutal Ferocity Rk. III	VoA
+92	Mending of the Izon	VoA
+92	Mending of the Izon Rk. II	VoA
+92	Mending of the Izon Rk. III	VoA
+92	Silbar's Endemic	VoA
+92	Silbar's Endemic Rk. II	VoA
+92	Silbar's Endemic Rk. III	VoA
+92	Spiritual Valiance	VoA
+92	Spiritual Valiance Rk. II	VoA
+92	Spiritual Valiance Rk. III	VoA
+92	Tumult of Claws	VoA
+92	Tumult of Claws Rk. II	VoA
+92	Tumult of Claws Rk. III	VoA
+92	Yurv's Mending	VoA
+92	Yurv's Mending Rk. II	VoA
+92	Yurv's Mending Rk. III	VoA
+93	Beastwood Rampart	VoA
+93	Beastwood Rampart Rk. II	VoA
+93	Beastwood Rampart Rk. III	VoA
+93	Empowering Warder	VoA
+93	Empowering Warder Rk. II	VoA
+93	Empowering Warder Rk. III	VoA
+93	Exceptional Velocity	VoA
+93	Exceptional Velocity II	VoA
+93	Exceptional Velocity III	VoA
+93	Exceptional Velocity Rk. II	VoA
+93	Exceptional Velocity Rk. III	VoA
+93	Kolos' Fury	VoA
+93	Kolos' Fury Rk. II	VoA
+93	Kolos' Fury Rk. III	VoA
+93	Promised Amendment	VoA
+93	Promised Amendment Rk. II	VoA
+93	Promised Amendment Rk. III	VoA
+93	Rotsil's Bite	VoA
+93	Rotsil's Bite Rk. II	VoA
+93	Rotsil's Bite Rk. III	VoA
+93	Spirit of Kolos	VoA
+94	Frostrift Lance	VoA
+94	Frostrift Lance Rk. II	VoA
+94	Frostrift Lance Rk. III	VoA
+94	Frostrift Roar	VoA
+94	Frostrift Roar Rk. II	VoA
+94	Frostrift Roar Rk. III	VoA
+94	Frozen Cyanin	VoA
+94	Frozen Cyanin Ice	VoA
+94	Frozen Cyanin Ice II	VoA
+94	Frozen Cyanin Ice III	VoA
+94	Frozen Cyanin Poison	VoA
+94	Frozen Cyanin Poison II	VoA
+94	Frozen Cyanin Poison III	VoA
+94	Frozen Cyanin Rk. II	VoA
+94	Frozen Cyanin Rk. III	VoA
+94	Growl of the Lion	VoA
+94	Growl of the Lion	VoA
+94	Growl of the Lion II	VoA
+94	Growl of the Lion III	VoA
+94	Growl of the Lion Rk. II	VoA
+94	Growl of the Lion Rk. III	VoA
+94	Savage Fury	VoA
+94	Savage Fury	VoA
+94	Savage Fury II	VoA
+94	Savage Fury III	VoA
+94	Savage Fury Rk. II	VoA
+94	Savage Fury Rk. III	VoA
+94	Spirit of Bale	VoA
+94	Spirit of Bale Rk. II	VoA
+94	Spirit of Bale Rk. III	VoA
+94	Spiritual Enrichment	VoA
+94	Spiritual Enrichment Rk. II	VoA
+94	Spiritual Enrichment Rk. III	VoA
+95	Bale's Disease Strike	VoA
+95	Bale's Disease Strike II	VoA
+95	Bale's Disease Strike III	VoA
+95	Bale's Ice Strike	VoA
+95	Bale's Ice Strike II	VoA
+95	Bale's Ice Strike III	VoA
+95	Bale's Maelstrom	VoA
+95	Bale's Maelstrom Rk. II	VoA
+95	Bale's Maelstrom Rk. III	VoA
+95	Bale's Poison Strike	VoA
+95	Bale's Poison Strike II	VoA
+95	Bale's Poison Strike III	VoA
+95	Barrage	VoA
+95	Barrage Rk. II	VoA
+95	Barrage Rk. III	VoA
+95	Scream at the Moon	VoA
+95	Scream at the Moon Call	VoA
+95	Scream at the Moon Call II	VoA
+95	Scream at the Moon Call III	VoA
+95	Scream at the Moon Rk. II	VoA
+95	Scream at the Moon Rk. III	VoA
+95	Screaming at the Moon	VoA
+95	Shared Brutal Ferocity	VoA
+95	Shared Brutal Ferocity Rk. II	VoA
+95	Shared Brutal Ferocity Rk. III	VoA
+95	Spellbreaker's Armor	VoA
+95	Spellbreaker's Armor Rk. II	VoA
+95	Spellbreaker's Armor Rk. III	VoA
+95	Yahnoa's Call	VoA
+95	Yahnoa's Call II	VoA
+95	Yahnoa's Call III	VoA
+95	Yahnoa's Feralgia	VoA
+95	Yahnoa's Feralgia Rk. II	VoA
+95	Yahnoa's Feralgia Rk. III	VoA
+95	Yahnoa's Grow	VoA
+95	Yahnoa's Growl II	VoA
+95	Yahnoa's Growl III	VoA
+96	Asp Blood	RoF
+96	Asp Blood Rk. II	RoF
+96	Asp Blood Rk. III	RoF
+96	Auspice of Shadows	RoF
+96	Auspice of Shadows Rk. II	RoF
+96	Auspice of Shadows Rk. III	RoF
+96	Bestial Evulsing	RoF
+96	Bestial Evulsing	RoF
+96	Bestial Evulsing II	RoF
+96	Bestial Evulsing III	RoF
+96	Bestial Evulsing Rk. II	RoF
+96	Bestial Evulsing Rk. III	RoF
+96	Companion's Aid	RoF
+96	Companion's Aid II	RoF
+96	Companion's Aid III	RoF
+96	Focus of Sanera	RoF
+96	Focus of Sanera Rk. II	RoF
+96	Focus of Sanera Rk. III	RoF
+96	Monkey's Spirit Discipline	CotF
+96	Monkey's Spirit Discipline Rk. II	CotF
+96	Monkey's Spirit Discipline Rk. III	CotF
+96	Natural Cooperation	RoF
+96	Natural Cooperation Rk. II	RoF
+96	Natural Cooperation Rk. III	RoF
+96	Plakt's Aggression	RoF
+96	Plakt's Aggression Rk. II	RoF
+96	Plakt's Aggression Rk. III	RoF
+96	Plakt's Protection	RoF
+96	Plakt's Protection Rk. II	RoF
+96	Plakt's Protection Rk. III	RoF
+96	Rest	RoF
+96	Rest Rk. II	RoF
+96	Rest Rk. III	RoF
+96	Salve of Blezon	RoF
+96	Salve of Blezon Rk. II	RoF
+96	Salve of Blezon Rk. III	RoF
+96	Warder's Evulsing	RoF
+96	Warder's Evulsing II	RoF
+96	Warder's Evulsing III	RoF
+97	Clamor of Claws	RoF
+97	Clamor of Claws Rk. II	RoF
+97	Clamor of Claws Rk. III	RoF
+97	Fatiguing Bite	CotF
+97	Fatiguing Bite Rk. II	CotF
+97	Fatiguing Bite Rk. III	CotF
+97	Huaene's Melioration	RoF
+97	Huaene's Melioration Rk. II	RoF
+97	Huaene's Melioration Rk. III	RoF
+97	Jaerol's Mending	RoF
+97	Jaerol's Mending Rk. II	RoF
+97	Jaerol's Mending Rk. III	RoF
+97	Merciless Ferocity	RoF
+97	Merciless Ferocity Rk. II	RoF
+97	Merciless Ferocity Rk. III	RoF
+97	Natigo's Endemic	RoF
+97	Natigo's Endemic Rk. II	RoF
+97	Natigo's Endemic Rk. III	RoF
+97	Spiritual Vindication	RoF
+97	Spiritual Vindication Rk. II	RoF
+97	Spiritual Vindication Rk. III	RoF
+97	Withering Bite	RoF
+97	Withering Bite Rk. II	RoF
+97	Withering Bite Rk. III	RoF
+98	Extraordinary Velocity	RoF
+98	Extraordinary Velocity Rk. II	RoF
+98	Extraordinary Velocity Rk. III	RoF
+98	Focused Clamor of Claws	CotF
+98	Focused Clamor of Claws Rk. II	CotF
+98	Focused Clamor of Claws Rk. III	CotF
+98	Invigorating Warder	RoF
+98	Invigorating Warder Rk. II	RoF
+98	Invigorating Warder Rk. III	RoF
+98	Poantaar's Bite	RoF
+98	Poantaar's Bite Rk. II	RoF
+98	Poantaar's Bite Rk. III	RoF
+98	Promised Amelioration	RoF
+98	Promised Amelioration Rk. II	RoF
+98	Promised Amelioration Rk. III	RoF
+98	Ruaabri's Fury	RoF
+98	Ruaabri's Fury Rk. II	RoF
+98	Ruaabri's Fury Rk. III	RoF
+98	Spirit of Lachemit	RoF
+99	Aegis of Nefori	RoF
+99	Aegis of Nefori Rk. II	RoF
+99	Aegis of Nefori Rk. III	RoF
+99	Edoth's Chill	RoF
+99	Edoth's Chill Rk. II	RoF
+99	Edoth's Chill Rk. III	RoF
+99	Frozen Carbomate	RoF
+99	Frozen Carbomate Ice	RoF
+99	Frozen Carbomate Ice II	RoF
+99	Frozen Carbomate Ice III	RoF
+99	Frozen Carbomate Poiso	RoF
+99	Frozen Carbomate Poison II	RoF
+99	Frozen Carbomate Poison III	RoF
+99	Frozen Carbomate Rk. II	RoF
+99	Frozen Carbomate Rk. III	RoF
+99	Growl of the Snow Leopard	RoF
+99	Growl of the Snow Leopard	RoF
+99	Growl of the Snow Leopard II	RoF
+99	Growl of the Snow Leopard III	RoF
+99	Growl of the Snow Leopard Rk. II	RoF
+99	Growl of the Snow Leopard Rk. III	RoF
+99	Kromrif Lance	RoF
+99	Kromrif Lance Rk. II	RoF
+99	Kromrif Lance Rk. III	RoF
+99	Kromrif Roar	RoF
+99	Kromrif Roar Rk. II	RoF
+99	Kromrif Roar Rk. III	RoF
+99	Savage Rage	RoF
+99	Savage Rage	RoF
+99	Savage Rage II	RoF
+99	Savage Rage III	RoF
+99	Savage Rage Rk. II	RoF
+99	Savage Rage Rk. III	RoF
+99	Spirit of Nak	RoF
+99	Spirit of Nak Rk. II	RoF
+99	Spirit of Nak Rk. III	RoF
+99	Spiritual Evolution	RoF
+99	Spiritual Evolution Rk. II	RoF
+99	Spiritual Evolution Rk. III	RoF
+99	Warder's Unity	CotF
+99	Warder's Unity Rk. II	CotF
+99	Warder's Unity Rk. III	CotF
+100	Kesar's Call	RoF
+100	Kesar's Call II	RoF
+100	Kesar's Call III	RoF
+100	Kesar's Feralgia	RoF
+100	Kesar's Feralgia Rk. II	RoF
+100	Kesar's Feralgia Rk. III	RoF
+100	Kesar's Growl	RoF
+100	Kesar's Growl II	RoF
+100	Kesar's Growl III	RoF
+100	Nak's Disease Strike	RoF
+100	Nak's Disease Strike II	RoF
+100	Nak's Disease Strike III	RoF
+100	Nak's Ice Strike	RoF
+100	Nak's Ice Strike II	RoF
+100	Nak's Ice Strike III	RoF
+100	Nak's Maelstrom	RoF
+100	Nak's Maelstrom Rk. II	RoF
+100	Nak's Maelstrom Rk. III	RoF
+100	Nak's Poison Strike	RoF
+100	Nak's Poison Strike II	RoF
+100	Nak's Poison Strike III	RoF
+100	Pummel	RoF
+100	Pummel Rk. II	RoF
+100	Pummel Rk. III	RoF
+100	Reflexive Rending	RoF
+100	Reflexive Rending Rk. II	RoF
+100	Reflexive Rending Rk. III	RoF
+100	Shared Merciless Ferocity	RoF
+100	Shared Merciless Ferocity Rk. II	RoF
+100	Shared Merciless Ferocity Rk. III	RoF
+100	Spellbreaker's Ward	RoF
+100	Spellbreaker's Ward Rk. II	RoF
+100	Spellbreaker's Ward Rk. III	RoF
+100	Spiritual Unity	CotF
+100	Spiritual Unity Rk. II	CotF
+100	Spiritual Unity Rk. III	CotF
+100	Yell at the Moon	RoF
+100	Yell at the Moon Call	RoF
+100	Yell at the Moon Rk. II	RoF
+100	Yell at the Moon Rk. III	RoF
+100	Yelling at the Moon	RoF
+101	Breather	TDS
+101	Breather Rk. II	TDS
+101	Breather Rk. III	TDS
+101	Companion's Aid	TDS
+101	Companion's Aid II	TDS
+101	Companion's Aid III	TDS
+101	Dichotomic Fury	TBM
+101	Focus of Okasi	TDS
+101	Focus of Okasi Rk. II	TDS
+101	Focus of Okasi Rk. III	TDS
+101	Glistenwing Blood	TDS
+101	Glistenwing Blood Rk. II	TDS
+101	Glistenwing Blood Rk. III	TDS
+101	Natural Affiliation	TDS
+101	Natural Affiliation Rk. II	TDS
+101	Natural Affiliation Rk. III	TDS
+101	Salve of Clorith	TDS
+101	Salve of Clorith Rk. II	TDS
+101	Salve of Clorith Rk. III	TDS
+101	Sekmoset's Aggression	TDS
+101	Sekmoset's Aggression Rk. II	TDS
+101	Sekmoset's Aggression Rk. III	TDS
+101	Sekmoset's Protection	TDS
+101	Sekmoset's Protection Rk. II	TDS
+101	Sekmoset's Protection Rk. III	TDS
+101	Venomous Alliance	EoK
+101	Venomous Alliance Rk. II	EoK
+101	Venomous Alliance Rk. III	EoK
+102	Al`ele's Vindication	EoK
+102	Al`ele's Vindication Rk. II	EoK
+102	Al`ele's Vindication Rk. III	EoK
+102	Auspice of Eternity	TBM
+102	Auspice of Eternity Rk. II	TBM
+102	Auspice of Eternity Rk. III	TBM
+102	Hemocoraxius' Endemic	TDS
+102	Hemocoraxius' Endemic Rk. II	TDS
+102	Hemocoraxius' Endemic Rk. III	TDS
+102	Kromtus Lance	TDS
+102	Kromtus Lance Rk. II	TDS
+102	Kromtus Lance Rk. III	TDS
+102	Sabhattin's Mending	TDS
+102	Sabhattin's Mending Rk. II	TDS
+102	Sabhattin's Mending Rk. III	TDS
+102	Spiritual Vivification	TDS
+102	Spiritual Vivification Rk. II	TDS
+102	Spiritual Vivification Rk. III	TDS
+102	Tempest of Claws	TDS
+102	Tempest of Claws Rk. II	TDS
+102	Tempest of Claws Rk. III	TDS
+102	Tirik's Melioration	TDS
+102	Tirik's Melioration Rk. II	TDS
+102	Tirik's Melioration Rk. III	TDS
+103	Frozen Miasma	TDS
+103	Frozen Miasma Ice	TDS
+103	Frozen Miasma Ice II	TDS
+103	Frozen Miasma Ice III	TDS
+103	Frozen Miasma Poison	TDS
+103	Frozen Miasma Poison II	TDS
+103	Frozen Miasma Poison III	TDS
+103	Frozen Miasma Rk. II	TDS
+103	Frozen Miasma Rk. III	TDS
+103	Kreig's Bite	TDS
+103	Kreig's Bite Rk. II	TDS
+103	Kreig's Bite Rk. III	TDS
+103	Mending Warder	TDS
+103	Mending Warder Rk. II	TDS
+103	Mending Warder Rk. III	TDS
+103	Promised Invigoration	TDS
+103	Promised Invigoration Rk. II	TDS
+103	Promised Invigoration Rk. III	TDS
+103	Spirit of Avalit	TDS
+103	Spiritual Elaboration	TDS
+103	Spiritual Elaboration Rk. II	TDS
+103	Spiritual Elaboration Rk. III	TDS
+104	Aegis of Japac	TDS
+104	Aegis of Japac Rk. II	TDS
+104	Aegis of Japac Rk. III	TDS
+104	Growl of the Leopard	TDS
+104	Growl of the Leopard	TDS
+104	Growl of the Leopard II	TDS
+104	Growl of the Leopard III	TDS
+104	Growl of the Leopard Rk. II	TDS
+104	Growl of the Leopard Rk. III	TDS
+104	Kirchen's Chill	TDS
+104	Kirchen's Chill Rk. II	TDS
+104	Kirchen's Chill Rk. III	TDS
+104	Kromtus Roar	TDS
+104	Kromtus Roar Rk. II	TDS
+104	Kromtus Roar Rk. III	TDS
+104	Maul	TDS
+104	Maul Rk. II	TDS
+104	Maul Rk. III	TDS
+104	Savage Rancor	TBM
+104	Savage Rancor	TBM
+104	Savage Rancor II	TBM
+104	Savage Rancor III	TBM
+104	Savage Rancor Rk. II	TBM
+104	Savage Rancor Rk. III	TBM
+104	Spirit of Visoracius	TDS
+104	Spirit of Visoracius Rk. II	TDS
+104	Spirit of Visoracius Rk. III	TDS
+105	Cry at the Moon	TDS
+105	Cry at the Moon Call	TDS
+105	Cry at the Moon Rk. II	TDS
+105	Cry at the Moon Rk. III	TDS
+105	Crying at the Moon	TDS
+105	Krenk's Call	TDS
+105	Krenk's Call II	TDS
+105	Krenk's Call III	TDS
+105	Krenk's Feralgia	TDS
+105	Krenk's Feralgia Rk. II	TDS
+105	Krenk's Feralgia Rk. III	TDS
+105	Krenk's Growl	TDS
+105	Krenk's Growl II	TDS
+105	Krenk's Growl III	TDS
+105	Reflexive Sundering	EoK
+105	Reflexive Sundering Rk. II	EoK
+105	Reflexive Sundering Rk. III	EoK
+105	Spellbreaker's Palisade	TDS
+105	Spellbreaker's Palisade Rk. II	TDS
+105	Spellbreaker's Palisade Rk. III	TDS
+105	Stormblood's Unity	TDS
+105	Stormblood's Unity Rk. II	TDS
+105	Stormblood's Unity Rk. III	TDS
+105	Visoracius' Disease Strike	TDS
+105	Visoracius' Disease Strike II	TDS
+105	Visoracius' Disease Strike III	TDS
+105	Visoracius' Ice Strike	TDS
+105	Visoracius' Ice Strike II	TDS
+105	Visoracius' Ice Strike III	TDS
+105	Visoracius' Maelstrom	TDS
+105	Visoracius' Maelstrom Rk. II	TDS
+105	Visoracius' Maelstrom Rk. III	TDS
+105	Visoracius' Poison Strike	TDS
+105	Visoracius' Poison Strike II	TDS
+105	Visoracius' Poison Strike III	TDS
+106	Bestial Savagery	RoS
+106	Bestial Savagery Rk. II	RoS
+106	Bestial Savagery Rk. III	RoS
+106	Companion's Aid IV Azia	RoS
+106	Companion's Aid IV Beza	RoS
+106	Companion's Aid IV Caza	RoS
+106	Dissident Fury	TBL
+106	Focus of Artikla	RoS
+106	Focus of Artikla Rk. II	RoS
+106	Focus of Artikla Rk. III	RoS
+106	Hiatus	RoS
+106	Hiatus Rk. II	RoS
+106	Hiatus Rk. III	RoS
+106	Natural Cooperation	RoS
+106	Natural Cooperation Rk. II	RoS
+106	Natural Cooperation Rk. III	RoS
+106	Polybiad Blood	RoS
+106	Polybiad Blood Rk. II	RoS
+106	Polybiad Blood Rk. III	RoS
+106	Salve of Artikla	RoS
+106	Salve of Artikla Rk. II	RoS
+106	Salve of Artikla Rk. III	RoS
+106	Virzak's Aggression	RoS
+106	Virzak's Aggression Rk. II	RoS
+106	Virzak's Aggression Rk. III	RoS
+106	Virzak's Protection	RoS
+106	Virzak's Protection Rk. II	RoS
+106	Virzak's Protection Rk. III	RoS
+106	Warder's Savagery	RoS
+106	Warder's Savagery II	RoS
+106	Warder's Savagery III	RoS
+107	Auspice of Esianti	TBL
+107	Auspice of Esianti Rk. II	TBL
+107	Auspice of Esianti Rk. III	TBL
+107	Debilitating Bite	RoS
+107	Debilitating Bite Rk. II	RoS
+107	Debilitating Bite Rk. III	RoS
+107	Deltro's Mending	RoS
+107	Deltro's Mending Rk. II	RoS
+107	Deltro's Mending Rk. III	RoS
+107	Elkikatar's Endemic	RoS
+107	Elkikatar's Endemic Rk. II	RoS
+107	Elkikatar's Endemic Rk. III	RoS
+107	Exhausting Bite	RoS
+107	Exhausting Bite Rk. II	RoS
+107	Exhausting Bite Rk. III	RoS
+107	Frostbite Lance	RoS
+107	Frostbite Lance Rk. II	RoS
+107	Frostbite Lance Rk. III	RoS
+107	Spiritual Vibrancy	RoS
+107	Spiritual Vibrancy Rk. II	RoS
+107	Spiritual Vibrancy Rk. III	RoS
+107	Storm of Claws	RoS
+107	Storm of Claws Rk. II	RoS
+107	Storm of Claws Rk. III	RoS
+107	Virzak's Melioration	RoS
+107	Virzak's Melioration Rk. II	RoS
+107	Virzak's Melioration Rk. III	RoS
+107	Virzak's Miracle	RoS
+107	Virzak's Miracle II	RoS
+107	Virzak's Miracle III	RoS
+108	Convivial Warder	RoS
+108	Convivial Warder Rk. II	RoS
+108	Convivial Warder Rk. III	RoS
+108	Frozen Toxin	RoS
+108	Frozen Toxin Ice	RoS
+108	Frozen Toxin Ice II	RoS
+108	Frozen Toxin Ice III	RoS
+108	Frozen Toxin Poison	RoS
+108	Frozen Toxin Poison II	RoS
+108	Frozen Toxin Poison III	RoS
+108	Frozen Toxin Rk. II	RoS
+108	Frozen Toxin Rk. III	RoS
+108	Mawmun's Bite	RoS
+108	Mawmun's Bite Rk. II	RoS
+108	Mawmun's Bite Rk. III	RoS
+108	Promised Alleviation	RoS
+108	Promised Alleviation Rk. II	RoS
+108	Promised Alleviation Rk. III	RoS
+108	Promised Alleviation Trigger	RoS
+108	Promised Alleviation Trigger II	RoS
+108	Promised Alleviation Trigger III	RoS
+108	Spirit of Akalit	RoS
+108	Spiritual Empowerment	RoS
+108	Spiritual Empowerment Rk. II	RoS
+108	Spiritual Empowerment Rk. III	RoS
+108	Tremendous Velocity	RoS
+108	Tremendous Velocity Rk. II	RoS
+108	Tremendous Velocity Rk. III	RoS
+108	Venomous Covenant	TBL
+108	Venomous Covenant Rk. II	TBL
+108	Venomous Covenant Rk. III	TBL
+109	Aegis of Zeklor	RoS
+109	Aegis of Zeklor Rk. II	RoS
+109	Aegis of Zeklor Rk. III	RoS
+109	Companion's Unity	RoS
+109	Ekron's Chill	RoS
+109	Ekron's Chill Rk. II	RoS
+109	Ekron's Chill Rk. III	RoS
+109	Frostbite Roar	RoS
+109	Frostbite Roar Rk. II	RoS
+109	Frostbite Roar Rk. III	RoS
+109	Growl of the Sabretooth	RoS
+109	Growl of the Sabretooth	RoS
+109	Growl of the Sabretooth II	RoS
+109	Growl of the Sabretooth III	RoS
+109	Growl of the Sabretooth Rk. II	RoS
+109	Growl of the Sabretooth Rk. III	RoS
+109	Mangle	RoS
+109	Mangle Rk. II	RoS
+109	Mangle Rk. III	RoS
+109	Spirit of Beramos	RoS
+109	Spirit of Beramos Rk. II	RoS
+109	Spirit of Beramos Rk. III	RoS
+110	Akalit's Call	RoS
+110	Akalit's Call II	RoS
+110	Akalit's Call III	RoS
+110	Akalit's Feralgia	RoS
+110	Akalit's Feralgia Rk. II	RoS
+110	Akalit's Feralgia Rk. III	RoS
+110	Akalit's Growl	RoS
+110	Akalit's Growl II	RoS
+110	Akalit's Growl III	RoS
+110	Beramos' Disease Strike	RoS
+110	Beramos' Disease Strike II	RoS
+110	Beramos' Disease Strike III	RoS
+110	Beramos' Ice Strike	RoS
+110	Beramos' Ice Strike II	RoS
+110	Beramos' Ice Strike III	RoS
+110	Beramos' Maelstrom	RoS
+110	Beramos' Maelstrom Rk. II	RoS
+110	Beramos' Maelstrom Rk. III	RoS
+110	Beramos' Poison Strike	RoS
+110	Beramos' Poison Strike II	RoS
+110	Beramos' Poison Strike III	RoS
+110	Feralist's Unity	RoS
+110	Feralist's Unity Rk. II	RoS
+110	Feralist's Unity Rk. III	RoS
+110	Roar at the Moon	RoS
+110	Roar at the Moon Call	RoS
+110	Roar at the Moon Rk. II	RoS
+110	Roar at the Moon Rk. III	RoS
+110	Roaring at the Moon	RoS
+110	Spellbreaker's Keep	RoS
+110	Spellbreaker's Keep Rk. II	RoS
+110	Spellbreaker's Keep Rk. III	RoS
+110	Spellbreaker's Mending IV Azia	RoS
+110	Spellbreaker's Mending IV Beza	RoS
+110	Spellbreaker's Mending IV Caza	RoS
+110	Venon's Vindication	TBL
+110	Venon's Vindication Rk. II	TBL
+110	Venon's Vindication Rk. III	TBL
+111	Companion's Aid V Azia	ToV
+111	Companion's Aid V Beza	ToV
+111	Companion's Aid V Caza	ToV
+111	Composite Fury	CoV
+111	Focus of Tobart	ToV
+111	Horasug's Aggression	ToV
+111	Horasug's Aggression Rk. II	ToV
+111	Horasug's Aggression Rk. III	ToV
+111	Horasug's Protection	ToV
+111	Horasug's Protection Rk. II	ToV
+111	Horasug's Protection Rk. III	ToV
+111	Ikatiar's Blood	ToV
+111	Ikatiar's Blood Rk. II	ToV
+111	Ikatiar's Blood Rk. III	ToV
+111	Natural Alliance	ToV
+111	Natural Alliance Rk. II	ToV
+111	Natural Alliance Rk. III	ToV
+111	Relax	ToV
+111	Relax Rk. II	ToV
+111	Relax Rk. III	ToV
+111	Salve of Tobart	ToV
+111	Salve of Tobart Rk. II	ToV
+111	Salve of Tobart Rk. III	ToV
+112	Auspice of Kildrukaun	CoV
+112	Auspice of Kildrukaun Rk. II	CoV
+112	Auspice of Kildrukaun Rk. III	CoV
+112	Bethun's Mending	ToV
+112	Bethun's Mending Rk. II	ToV
+112	Bethun's Mending Rk. III	ToV
+112	Depleting Bite	ToV
+112	Depleting Bite Rk. II	ToV
+112	Depleting Bite Rk. III	ToV
+112	Kallis' Melioration	ToV
+112	Kallis' Melioration Rk. II	ToV
+112	Kallis' Melioration Rk. III	ToV
+112	Kallis' Miracle	ToV
+112	Kallis' Miracle II	ToV
+112	Kallis' Miracle III	ToV
+112	Maelstrom of Claws	ToV
+112	Maelstrom of Claws Rk. II	ToV
+112	Maelstrom of Claws Rk. III	ToV
+112	Neemzaq's Endemic	ToV
+112	Neemzaq's Endemic Rk. II	ToV
+112	Neemzaq's Endemic Rk. III	ToV
+112	Restless Lance	ToV
+112	Restless Lance Rk. II	ToV
+112	Restless Lance Rk. III	ToV
+112	Spiritual Vehemence	ToV
+113	Astounding Velocity	ToV
+113	Astounding Velocity Rk. II	ToV
+113	Astounding Velocity Rk. III	ToV
+113	Bloodmaw's Bite	ToV
+113	Bloodmaw's Bite Rk. II	ToV
+113	Bloodmaw's Bite Rk. III	ToV
+113	Frozen Malignance	ToV
+113	Frozen Malignance Ice	ToV
+113	Frozen Malignance Ice II	ToV
+113	Frozen Malignance Ice III	ToV
+113	Frozen Malignance Poison	ToV
+113	Frozen Malignance Poison II	ToV
+113	Frozen Malignance Poison III	ToV
+113	Frozen Malignance Rk. II	ToV
+113	Frozen Malignance Rk. III	ToV
+113	Promised Healing	ToV
+113	Promised Healing Rk. II	ToV
+113	Promised Healing Rk. III	ToV
+113	Promised Healing Trigger	ToV
+113	Promised Healing Trigger II	ToV
+113	Promised Healing Trigger III	ToV
+113	Spirit of Blizzent	ToV
+113	Spiritual Insight	ToV
+113	Sympathetic Warder	ToV
+113	Sympathetic Warder Rk. II	ToV
+113	Sympathetic Warder Rk. III	ToV
+113	Venomous Coalition	CoV
+113	Venomous Coalition Rk. II	CoV
+113	Venomous Coalition Rk. III	CoV
+114	Aegis of Orfur	ToV
+114	Aegis of Orfur Rk. II	ToV
+114	Aegis of Orfur Rk. III	ToV
+114	Ally's Unity	ToV
+114	Batter	ToV
+114	Batter Rk. II	ToV
+114	Batter Rk. III	ToV
+114	Endaroky's Chill	ToV
+114	Endaroky's Chill Rk. II	ToV
+114	Endaroky's Chill Rk. III	ToV
+114	Growl of the Lioness	ToV
+114	Growl of the Lioness	ToV
+114	Growl of the Lioness II	ToV
+114	Growl of the Lioness III	ToV
+114	Growl of the Lioness Rk. II	ToV
+114	Growl of the Lioness Rk. III	ToV
+114	Reflexive Riving	CoV
+114	Reflexive Riving Rk. II	CoV
+114	Reflexive Riving Rk. III	CoV
+114	Restless Roar	ToV
+114	Restless Roar Rk. II	ToV
+114	Restless Roar Rk. III	ToV
+114	Spirit of Mandrikai	ToV
+114	Spirit of Mandrikai Rk. II	ToV
+114	Spirit of Mandrikai Rk. III	ToV
+115	Bay at the Moon	ToV
+115	Bay at the Moon Call	ToV
+115	Bay at the Moon Rk. II	ToV
+115	Bay at the Moon Rk. III	ToV
+115	Baying at the Moon	ToV
+115	Griklor's Call	ToV
+115	Griklor's Call II	ToV
+115	Griklor's Call III	ToV
+115	Griklor's Feralgia	ToV
+115	Griklor's Feralgia Rk. II	ToV
+115	Griklor's Feralgia Rk. III	ToV
+115	Griklor's Growl	ToV
+115	Griklor's Growl II	ToV
+115	Griklor's Growl III	ToV
+115	Ikatiar's Vindication	CoV
+115	Ikatiar's Vindication Rk. II	CoV
+115	Ikatiar's Vindication Rk. III	CoV
+115	Reclaimer's Unity	ToV
+115	Spellbreaker's Citadel	ToV
+115	Spellbreaker's Citadel Rk. II	ToV
+115	Spellbreaker's Citadel Rk. III	ToV
+115	Spellbreaker's Mending V Azia	ToV
+115	Spellbreaker's Mending V Beza	ToV
+115	Spellbreaker's Mending V Caza	ToV
+115	Vkjen's Disease Strike	ToV
+115	Vkjen's Disease Strike II	ToV
+115	Vkjen's Disease Strike III	ToV
+115	Vkjen's Ice Strike	ToV
+115	Vkjen's Ice Strike II	ToV
+115	Vkjen's Ice Strike III	ToV
+115	Vkjen's Maelstrom	ToV
+115	Vkjen's Maelstrom Rk. II	ToV
+115	Vkjen's Maelstrom Rk. III	ToV
+115	Vkjen's Poison Strike	ToV
+115	Vkjen's Poison Strike II	ToV
+115	Vkjen's Poison Strike III	ToV
+116	Akhevan Blood	ToL
+116	Akhevan Blood Rk. II	ToL
+116	Akhevan Blood Rk. III	ToL
+116	Bestial Fierceness	ToL
+116	Bestial Fierceness Rk. II	ToL
+116	Bestial Fierceness Rk. III	ToL
+116	Companion's Aid VI Azia	ToL
+116	Companion's Aid VI Beza	ToL
+116	Companion's Aid VI Caza	ToL
+116	Ecliptic Fury	NoS
+116	Focus of Jaegir	ToL
+116	Night's Calming	ToL
+116	Night's Calming Rk. II	ToL
+116	Night's Calming Rk. III	ToL
+116	Panthea's Aggression	ToL
+116	Panthea's Aggression Rk. II	ToL
+116	Panthea's Aggression Rk. III	ToL
+116	Panthea's Protection	ToL
+116	Panthea's Protection Rk. II	ToL
+116	Panthea's Protection Rk. III	ToL
+116	Salve of Jaegir	ToL
+116	Salve of Jaegir Rk. II	ToL
+116	Salve of Jaegir Rk. III	ToL
+116	Symbiotic Alliance	ToL
+116	Symbiotic Alliance Rk. II	ToL
+116	Symbiotic Alliance Rk. III	ToL
+116	Warder's Fierceness	ToL
+116	Warder's Fierceness II	ToL
+116	Warder's Fierceness III	ToL
+117	Auspice of Valia	NoS
+117	Auspice of Valia Rk. II	NoS
+117	Auspice of Valia Rk. III	NoS
+117	Cissela's Melioration	ToL
+117	Cissela's Melioration Rk. II	ToL
+117	Cissela's Melioration Rk. III	ToL
+117	Cissela's Miracle	ToL
+117	Cissela's Miracle Rk. II	ToL
+117	Cissela's Miracle Rk. III	ToL
+117	Crystalline Lance	ToL
+117	Crystalline Lance Rk. II	ToL
+117	Crystalline Lance Rk. III	ToL
+117	Dire Bite	ToL
+117	Dire Bite Rk. II	ToL
+117	Dire Bite Rk. III	ToL
+117	Eruption of Claws	ToL
+117	Eruption of Claws Rk. II	ToL
+117	Eruption of Claws Rk. III	ToL
+117	Korah's Mending	ToL
+117	Korah's Mending Rk. II	ToL
+117	Korah's Mending Rk. III	ToL
+117	Spiritual Vigor	ToL
+117	Vampyric Endemic	ToL
+117	Vampyric Endemic Rk. II	ToL
+117	Vampyric Endemic Rk. III	ToL
+117	Wearying Bite	ToL
+117	Wearying Bite Rk. II	ToL
+117	Wearying Bite Rk. III	ToL
+118	Frozen Blight	ToL
+118	Frozen Blight Ice	ToL
+118	Frozen Blight Ice II	ToL
+118	Frozen Blight Ice III	ToL
+118	Frozen Blight Poison	ToL
+118	Frozen Blight Poison II	ToL
+118	Frozen Blight Poison III	ToL
+118	Frozen Blight Rk. II	ToL
+118	Frozen Blight Rk. III	ToL
+118	Promised Relief	ToL
+118	Promised Relief Rk. II	ToL
+118	Promised Relief Rk. III	ToL
+118	Promised Relief Trigger	ToL
+118	Promised Relief Trigger II	ToL
+118	Promised Relief Trigger III	ToL
+118	Protective Warder	ToL
+118	Protective Warder Rk. II	ToL
+118	Protective Warder Rk. III	ToL
+118	Spirit of Panthea	ToL
+118	Spiritual Erudition	ToL
+118	Unsurpassed Velocity	ToL
+118	Unsurpassed Velocity Rk. II	ToL
+118	Unsurpassed Velocity Rk. III	ToL
+118	Venomous Conjunction	NoS
+118	Venomous Conjunction Rk. II	NoS
+118	Venomous Conjunction Rk. III	NoS
+118	Zelniak's Bite	ToL
+118	Zelniak's Bite Rk. II	ToL
+118	Zelniak's Bite Rk. III	ToL
+119	Aegis of Rumblecrush	ToL
+119	Aegis of Rumblecrush Rk. II	ToL
+119	Aegis of Rumblecrush Rk. III	ToL
+119	Clobber	ToL
+119	Clobber Rk. II	ToL
+119	Clobber Rk. III	ToL
+119	Comrade's Unity	ToL
+119	Growl of the Clouded Leopard	ToL
+119	Growl of the Clouded Leopard	ToL
+119	Growl of the Clouded Leopard II	ToL
+119	Growl of the Clouded Leopard III	ToL
+119	Growl of the Clouded Leopard Rk. II	ToL
+119	Growl of the Clouded Leopard Rk. III	ToL
+119	Polar Roar	ToL
+119	Polar Roar Rk. II	ToL
+119	Polar Roar Rk. III	ToL
+119	Spirit of Siver	ToL
+119	Spirit of Siver Rk. II	ToL
+119	Spirit of Siver Rk. III	ToL
+119	Sylra Fris' Chill	ToL
+119	Sylra Fris' Chill Rk. II	ToL
+119	Sylra Fris' Chill Rk. III	ToL
+120	Ander's Call	ToL
+120	Ander's Call II	ToL
+120	Ander's Call III	ToL
+120	Ander's Feralgia	ToL
+120	Ander's Feralgia Rk. II	ToL
+120	Ander's Feralgia Rk. III	ToL
+120	Ander's Growl	ToL
+120	Ander's Growl II	ToL
+120	Ander's Growl III	ToL
+120	Bellow at the Moon	ToL
+120	Bellow at the Moon	ToL
+120	Bellow at the Moon Call	ToL
+120	Bellow at the Moon Rk. II	ToL
+120	Bellow at the Moon Rk. III	ToL
+120	Chieftain's Unity	ToL
+120	Kejaan's Vindication	NoS
+120	Kejaan's Vindication Rk. II	NoS
+120	Kejaan's Vindication Rk. III	NoS
+120	Spellbreaker's Fortress	ToL
+120	Spellbreaker's Fortress Rk. II	ToL
+120	Spellbreaker's Fortress Rk. III	ToL
+120	Spellbreaker's Mending VI Azia	ToL
+120	Spellbreaker's Mending VI Beza	ToL
+120	Spellbreaker's Mending VI Caza	ToL
+120	Va Xakra's Disease Strike	ToL
+120	Va Xakra's Disease Strike II	ToL
+120	Va Xakra's Disease Strike III	ToL
+120	Va Xakra's Ice Strike	ToL
+120	Va Xakra's Ice Strike II	ToL
+120	Va Xakra's Ice Strike III	ToL
+120	Va Xakra's Maelstrom	ToL
+120	Va Xakra's Maelstrom Rk. II	ToL
+120	Va Xakra's Maelstrom Rk. III	ToL
+120	Va Xakra's Poison Strike	ToL
+120	Va Xakra's Poison Strike II	ToL
+120	Va Xakra's Poison Strike III	ToL
+121	Companion's Aid VII Azia	LS
+121	Companion's Aid VII Beza	LS
+121	Companion's Aid VII Caza	LS
+121	Convalesce	LS
+121	Convalesce Rk. II	LS
+121	Convalesce Rk. III	LS
+121	Focus of Skull Crusher	LS
+121	Forgebound Blood	LS
+121	Forgebound Blood Rk. II	LS
+121	Forgebound Blood Rk. III	LS
+121	Magna's Aggression	LS
+121	Magna's Aggression Rk. II	LS
+121	Magna's Aggression Rk. III	LS
+121	Magna's Protection	LS
+121	Magna's Protection Rk. II	LS
+121	Magna's Protection Rk. III	LS
+121	Salve of Homer	LS
+121	Salve of Homer Rk. II	LS
+121	Salve of Homer Rk. III	LS
+121	Warder's Alliance	LS
+121	Warder's Alliance Rk. II	LS
+121	Warder's Alliance Rk. III	LS
+122	Ankexfen Lance	LS
+122	Ankexfen Lance Rk. II	LS
+122	Ankexfen Lance Rk. III	LS
+122	Barrage of Claws	LS
+122	Barrage of Claws Rk. II	LS
+122	Barrage of Claws Rk. III	LS
+122	Fevered Endemic	LS
+122	Fevered Endemic Rk. II	LS
+122	Fevered Endemic Rk. III	LS
+122	Kindleheart's Melioration	LS
+122	Kindleheart's Melioration Rk. II	LS
+122	Kindleheart's Melioration Rk. III	LS
+122	Kindleheart's Miracle	LS
+122	Kindleheart's Miracle Rk. II	LS
+122	Kindleheart's Miracle Rk. III	LS
+122	Spiritual Valiancy	LS
+122	Thornhost's Mending	LS
+122	Thornhost's Mending Rk. II	LS
+122	Thornhost's Mending Rk. III	LS
+123	Frozen Creep	LS
+123	Frozen Creep Ice	LS
+123	Frozen Creep Ice II	LS
+123	Frozen Creep Ice III	LS
+123	Frozen Creep Poison	LS
+123	Frozen Creep Poison II	LS
+123	Frozen Creep Poison III	LS
+123	Frozen Creep Rk. II	LS
+123	Frozen Creep Rk. III	LS
+123	Insatiable Voracity	LS
+123	Insatiable Voracity Rk. II	LS
+123	Insatiable Voracity Rk. III	LS
+123	Mortimus' Bite	LS
+123	Mortimus' Bite Rk. II	LS
+123	Mortimus' Bite Rk. III	LS
+123	Promised Reconstitution	LS
+123	Promised Reconstitution Rk. II	LS
+123	Promised Reconstitution Rk. III	LS
+123	Promised Reconstitution Trigger	LS
+123	Promised Reconstitution Trigger II	LS
+123	Promised Reconstitution Trigger III	LS
+123	Sapping Bite	LS
+123	Sapping Bite Rk. II	LS
+123	Sapping Bite Rk. III	LS
+123	Spirit of Shae	LS
+123	Spiritual Enduement	LS
+123	Vitalizing Warder	LS
+123	Vitalizing Warder Rk. II	LS
+123	Vitalizing Warder Rk. III	LS
+124	Aegis of Valorforged	LS
+124	Aegis of Valorforged Rk. II	LS
+124	Aegis of Valorforged Rk. III	LS
+124	Cohort's Unity	LS
+124	Growl of Yasil	LS
+124	Growl of Yasil	LS
+124	Growl of Yasil II	LS
+124	Growl of Yasil III	LS
+124	Growl of Yasil Rk. II	LS
+124	Growl of Yasil Rk. III	LS
+124	Hoarfrost Roar	LS
+124	Hoarfrost Roar Rk. II	LS
+124	Hoarfrost Roar Rk. III	LS
+124	Lazam's Chill	LS
+124	Lazam's Chill Rk. II	LS
+124	Lazam's Chill Rk. III	LS
+124	Spirit of Shoru	LS
+124	Spirit of Shoru Rk. II	LS
+124	Spirit of Shoru Rk. III	LS
+124	Wallop	LS
+124	Wallop Rk. II	LS
+124	Wallop Rk. III	LS
+125	Monkey's Guile Discipline	LS
+125	Monkey's Guile Discipline Rk. II	LS
+125	Monkey's Guile Discipline Rk. III	LS
+125	Rimeclaw's Disease Strike	LS
+125	Rimeclaw's Disease Strike II	LS
+125	Rimeclaw's Disease Strike III	LS
+125	Rimeclaw's Ice Strike	LS
+125	Rimeclaw's Ice Strike II	LS
+125	Rimeclaw's Ice Strike III	LS
+125	Rimeclaw's Maelstrom	LS
+125	Rimeclaw's Maelstrom Rk. II	LS
+125	Rimeclaw's Maelstrom Rk. III	LS
+125	Rimeclaw's Poison Strike	LS
+125	Rimeclaw's Poison Strike II	LS
+125	Rimeclaw's Poison Strike III	LS
+125	Shriek at the Moon	LS
+125	Shriek at the Moon Call	LS
+125	Shriek at the Moon Rk. II	LS
+125	Shriek at the Moon Rk. III	LS
+125	Shrieking at the Moon	LS
+125	SingleMalt's Call	LS
+125	SingleMalt's Call II	LS
+125	SingleMalt's Call III	LS
+125	SingleMalt's Feralgia	LS
+125	SingleMalt's Feralgia Rk. II	LS
+125	SingleMalt's Feralgia Rk. III	LS
+125	SingleMalt's Growl	LS
+125	SingleMalt's Growl II	LS
+125	SingleMalt's Growl III	LS
+125	Spellbreaker's Mending VII Azia	LS
+125	Spellbreaker's Mending VII Beza	LS
+125	Spellbreaker's Mending VII Caza	LS
+125	Spellbreaker's Synergy	LS
+125	Spellbreaker's Synergy Rk. II	LS
+125	Spellbreaker's Synergy Rk. III	LS
+125	Wildfang's Unity	LS
+250	Composite Fury 1	CoV
+250	Composite Fury 2	CoV
+250	Composite Fury 3	CoV
+250	Composite Fury 4	CoV
+250	Composite Fury 5	CoV
+250	Composite Fury 6	CoV
+250	Dichotomic Fury 1	TBM
+250	Dichotomic Fury 2	TBM
+250	Dichotomic Fury 3	TBM
+250	Dichotomic Fury 4	TBM
+250	Dichotomic Fury 5	TBM
+250	Dichotomic Fury 6	TBM
+250	Dissident Fury 1	TBL
+250	Dissident Fury 2	TBL
+250	Dissident Fury 3	TBL
+250	Dissident Fury 4	TBL
+250	Dissident Fury 5	TBL
+250	Dissident Fury 6	TBL
+250	Ecliptic Fury 1	NoS
+250	Ecliptic Fury 2	NoS
+250	Ecliptic Fury 3	NoS
+250	Ecliptic Fury 4	NoS
+250	Ecliptic Fury 5	NoS
+250	Ecliptic Fury 6	NoS

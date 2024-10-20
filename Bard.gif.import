@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cgc4baeu26pvp"
+path="res://.godot/imported/Bard.gif-9189f4baaff7e6efb9c82c489f3f0ba5.tres"
+
+[deps]
+
+source_file="res://Bard.gif"
+dest_files=["res://.godot/imported/Bard.gif-9189f4baaff7e6efb9c82c489f3f0ba5.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://clv7yk5snyfeg"
+path="res://.godot/imported/Shadowknight.gif-0cec37a8db3159200b7d808dd8ff97d9.tres"
+
+[deps]
+
+source_file="res://Shadowknight.gif"
+dest_files=["res://.godot/imported/Shadowknight.gif-0cec37a8db3159200b7d808dd8ff97d9.tres"]
+
+[params]
+
+frames_per_second=30

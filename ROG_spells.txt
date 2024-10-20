@@ -1,0 +1,637 @@
+1	Throw Stone	EQ
+5	Elbow Strike	EQ
+10	Focused Will Discipline	EQ
+20	Sneak Attack	Gates
+30	Resistant Discipline	Kunark
+40	Fearless Discipline	Kunark
+52	Thief's Vengeance	Gates
+53	Counterattack Discipline	Kunark
+54	Deadeye Discipline	Kunark
+55	Nimble Discipline	Kunark
+55	Poison Spurs Trap	PoR
+57	Kinesthetics Discipline	Kunark
+58	Blinding Speed Discipline	Kunark
+59	Duelist Discipline	Kunark
+61	Rogue's Ploy	LDoN
+63	Assassin's Strike	Gates
+63	Deadly Precision Discipline	PoP
+63	Healing Will Discipline	PoP
+65	Ancient: Chaos Strike	Gates
+65	Kyv Strike	Gates
+65	Twisted Chance Discipline	PoP
+66	Imperceptible Discipline	Omens
+68	Deadly Aim Discipline	Omens
+68	Thief's Eyes	DoD
+69	Assassin's Feint	DoN
+69	Daggerfall	Omens
+70	Frenzied Stabbing Discipline	Omens
+70	Poison Spikes Trap	PoR
+70	Razorarc	PoR
+71	Blinding Flash	TSS
+71	Blinding Flash Rk. II	TSS
+71	Blinding Flash Rk. III	TSS
+72	Second Wind	TBS
+72	Second Wind Rk. II	TBS
+72	Second Wind Rk. III	TBS
+72	Spelldodge Discipline	TSS
+72	Spelldodge Discipline Rk. II	TSS
+73	Guide of Toxicity	TSS
+73	Guide of Toxicity Rk. II	TSS
+73	Guide of Toxicity Rk. III	TSS
+74	Lithe Discipline	TSS
+74	Lithe Discipline Rk. II	TSS
+74	Pinpoint Vulnerability	TBS
+74	Pinpoint Vulnerability Rk. II	TBS
+74	Pinpoint Vulnerability Rk. III	TBS
+75	Assassin Discipline	TSS
+75	Assassin Discipline Rk. II	TSS
+75	Assassin Discipline Rk. III	TSS
+76	Blinding Flare	SoF
+76	Blinding Flare Rk. II	SoF
+76	Blinding Flare Rk. III	SoF
+76	Waylay	SoF
+76	Waylay Rk. II	SoF
+76	Waylay Rk. III	SoF
+77	Jugular Slash	SoF
+77	Jugular Slash Rk. II	SoF
+77	Jugular Slash Rk. III	SoF
+77	Third Wind	SoF
+77	Third Wind Rk. II	SoF
+77	Third Wind Rk. III	SoF
+78	Docent of Toxicity	SoF
+78	Docent of Toxicity Rk. II	SoF
+78	Docent of Toxicity Rk. III	SoF
+79	Pinpoint Weaknesses	SoF
+79	Pinpoint Weaknesses Rk. II	SoF
+79	Pinpoint Weaknesses Rk. III	SoF
+80	Fadelure	SoF
+80	Fadelure Rk. II	SoF
+80	Fadelure Rk. III	SoF
+80	Swiftblade	SoF
+80	Swiftblade Rk. II	SoF
+80	Swiftblade Rk. III	SoF
+81	Ambush	SoD
+81	Ambush Rk. II	SoD
+81	Ambush Rk. III	SoD
+81	Blinding Spark	SoD
+81	Blinding Spark Rk. II	SoD
+81	Blinding Spark Rk. III	SoD
+82	Fourth Wind	SoD
+82	Fourth Wind Rk. II	SoD
+82	Fourth Wind Rk. III	SoD
+82	Jugular Slice	SoD
+82	Jugular Slice Rk. II	SoD
+82	Jugular Slice Rk. III	SoD
+83	Bleed	SoD
+83	Bleed Rk. II	SoD
+83	Bleed Rk. III	SoD
+83	Lesson in Toxicity	SoD
+83	Lesson in Toxicity Rk. II	SoD
+83	Lesson in Toxicity Rk. III	SoD
+83	Vigorous Dagger-Throw	UF
+83	Vigorous Dagger-Throw Rk. II	UF
+83	Vigorous Dagger-Throw Rk. III	UF
+84	Pinpoint Vitals	SoD
+84	Pinpoint Vitals Rk. II	SoD
+84	Pinpoint Vitals Rk. III	SoD
+84	Procure Sap	SoD
+84	Procure Sap Rk. II	SoD
+84	Procure Sap Rk. III	SoD
+85	Assault	UF
+85	Assault Rk. II	UF
+85	Assault Rk. III	UF
+85	Daggerlunge	SoD
+85	Daggerlunge Rk. II	SoD
+85	Daggerlunge Rk. III	SoD
+85	Desperate Escape	UF
+85	Desperate Escape Rk. II	UF
+85	Desperate Escape Rk. III	UF
+85	Smokescreen	SoD
+85	Smokescreen Rk. II	SoD
+85	Smokescreen Rk. III	SoD
+86	Assail	HoT
+86	Assail Rk. II	HoT
+86	Assail Rk. III	HoT
+86	Blinding Glare	HoT
+86	Blinding Glare Rk. II	HoT
+86	Blinding Glare Rk. III	HoT
+86	Easy Mark	HoT
+86	Easy Mark Rk. II	HoT
+86	Easy Mark Rk. III	HoT
+86	Respite	HoT
+86	Respite Rk. II	HoT
+86	Respite Rk. III	HoT
+87	Fifth Wind	HoT
+87	Fifth Wind Rk. II	HoT
+87	Fifth Wind Rk. III	HoT
+87	Jugular Sever	HoT
+87	Jugular Sever Rk. II	HoT
+87	Jugular Sever Rk. III	HoT
+87	Weapon Affiliation	HoT
+87	Weapon Affiliation Rk. II	HoT
+87	Weapon Affiliation Rk. III	HoT
+88	Instruction in Toxicity	HoT
+88	Instruction in Toxicity Rk. II	HoT
+88	Instruction in Toxicity Rk. III	HoT
+88	Vigorous Dagger-Strike	HoT
+88	Vigorous Dagger-Strike Rk. II	HoT
+88	Vigorous Dagger-Strike Rk. III	HoT
+88	Wound	HoT
+88	Wound Rk. II	HoT
+88	Wound Rk. III	HoT
+89	Fleet-Footed Discipline	HoT
+89	Fleet-Footed Discipline Rk. II	HoT
+89	Fleet-Footed Discipline Rk. III	HoT
+89	Misdirection	HoT
+89	Misdirection Rk. II	HoT
+89	Misdirection Rk. III	HoT
+89	Pinpoint Flaws	HoT
+89	Pinpoint Flaws Rk. II	HoT
+89	Pinpoint Flaws Rk. III	HoT
+90	Battery	HoT
+90	Battery Rk. II	HoT
+90	Battery Rk. III	HoT
+90	Daggerswipe	HoT
+90	Daggerswipe Rk. II	HoT
+90	Daggerswipe Rk. III	HoT
+90	Reckless Escape	HoT
+90	Reckless Escape Rk. II	HoT
+90	Reckless Escape Rk. III	HoT
+90	Smokeshroud	HoT
+90	Smokeshroud Rk. II	HoT
+90	Smokeshroud Rk. III	HoT
+91	Accost	VoA
+91	Accost Rk. II	VoA
+91	Accost Rk. III	VoA
+91	Blinding Gleam	VoA
+91	Blinding Gleam Rk. II	VoA
+91	Blinding Gleam Rk. III	VoA
+91	Reprieve	VoA
+91	Reprieve Rk. II	VoA
+91	Reprieve Rk. III	VoA
+91	Simple Mark	VoA
+91	Simple Mark Rk. II	VoA
+91	Simple Mark Rk. III	VoA
+92	Distraction	VoA
+92	Distraction Rk. II	VoA
+92	Distraction Rk. III	VoA
+92	Jugular Gash	VoA
+92	Jugular Gash Rk. II	VoA
+92	Jugular Gash Rk. III	VoA
+92	Razor's Edge Discipline	VoA
+92	Razor's Edge Discipline Rk. II	VoA
+92	Razor's Edge Discipline Rk. III	VoA
+92	Sixth Wind	VoA
+92	Sixth Wind Rk. II	VoA
+92	Sixth Wind Rk. III	VoA
+92	Weapon Bond	VoA
+92	Weapon Bond Rk. II	VoA
+92	Weapon Bond Rk. III	VoA
+93	Energetic Dagger-Strike	VoA
+93	Energetic Dagger-Strike Rk. II	VoA
+93	Energetic Dagger-Strike Rk. III	VoA
+93	Inner Rejuvenation	VoA
+93	Inner Rejuvenation Rk. II	VoA
+93	Inner Rejuvenation Rk. III	VoA
+93	Lacerate	VoA
+93	Lacerate Rk. II	VoA
+93	Lacerate Rk. III	VoA
+93	Toxic Blade	VoA
+93	Toxic Blade Rk. II	VoA
+93	Toxic Blade Rk. III	VoA
+94	Delusion	VoA
+94	Delusion Rk. II	VoA
+94	Delusion Rk. III	VoA
+94	Pinpoint Liabilities	VoA
+94	Pinpoint Liabilities Rk. II	VoA
+94	Pinpoint Liabilities Rk. III	VoA
+94	Quick-Footed Discipline	VoA
+94	Quick-Footed Discipline Rk. II	VoA
+94	Quick-Footed Discipline Rk. III	VoA
+95	Daggerstrike	VoA
+95	Daggerstrike Rk. II	VoA
+95	Daggerstrike Rk. III	VoA
+95	Eradicator's Discipline	VoA
+95	Eradicator's Discipline Rk. II	VoA
+95	Eradicator's Discipline Rk. III	VoA
+95	Onslaught	VoA
+95	Onslaught Rk. II	VoA
+95	Onslaught Rk. III	VoA
+95	Smokeblind	VoA
+95	Smokeblind Rk. II	VoA
+95	Smokeblind Rk. III	VoA
+95	Wild Escape	VoA
+95	Wild Escape Rk. II	VoA
+95	Wild Escape Rk. III	VoA
+96	Beset	RoF
+96	Beset Rk. II	RoF
+96	Beset Rk. III	RoF
+96	Blinding Blaze	RoF
+96	Blinding Blaze Rk. II	RoF
+96	Blinding Blaze Rk. III	RoF
+96	Gullible Mark	RoF
+96	Gullible Mark Rk. II	RoF
+96	Gullible Mark Rk. III	RoF
+96	Rest	RoF
+96	Rest Rk. II	RoF
+96	Rest Rk. III	RoF
+96	Thief's Vision	CotF
+96	Thief's Vision Rk. II	CotF
+96	Thief's Vision Rk. III	CotF
+96	Venomous Spike Trap	RoF
+96	Venomous Spike Trap Rk. II	RoF
+96	Venomous Spike Trap Rk. III	RoF
+97	Conditioned Reflexes	CotF
+97	Conditioned Reflexes Rk. II	CotF
+97	Conditioned Reflexes Rk. III	CotF
+97	Indiscernible Discipline	RoF
+97	Indiscernible Discipline Rk. II	RoF
+97	Indiscernible Discipline Rk. III	RoF
+97	Jugular Lacerate	RoF
+97	Jugular Lacerate Rk. II	RoF
+97	Jugular Lacerate Rk. III	RoF
+97	Seventh Wind	RoF
+97	Seventh Wind Rk. II	RoF
+97	Seventh Wind Rk. III	RoF
+97	Spell Evasion Discipline	RoF
+97	Spell Evasion Discipline Rk. II	RoF
+97	Spell Evasion Discipline Rk. III	RoF
+97	Weapon Covenant	RoF
+97	Weapon Covenant Rk. II	RoF
+97	Weapon Covenant Rk. III	RoF
+98	Asp Blade	RoF
+98	Asp Blade Rk. II	RoF
+98	Asp Blade Rk. III	RoF
+98	Energetic Dagger-Throw	RoF
+98	Energetic Dagger-Throw Rk. II	RoF
+98	Energetic Dagger-Throw Rk. III	RoF
+98	Fatal Aim Discipline	RoF
+98	Fatal Aim Discipline Rk. II	RoF
+98	Fatal Aim Discipline Rk. III	RoF
+98	Gash	RoF
+98	Gash Rk. II	RoF
+98	Gash Rk. III	RoF
+98	Knifeplay Discipline	CotF
+98	Knifeplay Discipline Rk. II	CotF
+98	Knifeplay Discipline Rk. III	CotF
+99	Agile-Footed Discipline	RoF
+99	Agile-Footed Discipline Rk. II	RoF
+99	Agile-Footed Discipline Rk. III	RoF
+99	Aspbleeder Discipline	RoF
+99	Aspbleeder Discipline Rk. II	RoF
+99	Aspbleeder Discipline Rk. III	RoF
+99	Deceit	RoF
+99	Deceit Rk. II	RoF
+99	Deceit Rk. III	RoF
+99	Holdout Blade	CotF
+99	Holdout Blade Rk. II	CotF
+99	Holdout Blade Rk. III	CotF
+99	Pinpoint Deficiencies	RoF
+99	Pinpoint Deficiencies Rk. II	RoF
+99	Pinpoint Deficiencies Rk. III	RoF
+100	Daggerthrust	RoF
+100	Daggerthrust Rk. II	RoF
+100	Daggerthrust Rk. III	RoF
+100	Daring Escape	RoF
+100	Daring Escape Rk. II	RoF
+100	Daring Escape Rk. III	RoF
+100	Executioner Discipline	RoF
+100	Executioner Discipline Rk. II	RoF
+100	Executioner Discipline Rk. III	RoF
+100	Incursion	RoF
+100	Incursion Rk. II	RoF
+100	Incursion Rk. III	RoF
+100	Phantom Assassin	CotF
+100	Phantom Assassin Rk. II	CotF
+100	Phantom Assassin Rk. III	CotF
+100	Smokecloud	RoF
+100	Smokecloud Rk. II	RoF
+100	Smokecloud Rk. III	RoF
+101	Breather	TDS
+101	Breather Rk. II	TDS
+101	Breather Rk. III	TDS
+101	Dichotomic Weapons	TBM
+101	Surprise Attack	TDS
+101	Surprise Attack Rk. II	TDS
+101	Surprise Attack Rk. III	TDS
+101	Wide-Eyed Mark	TDS
+101	Wide-Eyed Mark Rk. II	TDS
+101	Wide-Eyed Mark Rk. III	TDS
+102	Blinding Burst	TDS
+102	Blinding Burst Rk. II	TDS
+102	Blinding Burst Rk. III	TDS
+102	Jugular Hack	TDS
+102	Jugular Hack Rk. II	TDS
+102	Jugular Hack Rk. III	TDS
+102	Shadow-Hunter's Dagger	EoK
+102	Shadow-Hunter's Dagger Rk. II	EoK
+102	Shadow-Hunter's Dagger Rk. III	EoK
+102	Shrouding Speed Discipline	TBM
+102	Shrouding Speed Discipline Rk. II	TBM
+102	Shrouding Speed Discipline Rk. III	TBM
+102	Shrouding Speed Shock	TBM
+102	Shrouding Speed Shock II	TBM
+102	Shrouding Speed Shock III	TBM
+103	Exuberant Dagger-Throw	TDS
+103	Exuberant Dagger-Throw Rk. II	TDS
+103	Exuberant Dagger-Throw Rk. III	TDS
+103	Hack	TDS
+103	Hack Rk. II	TDS
+103	Hack Rk. III	TDS
+103	Poisonous Alliance	EoK
+103	Poisonous Alliance Rk. II	EoK
+103	Poisonous Alliance Rk. III	EoK
+103	Reefcrawler Blade	TDS
+103	Reefcrawler Blade Rk. II	TDS
+103	Reefcrawler Blade Rk. III	TDS
+104	Arcwork Discipline	TDS
+104	Arcwork Discipline Rk. II	TDS
+104	Arcwork Discipline Rk. III	TDS
+104	Disassociative Puncture	EoK
+104	Disassociative Puncture Rk. II	EoK
+104	Disassociative Puncture Rk. III	EoK
+104	Disorientation	TDS
+104	Disorientation Rk. II	TDS
+104	Disorientation Rk. III	TDS
+104	Hidden Blade	TDS
+104	Hidden Blade Rk. II	TDS
+104	Hidden Blade Rk. III	TDS
+105	Audacious Escape	TDS
+105	Audacious Escape Rk. II	TDS
+105	Audacious Escape Rk. III	TDS
+105	Barrage	TDS
+105	Barrage Rk. II	TDS
+105	Barrage Rk. III	TDS
+105	Daggergash	TDS
+105	Daggergash Rk. II	TDS
+105	Daggergash Rk. III	TDS
+105	Smokeshade	TDS
+105	Smokeshade Rk. II	TDS
+105	Smokeshade Rk. III	TDS
+106	Dim-Witted Mark	RoS
+106	Dim-Witted Mark Rk. II	RoS
+106	Dim-Witted Mark Rk. III	RoS
+106	Dissident Weapons	TBL
+106	Hiatus	RoS
+106	Hiatus Rk. II	RoS
+106	Hiatus Rk. III	RoS
+106	Lie in Wait	RoS
+106	Lie in Wait Rk. II	RoS
+106	Lie in Wait Rk. III	RoS
+107	Blinding Brilliance	RoS
+107	Blinding Brilliance Rk. II	RoS
+107	Blinding Brilliance Rk. III	RoS
+107	Jugular Strike	RoS
+107	Jugular Strike Rk. II	RoS
+107	Jugular Strike Rk. III	RoS
+107	Ragged Edge Discipline	RoS
+107	Ragged Edge Discipline Rk. II	RoS
+107	Ragged Edge Discipline Rk. III	RoS
+107	Undetectable Discipline	RoS
+107	Undetectable Discipline Rk. II	RoS
+107	Undetectable Discipline Rk. III	RoS
+108	Forceful Dagger-Throw	RoS
+108	Forceful Dagger-Throw Rk. II	RoS
+108	Forceful Dagger-Throw Rk. III	RoS
+108	Lethal Aim Discipline	RoS
+108	Lethal Aim Discipline Rk. II	RoS
+108	Lethal Aim Discipline Rk. III	RoS
+108	Poisonous Covenant	TBL
+108	Poisonous Covenant Rk. II	TBL
+108	Poisonous Covenant Rk. III	TBL
+108	Skorpikis Blade	RoS
+108	Skorpikis Blade Rk. II	RoS
+108	Skorpikis Blade Rk. III	RoS
+108	Slice	RoS
+108	Slice Rk. II	RoS
+108	Slice Rk. III	RoS
+109	Aculeus Discipline	RoS
+109	Aculeus Discipline Rk. II	RoS
+109	Aculeus Discipline Rk. III	RoS
+109	Diversion	RoS
+109	Diversion Rk. II	RoS
+109	Diversion Rk. III	RoS
+109	Pinpoint Shortcomings	RoS
+109	Pinpoint Shortcomings Rk. II	RoS
+109	Pinpoint Shortcomings Rk. III	RoS
+109	Secret Blade	RoS
+109	Secret Blade Rk. II	RoS
+109	Secret Blade Rk. III	RoS
+109	Vexatious Puncture	TBL
+109	Vexatious Puncture Rk. II	TBL
+109	Vexatious Puncture Rk. III	TBL
+110	Brazen Escape	RoS
+110	Brazen Escape Rk. II	RoS
+110	Brazen Escape Rk. III	RoS
+110	Daggerslice	RoS
+110	Daggerslice Rk. II	RoS
+110	Daggerslice Rk. III	RoS
+110	Fellstrike	RoS
+110	Fellstrike Rk. II	RoS
+110	Fellstrike Rk. III	RoS
+110	Smokegloom	RoS
+110	Smokegloom Rk. II	RoS
+110	Smokegloom Rk. III	RoS
+111	Bushwhack	ToV
+111	Bushwhack Rk. II	ToV
+111	Bushwhack Rk. III	ToV
+111	Composite Weapons	CoV
+111	Naive Mark	ToV
+111	Naive Mark Rk. II	ToV
+111	Naive Mark Rk. III	ToV
+111	Relax	ToV
+111	Relax Rk. II	ToV
+111	Relax Rk. III	ToV
+112	Blinding Glint	ToV
+112	Blinding Glint Rk. II	ToV
+112	Blinding Glint Rk. III	ToV
+112	Cloaking Speed Discipline	ToV
+112	Cloaking Speed Discipline Rk. II	ToV
+112	Cloaking Speed Discipline Rk. III	ToV
+112	Cloaking Speed Shock	ToV
+112	Cloaking Speed Shock II	ToV
+112	Cloaking Speed Shock III	ToV
+112	Jugular Cut	ToV
+112	Jugular Cut Rk. II	ToV
+112	Jugular Cut Rk. III	ToV
+112	Neurotoxic Spike Trap	CoV
+112	Neurotoxic Spike Trap Rk. II	CoV
+112	Neurotoxic Spike Trap Rk. III	CoV
+113	Drachnid Blade	ToV
+113	Drachnid Blade Rk. II	ToV
+113	Drachnid Blade Rk. III	ToV
+113	Poisonous Coalition	CoV
+113	Poisonous Coalition Rk. II	CoV
+113	Poisonous Coalition Rk. III	CoV
+113	Powerful Dagger-Throw	ToV
+113	Powerful Dagger-Throw Rk. II	ToV
+113	Powerful Dagger-Throw Rk. III	ToV
+113	Slash	ToV
+113	Slash Rk. II	ToV
+113	Slash Rk. III	ToV
+114	Chelicerae Discipline	ToV
+114	Chelicerae Discipline Rk. II	ToV
+114	Chelicerae Discipline Rk. III	ToV
+114	Cloaked Blade	ToV
+114	Cloaked Blade Rk. II	ToV
+114	Cloaked Blade Rk. III	ToV
+114	Cozen	ToV
+114	Cozen Rk. II	ToV
+114	Cozen Rk. III	ToV
+114	Pinpoint Defects	ToV
+114	Pinpoint Defects Rk. II	ToV
+114	Pinpoint Defects Rk. III	ToV
+114	Vindictive Puncture	CoV
+114	Vindictive Puncture Rk. II	CoV
+114	Vindictive Puncture Rk. III	CoV
+115	Blitzstrike	ToV
+115	Blitzstrike Rk. II	ToV
+115	Blitzstrike Rk. III	ToV
+115	Bold Escape	ToV
+115	Bold Escape Rk. II	ToV
+115	Bold Escape Rk. III	ToV
+115	Daggerslash	ToV
+115	Daggerslash Rk. II	ToV
+115	Daggerslash Rk. III	ToV
+115	Practiced Reflexes	CoV
+115	Practiced Reflexes Rk. II	CoV
+115	Practiced Reflexes Rk. III	CoV
+115	Smokeveil	ToV
+115	Smokeveil Rk. II	ToV
+115	Smokeveil Rk. III	ToV
+116	Ambuscade	ToL
+116	Ambuscade Rk. II	ToL
+116	Ambuscade Rk. III	ToL
+116	Baleful Aim Discipline	ToL
+116	Baleful Aim Discipline Rk. II	ToL
+116	Baleful Aim Discipline Rk. III	ToL
+116	Ecliptic Weapons	NoS
+116	Foolish Mark	ToL
+116	Foolish Mark Rk. II	ToL
+116	Foolish Mark Rk. III	ToL
+116	Night's Calming	ToL
+116	Night's Calming Rk. II	ToL
+116	Night's Calming Rk. III	ToL
+117	Blinding Candescence	ToL
+117	Blinding Candescence Rk. II	ToL
+117	Blinding Candescence Rk. III	ToL
+117	Jugular Rend	ToL
+117	Jugular Rend Rk. II	ToL
+117	Jugular Rend Rk. III	ToL
+117	Thief's Sight	NoS
+117	Thief's Sight Rk. II	NoS
+117	Thief's Sight Rk. III	NoS
+117	Unseeable Discipline	ToL
+117	Unseeable Discipline Rk. II	ToL
+117	Unseeable Discipline Rk. III	ToL
+118	Lance	ToL
+118	Lance Rk. II	ToL
+118	Lance Rk. III	ToL
+118	Netherbian Blade	ToL
+118	Netherbian Blade Rk. II	ToL
+118	Netherbian Blade Rk. III	ToL
+118	Poisonous Conjunction	NoS
+118	Poisonous Conjunction Rk. II	NoS
+118	Poisonous Conjunction Rk. III	NoS
+118	Precise Dagger-Throw	ToL
+118	Precise Dagger-Throw Rk. II	ToL
+118	Precise Dagger-Throw Rk. III	ToL
+119	Beguile	ToL
+119	Beguile Rk. II	ToL
+119	Beguile Rk. III	ToL
+119	Disorienting Puncture	NoS
+119	Disorienting Puncture Rk. II	NoS
+119	Disorienting Puncture Rk. III	NoS
+119	Exotoxin Discipline	ToL
+119	Exotoxin Discipline Rk. II	ToL
+119	Exotoxin Discipline Rk. III	ToL
+119	Obfuscated Blade	ToL
+119	Obfuscated Blade Rk. II	ToL
+119	Obfuscated Blade Rk. III	ToL
+120	Agitating Smoke	ToL
+120	Agitating Smoke Rk. II	ToL
+120	Agitating Smoke Rk. III	ToL
+120	Gutsy Escape	ToL
+120	Gutsy Escape Rk. II	ToL
+120	Gutsy Escape Rk. III	ToL
+120	Shadowstrike	ToL
+120	Shadowstrike Rk. II	ToL
+120	Shadowstrike Rk. III	ToL
+121	Bamboozle	LS
+121	Bamboozle Rk. II	LS
+121	Bamboozle Rk. III	LS
+121	Convalesce	LS
+121	Convalesce Rk. II	LS
+121	Convalesce Rk. III	LS
+121	Reckless Edge Discipline	LS
+121	Reckless Edge Discipline Rk. II	LS
+121	Reckless Edge Discipline Rk. III	LS
+121	Unsuspecting Mark	LS
+121	Unsuspecting Mark Rk. II	LS
+121	Unsuspecting Mark Rk. III	LS
+122	Blinding Glister	LS
+122	Blinding Glister Rk. II	LS
+122	Blinding Glister Rk. III	LS
+122	Jugular Hew	LS
+122	Jugular Hew Rk. II	LS
+122	Jugular Hew Rk. III	LS
+122	Shadowed Speed Discipline	LS
+122	Shadowed Speed Discipline Rk. II	LS
+122	Shadowed Speed Discipline Rk. III	LS
+122	Shadowed Speed Shock	LS
+122	Shadowed Speed Shock II	LS
+122	Shadowed Speed Shock III	LS
+123	Carve	LS
+123	Carve Rk. II	LS
+123	Carve Rk. III	LS
+123	Tenacious Dagger-Throw	LS
+123	Tenacious Dagger-Throw Rk. II	LS
+123	Tenacious Dagger-Throw Rk. III	LS
+123	Venomous Blade	LS
+123	Venomous Blade Rk. II	LS
+123	Venomous Blade Rk. III	LS
+124	Crinotoxin Discipline	LS
+124	Crinotoxin Discipline Rk. II	LS
+124	Crinotoxin Discipline Rk. III	LS
+124	Pinpoint Fault	LS
+124	Pinpoint Fault Rk. II	LS
+124	Pinpoint Fault Rk. III	LS
+124	Trickery	LS
+124	Trickery Rk. II	LS
+124	Trickery Rk. III	LS
+124	Veiled Blade	LS
+124	Veiled Blade Rk. II	LS
+124	Veiled Blade Rk. III	LS
+125	Enthralling Smoke	LS
+125	Enthralling Smoke Rk. II	LS
+125	Enthralling Smoke Rk. III	LS
+125	Mayhem	LS
+125	Mayhem Rk. II	LS
+125	Mayhem Rk. III	LS
+125	Storied Escape	LS
+125	Storied Escape Rk. II	LS
+125	Storied Escape Rk. III	LS
+250	Composite Weapon Trigger 1	CoV
+250	Composite Weapon Trigger 2	CoV
+250	Composite Weapon Trigger 3	CoV
+250	Composite Weapon Trigger 4	CoV
+250	Composite Weapon Trigger 5	CoV
+250	Composite Weapon Trigger 6	CoV
+250	Dichotomic Weapon Effect 1	TBM
+250	Dichotomic Weapon Effect 2	TBM
+250	Dichotomic Weapon Effect 3	TBM
+250	Dichotomic Weapon Effect 4	TBM
+250	Dichotomic Weapon Effect 5	TBM
+250	Dichotomic Weapon Effect 6	TBM
+250	Dissident Weapon Trigger 1	TBL
+250	Dissident Weapon Trigger 2	TBL
+250	Dissident Weapon Trigger 3	TBL
+250	Dissident Weapon Trigger 4	TBL
+250	Dissident Weapon Trigger 5	TBL
+250	Dissident Weapon Trigger 6	TBL
+250	Ecliptic Weapon Trigger 1	NoS
+250	Ecliptic Weapon Trigger 2	NoS
+250	Ecliptic Weapon Trigger 3	NoS
+250	Ecliptic Weapon Trigger 4	NoS
+250	Ecliptic Weapon Trigger 5	NoS
+250	Ecliptic Weapon Trigger 6	NoS

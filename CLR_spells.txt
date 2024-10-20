@@ -1,0 +1,2136 @@
+1	Courage	EQ
+1	Cure Poison	EQ
+1	Divine Aura	EQ
+1	Flash of Light	EQ
+1	Holy Armor	EQ
+1	Lull	EQ
+1	Minor Healing	EQ
+1	Spook the Dead	EQ
+1	Strike	EQ
+1	True North	EQ
+1	Yaulp	EQ
+2	Reckless Strength	EQ
+2	Stun	EQ
+3	Cure Blindness	EQ
+3	Summon Drink	EQ
+4	Cure Disease	EQ
+4	Light Healing	EQ
+4	Ward Undead	EQ
+5	Furor	EQ
+5	Gate	EQ
+5	Soothe	EQ
+6	Endure Poison	EQ
+6	Fear	EQ
+6	Sanctuary	Luclin
+7	Center	EQ
+7	Hammer of Wrath	EQ
+7	Root	EQ
+8	Endure Fire	EQ
+8	Remove Minor Curse	LDoN
+8	Summon Food	EQ
+9	Sense the Dead	EQ
+9	Word of Pain	EQ
+10	Bind Affinity	EQ
+10	Healing	EQ
+10	Iony's Lesser Augury	LDoN
+11	Endure Disease	EQ
+11	Invisibility Versus Undead	EQ
+11	Symbol of Transal	EQ
+12	Halo of Light	EQ
+12	Reanimation	EQ
+12	Sense Summoned	EQ
+13	Cancel Magic	EQ
+13	Endure Cold	EQ
+13	Expulse Undead	EQ
+14	Iony's Lesser Cleansing	LDoN
+14	Iony's Lesser Exorcism	LDoN
+14	Smite	EQ
+15	Blessing of Piety	PoP
+15	Calm	EQ
+15	Spirit Armor	EQ
+16	Endure Magic	EQ
+16	Holy Might	EQ
+16	Yaulp II	EQ
+17	Daring	EQ
+17	Ward Summoned	EQ
+18	Reconstitution	EQ
+19	Celestial Remedy	Luclin
+19	Word of Shadow	EQ
+20	Greater Healing	EQ
+20	Hammer of Striking	EQ
+20	Ward of Vie	LDoN
+21	Inspire Fear	EQ
+21	Symbol of Ryltan	EQ
+21	Wave of Fear	EQ
+22	Bravery	EQ
+22	Counteract Poison	EQ
+22	Reparation	EQ
+23	Dismiss Undead	EQ
+23	Iony's Augury	LDoN
+23	Remove Lesser Curse	LDoN
+24	Iony's Cleansing	LDoN
+24	Iony's Exorcism	LDoN
+25	Guard	EQ
+25	Sermon of the Righteous	Luclin
+26	Panic the Dead	EQ
+26	Word of Spirit	EQ
+27	Expulse Summoned	EQ
+27	Instill	EQ
+27	Revive	EQ
+28	Abundant Drink	EQ
+28	Counteract Disease	EQ
+29	Celestial Health	Luclin
+29	Divine Barrier	EQ
+29	Imbue Amber	EQ
+29	Imbue Black Pearl	EQ
+29	Imbue Black Sapphire	EQ
+29	Imbue Diamond	EQ
+29	Imbue Emerald	EQ
+29	Imbue Opal	EQ
+29	Imbue Peridot	EQ
+29	Imbue Plains Pebble	EQ
+29	Imbue Rose Quartz	EQ
+29	Imbue Ruby	EQ
+29	Imbue Sapphire	EQ
+29	Imbue Topaz	EQ
+29	Mass Imbue Amber	LoY
+29	Mass Imbue Black Pearl	LoY
+29	Mass Imbue Black Sapphire	LoY
+29	Mass Imbue Diamond	LoY
+29	Mass Imbue Emerald	LoY
+29	Mass Imbue Opal	LoY
+29	Mass Imbue Peridot	LoY
+29	Mass Imbue Plains Pebble	LoY
+29	Mass Imbue Rose Quartz	LoY
+29	Mass Imbue Ruby	LoY
+29	Mass Imbue Sapphire	LoY
+29	Mass Imbue Topaz	LoY
+29	Wrath	EQ
+30	Resist Poison	EQ
+30	Superior Healing	EQ
+30	Word of Health	EQ
+31	Force	EQ
+31	Frenzied Strength	EQ
+31	Symbol of Pinzarn	EQ
+32	Atone	EQ
+32	Renewal	EQ
+32	Valor	EQ
+33	Abundant Food	EQ
+33	Expel Undead	EQ
+33	Iony's Greater Augury	LDoN
+33	Resist Fire	EQ
+34	Armor of Protection	Velious
+34	Blinding Luminance	EQ
+34	Iony's Greater Cleansing	LDoN
+34	Iony's Greater Exorcism	LDoN
+34	Tremor	EQ
+35	Armor of Faith	EQ
+35	Blessing of Faith	PoP
+36	Invoke Fear	EQ
+36	Pacify	EQ
+36	Resist Disease	EQ
+37	Dismiss Summoned	EQ
+37	Resuscitate	EQ
+37	Turning of the Unnatural	Velious
+38	Nullify Magic	EQ
+38	Remove Curse	Luclin
+38	Resist Cold	EQ
+39	Complete Heal	EQ
+39	Sacred Word	Luclin
+39	Word of Souls	EQ
+40	Guard of Vie	LDoN
+40	Hammer of Requital	EQ
+40	Temperance	LoY
+41	Symbol of Naltron	EQ
+41	Yaulp III	EQ
+42	Resolution	EQ
+42	Restoration	EQ
+43	Banish Undead	EQ
+43	Resist Magic	EQ
+44	Celestial Healing	Velious
+44	Earthquake	EQ
+44	Greater Mass Imbue Amber	CoV
+44	Greater Mass Imbue Black Pearl	CoV
+44	Greater Mass Imbue Black Sapphire	CoV
+44	Greater Mass Imbue Diamond	CoV
+44	Greater Mass Imbue Emerald	CoV
+44	Greater Mass Imbue Opal	CoV
+44	Greater Mass Imbue Perido	CoV
+44	Greater Mass Imbue Plains Pebble	CoV
+44	Greater Mass Imbue Rose Quartz	CoV
+44	Greater Mass Imbue Ruby	CoV
+44	Greater Mass Imbue Sapphire	CoV
+44	Greater Mass Imbue Topaz	CoV
+44	Retribution	EQ
+45	Blessing of Temperance	LDoN
+45	Healing Light	EQ
+45	Shield of Words	EQ
+45	Word of Healing	EQ
+46	Immobilize	EQ
+46	Sound of Force	EQ
+47	Expel Summoned	EQ
+47	Resurrection	EQ
+48	Abolish Poison	EQ
+48	Improved Invisibility to Undead	Velious
+49	Armor of the Faithful	Luclin
+49	Word Divine	EQ
+50	Ward of the Divine	DoN
+51	Death Pact	Kunark
+51	Dread of Night	Kunark
+51	Pure Blood	LoY
+51	Remedy	Kunark
+51	Sunskin	Kunark
+52	Epitaph of Life	Luclin
+52	Eradicate Poison	RoF
+52	Heroic Bond	Kunark
+52	Heroic Bond	Kunark
+52	Heroism	Kunark
+52	Upheaval	Kunark
+52	Word of Vigor	Kunark
+53	Annul Magic	Kunark
+53	Divine Light	Kunark
+53	Yaulp IV	Kunark
+54	Eradicate Curse	RoF
+54	Mark of Retribution	Luclin
+54	Protection of Vie	LDoN
+54	Reckoning	Kunark
+54	Remove Greater Curse	Luclin
+54	Symbol of Marzin	Kunark
+54	Unswerving Hammer of Faith	Kunark
+55	Aura of the Zealot	PoR
+55	Exile Undead	Kunark
+55	Fortitude	Kunark
+55	Stun Command	Velious
+55	Wake of Tranquility	Kunark
+56	Banish Summoned	Kunark
+56	Cower the Dead	DoN
+56	Hammer of Judgment	Luclin
+56	Judgment	Luclin
+56	Mark of Karn	Kunark
+56	Paralyzing Earth	Kunark
+56	Reviviscence	Kunark
+56	Yaulp V	Luclin
+57	Aegis	Kunark
+57	Bulwark of Faith	Kunark
+57	Trepidation	Kunark
+57	Ward of Rebuke	DoN
+57	Word of Restoration	Kunark
+58	Antidote	Kunark
+58	Blessed Armor of the Risen	Luclin
+58	Enforced Reverence	Kunark
+58	Eradicate Disease	RoF
+58	Ethereal Light	Luclin
+58	Hammer of Divinity	Luclin
+58	Naltron's Mark	Kunark
+59	Celestial Elixir	Kunark
+59	Deistic Voice	DoN
+59	Ethereal Remedy	Luclin
+59	Imbue Valor	PoP
+59	The Unspoken Word	Kunark
+60	Aegolism	Velious
+60	Ancient: Gift of Aegolism	Luclin
+60	Ancient: High Priest's Bulwark	Luclin
+60	Banishment of Shadows	Kunark
+60	Blessing of Aegolism	Luclin
+60	Divine Intervention	Kunark
+60	Ethereal Elixir	Luclin
+60	Hammer of Souls	Luclin
+60	Marzin's Mark	Luclin
+60	Word of Redemption	Kunark
+61	Death's Despair	DoN
+61	Faith	PoP
+61	Larger Reviviscence	RoF
+61	Supernal Remedy	PoP
+61	Symbol of Kazad	PoP
+61	Tarnation	PoP
+61	Ward of Gallantry	PoP
+61	Ward of Vengeance	DoN
+62	Blessing of Reverence	PoP
+62	Bulwark of Vie	LDoN
+62	Condemnation	PoP
+62	Greater Immobilize	PoP
+62	Sermon of Penitence	PoP
+62	Supernal Elixir	PoP
+62	Virtue	PoP
+63	Deistic Bellow	DoN
+63	Hammer of Damnation	PoP
+63	Kazad's Mark	PoP
+63	Resist Corruption	TSS
+63	Resist Corruption Rk. II	TSS
+63	Resist Corruption Rk. III	TSS
+63	Sound of Might	PoP
+63	Supernal Light	PoP
+64	Aura of Reverence	LDoN
+64	Catastrophe	PoP
+64	Destroy Undead	PoP
+64	Expunge Corruption	TSS
+64	Expunge Corruption Rk. II	TSS
+64	Expunge Corruption Rk. III	TSS
+64	Mark of Kings	PoP
+64	Petrifying Earth	PoP
+64	Shared Purity	TSS
+64	Shared Purity Rk. II	TSS
+64	Shared Purity Rk. III	TSS
+64	Word of Replenishment	PoP
+65	Ancient: Chaos Censure	Gates
+65	Armor of the Zealot	PoP
+65	Hand of Virtue	PoP
+65	Holy Elixir	Gates
+65	Holy Light	Gates
+65	Mark of the Righteous	PoP
+65	Order	Gates
+65	Pacification	PoP
+65	The Silent Command	PoP
+65	Yaulp VI	PoP
+66	Confidence	Omens
+66	Greater Reviviscence	RoF
+66	Pious Remedy	Omens
+66	Revulsion of Death	Omens
+66	Shock of Wonder	Omens
+66	Sun Cloak	Omens
+66	Symbol of Balikor	Omens
+66	Ward of Valiance	Omens
+67	Blessing of Devotion	Omens
+67	Conviction	Omens
+67	Panoply of Vie	Omens
+67	Pious Elixir	Omens
+67	Reproach	Omens
+67	Sermon of Reproach	Omens
+68	Death's Regret	DoD
+68	Deistic Howl	Omens
+68	Desolate Undead	Omens
+68	Hammer of Reproach	Omens
+68	Pious Light	Omens
+68	Sound of Divinity	Omens
+68	Unswerving Hammer of Retribution	Omens
+69	Aura of Devotion	Omens
+69	Calamity	Omens
+69	Chromastrike	DoD
+69	Mark of the Blameless	Omens
+69	Ward of Retribution	DoN
+69	Word of Vivification	Omens
+69	Yaulp VII	Omens
+70	Ancient: Hallowed Light	Omens
+70	Ancient: Pious Conscience	Omens
+70	Armor of the Pious	Omens
+70	Aura of the Pious	PoR
+70	Balikor's Mark	Omens
+70	Desperate Renewal	DoD
+70	Elixir of Divinity	PoR
+70	Hand of Conviction	Omens
+70	Placate	Omens
+70	Puratus	PoR
+70	Silent Dictation	Omens
+71	Awestruck	TSS
+71	Awestruck Rk. II	TSS
+71	Awestruck Rk. III	TSS
+71	Blessing of Purpose	TSS
+71	Blessing of Purpose Rk. II	TSS
+71	Blessing of Purpose Rk. III	TSS
+71	Dulcify	TSS
+71	Dulcify Rk. II	TSS
+71	Dulcify Rk. III	TSS
+71	Eminent Reviviscence	RoF
+71	Sacred Remedy	TSS
+71	Sacred Remedy Rk. II	TSS
+71	Sacred Remedy Rk. III	TSS
+71	Symbol of Elushar	TSS
+71	Symbol of Elushar Rk. II	TSS
+71	Symbol of Elushar Rk. III	TSS
+71	Vow of Valor	TSS
+71	Vow of Valor Rk. II	TSS
+71	Vow of Valor Rk. III	TSS
+71	Ward of the Dauntless	TSS
+71	Ward of the Dauntless Rk. II	TSS
+71	Ward of the Dauntless Rk. III	TSS
+71	Yaulp VIII	TBS
+71	Yaulp VIII Rk. II	TBS
+71	Yaulp VIII Rk. III	TBS
+72	Aura of Purpose	TSS
+72	Aura of Purpose Rk. II	TSS
+72	Aura of Purpose Rk. III	TSS
+72	Divine Custody	TBS
+72	Divine Custody Rk. II	TBS
+72	Divine Custody Rk. III	TBS
+72	Reproval	TSS
+72	Reproval Rk. II	TSS
+72	Reproval Rk. III	TSS
+72	Sacred Elixir	TSS
+72	Sacred Elixir Rk. II	TSS
+72	Sacred Elixir Rk. III	TSS
+72	Tenacity	TSS
+72	Tenacity Rk. II	TSS
+72	Tenacity Rk. III	TSS
+72	Ward of Reprisal	TSS
+72	Ward of Reprisal Rk. II	TSS
+72	Ward of Reprisal Rk. III	TSS
+73	Aegis of Vie	TSS
+73	Aegis of Vie Rk. II	TSS
+73	Aegis of Vie Rk. III	TSS
+73	Consecrate Ground	TBS
+73	Consecrate Ground Rk. II	TBS
+73	Consecrate Ground Rk. III	TBS
+73	Promised Renewal	TSS
+73	Promised Renewal Rk. II	TSS
+73	Promised Renewal Rk. III	TSS
+73	Sacred Light	TSS
+73	Sacred Light Rk. II	TSS
+73	Sacred Light Rk. III	TSS
+73	Sound of Zeal	TSS
+73	Sound of Zeal Rk. II	TSS
+73	Sound of Zeal Rk. III	TSS
+74	Mark of the Martyr	TSS
+74	Mark of the Martyr Rk. II	TSS
+74	Mark of the Martyr Rk. III	TSS
+74	Silent Decree	TSS
+74	Silent Decree Rk. II	TSS
+74	Silent Decree Rk. III	TSS
+74	Tectonic Quake	TSS
+74	Tectonic Quake Rk. II	TSS
+74	Tectonic Quake Rk. III	TSS
+74	Unflinching Hammer of Zeal	TBS
+74	Unflinching Hammer of Zeal Rk. II	TBS
+74	Unflinching Hammer of Zeal Rk. III	TBS
+75	Armor of the Sacred	TSS
+75	Armor of the Sacred Rk. II	TSS
+75	Armor of the Sacred Rk. III	TSS
+75	Blood of the Martyr	TBS
+75	Blood of the Martyr Rk. II	TBS
+75	Blood of the Martyr Rk. III	TBS
+75	Elixir of Redemption	TSS
+75	Elixir of Redemption Rk. II	TSS
+75	Elixir of Redemption Rk. III	TSS
+75	Elushar's Mark	TSS
+75	Elushar's Mark Rk. II	TSS
+75	Elushar's Mark Rk. III	TSS
+75	Hand of Tenacity	TSS
+75	Hand of Tenacity Rk. II	TSS
+75	Hand of Tenacity Rk. III	TSS
+75	Rallied Aegis of Vie	TSS
+75	Rallied Aegis of Vie Rk. II	TSS
+75	Rallied Aegis of Vie Rk. III	TSS
+76	Aweshock	SoF
+76	Aweshock Rk. II	SoF
+76	Aweshock Rk. III	SoF
+76	Blessing of Resolve	SoF
+76	Blessing of Resolve Rk. II	SoF
+76	Blessing of Resolve Rk. III	SoF
+76	Mollify	SoF
+76	Mollify Rk. II	SoF
+76	Mollify Rk. III	SoF
+76	Solemn Remedy	SoF
+76	Solemn Remedy Rk. II	SoF
+76	Solemn Remedy Rk. III	SoF
+76	Superior Reviviscence	RoF
+76	Symbol of Kaerra	SoF
+76	Symbol of Kaerra Rk. II	SoF
+76	Symbol of Kaerra Rk. III	SoF
+76	Vow of Victory	SoF
+76	Vow of Victory Rk. II	SoF
+76	Vow of Victory Rk. III	SoF
+76	Ward of the Resolute	SoF
+76	Ward of the Resolute Rk. II	SoF
+76	Ward of the Resolute Rk. III	SoF
+76	Yaulp IX	SoF
+76	Yaulp IX Rk. II	SoF
+76	Yaulp IX Rk. III	SoF
+77	Aura of Resolve	SoF
+77	Aura of Resolve Rk. II	SoF
+77	Aura of Resolve Rk. III	SoF
+77	Divine Censure	SoF
+77	Divine Censure Rk. II	SoF
+77	Divine Censure Rk. III	SoF
+77	Divine Destiny	SoF
+77	Divine Destiny Rk. II	SoF
+77	Divine Destiny Rk. III	SoF
+77	Eleventh-Hour	SoF
+77	Eleventh-Hour Rk. II	SoF
+77	Eleventh-Hour Rk. III	SoF
+77	Fool the Fallen	Sof
+77	Fool the Fallen Rk. II	Sof
+77	Fool the Fallen Rk. III	Sof
+77	Solemn Elixir	SoF
+77	Solemn Elixir Rk. II	SoF
+77	Solemn Elixir Rk. III	SoF
+77	Temerity	SoF
+77	Temerity Rk. II	SoF
+77	Temerity Rk. III	SoF
+77	Ward of Requital	SoF
+77	Ward of Requital Rk. II	SoF
+77	Ward of Requital Rk. III	SoF
+78	Forbear Corruption	SoF
+78	Forbear Corruption Rk. II	SoF
+78	Forbear Corruption Rk. III	SoF
+78	Hallowed Ground	SoF
+78	Hallowed Ground Rk. II	SoF
+78	Hallowed Ground Rk. III	SoF
+78	Promised Restoration	SoF
+78	Promised Restoration Rk. II	SoF
+78	Promised Restoration Rk. III	SoF
+78	Sermon of Admonition	SoF
+78	Sermon of Admonition Rk. II	SoF
+78	Sermon of Admonition Rk. III	SoF
+78	Shield of Vie	SoF
+78	Shield of Vie Rk. II	SoF
+78	Shield of Vie Rk. III	SoF
+78	Solemn Light	SoF
+78	Solemn Light Rk. II	SoF
+78	Solemn Light Rk. III	SoF
+78	Sound of Resonance	SoF
+78	Sound of Resonance Rk. II	SoF
+78	Sound of Resonance Rk. III	SoF
+79	Chromassault	SoF
+79	Chromassault Rk. II	SoF
+79	Chromassault Rk. III	SoF
+79	Indomitable Hammer of Zeal	SoF
+79	Indomitable Hammer of Zeal Rk. II	SoF
+79	Indomitable Hammer of Zeal Rk. III	SoF
+79	Mark of the Devoted	SoF
+79	Mark of the Devoted Rk. II	SoF
+79	Mark of the Devoted Rk. III	SoF
+79	Silent Dictum	SoF
+79	Silent Dictum Rk. II	SoF
+79	Silent Dictum Rk. III	SoF
+79	Tectonic Upheaval	SoF
+79	Tectonic Upheaval Rk. II	SoF
+79	Tectonic Upheaval Rk. III	SoF
+79	Vitiate Corruption	SoF
+79	Vitiate Corruption Rk. II	SoF
+79	Vitiate Corruption Rk. III	SoF
+80	Armor of the Solemn	SoF
+80	Armor of the Solemn Rk. II	SoF
+80	Armor of the Solemn Rk. III	SoF
+80	Blood of the Devoted	SoF
+80	Blood of the Devoted Rk. II	SoF
+80	Blood of the Devoted Rk. III	SoF
+80	Circle of Divinity	SoF
+80	Circle of Divinity Rk. II	SoF
+80	Circle of Divinity Rk. III	SoF
+80	Elixir of Atonement	SoF
+80	Elixir of Atonement Rk. II	SoF
+80	Elixir of Atonement Rk. III	SoF
+80	Frantic Renewal	SoF
+80	Frantic Renewal Rk. II	SoF
+80	Frantic Renewal Rk. III	SoF
+80	Hand of Temerity	Sof
+80	Hand of Temerity Rk. II	Sof
+80	Hand of Temerity Rk. III	Sof
+80	Kaerra's Mark	SoF
+80	Kaerra's Mark Rk. II	SoF
+80	Kaerra's Mark Rk. III	SoF
+80	Order of the Resolute	SoF
+80	Order of the Resolute Rk. II	SoF
+80	Order of the Resolute Rk. III	SoF
+80	Rallied Shield of Vie	SoF
+80	Rallied Shield of Vie Rk. II	SoF
+80	Rallied Shield of Vie Rk. III	SoF
+80	Word of Vivacity	SoF
+80	Word of Vivacity Rk. II	SoF
+80	Word of Vivacity Rk. III	SoF
+81	Aweshake	SoD
+81	Aweshake Rk. II	SoD
+81	Aweshake Rk. III	SoD
+81	Blessing of Loyalty	SoD
+81	Blessing of Loyalty Rk. II	SoD
+81	Blessing of Loyalty Rk. III	SoD
+81	Devout Remedy	SoD
+81	Devout Remedy Rk. II	SoD
+81	Devout Remedy Rk. III	SoD
+81	Reconcile	SoD
+81	Reconcile Rk. II	SoD
+81	Reconcile Rk. III	SoD
+81	Symbol of Darianna	SoD
+81	Symbol of Darianna Rk. II	SoD
+81	Symbol of Darianna Rk. III	SoD
+81	Vow of Valiance	SoD
+81	Vow of Valiance Rk. II	SoD
+81	Vow of Valiance Rk. III	SoD
+81	Ward of the Devout	SoD
+81	Ward of the Devout Rk. II	SoD
+81	Ward of the Devout Rk. III	SoD
+81	Yaulp X	SoD
+81	Yaulp X Rk. II	SoD
+81	Yaulp X Rk. III	SoD
+82	Aura of Loyalty	SoD
+82	Aura of Loyalty Rk. II	SoD
+82	Aura of Loyalty Rk. III	SoD
+82	Devout Elixir	SoD
+82	Devout Elixir Rk. II	SoD
+82	Devout Elixir Rk. III	SoD
+82	Distract the Departed	SoD
+82	Distract the Departed Rk. II	SoD
+82	Distract the Departed Rk. III	SoD
+82	Divine Eminence	SoD
+82	Divine Eminence Rk. II	SoD
+82	Divine Eminence Rk. III	SoD
+82	Gallantry	SoD
+82	Gallantry Rk. II	SoD
+82	Gallantry Rk. III	SoD
+82	Reprehend	SoD
+82	Reprehend Rk. II	SoD
+82	Reprehend Rk. III	SoD
+82	Twelfth Night	SoD
+82	Twelfth Night Rk. II	SoD
+82	Twelfth Night Rk. III	SoD
+82	Ward of Admonishment	SoD
+82	Ward of Admonishment Rk. II	SoD
+82	Ward of Admonishment Rk. III	SoD
+83	Devout Light	SoD
+83	Devout Light Rk. II	SoD
+83	Devout Light Rk. III	SoD
+83	Holy Ground	SoD
+83	Holy Ground Rk. II	SoD
+83	Holy Ground Rk. III	SoD
+83	Holy Intervention	UF
+83	Holy Intervention Rk. II	UF
+83	Holy Intervention Rk. III	UF
+83	Holy Intervention Strike	UF
+83	Holy Intervention Strike Rk. II	UF
+83	Holy Intervention Strike Rk. III	UF
+83	Palladium of Vie	SoD
+83	Palladium of Vie Rk. II	SoD
+83	Palladium of Vie Rk. III	SoD
+83	Promised Recuperation	SoD
+83	Promised Recuperation Rk. II	SoD
+83	Promised Recuperation Rk. III	SoD
+83	Providence	SoD
+83	Providence Rk. II	SoD
+83	Providence Rk. III	SoD
+83	Repel Corruption	SoD
+83	Repel Corruption Rk. II	SoD
+83	Repel Corruption Rk. III	SoD
+83	Sermon of Castigation	SoD
+83	Sermon of Castigation Rk. II	SoD
+83	Sermon of Castigation Rk. III	SoD
+83	Sound of Reverberance	SoD
+83	Sound of Reverberance Rk. II	SoD
+83	Sound of Reverberance Rk. III	SoD
+84	Abolish Corruption	SoD
+84	Abolish Corruption Rk. II	SoD
+84	Abolish Corruption Rk. III	SoD
+84	Blessed Aquifer	SoD
+84	Blessed Aquifer Rk. II	SoD
+84	Blessed Aquifer Rk. III	SoD
+84	Chromassail	SoD
+84	Chromassail Rk. II	SoD
+84	Chromassail Rk. III	SoD
+84	Glorious Denunciation	UF
+84	Glorious Denunciation Rk. II	UF
+84	Glorious Denunciation Rk. III	UF
+84	Mark of the Unsullied	SoD
+84	Mark of the Unsullied Rk. II	SoD
+84	Mark of the Unsullied Rk. III	SoD
+84	Purified Blood	SoD
+84	Purified Blood Rk. II	SoD
+84	Purified Blood Rk. III	SoD
+84	Silent Edict	SoD
+84	Silent Edict Rk. II	SoD
+84	Silent Edict Rk. III	SoD
+84	Tectonic Tumult	SoD
+84	Tectonic Tumult Rk. II	SoD
+84	Tectonic Tumult Rk. III	SoD
+84	Unwavering Hammer of Zeal	SoD
+84	Unwavering Hammer of Zeal Rk. II	SoD
+84	Unwavering Hammer of Zeal Rk. III	SoD
+85	Armor of the Devout	SoD
+85	Armor of the Devout Rk. II	SoD
+85	Armor of the Devout Rk. III	SoD
+85	Blood of the Unsullied	SoD
+85	Blood of the Unsullied Rk. II	SoD
+85	Blood of the Unsullied Rk. III	SoD
+85	Darianna's Mark	SoD
+85	Darianna's Mark Rk. II	SoD
+85	Darianna's Mark Rk. III	SoD
+85	Elixir of Expiation	SoD
+85	Elixir of Expiation Rk. II	SoD
+85	Elixir of Expiation Rk. III	SoD
+85	Erud's Channeled Mark	UF
+85	Erud's Channeled Mark Rk. II	UF
+85	Erud's Channeled Mark Rk. III	UF
+85	Erud's Retort	UF
+85	Erud's Retort Effect	UF
+85	Erud's Retort Effect Rk. II	UF
+85	Erud's Retort Effect Rk. III	UF
+85	Erud's Retort Rk. II	UF
+85	Erud's Retort Rk. III	UF
+85	Frenetic Renewal	SoD
+85	Frenetic Renewal Rk. II	SoD
+85	Frenetic Renewal Rk. III	SoD
+85	Hand of Gallantry	SoD
+85	Hand of Gallantry Rk. II	SoD
+85	Hand of Gallantry Rk. III	SoD
+85	Holy Contravention	UF
+85	Holy Contravention Heal	UF
+85	Holy Contravention Heal Rk. II	UF
+85	Holy Contravention Heal Rk. III	UF
+85	Holy Contravention Rk. II	UF
+85	Holy Contravention Rk. III	UF
+85	Holy Contravention Strike	UF
+85	Holy Contravention Strike Rk. II	UF
+85	Holy Contravention Strike Rk. III	UF
+85	Order of the Devout	SoD
+85	Order of the Devout Rk. II	SoD
+85	Order of the Devout Rk. III	SoD
+85	Rallied Palladium of Vie	SoD
+85	Rallied Palladium of Vie Rk. II	SoD
+85	Rallied Palladium of Vie Rk. III	SoD
+85	Word of Recovery	SoD
+85	Word of Recovery Rk. II	SoD
+85	Word of Recovery Rk. III	SoD
+86	Annihilate the Undead	HoT
+86	Annihilate the Undead Rk. II	HoT
+86	Annihilate the Undead Rk. III	HoT
+86	Appease	HoT
+86	Appease Rk. II	HoT
+86	Appease Rk. III	HoT
+86	Awecrash	HoT
+86	Awecrash Rk. II	HoT
+86	Awecrash Rk. III	HoT
+86	Blessing of Will	HoT
+86	Blessing of Will Rk. II	HoT
+86	Blessing of Will Rk. III	HoT
+86	Earnest Remedy	HoT
+86	Earnest Remedy Rk. II	HoT
+86	Earnest Remedy Rk. III	HoT
+86	Exonerate	HoT
+86	Exonerate Rk. II	HoT
+86	Exonerate Rk. III	HoT
+86	Inspired Heal	HoT
+86	Inspired Heal II	HoT
+86	Inspired Heal III	HoT
+86	Symbol of Ealdun	HoT
+86	Symbol of Ealdun Rk. II	HoT
+86	Symbol of Ealdun Rk. III	HoT
+86	Vow of Vanquishing	HoT
+86	Vow of Vanquishing Rk. II	HoT
+86	Vow of Vanquishing Rk. III	HoT
+86	Ward of the Earnest	HoT
+86	Ward of the Earnest Rk. II	HoT
+86	Ward of the Earnest Rk. III	HoT
+86	Word of Awakening	HoT
+86	Word of Awakening Rk. II	HoT
+86	Word of Awakening Rk. III	HoT
+86	Yaulp XI	HoT
+86	Yaulp XI Rk. II	HoT
+86	Yaulp XI Rk. III	HoT
+87	Divine Fortitude	HoT
+87	Divine Fortitude Rk. II	HoT
+87	Divine Fortitude Rk. III	HoT
+87	Divine Intercession	HoT
+87	Divine Intercession Rk. II	HoT
+87	Divine Intercession Rk. III	HoT
+87	Earnest Elixir	HoT
+87	Earnest Elixir Rk. II	HoT
+87	Earnest Elixir Rk. III	HoT
+87	Hand of Will	HoT
+87	Hand of Will Rk. II	HoT
+87	Hand of Will Rk. III	HoT
+87	Pristine Blood	HoT
+87	Pristine Blood Rk. II	HoT
+87	Pristine Blood Rk. III	HoT
+87	Rebuke	HoT
+87	Rebuke Rk. II	HoT
+87	Rebuke Rk. III	HoT
+87	Reliance	HoT
+87	Reliance Rk. II	HoT
+87	Reliance Rk. III	HoT
+87	Thirteenth Salve	HoT
+87	Thirteenth Salve Rk. II	HoT
+87	Thirteenth Salve Rk. III	HoT
+87	Ward of Retaliation	HoT
+87	Ward of Retaliation Rk. II	HoT
+87	Ward of Retaliation Rk. III	HoT
+88	Celestial Intervention	HoT
+88	Celestial Intervention Rk. II	HoT
+88	Celestial Intervention Rk. III	HoT
+88	Celestial Intervention Strike	HoT
+88	Celestial Intervention Strike II	HoT
+88	Celestial Intervention Strike III	HoT
+88	Earnest Light	HoT
+88	Earnest Light Rk. II	HoT
+88	Earnest Light Rk. III	HoT
+88	Promised Resurgence	HoT
+88	Promised Resurgence Rk. II	HoT
+88	Promised Resurgence Rk. III	HoT
+88	Rampart of Vie	HoT
+88	Rampart of Vie Rk. II	HoT
+88	Rampart of Vie Rk. III	HoT
+88	Reject Corruption	HoT
+88	Reject Corruption Rk. II	HoT
+88	Reject Corruption Rk. III	HoT
+88	Sanctified Ground	HoT
+88	Sanctified Ground Rk. II	HoT
+88	Sanctified Ground Rk. III	HoT
+88	Sermon of Censure	HoT
+88	Sermon of Censure Rk. II	HoT
+88	Sermon of Censure Rk. III	HoT
+88	Sound of Fury	HoT
+88	Sound of Fury Rk. II	HoT
+88	Sound of Fury Rk. III	HoT
+89	Chromarend	HoT
+89	Chromarend Rk. II	HoT
+89	Chromarend Rk. III	HoT
+89	Devout Hammer of Zeal	HoT
+89	Devout Hammer of Zeal Rk. II	HoT
+89	Devout Hammer of Zeal Rk. III	HoT
+89	Dissolve Corruption	HoT
+89	Dissolve Corruption Rk. II	HoT
+89	Dissolve Corruption Rk. III	HoT
+89	Glorious Censure	HoT
+89	Glorious Censure Rk. II	HoT
+89	Glorious Censure Rk. III	HoT
+89	Mark of the Devout	HoT
+89	Mark of the Devout Rk. II	HoT
+89	Mark of the Devout Rk. III	HoT
+89	Purged Blood	HoT
+89	Purged Blood Rk. II	HoT
+89	Purged Blood Rk. III	HoT
+89	Shining Defense	HoT
+89	Shining Rampart	HoT
+89	Shining Rampart Rk. II	HoT
+89	Shining Rampart Rk. III	HoT
+89	Silent Proclamation	HoT
+89	Silent Proclamation Rk. II	HoT
+89	Silent Proclamation Rk. III	HoT
+89	Tectonic Shock	HoT
+89	Tectonic Shock Rk. II	HoT
+89	Tectonic Shock Rk. III	HoT
+90	Armor of the Earnest	HoT
+90	Armor of the Earnest Rk. II	HoT
+90	Armor of the Earnest Rk. III	HoT
+90	Blood of the Devout	HoT
+90	Blood of the Devout Rk. II	HoT
+90	Blood of the Devout Rk. III	HoT
+90	Celestial Contravention	HoT
+90	Celestial Contravention Heal	HoT
+90	Celestial Contravention Heal II	HoT
+90	Celestial Contravention Heal III	HoT
+90	Celestial Contravention Rk. II	HoT
+90	Celestial Contravention Rk. III	HoT
+90	Celestial Contravention Strike	HoT
+90	Celestial Contravention Strike II	HoT
+90	Celestial Contravention Strike III	HoT
+90	Ealdun's Mark	HoT
+90	Ealdun's Mark Rk. II	HoT
+90	Ealdun's Mark Rk. III	HoT
+90	Elixir of the Ardent	HoT
+90	Elixir of the Ardent Rk. II	HoT
+90	Elixir of the Ardent Rk. III	HoT
+90	Fintar's Channeled Mark	HoT
+90	Fintar's Channeled Mark II	HoT
+90	Fintar's Channeled Mark III	HoT
+90	Fintar's Retort	HoT
+90	Fintar's Retort Effect	HoT
+90	Fintar's Retort Effect II	HoT
+90	Fintar's Retort Effect III	HoT
+90	Fintar's Retort Rk. II	HoT
+90	Fintar's Retort Rk. III	HoT
+90	Frenzied Renewal	HoT
+90	Frenzied Renewal Rk. II	HoT
+90	Frenzied Renewal Rk. III	HoT
+90	Hand of Reliance	HoT
+90	Hand of Reliance Rk. II	HoT
+90	Hand of Reliance Rk. III	HoT
+90	Healing Splash	HoT
+90	Healing Splash Rk. II	HoT
+90	Healing Splash Rk. III	HoT
+90	Order of the Earnest	HoT
+90	Order of the Earnest Rk. II	HoT
+90	Order of the Earnest Rk. III	HoT
+90	Rallied Rampart of Vie	HoT
+90	Rallied Rampart of Vie Rk. II	HoT
+90	Rallied Rampart of Vie Rk. III	HoT
+90	Word of Resurgence	HoT
+90	Word of Resurgence Rk. II	HoT
+90	Word of Resurgence Rk. III	HoT
+91	Abolish the Undead	VoA
+91	Abolish the Undead Rk. II	VoA
+91	Abolish the Undead Rk. III	VoA
+91	Amnesty	VoA
+91	Amnesty Rk. II	VoA
+91	Amnesty Rk. III	VoA
+91	Assuage	VoA
+91	Assuage Rk. II	VoA
+91	Assuage Rk. III	VoA
+91	Aweburst	VoA
+91	Aweburst Rk. II	VoA
+91	Aweburst Rk. III	VoA
+91	Blessing of Assurance	VoA
+91	Blessing of Assurance Rk. II	VoA
+91	Blessing of Assurance Rk. III	VoA
+91	Faithful Remedy	VoA
+91	Faithful Remedy Rk. II	VoA
+91	Faithful Remedy Rk. III	VoA
+91	Infusion of the Faithful	VoA
+91	Infusion of the Faithful Rk. II	VoA
+91	Infusion of the Faithful Rk. III	VoA
+91	Inspired Heal	VoA
+91	Inspired Heal II	VoA
+91	Inspired Heal III	VoA
+91	Symbol of the Triumvirate	VoA
+91	Symbol of the Triumvirate Rk. II	VoA
+91	Symbol of the Triumvirate Rk. III	VoA
+91	Unity of the Triumvirate	VoA
+91	Unity of the Triumvirate Rk. II	VoA
+91	Unity of the Triumvirate Rk. III	VoA
+91	Vow of Veneration	VoA
+91	Vow of Veneration Rk. II	VoA
+91	Vow of Veneration Rk. III	VoA
+91	Ward of the Zealous	VoA
+91	Ward of the Zealous Rk. II	VoA
+91	Ward of the Zealous Rk. III	VoA
+91	Word of Recuperation	VoA
+91	Word of Recuperation Rk. II	VoA
+91	Word of Recuperation Rk. III	VoA
+91	Yaulp XII	VoA
+91	Yaulp XII Rk. II	VoA
+91	Yaulp XII Rk. III	VoA
+92	Credence	VoA
+92	Credence Rk. II	VoA
+92	Credence Rk. III	VoA
+92	Divine Guard	VoA
+92	Divine Guard Rk. II	VoA
+92	Divine Guard Rk. III	VoA
+92	Divine Invocation	VoA
+92	Divine Invocation Rk. II	VoA
+92	Divine Invocation Rk. III	VoA
+92	Fourteenth Catalyst	VoA
+92	Fourteenth Catalyst Rk. II	VoA
+92	Fourteenth Catalyst Rk. III	VoA
+92	Hand of Assurance	VoA
+92	Hand of Assurance Rk. II	VoA
+92	Hand of Assurance Rk. III	VoA
+92	Mark of Erion	VoA
+92	Mark of Erion Rk. II	VoA
+92	Mark of Erion Rk. III	VoA
+92	Remonstrance	VoA
+92	Remonstrance Rk. II	VoA
+92	Remonstrance Rk. III	VoA
+92	Unified Credence	VoA
+92	Unified Credence Rk. II	VoA
+92	Unified Credence Rk. III	VoA
+92	Ward of Recrimination	VoA
+92	Ward of Recrimination Rk. II	VoA
+92	Ward of Recrimination Rk. III	VoA
+92	Zealous Elixir	VoA
+92	Zealous Elixir Rk. II	VoA
+92	Zealous Elixir Rk. III	VoA
+93	Anointed Ground	VoA
+93	Anointed Ground Rk. II	VoA
+93	Anointed Ground Rk. III	VoA
+93	Armor of Vie	VoA
+93	Armor of Vie Rk. II	VoA
+93	Armor of Vie Rk. III	VoA
+93	Elysian Intervention	VoA
+93	Elysian Intervention Rk. II	VoA
+93	Elysian Intervention Rk. III	VoA
+93	Elysian Intervention Strike	VoA
+93	Elysian Intervention Strike II	VoA
+93	Elysian Intervention Strike III	VoA
+93	Issuance of Faith	VoA
+93	Issuance of Faith Rk. II	VoA
+93	Issuance of Faith Rk. III	VoA
+93	Promised Restitution	VoA
+93	Promised Restitution Rk. II	VoA
+93	Promised Restitution Rk. III	VoA
+93	Rescind Corruption	VoA
+93	Rescind Corruption Rk. II	VoA
+93	Rescind Corruption Rk. III	VoA
+93	Sermon of Condemnation	VoA
+93	Sermon of Condemnation Rk. II	VoA
+93	Sermon of Condemnation Rk. III	VoA
+93	Sound of Fervor	VoA
+93	Sound of Fervor Rk. II	VoA
+93	Sound of Fervor Rk. III	VoA
+93	Vow of Vitriol	VoA
+93	Vow of Vitriol Rk. II	VoA
+93	Vow of Vitriol Rk. III	VoA
+93	Zealous Light	VoA
+93	Zealous Light Rk. II	VoA
+93	Zealous Light Rk. III	VoA
+94	Chromacleave	VoA
+94	Chromacleave Rk. II	VoA
+94	Chromacleave Rk. III	VoA
+94	Eradicate Corruption	VoA
+94	Eradicate Corruption Rk. II	VoA
+94	Eradicate Corruption Rk. III	VoA
+94	Glorious Admonition	VoA
+94	Glorious Admonition Rk. II	VoA
+94	Glorious Admonition Rk. III	VoA
+94	Hand of Faithful Infusion	VoA
+94	Hand of Faithful Infusion Rk. II	VoA
+94	Hand of Faithful Infusion Rk. III	VoA
+94	Infallible Hammer of Zeal	VoA
+94	Infallible Hammer of Zeal Rk. II	VoA
+94	Infallible Hammer of Zeal Rk. III	VoA
+94	Mark of the Adherent	VoA
+94	Mark of the Adherent Rk. II	VoA
+94	Mark of the Adherent Rk. III	VoA
+94	Perfected Blood	VoA
+94	Perfected Blood Rk. II	VoA
+94	Perfected Blood Rk. III	VoA
+94	Shining Armor	VoA
+94	Shining Armor Rk. II	VoA
+94	Shining Armor Rk. III	VoA
+94	Silent Mandate	VoA
+94	Silent Mandate Rk. II	VoA
+94	Silent Mandate Rk. III	VoA
+94	Tectonic Tremor	VoA
+94	Tectonic Tremor Rk. II	VoA
+94	Tectonic Tremor Rk. III	VoA
+95	Armor of the Zealous	VoA
+95	Armor of the Zealous Rk. II	VoA
+95	Armor of the Zealous Rk. III	VoA
+95	Blood of the Adherent	VoA
+95	Blood of the Adherent Rk. II	VoA
+95	Blood of the Adherent Rk. III	VoA
+95	Elixir of the Beneficent	VoA
+95	Elixir of the Beneficent Rk. II	VoA
+95	Elixir of the Beneficent Rk. III	VoA
+95	Elysian Contravention	VoA
+95	Elysian Contravention Heal	VoA
+95	Elysian Contravention Heal II	VoA
+95	Elysian Contravention Heal III	VoA
+95	Elysian Contravention Rk. II	VoA
+95	Elysian Contravention Rk. III	VoA
+95	Elysian Contravention Strike	VoA
+95	Elysian Contravention Strike II	VoA
+95	Elysian Contravention Strike III	VoA
+95	Fervent Renewal	VoA
+95	Fervent Renewal Rk. II	VoA
+95	Fervent Renewal Rk. III	VoA
+95	Galvos' Channeled Mark	VoA
+95	Galvos' Channeled Mark II	VoA
+95	Galvos' Channeled Mark III	VoA
+95	Galvos' Retort	VoA
+95	Galvos' Retort Effect	VoA
+95	Galvos' Retort Effect II	VoA
+95	Galvos' Retort Effect III	VoA
+95	Galvos' Retort Rk. II	VoA
+95	Galvos' Retort Rk. III	VoA
+95	Hand of Credence	VoA
+95	Hand of Credence Rk. II	VoA
+95	Hand of Credence Rk. III	VoA
+95	Rallied Armor of Vie	VoA
+95	Rallied Armor of Vie Rk. II	VoA
+95	Rallied Armor of Vie Rk. III	VoA
+95	Rejuvenating Splash	VoA
+95	Rejuvenating Splash Rk. II	VoA
+95	Rejuvenating Splash Rk. III	VoA
+95	Unified Hand of Credence	VoA
+95	Unified Hand of Credence Rk. II	VoA
+95	Unified Hand of Credence Rk. III	VoA
+95	Unified Hand of the Triumvirate	VoA
+95	Unified Hand of the Triumvirate Rk. II	VoA
+95	Unified Hand of the Triumvirate Rk. III	VoA
+95	Word of Rehabilitation	VoA
+95	Word of Rehabilitation Rk. II	VoA
+95	Word of Rehabilitation Rk. III	VoA
+96	Abrogate the Undead	RoF
+96	Abrogate the Undead Rk. II	RoF
+96	Abrogate the Undead Rk. III	RoF
+96	Acquittal	RoF
+96	Acquittal Rk. II	RoF
+96	Acquittal Rk. III	RoF
+96	Aweclash	RoF
+96	Aweclash Rk. II	RoF
+96	Aweclash Rk. III	RoF
+96	Blessing of Fervor	RoF
+96	Blessing of Fervor Rk. II	RoF
+96	Blessing of Fervor Rk. III	RoF
+96	Graceful Remedy	RoF
+96	Graceful Remedy Rk. II	RoF
+96	Graceful Remedy Rk. III	RoF
+96	Infusion of the Graceful	RoF
+96	Infusion of the Graceful Rk. II	RoF
+96	Infusion of the Graceful Rk. III	RoF
+96	Inspired Heal	RoF
+96	Inspired Heal II	RoF
+96	Inspired Heal III	RoF
+96	Soothing Glow	RoF
+96	Soothing Glow Rk. II	RoF
+96	Soothing Glow Rk. III	RoF
+96	Symbol of Gezat	RoF
+96	Symbol of Gezat Rk. II	RoF
+96	Symbol of Gezat Rk. III	RoF
+96	Unity of Gezat	RoF
+96	Unity of Gezat Rk. II	RoF
+96	Unity of Gezat Rk. III	RoF
+96	Vow of Vitality	RoF
+96	Vow of Vitality Rk. II	RoF
+96	Vow of Vitality Rk. III	RoF
+96	Ward of the Reverent	RoF
+96	Ward of the Reverent Rk. II	RoF
+96	Ward of the Reverent Rk. III	RoF
+96	Word of Renewal	RoF
+96	Word of Renewal Rk. II	RoF
+96	Word of Renewal Rk. III	RoF
+96	Yaulp XIII	RoF
+96	Yaulp XIII Rk. II	RoF
+96	Yaulp XIII Rk. III	RoF
+97	Anticipated Interposition	CotF
+97	Anticipated Interposition Rk. II	CotF
+97	Anticipated Interposition Rk. III	CotF
+97	Castigation	RoF
+97	Castigation Rk. II	RoF
+97	Castigation Rk. III	RoF
+97	Certitude	RoF
+97	Certitude Rk. II	RoF
+97	Certitude Rk. III	RoF
+97	Divine Haven	RoF
+97	Divine Haven Rk. II	RoF
+97	Divine Haven Rk. III	RoF
+97	Divine Interposition	RoF
+97	Divine Interposition Rk. II	RoF
+97	Divine Interposition Rk. III	RoF
+97	Fifteenth Emblem	RoF
+97	Fifteenth Emblem Rk. II	RoF
+97	Fifteenth Emblem Rk. III	RoF
+97	Hammer of Reverence	CotF
+97	Hammer of Reverence Rk. II	CotF
+97	Hammer of Reverence Rk. III	CotF
+97	Hand of Fervor	RoF
+97	Hand of Fervor Rk. II	RoF
+97	Hand of Fervor Rk. III	RoF
+97	Mark of Tohan	RoF
+97	Mark of Tohan Rk. II	RoF
+97	Mark of Tohan Rk. III	RoF
+97	Reverent Elixir	RoF
+97	Reverent Elixir Rk. II	RoF
+97	Reverent Elixir Rk. III	RoF
+97	Shackle	RoF
+97	Shackle Rk. II	RoF
+97	Shackle Rk. III	RoF
+97	Unified Certitude	RoF
+97	Unified Certitude Rk. II	RoF
+97	Unified Certitude Rk. III	RoF
+97	Ward of Certitude	RoF
+97	Ward of Certitude Rk. II	RoF
+97	Ward of Certitude Rk. III	RoF
+97	Ward of Indictment	RoF
+97	Ward of Indictment Rk. II	RoF
+97	Ward of Indictment Rk. III	RoF
+98	Bastion of Vie	RoF
+98	Bastion of Vie Rk. II	RoF
+98	Bastion of Vie Rk. III	RoF
+98	Glorified Ground	RoF
+98	Glorified Ground Rk. II	RoF
+98	Glorified Ground Rk. III	RoF
+98	Issuance of Grace	RoF
+98	Issuance of Grace Rk. II	RoF
+98	Issuance of Grace Rk. III	RoF
+98	Promised Reformation	RoF
+98	Promised Reformation Rk. II	RoF
+98	Promised Reformation Rk. III	RoF
+98	Reverent Light	RoF
+98	Reverent Light Rk. II	RoF
+98	Reverent Light Rk. III	RoF
+98	Sermon of Rebuke	RoF
+98	Sermon of Rebuke Rk. II	RoF
+98	Sermon of Rebuke Rk. III	RoF
+98	Sound of Plangency	RoF
+98	Sound of Plangency Rk. II	RoF
+98	Sound of Plangency Rk. III	RoF
+98	Syllable of Renewal	CotF
+98	Syllable of Renewal Rk. II	CotF
+98	Syllable of Renewal Rk. III	CotF
+98	Thwart Corruption	RoF
+98	Thwart Corruption Rk. II	RoF
+98	Thwart Corruption Rk. III	RoF
+98	Virtuous Intervention	RoF
+98	Virtuous Intervention Rk. II	RoF
+98	Virtuous Intervention Rk. III	RoF
+98	Virtuous Intervention Strike	RoF
+98	Virtuous Intervention Strike II	RoF
+98	Virtuous Intervention Strike III	RoF
+98	Vow of Vehemence	RoF
+98	Vow of Vehemence Rk. II	RoF
+98	Vow of Vehemence Rk. III	RoF
+99	Abrogate Corruption	RoF
+99	Abrogate Corruption Rk. II	RoF
+99	Abrogate Corruption Rk. III	RoF
+99	Chromacrush	RoF
+99	Chromacrush Rk. II	RoF
+99	Chromacrush Rk. III	RoF
+99	Cleansed Blood	RoF
+99	Cleansed Blood Rk. II	RoF
+99	Cleansed Blood Rk. III	RoF
+99	Cleansing Acquittal	CotF
+99	Cleansing Acquittal Rk. II	CotF
+99	Cleansing Acquittal Rk. III	CotF
+99	Glorious Rebuke	RoF
+99	Glorious Rebuke Rk. II	RoF
+99	Glorious Rebuke Rk. III	RoF
+99	Hand of Graceful Infusion	RoF
+99	Hand of Graceful Infusion Rk. II	RoF
+99	Hand of Graceful Infusion Rk. III	RoF
+99	Infallible Hammer of Reverence	RoF
+99	Infallible Hammer of Reverence Rk. II	RoF
+99	Infallible Hammer of Reverence Rk. III	RoF
+99	Mark of the Zealot	RoF
+99	Mark of the Zealot Rk. II	RoF
+99	Mark of the Zealot Rk. III	RoF
+99	Shining Bastion	RoF
+99	Shining Bastion Rk. II	RoF
+99	Shining Bastion Rk. III	RoF
+99	Silent Order	RoF
+99	Silent Order Rk. II	RoF
+99	Silent Order Rk. III	RoF
+99	Tectonic Temblor	RoF
+99	Tectonic Temblor Rk. II	RoF
+99	Tectonic Temblor Rk. III	RoF
+100	Armor of the Reverent	RoF
+100	Armor of the Reverent Rk. II	RoF
+100	Armor of the Reverent Rk. III	RoF
+100	Aura of Divinity	CotF
+100	Aura of Divinity Rk. II	CotF
+100	Aura of Divinity Rk. III	CotF
+100	Aura of the Reverent	RoF
+100	Aura of the Reverent Rk. II	RoF
+100	Aura of the Reverent Rk. III	RoF
+100	Elixir of the Acquittal	RoF
+100	Elixir of the Acquittal Rk. II	RoF
+100	Elixir of the Acquittal Rk. III	RoF
+100	Fraught Renewal	RoF
+100	Fraught Renewal Rk. II	RoF
+100	Fraught Renewal Rk. III	RoF
+100	Hand of Certitude	RoF
+100	Hand of Certitude Rk. II	RoF
+100	Hand of Certitude Rk. III	RoF
+100	Olsif's Channeled Mark	RoF
+100	Olsif's Channeled Mark II	RoF
+100	Olsif's Channeled Mark III	RoF
+100	Olsif's Retort	RoF
+100	Olsif's Retort Effect	RoF
+100	Olsif's Retort Effect II	RoF
+100	Olsif's Retort Effect III	RoF
+100	Olsif's Retort Rk. II	RoF
+100	Olsif's Retort Rk. III	RoF
+100	Rallied Bastion of Vie	RoF
+100	Rallied Bastion of Vie Rk. II	RoF
+100	Rallied Bastion of Vie Rk. III	RoF
+100	Reforming Splash	RoF
+100	Reforming Splash Rk. II	RoF
+100	Reforming Splash Rk. III	RoF
+100	Unified Hand of Certitude	RoF
+100	Unified Hand of Certitude Rk. II	RoF
+100	Unified Hand of Certitude Rk. III	RoF
+100	Unified Hand of Gezat	RoF
+100	Unified Hand of Gezat Rk. II	RoF
+100	Unified Hand of Gezat Rk. III	RoF
+100	Virtuous Contravention	RoF
+100	Virtuous Contravention Heal	RoF
+100	Virtuous Contravention Heal II	RoF
+100	Virtuous Contravention Heal III	RoF
+100	Virtuous Contravention Rk. II	RoF
+100	Virtuous Contravention Rk. III	RoF
+100	Virtuous Contravention Strike	RoF
+100	Virtuous Contravention Strike II	RoF
+100	Virtuous Contravention Strike III	RoF
+100	Word of Reformation	RoF
+100	Word of Reformation Rk. II	RoF
+100	Word of Reformation Rk. III	RoF
+101	Awecrush	TDS
+101	Awecrush Rk. II	TDS
+101	Awecrush Rk. III	TDS
+101	Benediction of Piety	TDS
+101	Benediction of Piety Rk. II	TDS
+101	Benediction of Piety Rk. III	TDS
+101	Eradicate the Undead	TDS
+101	Eradicate the Undead Rk. II	TDS
+101	Eradicate the Undead Rk. III	TDS
+101	Inspired Heal	TDS
+101	Inspired Heal II	TDS
+101	Inspired Heal III	TDS
+101	Pacifying Glow	TDS
+101	Pacifying Glow Rk. II	TDS
+101	Pacifying Glow Rk. III	TDS
+101	Spiritual Remedy	TDS
+101	Spiritual Remedy Rk. II	TDS
+101	Spiritual Remedy Rk. III	TDS
+101	Symbol of Nonia	TDS
+101	Symbol of Nonia Rk. II	TDS
+101	Symbol of Nonia Rk. III	TDS
+101	Undying Life	TBM
+101	Unity of Nonia	TDS
+101	Unity of Nonia Rk. II	TDS
+101	Unity of Nonia Rk. III	TDS
+101	Vow of Vigor	TDS
+101	Vow of Vigor Rk. II	TDS
+101	Vow of Vigor Rk. III	TDS
+101	Ward of the Ardent	TDS
+101	Ward of the Ardent Rk. II	TDS
+101	Ward of the Ardent Rk. III	TDS
+101	Word of Convalescence	TDS
+101	Word of Convalescence Rk. II	TDS
+101	Word of Convalescence Rk. III	TDS
+101	Yaulp XIV	TDS
+101	Yaulp XIV Rk. II	TDS
+101	Yaulp XIV Rk. III	TDS
+102	Anticipated Intercession	TBM
+102	Anticipated Intercession Rk. II	TBM
+102	Anticipated Intercession Rk. III	TBM
+102	Ardent Elixir	TDS
+102	Ardent Elixir Rk. II	TDS
+102	Ardent Elixir Rk. III	TDS
+102	Divine Indemnification	TDS
+102	Divine Indemnification Rk. II	TDS
+102	Divine Indemnification Rk. III	TDS
+102	Divine Indemnity	TDS
+102	Divine Indemnity Rk. II	TDS
+102	Divine Indemnity Rk. III	TDS
+102	Divine Response	EoK
+102	Divine Response Rk. II	EoK
+102	Divine Response Rk. III	EoK
+102	Hand of Zeal	TDS
+102	Hand of Zeal Rk. II	TDS
+102	Hand of Zeal Rk. III	TDS
+102	Justice	TDS
+102	Justice Rk. II	TDS
+102	Justice Rk. III	TDS
+102	Surety	TDS
+102	Surety Rk. II	TDS
+102	Surety Rk. III	TDS
+102	Unified Surety	TDS
+102	Unified Surety Rk. II	TDS
+102	Unified Surety Rk. III	TDS
+102	Ward of Censure	TDS
+102	Ward of Censure Rk. II	TDS
+102	Ward of Censure Rk. III	TDS
+102	Ward of Surety	TDS
+102	Ward of Surety Rk. II	TDS
+102	Ward of Surety Rk. III	TDS
+103	Ardent Light	TDS
+103	Ardent Light Rk. II	TDS
+103	Ardent Light Rk. III	TDS
+103	Divine Alliance	EoK
+103	Divine Alliance Rk. II	EoK
+103	Divine Alliance Rk. III	EoK
+103	Greater Ward of Vie	TDS
+103	Greater Ward of Vie Rk. II	TDS
+103	Greater Ward of Vie Rk. III	TDS
+103	Issuance of Spirit	TDS
+103	Issuance of Spirit Rk. II	TDS
+103	Issuance of Spirit Rk. III	TDS
+103	Mystical Intervention	TDS
+103	Mystical Intervention Rk. II	TDS
+103	Mystical Intervention Rk. III	TDS
+103	Mystical Intervention Strike	TDS
+103	Mystical Intervention Strike II	TDS
+103	Mystical Intervention Strike III	TDS
+103	Promised Rehabilitation	TDS
+103	Promised Rehabilitation Rk. II	TDS
+103	Promised Rehabilitation Rk. III	TDS
+103	Sermon of Justice	TDS
+103	Sermon of Justice Rk. II	TDS
+103	Sermon of Justice Rk. III	TDS
+103	Sound of Thunder	TDS
+103	Sound of Thunder Rk. II	TDS
+103	Sound of Thunder Rk. III	TDS
+103	Syllable of Convalescence	TDS
+103	Syllable of Convalescence Rk. II	TDS
+103	Syllable of Convalescence Rk. III	TDS
+103	Vow of Virulence	TDS
+103	Vow of Virulence Rk. II	TDS
+103	Vow of Virulence Rk. III	TDS
+104	Ardent Acquittal	TDS
+104	Ardent Acquittal Rk. II	TDS
+104	Ardent Acquittal Rk. III	TDS
+104	Ardent Hammer of Zeal	TDS
+104	Ardent Hammer of Zeal Rk. II	TDS
+104	Ardent Hammer of Zeal Rk. III	TDS
+104	Chromabash	TDS
+104	Chromabash Rk. II	TDS
+104	Chromabash Rk. III	TDS
+104	Glorious Judgment	TDS
+104	Glorious Judgment Rk. II	TDS
+104	Glorious Judgment Rk. III	TDS
+104	Mark of the Vicarum	TDS
+104	Mark of the Vicarum Rk. II	TDS
+104	Mark of the Vicarum Rk. III	TDS
+104	Nullify Corruption	TDS
+104	Nullify Corruption Rk. II	TDS
+104	Nullify Corruption Rk. III	TDS
+104	Shining Bulwark	TDS
+104	Shining Bulwark Rk. II	TDS
+104	Shining Bulwark Rk. III	TDS
+104	Silent Behest	TDS
+104	Silent Behest Rk. II	TDS
+104	Silent Behest Rk. III	TDS
+104	Tectonic Destruction	TDS
+104	Tectonic Destruction Rk. II	TDS
+104	Tectonic Destruction Rk. III	TDS
+104	Unblemished Blood	TDS
+104	Unblemished Blood Rk. II	TDS
+104	Unblemished Blood Rk. III	TDS
+105	Ardent Contravention	TDS
+105	Ardent Contravention Heal	TDS
+105	Ardent Contravention Heal II	TDS
+105	Ardent Contravention Heal III	TDS
+105	Ardent Contravention Rk. II	TDS
+105	Ardent Contravention Rk. III	TDS
+105	Ardent Contravention Strike	TDS
+105	Ardent Contravention Strike II	TDS
+105	Ardent Contravention Strike III	TDS
+105	Armor of the Ardent	TDS
+105	Armor of the Ardent Rk. II	TDS
+105	Armor of the Ardent Rk. III	TDS
+105	Blood of the Vicarum	TBM
+105	Blood of the Vicarum Rk. II	TBM
+105	Blood of the Vicarum Rk. III	TBM
+105	Convalescent Splash	TDS
+105	Convalescent Splash Rk. II	TDS
+105	Convalescent Splash Rk. III	TDS
+105	Elixir of the Seas	TDS
+105	Elixir of the Seas Rk. II	TDS
+105	Elixir of the Seas Rk. III	TDS
+105	Fervid Renewal	TDS
+105	Fervid Renewal Rk. II	TDS
+105	Fervid Renewal Rk. III	TDS
+105	Hand of Surety	TDS
+105	Hand of Surety Rk. II	TDS
+105	Hand of Surety Rk. III	TDS
+105	Rallied Greater Ward of Vie	TDS
+105	Rallied Greater Ward of Vie Rk. II	TDS
+105	Rallied Greater Ward of Vie Rk. III	TDS
+105	Unified Hand of Nonia	TDS
+105	Unified Hand of Nonia Rk. II	TDS
+105	Unified Hand of Nonia Rk. III	TDS
+105	Unified Hand of Surety	TDS
+105	Unified Hand of Surety Rk. II	TDS
+105	Unified Hand of Surety Rk. III	TDS
+105	Vicarum's Retort	EoK
+105	Vicarum's Retort Rk. II	EoK
+105	Vicarum's Retort Rk. III	EoK
+105	Word of Greater Reformation	TDS
+105	Word of Greater Reformation Rk. II	TDS
+105	Word of Greater Reformation Rk. III	TDS
+106	Absolution	RoS
+106	Absolution Rk. II	RoS
+106	Absolution Rk. III	RoS
+106	Awestrike	RoS
+106	Awestrike Rk. II	RoS
+106	Awestrike Rk. III	RoS
+106	Benediction of Sanctity	RoS
+106	Benediction of Sanctity Rk. II	RoS
+106	Benediction of Sanctity Rk. III	RoS
+106	Dissident Blessing	TBL
+106	Infusion of the Merciful	RoS
+106	Infusion of the Merciful Rk. II	RoS
+106	Infusion of the Merciful Rk. III	RoS
+106	Inspired Heal V Azia	RoS
+106	Inspired Heal V Beza	RoS
+106	Inspired Heal V Caza	RoS
+106	Merciful Remedy	RoS
+106	Merciful Remedy Rk. II	RoS
+106	Merciful Remedy Rk. III	RoS
+106	Mollifying Glow	RoS
+106	Mollifying Glow Rk. II	RoS
+106	Mollifying Glow Rk. III	RoS
+106	Repudiate the Undead	RoS
+106	Repudiate the Undead Rk. II	RoS
+106	Repudiate the Undead Rk. III	RoS
+106	Symbol of Emra	RoS
+106	Symbol of Emra Rk. II	RoS
+106	Symbol of Emra Rk. III	RoS
+106	Unity of Emra	RoS
+106	Unity of Emra Rk. II	RoS
+106	Unity of Emra Rk. III	RoS
+106	Vow of Vigilance	RoS
+106	Vow of Vigilance Rk. II	RoS
+106	Vow of Vigilance Rk. III	RoS
+106	Ward of the Merciful	RoS
+106	Ward of the Merciful Rk. II	RoS
+106	Ward of the Merciful Rk. III	RoS
+106	Word of Mending	RoS
+106	Word of Mending Rk. II	RoS
+106	Word of Mending Rk. III	RoS
+106	Yaulp XV	RoS
+106	Yaulp XV Rk. II	RoS
+106	Yaulp XV Rk. III	RoS
+107	Anticipated Intervention	TBL
+107	Anticipated Intervention Rk. II	TBL
+107	Anticipated Intervention Rk. III	TBL
+107	Assurance	RoS
+107	Assurance Rk. II	RoS
+107	Assurance Rk. III	RoS
+107	Divine Imposition	RoS
+107	Divine Imposition Rk. II	RoS
+107	Divine Imposition Rk. III	RoS
+107	Divine Jurisdiction	RoS
+107	Divine Jurisdiction Rk. II	RoS
+107	Divine Jurisdiction Rk. III	RoS
+107	Hammer of Repudiation	RoS
+107	Hammer of Repudiation Rk. II	RoS
+107	Hammer of Repudiation Rk. III	RoS
+107	Hand of Sanctity	RoS
+107	Hand of Sanctity Rk. II	RoS
+107	Hand of Sanctity Rk. III	RoS
+107	Merciful Elixir	RoS
+107	Merciful Elixir Rk. II	RoS
+107	Merciful Elixir Rk. III	RoS
+107	Sanction	RoS
+107	Sanction Rk. II	RoS
+107	Sanction Rk. III	RoS
+107	Sixteenth Serenity	RoS
+107	Sixteenth Serenity Rk. II	RoS
+107	Sixteenth Serenity Rk. III	RoS
+107	Unified Assurance	RoS
+107	Unified Assurance Rk. II	RoS
+107	Unified Assurance Rk. III	RoS
+107	Ward of Assurance	RoS
+107	Ward of Assurance Rk. II	RoS
+107	Ward of Assurance Rk. III	RoS
+107	Ward of Condemnation	RoS
+107	Ward of Condemnation Rk. II	RoS
+107	Ward of Condemnation Rk. III	RoS
+108	Blessed Ground	RoS
+108	Blessed Ground Rk. II	RoS
+108	Blessed Ground Rk. III	RoS
+108	Divine Reaction	TBL
+108	Divine Reaction Rk. II	TBL
+108	Divine Reaction Rk. III	TBL
+108	Endure Corruption	RoS
+108	Endure Corruption Rk. II	RoS
+108	Endure Corruption Rk. III	RoS
+108	Greater Guard of Vie	RoS
+108	Greater Guard of Vie Rk. II	RoS
+108	Greater Guard of Vie Rk. III	RoS
+108	Issuance of Mercy	RoS
+108	Issuance of Mercy Rk. II	RoS
+108	Issuance of Mercy Rk. III	RoS
+108	Merciful Intervention	RoS
+108	Merciful Intervention Rk. II	RoS
+108	Merciful Intervention Rk. III	RoS
+108	Merciful Intervention Strike	RoS
+108	Merciful Intervention Strike II	RoS
+108	Merciful Intervention Strike III	RoS
+108	Merciful Light	RoS
+108	Merciful Light Rk. II	RoS
+108	Merciful Light Rk. III	RoS
+108	Promised Remedy	RoS
+108	Promised Remedy Rk. II	RoS
+108	Promised Remedy Rk. III	RoS
+108	Sermon of Sanction	RoS
+108	Sermon of Sanction Rk. II	RoS
+108	Sermon of Sanction Rk. III	RoS
+108	Sound of Wrath	RoS
+108	Sound of Wrath Rk. II	RoS
+108	Sound of Wrath Rk. III	RoS
+108	Syllable of Mending	RoS
+108	Syllable of Mending Rk. II	RoS
+108	Syllable of Mending Rk. III	RoS
+108	Vow of Vengeance	RoS
+108	Vow of Vengeance Rk. II	RoS
+108	Vow of Vengeance Rk. III	RoS
+109	Chromaburst	RoS
+109	Chromaburst Rk. II	RoS
+109	Chromaburst Rk. III	RoS
+109	Expurgated Blood	RoS
+109	Expurgated Blood Rk. II	RoS
+109	Expurgated Blood Rk. III	RoS
+109	Extricate Corruption	RoS
+109	Extricate Corruption Rk. II	RoS
+109	Extricate Corruption Rk. III	RoS
+109	Hand of Merciful Infusion	RoS
+109	Hand of Merciful Infusion Rk. II	RoS
+109	Hand of Merciful Infusion Rk. III	RoS
+109	Mark of Shandral	RoS
+109	Mark of Shandral Rk. II	RoS
+109	Mark of Shandral Rk. III	RoS
+109	Merciful Acquittal	RoS
+109	Merciful Acquittal Rk. II	RoS
+109	Merciful Acquittal Rk. III	RoS
+109	Shining Fortress	RoS
+109	Shining Fortress Rk. II	RoS
+109	Shining Fortress Rk. III	RoS
+109	Silent Directive	RoS
+109	Silent Directive Rk. II	RoS
+109	Silent Directive Rk. III	RoS
+109	Tectonic Eruption	RoS
+109	Tectonic Eruption Rk. II	RoS
+109	Tectonic Eruption Rk. III	RoS
+109	Unyielding Hammer of Zeal	RoS
+109	Unyielding Hammer of Zeal Rk. II	RoS
+109	Unyielding Hammer of Zeal Rk. III	RoS
+109	Unyielding Judgment	RoS
+109	Unyielding Judgment Rk. II	RoS
+109	Unyielding Judgment Rk. III	RoS
+110	Armor of the Merciful	RoS
+110	Armor of the Merciful Rk. II	RoS
+110	Armor of the Merciful Rk. III	RoS
+110	Curate's Retort	TBL
+110	Curate's Retort Rk. II	TBL
+110	Curate's Retort Rk. III	TBL
+110	Elixir of Wulthan	RoS
+110	Elixir of Wulthan Rk. II	RoS
+110	Elixir of Wulthan Rk. III	RoS
+110	Furial Renewal	RoS
+110	Furial Renewal Rk. II	RoS
+110	Furial Renewal Rk. III	RoS
+110	Hand of Assurance	RoS
+110	Hand of Assurance Rk. II	RoS
+110	Hand of Assurance Rk. III	RoS
+110	Mending Splash	RoS
+110	Mending Splash Rk. II	RoS
+110	Mending Splash Rk. III	RoS
+110	Merciful Contravention	RoS
+110	Merciful Contravention Heal	RoS
+110	Merciful Contravention Heal II	RoS
+110	Merciful Contravention Heal III	RoS
+110	Merciful Contravention Rk. II	RoS
+110	Merciful Contravention Rk. III	RoS
+110	Merciful Contravention Strike	RoS
+110	Merciful Contravention Strike II	RoS
+110	Merciful Contravention Strike III	RoS
+110	Rallied Greater Guard of Vie	RoS
+110	Rallied Greater Guard of Vie Rk. II	RoS
+110	Rallied Greater Guard of Vie Rk. III	RoS
+110	Unified Hand of Assurance	RoS
+110	Unified Hand of Assurance Rk. II	RoS
+110	Unified Hand of Assurance Rk. III	RoS
+110	Unified Hand of Emra	RoS
+110	Unified Hand of Emra Rk. II	RoS
+110	Unified Hand of Emra Rk. III	RoS
+110	Word of Greater Restoration	RoS
+110	Word of Greater Restoration Rk. II	RoS
+110	Word of Greater Restoration Rk. III	RoS
+111	Aweflash	ToV
+111	Aweflash Rk. II	ToV
+111	Aweflash Rk. III	ToV
+111	Benediction of Reverence	ToV
+111	Composite Blessing	CoV
+111	Infusion of Sincerity	ToV
+111	Infusion of Sincerity Rk. II	ToV
+111	Infusion of Sincerity Rk. III	ToV
+111	Inspired Heal VI Azia	ToV
+111	Inspired Heal VI Beza	ToV
+111	Inspired Heal VI Caza	ToV
+111	Obliterate the Undead	ToV
+111	Obliterate the Undead Rk. II	ToV
+111	Obliterate the Undead Rk. III	ToV
+111	Placating Glow	ToV
+111	Placating Glow Rk. II	ToV
+111	Placating Glow Rk. III	ToV
+111	Sincere Coalition	CoV
+111	Sincere Coalition Rk. II	CoV
+111	Sincere Coalition Rk. III	CoV
+111	Sincere Remedy	ToV
+111	Sincere Remedy Rk. II	ToV
+111	Sincere Remedy Rk. III	ToV
+111	Symbol of Jorlleag	ToV
+111	Unity of Jorlleag	ToV
+111	Vow of Veracity	ToV
+111	Vow of Veracity Rk. II	ToV
+111	Vow of Veracity Rk. III	ToV
+111	Ward of Sincerity	ToV
+111	Word of Soothing	ToV
+111	Word of Soothing Rk. II	ToV
+111	Word of Soothing Rk. III	ToV
+111	Yaulp XVI	ToV
+111	Yaulp XVI Rk. II	ToV
+111	Yaulp XVI Rk. III	ToV
+112	Anticipated Intercalation	CoV
+112	Anticipated Intercalation Rk. II	CoV
+112	Anticipated Intercalation Rk. III	CoV
+112	Divine Intermediation	ToV
+112	Divine Intermediation Rk. II	ToV
+112	Divine Intermediation Rk. III	ToV
+112	Divine Keep	ToV
+112	Divine Keep Rk. II	ToV
+112	Divine Keep Rk. III	ToV
+112	Hammer of Obliteration	ToV
+112	Hammer of Obliteration Rk. II	ToV
+112	Hammer of Obliteration Rk. III	ToV
+112	Hand of Reverence	ToV
+112	Injunction	ToV
+112	Injunction Rk. II	ToV
+112	Injunction Rk. III	ToV
+112	Righteousness	ToV
+112	Seventeenth Rejuvenation	ToV
+112	Seventeenth Rejuvenation Rk. II	ToV
+112	Seventeenth Rejuvenation Rk. III	ToV
+112	Sincere Elixir	ToV
+112	Sincere Elixir Rk. II	ToV
+112	Sincere Elixir Rk. III	ToV
+112	Unified Righteousness	ToV
+112	Ward of Injunction	ToV
+112	Ward of Injunction Rk. II	ToV
+112	Ward of Injunction Rk. III	ToV
+112	Ward of Righteousness	ToV
+112	Ward of Righteousness Rk. II	ToV
+112	Ward of Righteousness Rk. III	ToV
+113	Divine Consequence	CoV
+113	Divine Consequence Rk. II	CoV
+113	Divine Consequence Rk. III	CoV
+113	Greater Protection of Vie	ToV
+113	Greater Protection of Vie Rk. II	ToV
+113	Greater Protection of Vie Rk. III	ToV
+113	Issuance of Sincerity	ToV
+113	Issuance of Sincerity Rk. II	ToV
+113	Issuance of Sincerity Rk. III	ToV
+113	Promised Redemption	ToV
+113	Promised Redemption Rk. II	ToV
+113	Promised Redemption Rk. III	ToV
+113	Purified Ground	ToV
+113	Purified Ground Rk. II	ToV
+113	Purified Ground Rk. III	ToV
+113	Sermon of Injunction	ToV
+113	Sermon of Injunction Rk. II	ToV
+113	Sermon of Injunction Rk. III	ToV
+113	Sincere Intervention	ToV
+113	Sincere Intervention Rk. II	ToV
+113	Sincere Intervention Rk. III	ToV
+113	Sincere Intervention Strike	ToV
+113	Sincere Intervention Strike II	ToV
+113	Sincere Intervention Strike III	ToV
+113	Sincere Light	ToV
+113	Sincere Light Rk. II	ToV
+113	Sincere Light Rk. III	ToV
+113	Sound of Rebuke	ToV
+113	Sound of Rebuke Rk. II	ToV
+113	Sound of Rebuke Rk. III	ToV
+113	Syllable of Soothing	ToV
+113	Syllable of Soothing Rk. II	ToV
+113	Syllable of Soothing Rk. III	ToV
+113	Vow of Vituperation	ToV
+113	Vow of Vituperation Rk. II	ToV
+113	Vow of Vituperation Rk. III	ToV
+114	Chromaflare	ToV
+114	Chromaflare Rk. II	ToV
+114	Chromaflare Rk. III	ToV
+114	Hand of Sincere Infusion	ToV
+114	Hand of Sincere Infusion Rk. II	ToV
+114	Hand of Sincere Infusion Rk. III	ToV
+114	Mark of Wenglawks	ToV
+114	Mark of Wenglawks Rk. II	ToV
+114	Mark of Wenglawks Rk. III	ToV
+114	Shining Aegis	ToV
+114	Shining Aegis Rk. II	ToV
+114	Shining Aegis Rk. III	ToV
+114	Silent Writ	ToV
+114	Silent Writ Rk. II	ToV
+114	Silent Writ Rk. III	ToV
+114	Sincere Acquittal	ToV
+114	Sincere Acquittal Rk. II	ToV
+114	Sincere Acquittal Rk. III	ToV
+114	Tectonic Frostheave	ToV
+114	Tectonic Frostheave Rk. II	ToV
+114	Tectonic Frostheave Rk. III	ToV
+114	Unyielding Censure	ToV
+114	Unyielding Censure Rk. II	ToV
+114	Unyielding Censure Rk. III	ToV
+114	Unyielding Hammer of Obliteration	ToV
+114	Unyielding Hammer of Obliteration Rk. II	ToV
+114	Unyielding Hammer of Obliteration Rk. III	ToV
+115	Armor of Sincerity	ToV
+115	Armor of Sincerity Rk. II	ToV
+115	Armor of Sincerity Rk. III	ToV
+115	Dire Renewal	ToV
+115	Dire Renewal Rk. II	ToV
+115	Dire Renewal Rk. III	ToV
+115	Elixir of Transcendence	ToV
+115	Elixir of Transcendence Rk. II	ToV
+115	Elixir of Transcendence Rk. III	ToV
+115	Hand of Righteousness	ToV
+115	Hand of Righteousness Rk. II	ToV
+115	Hand of Righteousness Rk. III	ToV
+115	Jorlleag's Retort	CoV
+115	Jorlleag's Retort Rk. II	CoV
+115	Jorlleag's Retort Rk. III	CoV
+115	Rallied Greater Protection of Vie	ToV
+115	Rallied Greater Protection of Vie Rk. II	ToV
+115	Rallied Greater Protection of Vie Rk. III	ToV
+115	Restoring Splash	ToV
+115	Restoring Splash Rk. II	ToV
+115	Restoring Splash Rk. III	ToV
+115	Sincere Contravention	ToV
+115	Sincere Contravention Heal	ToV
+115	Sincere Contravention Heal II	ToV
+115	Sincere Contravention Heal III	ToV
+115	Sincere Contravention Rk. II	ToV
+115	Sincere Contravention Rk. III	ToV
+115	Sincere Contravention Strike	ToV
+115	Sincere Contravention Strike II	ToV
+115	Sincere Contravention Strike III	ToV
+115	Unified Hand of Jorlleag	ToV
+115	Unified Hand of Righteousness	ToV
+115	Word of Greater Replenishment	ToV
+115	Word of Greater Replenishment Rk. II	ToV
+115	Word of Greater Replenishment Rk. III	ToV
+116	Aweblast	ToL
+116	Aweblast Rk. II	ToL
+116	Aweblast Rk. III	ToL
+116	Benediction of Resplendence	ToL
+116	Contenting Glow	ToL
+116	Contenting Glow Rk. II	ToL
+116	Contenting Glow Rk. III	ToL
+116	Ecliptic Blessing	NoS
+116	Extirpate the Undead	ToL
+116	Extirpate the Undead Rk. II	ToL
+116	Extirpate the Undead Rk. III	ToL
+116	Guileless Remedy	ToL
+116	Guileless Remedy Rk. II	ToL
+116	Guileless Remedy Rk. III	ToL
+116	Inspired Heal VII Azia	ToL
+116	Inspired Heal VII Beza	ToL
+116	Inspired Heal VII Caza	ToL
+116	Symbol of Sanguineous	ToL
+116	Unity of the Sanguine	ToL
+116	Vindication	ToL
+116	Vindication Rk. II	ToL
+116	Vindication Rk. III	ToL
+116	Vow of Tenacity	ToL
+116	Vow of Tenacity Rk. II	ToL
+116	Vow of Tenacity Rk. III	ToL
+116	Ward of the Guileless	ToL
+116	Word of Redress	ToL
+116	Word of Redress Rk. II	ToL
+116	Word of Redress Rk. III	ToL
+116	Yaulp XVII	ToL
+116	Yaulp XVII Rk. II	ToL
+116	Yaulp XVII Rk. III	ToL
+117	Anticipated Interdiction	NoS
+117	Anticipated Interdiction Rk. II	NoS
+117	Anticipated Interdiction Rk. III	NoS
+117	Divine Bulwark	ToL
+117	Divine Bulwark Rk. II	ToL
+117	Divine Bulwark Rk. III	ToL
+117	Divine Mediation	ToL
+117	Divine Mediation Rk. II	ToL
+117	Divine Mediation Rk. III	ToL
+117	Divine Writ	ToL
+117	Divine Writ Rk. II	ToL
+117	Divine Writ Rk. III	ToL
+117	Eighteenth Rejuvenation	ToL
+117	Eighteenth Rejuvenation Rk. II	ToL
+117	Eighteenth Rejuvenation Rk. III	ToL
+117	Hallowed Elixir	ToL
+117	Hallowed Elixir Rk. II	ToL
+117	Hallowed Elixir Rk. III	ToL
+117	Hammer of Penance	ToL
+117	Hammer of Penance Rk. II	ToL
+117	Hammer of Penance Rk. III	ToL
+117	Hand of Devoutness	ToL
+117	Persistence	ToL
+117	Unified Persistence	ToL
+117	Ward of Persistence	ToL
+117	Ward of Persistence Rk. II	ToL
+117	Ward of Persistence Rk. III	ToL
+117	Ward of Prohibition	ToL
+117	Ward of Prohibition Rk. II	ToL
+117	Ward of Prohibition Rk. III	ToL
+118	Atoned Intervention	ToL
+118	Atoned Intervention Rk. II	ToL
+118	Atoned Intervention Rk. III	ToL
+118	Atoned Intervention Strike	ToL
+118	Atoned Intervention Strike II	ToL
+118	Atoned Intervention Strike III	ToL
+118	Deny Corruption	ToL
+118	Deny Corruption Rk. II	ToL
+118	Deny Corruption Rk. III	ToL
+118	Divine Contingency	NoS
+118	Divine Contingency Rk. II	NoS
+118	Divine Contingency Rk. III	NoS
+118	Fervent Light	ToL
+118	Fervent Light Rk. II	ToL
+118	Fervent Light Rk. III	ToL
+118	Greater Bulwark of Vie	ToL
+118	Greater Bulwark of Vie Rk. II	ToL
+118	Greater Bulwark of Vie Rk. III	ToL
+118	Issuance of Conviction	ToL
+118	Issuance of Conviction Rk. II	ToL
+118	Issuance of Conviction Rk. III	ToL
+118	Promised Reclamation	ToL
+118	Promised Reclamation Rk. II	ToL
+118	Promised Reclamation Rk. III	ToL
+118	Sermon of Repentance	ToL
+118	Sermon of Repentance Rk. II	ToL
+118	Sermon of Repentance Rk. III	ToL
+118	Sound of Providence	ToL
+118	Sound of Providence Rk. II	ToL
+118	Sound of Providence Rk. III	ToL
+118	Syllable of Invigoration	ToL
+118	Syllable of Invigoration Rk. II	ToL
+118	Syllable of Invigoration Rk. III	ToL
+118	Venerated Ground	ToL
+118	Venerated Ground Rk. II	ToL
+118	Venerated Ground Rk. III	ToL
+118	Vow of Perniciousness	ToL
+118	Vow of Perniciousness Rk. II	ToL
+118	Vow of Perniciousness Rk. III	ToL
+119	Aura of the Persistent	NoS
+119	Aura of the Persistent Rk. II	NoS
+119	Aura of the Persistent Rk. III	NoS
+119	Chromablast	ToL
+119	Chromablast Rk. II	ToL
+119	Chromablast Rk. III	ToL
+119	Devout Acquittal	ToL
+119	Devout Acquittal Rk. II	ToL
+119	Devout Acquittal Rk. III	ToL
+119	Hand of Unyielding Infusion	ToL
+119	Hand of Unyielding Infusion Rk. II	ToL
+119	Hand of Unyielding Infusion Rk. III	ToL
+119	Incorruptible Hammer of Obliteration	ToL
+119	Incorruptible Hammer of Obliteration Rk. II	ToL
+119	Incorruptible Hammer of Obliteration Rk. III	ToL
+119	Mark of Ezra	ToL
+119	Mark of Ezra Rk. II	ToL
+119	Mark of Ezra Rk. III	ToL
+119	Purge Corruption	ToL
+119	Purge Corruption Rk. II	ToL
+119	Purge Corruption Rk. III	ToL
+119	Sanctified Blood	ToL
+119	Sanctified Blood Rk. II	ToL
+119	Sanctified Blood Rk. III	ToL
+119	Shining Fortitude	ToL
+119	Shining Fortitude Rk. II	ToL
+119	Shining Fortitude Rk. III	ToL
+119	Silent Seal	ToL
+119	Silent Seal Rk. II	ToL
+119	Silent Seal Rk. III	ToL
+119	Tectonic Shadowvent	ToL
+119	Tectonic Shadowvent Rk. II	ToL
+119	Tectonic Shadowvent Rk. III	ToL
+119	Unyielding Rebuke	ToL
+119	Unyielding Rebuke Rk. II	ToL
+119	Unyielding Rebuke Rk. III	ToL
+120	Armor of Penance	ToL
+120	Armor of Penance Rk. II	ToL
+120	Armor of Penance Rk. III	ToL
+120	Axoeviq's Retort	NoS
+120	Axoeviq's Retort Rk. II	NoS
+120	Axoeviq's Retort Rk. III	NoS
+120	Bastion of Divinity	ToL
+120	Bastion of Divinity Rk. II	ToL
+120	Bastion of Divinity Rk. III	ToL
+120	Determined Renewal	ToL
+120	Determined Renewal Rk. II	ToL
+120	Determined Renewal Rk. III	ToL
+120	Divine Contravention	ToL
+120	Divine Contravention Heal	ToL
+120	Divine Contravention Heal II	ToL
+120	Divine Contravention Heal III	ToL
+120	Divine Contravention Rk. II	ToL
+120	Divine Contravention Rk. III	ToL
+120	Divine Contravention Strike	ToL
+120	Divine Contravention Strike II	ToL
+120	Divine Contravention Strike III	ToL
+120	Elixir of Benevolence	ToL
+120	Elixir of Benevolence Rk. II	ToL
+120	Elixir of Benevolence Rk. III	ToL
+120	Mercenary's Hand of Persistence	ToL
+120	Mercenary's Hand of Persistence Rk. II	ToL
+120	Mercenary's Hand of Persistence Rk. III	ToL
+120	Rallied Greater Blessing of Vie	ToL
+120	Rallied Greater Blessing of Vie Rk. II	ToL
+120	Rallied Greater Blessing of Vie Rk. III	ToL
+120	Rallied Sanctuary of Vie	ToL
+120	Rallied Sanctuary of Vie Rk. II	ToL
+120	Rallied Sanctuary of Vie Rk. III	ToL
+120	Refreshing Splash	ToL
+120	Refreshing Splash Rk. II	ToL
+120	Refreshing Splash Rk. III	ToL
+120	Unified Hand of Persistence	ToL
+120	Unified Hand of the Diabo	ToL
+120	Word of Greater Rejuvenation	ToL
+120	Word of Greater Rejuvenation Rk. II	ToL
+120	Word of Greater Rejuvenation Rk. III	ToL
+121	Avowed Remedy	LS
+121	Avowed Remedy Rk. II	LS
+121	Avowed Remedy Rk. III	LS
+121	Awebolt	LS
+121	Awebolt Rk. II	LS
+121	Awebolt Rk. III	LS
+121	Banish the Undead	LS
+121	Banish the Undead Rk. II	LS
+121	Banish the Undead Rk. III	LS
+121	Benediction of Devotion	LS
+121	Congenial Glow	LS
+121	Congenial Glow Rk. II	LS
+121	Congenial Glow Rk. III	LS
+121	Inspired Heal VIII Azia	LS
+121	Inspired Heal VIII Beza	LS
+121	Inspired Heal VIII Caza	LS
+121	Sermon of the Decree	LS
+121	Sermon of the Decree Rk. II	LS
+121	Sermon of the Decree Rk. III	LS
+121	Symbol of Helmsbane	LS
+121	Unity of Helmsbane	LS
+121	Vow of Virtuosity	LS
+121	Vow of Virtuosity Rk. II	LS
+121	Vow of Virtuosity Rk. III	LS
+121	Ward of the Avowed	LS
+121	Word of Acceptance	LS
+121	Word of Acceptance Rk. II	LS
+121	Word of Acceptance Rk. III	LS
+121	Yaulp XVIII	LS
+121	Yaulp XVIII Rk. II	LS
+121	Yaulp XVIII Rk. III	LS
+122	Avowed Elixir	LS
+122	Avowed Elixir Rk. II	LS
+122	Avowed Elixir Rk. III	LS
+122	Commitment	LS
+122	Decree	LS
+122	Decree Rk. II	LS
+122	Decree Rk. III	LS
+122	Divine Interference	LS
+122	Divine Interference Rk. II	LS
+122	Divine Interference Rk. III	LS
+122	Divine Liturgy	LS
+122	Divine Liturgy Rk. II	LS
+122	Divine Liturgy Rk. III	LS
+122	Hammer of the Remembered	LS
+122	Hammer of the Remembered Rk. II	LS
+122	Hammer of the Remembered Rk. III	LS
+122	Hand of Devotion	LS
+122	Nineteenth Commandment	LS
+122	Nineteenth Commandment Rk. II	LS
+122	Nineteenth Commandment Rk. III	LS
+122	Unified Commitment	LS
+122	Ward of Commitment	LS
+122	Ward of Commitment Rk. II	LS
+122	Ward of Commitment Rk. III	LS
+122	Ward of Repudiation	LS
+122	Ward of Repudiation Rk. II	LS
+122	Ward of Repudiation Rk. III	LS
+123	Avowed Intervention	LS
+123	Avowed Intervention Rk. II	LS
+123	Avowed Intervention Rk. III	LS
+123	Avowed Intervention Strike	LS
+123	Avowed Intervention Strike II	LS
+123	Avowed Intervention Strike III	LS
+123	Avowed Light	LS
+123	Avowed Light Rk. II	LS
+123	Avowed Light Rk. III	LS
+123	Greater Aegis of Vie	LS
+123	Greater Aegis of Vie Rk. II	LS
+123	Greater Aegis of Vie Rk. III	LS
+123	Issuance of Heroism	LS
+123	Issuance of Heroism Rk. II	LS
+123	Issuance of Heroism Rk. III	LS
+123	Promised Remediation	LS
+123	Promised Remediation Rk. II	LS
+123	Promised Remediation Rk. III	LS
+123	Sound of Heroism	LS
+123	Sound of Heroism Rk. II	LS
+123	Sound of Heroism Rk. III	LS
+123	Syllable of Acceptance	LS
+123	Syllable of Acceptance Rk. II	LS
+123	Syllable of Acceptance Rk. III	LS
+123	Vow of Retribution	LS
+123	Vow of Retribution Rk. II	LS
+123	Vow of Retribution Rk. III	LS
+124	Avowed Acquittal	LS
+124	Avowed Acquittal Rk. II	LS
+124	Avowed Acquittal Rk. III	LS
+124	Chromaruption	LS
+124	Chromaruption Rk. II	LS
+124	Chromaruption Rk. III	LS
+124	Hand of Avowed Infusion	LS
+124	Hand of Avowed Infusion Rk. II	LS
+124	Hand of Avowed Infusion Rk. III	LS
+124	Mark of Thormir	LS
+124	Mark of Thormir Rk. II	LS
+124	Mark of Thormir Rk. III	LS
+124	Shining Steel	LS
+124	Shining Steel Rk. II	LS
+124	Shining Steel Rk. III	LS
+124	Silent Doctrine	LS
+124	Silent Doctrine Rk. II	LS
+124	Silent Doctrine Rk. III	LS
+124	Unrelenting Hammer of Zeal	LS
+124	Unrelenting Hammer of Zeal Rk. II	LS
+124	Unrelenting Hammer of Zeal Rk. III	LS
+124	Unyielding Admonition	LS
+124	Unyielding Admonition Rk. II	LS
+124	Unyielding Admonition Rk. III	LS
+124	Word of Greater Vivification	LS
+124	Word of Greater Vivification Rk. II	LS
+124	Word of Greater Vivification Rk. III	LS
+125	Acceptance Splash	LS
+125	Acceptance Splash Rk. II	LS
+125	Acceptance Splash Rk. III	LS
+125	Armor of the Avowed	LS
+125	Armor of the Avowed Rk. II	LS
+125	Armor of the Avowed Rk. III	LS
+125	Avowed Contravention	LS
+125	Avowed Contravention Heal	LS
+125	Avowed Contravention Heal II	LS
+125	Avowed Contravention Heal III	LS
+125	Avowed Contravention Rk. II	LS
+125	Avowed Contravention Rk. III	LS
+125	Avowed Contravention Strike	LS
+125	Avowed Contravention Strike II	LS
+125	Avowed Contravention Strike III	LS
+125	Elixir of Realization	LS
+125	Elixir of Realization Rk. II	LS
+125	Elixir of Realization Rk. III	LS
+125	Heroic Renewal	LS
+125	Heroic Renewal Rk. II	LS
+125	Heroic Renewal Rk. III	LS
+125	Mercenary's Hand of Commitment	LS
+125	Mercenary's Hand of Commitment Rk. II	LS
+125	Mercenary's Hand of Commitment Rk. III	LS
+125	Rallied Citadel of Vie	LS
+125	Rallied Citadel of Vie Rk. II	LS
+125	Rallied Citadel of Vie Rk. III	LS
+125	Rallied Greater Aegis of Vie	LS
+125	Rallied Greater Aegis of Vie Rk. II	LS
+125	Rallied Greater Aegis of Vie Rk. III	LS
+125	Resplendent Ground	LS
+125	Resplendent Ground Rk. II	LS
+125	Resplendent Ground Rk. III	LS
+125	Tectonic Bedlam	LS
+125	Tectonic Bedlam Rk. II	LS
+125	Tectonic Bedlam Rk. III	LS
+125	Unified Hand of Helmsbane	LS
+125	Unified Hand of Infallibility	LS
+250	Composite Blessing 1	CoV
+250	Composite Blessing 2	CoV
+250	Composite Blessing 3	CoV
+250	Composite Blessing 4	CoV
+250	Composite Blessing 5	CoV
+250	Composite Blessing 6	CoV
+250	Composite Lifespring 1	CoV
+250	Composite Lifespring 2	CoV
+250	Composite Lifespring 3	CoV
+250	Composite Lifespring 4	CoV
+250	Composite Lifespring 5	CoV
+250	Composite Lifespring 6	CoV
+250	Dissident Blessing 1	TBL
+250	Dissident Blessing 2	TBL
+250	Dissident Blessing 3	TBL
+250	Dissident Blessing 4	TBL
+250	Dissident Blessing 5	TBL
+250	Dissident Blessing 6	TBL
+250	Dissident Lifespring 1	TBL
+250	Dissident Lifespring 2	TBL
+250	Dissident Lifespring 3	TBL
+250	Dissident Lifespring 4	TBL
+250	Dissident Lifespring 5	TBL
+250	Dissident Lifespring 6	TBL
+250	Ecliptic Blessing 1	NoS
+250	Ecliptic Blessing 2	NoS
+250	Ecliptic Blessing 3	NoS
+250	Ecliptic Blessing 4	NoS
+250	Ecliptic Blessing 5	NoS
+250	Ecliptic Blessing 6	NoS
+250	Ecliptic Lifespring 1	NoS
+250	Ecliptic Lifespring 2	NoS
+250	Ecliptic Lifespring 3	NoS
+250	Ecliptic Lifespring 4	NoS
+250	Ecliptic Lifespring 5	NoS
+250	Ecliptic Lifespring 6	NoS
+250	Undying Blessing 1	TBM
+250	Undying Blessing 2	TBM
+250	Undying Blessing 3	TBM
+250	Undying Blessing 4	TBM
+250	Undying Blessing 5	TBM
+250	Undying Blessing 6	TBM
+250	Undying Lifespring 1	TBM
+250	Undying Lifespring 2	TBM
+250	Undying Lifespring 3	TBM
+250	Undying Lifespring 4	TBM
+250	Undying Lifespring 5	TBM
+250	Undying Lifespring 6	TBM
