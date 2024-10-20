@@ -1,1443 +1,1668 @@
 1	Salve	Gates
-2	Glimpse	EQ
-3	Flame Lick	EQ
-4	Lull Animal	EQ
-5	Tangling Weeds	EQ
-6	Snare	EQ
-7	Skin like Wood	EQ
-8	Minor Healing	EQ
-9	Endure Fire	EQ
-10	Dance of the Fireflies	EQ
-11	Hawk Eye	Luclin
-12	Feet like Cat	EQ
-13	Cure Poison	EQ
-13	Thistlecoat	EQ
-14	Burst of Fire	EQ
-14	Camouflage	EQ
-15	Grasping Roots	EQ
-15	Invoke Lightning	EQ
-16	Panic Animal	EQ
-16	Ward Summoned	EQ
-17	Bind Sight	EQ
-17	Firefist	EQ
-18	Endure Cold	EQ
-19	Ignite	EQ
-20	Enduring Breath	EQ
-20	Light Healing	EQ
-21	Skin like Rock	EQ
-22	Cure Disease	EQ
-22	Harmony	EQ
-24	Shield of Thistles	EQ
-25	Stinging Swarm	EQ
-26	Strength of Earth	EQ
-27	Eyes of the Cat	EQ
-28	Spirit of Wolf	EQ
-29	Flaming Arrow	PoP
-29	Riftwind's Protection	Luclin
-30	Barbcoat	EQ
-30	Cancel Magic	EQ
-31	Calm Animal	EQ
-32	Healing	EQ
-32	See Invisible	EQ
-33	Dismiss Summoned	EQ
-34	Bramblecoat	EQ
-35	Levitate	EQ
-36	Call of Sky	Velious
-37	Careless Lightning	EQ
-37	Nature's Precision	Luclin
-38	Skin like Steel	EQ
-39	Burning Arrow	PoP
-39	Harmony of Nature	EQ
-40	Swarm of Pain	LoY
-41	Spirit of the Shrew	LDoN
-42	Spikecoat	EQ
-43	Shield of Brambles	EQ
-44	Greater Healing	EQ
-44	Immolate	EQ
-45	Ensnaring Roots	EQ
-46	Resist Fire	EQ
-47	Superior Camouflage	EQ
-48	Force of Nature	Luclin
-48	Wolf Form	EQ
-49	Call of Flame	EQ
-49	Pack Shrew	LDoN
-50	Call of Earth	Velious
-50	Jolt	Kunark
-51	Ensnare	EQ
+2	Flash of Light	EQ
+3	True North	EQ
+4	Sense the Dead	EQ
+5	Cure Poison	EQ
+6	Minor Healing	EQ
+7	Cease	Luclin
+8	Courage	EQ
+9	Spook the Dead	EQ
+9	Yaulp	EQ
+10	Lull	EQ
+11	Cure Disease	EQ
+12	Light Healing	EQ
+13	Desist	Luclin
+14	Hammer of Wrath	EQ
+14	Ward Undead	EQ
+15	Holy Armor	EQ
+16	Halo of Light	EQ
+17	Invisibility Versus Undead	EQ
+18	Reckless Strength	EQ
+19	Remove Minor Curse	LDoN
+19	Root	EQ
+20	Center	EQ
+21	Endure Poison	EQ
+22	Reanimation	EQ
+23	Hammer of Striking	EQ
+24	Symbol of Transal	EQ
+25	Soothe	EQ
+26	Instrument of Nife	Luclin
+27	Healing	EQ
+28	Stun	EQ
+29	Endure Magic	EQ
+30	Expulse Undead	EQ
+30	Reconstitution	EQ
+30	Spirit Armor	EQ
+31	Reparation	EQ
+32	Cancel Magic	EQ
+33	Symbol of Ryltan	EQ
+34	Counteract Poison	EQ
+34	Remove Lesser Curse	LDoN
+35	Divine Vigor	Luclin
+36	Greater Healing	EQ
+37	Daring	EQ
+37	Divine Purpose	Velious
+38	Endure Disease	EQ
+38	Yaulp II	EQ
+39	Guard	EQ
+39	Revive	EQ
+39	Wave of Life	PoP
+42	Holy Might	EQ
+43	Calm	EQ
+44	Ethereal Cleansing	LoY
+44	Valor of Marr	Luclin
+45	Divine Might	Kunark
+45	Remove Curse	Luclin
+46	Dismiss Undead	EQ
+46	Symbol of Pinzarn	EQ
+47	Thunder of Karana	Luclin
+47	Valor	EQ
+48	Armor of Faith	EQ
+48	Divine Aura	EQ
+48	Superior Healing	EQ
+49	Brell's Steadfast Aegis	PoP
+49	Pacify	EQ
+49	Renewal	EQ
+50	Flame of Light	Velious
+50	Resist Disease	EQ
 51	Resistant Discipline	Kunark
-51	Strength of Nature	Velious
-51	Tangle	Luclin
-52	Falcon Eye	Luclin
-52	Firestrike	Kunark
-52	Icewind	LoY
-53	Storm Strength	EQ
-54	Drones of Doom	EQ
+52	Force	EQ
+52	Frenzied Strength	EQ
+52	Light of Life	LoY
+53	Divine Glory	Velious
+53	Force of Akera	PoP
+54	Expel Undead	EQ
 54	Fearless Discipline	Kunark
-54	Jolting Blades	Luclin
-54	Skin like Diamond	EQ
-55	Call of Fire	Velious
-55	Chloroplast	EQ
-55	Cinder Jolt	Velious
-55	Fire Swarm	LDoN
-55	Resist Cold	EQ
-55	Trueshot Discipline	Velious
-56	Chill Sight	EQ
-56	Greater Wolf Form	EQ
-56	Mark of the Predator	Luclin
-58	Call of Ice	LDoN
-58	Eagle Eye	Luclin
+54	Instill	EQ
+54	Quellious' Word of Tranquility	Luclin
+55	Austerity	LDoN
+55	Divine Favor	Kunark
+55	Holy Aura	PoR
+55	Holyforge Discipline	Kunark
+55	Resist Magic	EQ
+55	Restoration	EQ
+55	Wave of Healing	Velious
+56	Breath of Tunare	Luclin
+56	Counteract Disease	EQ
+56	Guard of Piety	DoN
+56	Yaulp III	EQ
+58	Blessing of Austerity	LDoN
+58	Healing Wave of Prexus	Luclin
 58	Nullify Magic	EQ
-58	Shield of Spikes	EQ
-59	Dustdevil	EQ
-59	Skin like Nature	EQ
-60	Call of the Predator	Velious
-60	Enveloping Roots	EQ
-60	Thorncoat	EQ
-60	Warder's Protection	Luclin
-60	Weapon Shield Discipline	Velious
-61	Annul Magic	Kunark
-61	Circle of Winter	Kunark
-61	Counteract Disease	EQ
-61	Counteract Poison	EQ
-61	Earthen Embrace	DoN
-61	Entangle	PoP
-61	Exile Summoned	Kunark
-62	Call of the Rathe	PoP
-62	Chloroblast	Kunark
-62	Drifting Death	EQ
-62	Shield of Thorns	EQ
-62	Strength of Tunare	PoP
-63	Bladecoat	Kunark
-63	Circle of Summer	Kunark
-63	Earthen Roots	PoP
-63	Frozen Wind	PoP
-64	Brushfire	PoP
-64	Feral Form	LDoN
-64	Nature's Rebuke	PoP
-64	Regrowth	Kunark
-64	Spirit of the Predator	PoP
-65	Ancient: Burning Chaos	Gates
-65	Cry of Thunder	PoP
-65	Mask of the Stalker	Luclin
-65	Natureskin	Kunark
-65	Protection of the Wild	PoP
-65	Spirit of Eagle	Luclin
-65	Sylvan Burn	Gates
-65	Sylvan Call	Gates
-65	Sylvan Light	Gates
-66	Displace Summoned	Omens
-66	Nature Veil	Omens
-66	Shield of Briar	Omens
-67	Guard of the Earth	Omens
-67	Locust Swarm	Omens
-67	Strength of the Hunter	Omens
-67	Sylvan Water	Omens
-68	Briarcoat	Omens
-68	Frost Wind	Omens
-68	Hail of Arrows	DoD
-68	Hunter's Vigor	Omens
-68	Tranquility of the Glade	Omens
-69	Earthen Shackles	DoN
-69	Hearth Embers	Omens
-69	Howl of the Predator	Omens
-69	Nature's Balance	Omens
-69	Nature's Denial	Omens
-69	Warder's Wrath	DoD
-70	Ancient: North Wind	Omens
-70	Call of Lightning	Omens
-70	Elddar's Grasp	PoR
-70	Onyx Skin	Omens
-70	Scorched Earth	PoR
-70	Ward of the Hunter	Omens
-71	Drifting Fog	TSS
-71	Drifting Fog Rk. II	TSS
-71	Nature's Entropy	TBS
-71	Nature's Entropy Rk. II	TBS
-71	Nature's Entropy Rk. III	TBS
-71	Shield of Needles	TSS
-71	Shield of Needles Rk. II	TSS
-71	Sunderock Springwater	TSS
-71	Sunderock Springwater Rk. II	TSS
-71	Sunderock Springwater Rk. III	TSS
-71	Wasp Swarm	TSS
-71	Wasp Swarm Rk. II	TSS
-71	Wasp Swarm Rk. III	TSS
-72	Icefall Chill	TSS
-72	Icefall Chill Rk. II	TSS
-72	Icefall Chill Rk. III	TSS
-72	Jolting Kicks	TSS
-72	Jolting Kicks Rk. II	TSS
-72	Strength of the Forest Stalker	TSS
-72	Strength of the Forest Stalker Rk. II	TSS
-73	Potamide Salve	TSS
-73	Potamide Salve Rk. II	TSS
-73	Snarl of the Predator	TSS
-73	Snarl of the Predator Rk. II	TSS
-73	Vinelash Cascade	TSS
-73	Vinelash Cascade Rk. II	TSS
-73	Vinelash Cascade Rk. III	TSS
-73	Volcanic Ash	TSS
-73	Volcanic Ash Rk. II	TSS
-73	Volcanic Ash Rk. III	TSS
-74	Eyes of the Owl	TSS
-74	Eyes of the Owl Rk. II	TSS
-74	Eyes of the Owl Rk. III	TSS
-74	Obsidian Skin	TSS
-74	Obsidian Skin Rk. II	TSS
-74	Obsidian Skin Rk. III	TSS
-74	Summer's Dew	TSS
-74	Summer's Dew Burn	TSS
-74	Summer's Dew Burn II	TSS
-74	Summer's Dew Burn III	TSS
-74	Summer's Dew Rk. II	TSS
-74	Summer's Dew Rk. III	TSS
-74	Summer's Dew Splash	TSS
-74	Summer's Dew Splash II	TSS
-74	Summer's Dew Splash III	TSS
-75	Consumed by the Hunt	TSS
-75	Consumed by the Hunt Rk. II	TSS
-75	Heartshot	TSS
-75	Heartshot Rk. II	TSS
-75	Protection of the Minohten	TSS
-75	Protection of the Minohten Rk. II	TSS
-75	Protection of the Minohten Rk. III	TSS
-75	Thundering Blades	TBS
-75	Thundering Blades Rk. II	TBS
-75	Thundering Blades Rk. III	TBS
-76	Dragonscale Aquifer	SoF
-76	Dragonscale Aquifer Rk. II	SoF
-76	Dragonscale Aquifer Rk. III	SoF
-76	Drifting Haze	SoF
-76	Drifting Haze Rk. II	SoF
-76	Drifting Haze Rk. III	SoF
-76	Eradicate Disease	RoF
-76	Eradicate Poison	RoF
-76	Hornet Swarm	SoF
-76	Hornet Swarm Rk. II	SoF
-76	Hornet Swarm Rk. III	SoF
-76	Shield of Spurs	SoF
-76	Shield of Spurs Rk. II	SoF
-76	Shield of Spurs Rk. III	SoF
-76	Skylight Sagacity	SoF
-76	Skylight Sagacity Rk. II	SoF
-76	Skylight Sagacity Rk. III	SoF
-77	Cloak of Scales	SoF
-77	Cloak of Scales Rk. II	SoF
-77	Cloak of Scales Rk. III	SoF
-77	Jolting Snapkicks	SoF
-77	Jolting Snapkicks Rk. II	SoF
-77	Jolting Snapkicks Rk. III	SoF
-77	Jolting Strikes	SoF
-77	Jolting Strikes Rk. II	SoF
-77	Jolting Strikes Rk. III	SoF
-77	Rimefall Bite	SoF
-77	Rimefall Bite Rk. II	SoF
-77	Rimefall Bite Rk. III	SoF
-77	Strength of the Gladewalker	Sof
-77	Strength of the Gladewalker Rk. II	Sof
-77	Strength of the Gladewalker Rk. III	Sof
-78	Deadfall	SoF
-78	Deadfall Rk. II	SoF
-78	Deadfall Rk. III	SoF
-78	Galvanic Ash	SoF
-78	Galvanic Ash Rk. II	SoF
-78	Galvanic Ash Rk. III	SoF
-78	Gnarl of the Predator	Sof
-78	Gnarl of the Predator Rk. II	Sof
-78	Gnarl of the Predator Rk. III	Sof
-78	Potamide Balm	SoF
-78	Potamide Balm Rk. II	SoF
-78	Potamide Balm Rk. III	SoF
-79	Arc of Arrows	SoF
-79	Arc of Arrows Rk. II	SoF
-79	Arc of Arrows Rk. III	SoF
-79	Eyes of the Peregrine	SoF
-79	Eyes of the Peregrine Rk. II	SoF
-79	Eyes of the Peregrine Rk. III	SoF
-79	Ravenscale	SoF
-79	Ravenscale Rk. II	SoF
-79	Ravenscale Rk. III	SoF
-79	Summer's Viridity	SoF
-79	Summer's Viridity Burn	SoF
-79	Summer's Viridity Burn II	SoF
-79	Summer's Viridity Burn III	SoF
-79	Summer's Viridity Rk. II	SoF
-79	Summer's Viridity Rk. III	SoF
-79	Summer's Viridity Splash	SoF
-79	Summer's Viridity Splash II	SoF
-79	Summer's Viridity Splash III	SoF
-80	Aimshot Discipline	SoF
-80	Aimshot Discipline Rk. II	SoF
-80	Aimshot Discipline Rk. III	SoF
-80	Deafening Blades	SoF
-80	Deafening Blades Rk. II	SoF
-80	Deafening Blades Rk. III	SoF
-80	Heartsting	SoF
-80	Heartsting Rk. II	SoF
-80	Heartsting Rk. III	SoF
-80	Protection of the Kirkoten	SoF
-80	Protection of the Kirkoten Rk. II	SoF
-80	Protection of the Kirkoten Rk. III	SoF
-81	Beetle Swarm	SoD
-81	Beetle Swarm Rk. II	SoD
-81	Beetle Swarm Rk. III	SoD
-81	Carve Whistle	SoD
-81	Carve Whistle Rk. II	SoD
-81	Carve Whistle Rk. III	SoD
-81	Drifting Mist	SoD
-81	Drifting Mist Rk. II	SoD
-81	Drifting Mist Rk. III	SoD
-81	Oceangreen Aquifer	SoD
-81	Oceangreen Aquifer Rk. II	SoD
-81	Oceangreen Aquifer Rk. III	SoD
-81	Shield of Dryspines	SoD
-81	Shield of Dryspines Rk. II	SoD
-81	Shield of Dryspines Rk. III	SoD
-82	Cloak of Feathers	SoD
-82	Cloak of Feathers Rk. II	SoD
-82	Cloak of Feathers Rk. III	SoD
-82	Jolting Frontkicks	SoD
-82	Jolting Frontkicks Rk. II	SoD
-82	Jolting Frontkicks Rk. III	SoD
-82	Jolting Swings	SoD
-82	Jolting Swings Rk. II	SoD
-82	Jolting Swings Rk. III	SoD
-82	Strength of the Tracker	SoD
-82	Strength of the Tracker Rk. II	SoD
-82	Strength of the Tracker Rk. III	SoD
-82	Windwhip Bite	SoD
-82	Windwhip Bite Rk. II	SoD
-82	Windwhip Bite Rk. III	SoD
-83	Angry Bee Swarm	SoD
-83	Angry Bee Swarm Rk. II	SoD
-83	Angry Bee Swarm Rk. III	SoD
-83	Burynai Balm	SoD
-83	Burynai Balm Rk. II	SoD
-83	Burynai Balm Rk. III	SoD
-83	Cataclysm Ash	SoD
-83	Cataclysm Ash Rk. II	SoD
-83	Cataclysm Ash Rk. III	SoD
-83	Cloud of Protective Bees	SoD
-83	Cloud of Protective Bees Rk. II	SoD
-83	Cloud of Protective Bees Rk. III	SoD
-83	Heartpierce	SoD
-83	Heartpierce Rk. II	SoD
-83	Heartpierce Rk. III	SoD
-83	Spinecoat	SoD
-83	Spinecoat Rk. II	SoD
-83	Spinecoat Rk. III	SoD
-83	Swarm of Bees	UF
-83	Swarm of Bees Rk. II	UF
-83	Swarm of Bees Rk. III	UF
-83	Yowl of the Predator	SoD
-83	Yowl of the Predator Rk. II	SoD
-83	Yowl of the Predator Rk. III	SoD
-84	Barrage of Arrows	SoD
-84	Barrage of Arrows Rk. II	SoD
-84	Barrage of Arrows Rk. III	SoD
-84	Devastating Blades	SoD
-84	Devastating Blades Rk. II	SoD
-84	Devastating Blades Rk. III	SoD
-84	Eyes of the Nocturnal	SoD
-84	Eyes of the Nocturnal Rk. II	SoD
-84	Eyes of the Nocturnal Rk. III	SoD
-84	Mottlescale	SoD
-84	Mottlescale Rk. II	SoD
-84	Mottlescale Rk. III	SoD
-84	Summer's Mist	SoD
-84	Summer's Mist Burn	SoD
-84	Summer's Mist Burn II	SoD
-84	Summer's Mist Burn III	SoD
-84	Summer's Mist Rk. II	SoD
-84	Summer's Mist Rk. III	SoD
-84	Summer's Mist Splash	SoD
-84	Summer's Mist Splash II	SoD
-84	Summer's Mist Splash III	SoD
-85	Crackling Blades	SoD
-85	Crackling Blades Rk. II	SoD
-85	Crackling Blades Rk. III	SoD
-85	Enraging Shot	SoD
-85	Enraging Shot Rk. II	SoD
-85	Enraging Shot Rk. III	SoD
-85	Flusterbolt	SoD
-85	Focused Storm of Arrows	UF
-85	Focused Storm of Arrows Rk. II	UF
-85	Focused Storm of Arrows Rk. III	UF
-85	Heartshear	SoD
-85	Heartshear Rk. II	SoD
-85	Heartshear Rk. III	SoD
-85	Protection of the Paw	SoD
-85	Protection of the Paw Rk. II	SoD
-85	Protection of the Paw Rk. III	SoD
-85	Spirit of Falcons	EoK
-85	Storm of Arrows	UF
-85	Storm of Arrows Rk. II	UF
-85	Storm of Arrows Rk. III	UF
-85	Sureshot Discipline	SoD
-85	Sureshot Discipline Rk. II	SoD
-85	Sureshot Discipline Rk. III	SoD
-86	Called Shots	HoT
-86	Called Shots Rk. II	HoT
-86	Called Shots Rk. III	HoT
-86	Drifting Cloud	HoT
-86	Drifting Cloud Rk. II	HoT
-86	Drifting Cloud Rk. III	HoT
-86	Purefont	HoT
-86	Purefont Rk. II	HoT
-86	Purefont Rk. III	HoT
+58	Symbol of Naltron	EQ
+59	Celestial Cleansing	Velious
+59	Deflection Discipline	SoD
+59	Resurrection	EQ
+60	Brell's Mountainous Barrier	Luclin
+60	Divine Strength	Velious
+60	Eradicate Curse	RoF
+60	Remove Greater Curse	Luclin
+60	Resolution	EQ
+60	Sanctification Discipline	Kunark
+60	Shield of Words	EQ
+60	Yaulp IV	Kunark
+61	Absolve	TSS
+61	Absolve Rk. II	TSS
+61	Absolve Rk. III	TSS
+61	Greater Immobilize	PoP
+61	Guard of Humility	DoN
+61	Heroism	Kunark
+61	Resist Poison	EQ
+61	Touch of Nife	PoP
+62	Crusader's Touch	PoP
+62	Deny Undead	PoP
+62	Force of Akilae	PoP
+62	Ward of Nife	PoP
+63	Improved Invisibility to Undead	Velious
+63	Light of Nife	PoP
+63	Pious Might	PoP
+63	Symbol of Marzin	Kunark
+64	Aura of the Crusader	PoP
+64	Eradicate Poison	RoF
+64	Heroic Bond	Kunark
+64	Quellious' Word of Serenity	PoP
+64	Supernal Cleansing	PoP
+65	Ancient: Force of Chaos	Gates
+65	Brell's Stalwart Shield	PoP
+65	Bulwark of Faith	Kunark
+65	Cure Corruption	TSS
+65	Cure Corruption Rk. II	TSS
+65	Cure Corruption Rk. III	TSS
+65	Guidance	LDoN
+65	Holy Order	Gates
+65	Light of Order	Gates
+65	Shackles of Tunare	PoP
+65	Wave of Marr	PoP
+65	Wave of Trushar	Gates
+66	Direction	Omens
+66	Force of Piety	Omens
+66	Touch of Piety	Omens
+67	Crusader's Purity	Omens
+67	Silvered Fury	Omens
+67	Spurn Undead	Omens
+67	Symbol of Jeron	Omens
+68	Jeron's Mark	Omens
+68	Last Rites	DoD
+68	Light of Piety	Omens
+68	Pious Fury	Omens
+68	Serene Command	Omens
+69	Armor of the Champion	Omens
+69	Bulwark of Piety	Omens
+69	Guard of Righteousness	DoN
+69	Hand of Direction	Omens
+69	Pious Cleansing	Omens
+69	Silent Piety	DoD
+70	Affirmation	Omens
+70	Ancient: Force of Jeron	Omens
+70	Blessed Aura	PoR
+70	Brell's Brawny Bulwark	Omens
+70	Ward of Tunare	PoR
+70	Wave of Piety	Omens
+71	Burial Rites	TBS
+71	Burial Rites Rk. II	TBS
+71	Burial Rites Rk. III	TBS
+71	Eradicate Disease	RoF
+71	Sacred Force	TSS
+71	Sacred Force Rk. II	TSS
+71	Sacred Touch	TSS
+71	Sacred Touch Rk. II	TSS
+71	Sacred Touch Rk. III	TSS
+72	Challenge for Honor	TSS
+72	Challenge for Honor Rk. II	TSS
+72	Challenge for Honor Rk. III	TSS
+72	Gleaming Light	TSS
+72	Gleaming Light Rk. II	TSS
+72	Gleaming Light Rk. III	TSS
+72	Lesson of Penitence	TSS
+72	Lesson of Penitence Rk. II	TSS
+73	Armor of Righteousness	TBS
+73	Armor of Righteousness Rk. II	TBS
+73	Armor of Righteousness Rk. III	TBS
+73	Armor of Unrelenting Faith	TSS
+73	Armor of Unrelenting Faith Rk. II	TSS
+73	Burst of Sunlight	TSS
+73	Burst of Sunlight Rk. II	TSS
+73	Sacred Cleansing	TSS
+73	Sacred Cleansing Rk. II	TSS
+73	Sacred Cleansing Rk. III	TSS
+74	Brell's Stony Guard	TSS
+74	Brell's Stony Guard Rk. II	TSS
+74	Brell's Stony Guard Rk. III	TSS
+74	Fenegar's Mark	TSS
+74	Fenegar's Mark Rk. II	TSS
+74	Fenegar's Mark Rk. III	TSS
+74	Wave of Forgiveness	TSS
+74	Wave of Forgiveness Rk. II	TSS
+74	Wave of Forgiveness Rk. III	TSS
+75	Force of Prexus	TBS
+75	Force of Prexus Rk. II	TBS
+75	Force of Prexus Rk. III	TBS
+75	Remorse for the Fallen	TSS
+75	Remorse for the Fallen Rk. II	TSS
+75	Sworn Protector	TSS
+75	Sworn Protector Rk. II	TSS
+75	Wraithguard's Vengeance	TSS
+75	Wraithguard's Vengeance Rk. II	TSS
+76	Atonement	SoF
+76	Atonement Rk. II	SoF
+76	Atonement Rk. III	SoF
+76	Benediction	SoF
+76	Benediction Rk. II	SoF
+76	Benediction Rk. III	SoF
+76	Solemn Force	SoF
+76	Solemn Force Rk. II	SoF
+76	Solemn Force Rk. III	SoF
+76	Solemn Touch	SoF
+76	Solemn Touch Rk. II	SoF
+76	Solemn Touch Rk. III	SoF
+77	Lesson of Contrition	SoF
+77	Lesson of Contrition Rk. II	SoF
+77	Lesson of Contrition Rk. III	SoF
+77	Radiant Light	SoF
+77	Radiant Light Rk. II	SoF
+77	Radiant Light Rk. III	SoF
+77	Symbol of Bthur	SoF
+77	Symbol of Bthur Rk. II	SoF
+77	Symbol of Bthur Rk. III	SoF
+77	Trial for Honor	SoF
+77	Trial for Honor Rk. II	SoF
+77	Trial for Honor Rk. III	SoF
+78	Armor of Decorum	SoF
+78	Armor of Decorum Rk. II	SoF
+78	Armor of Decorum Rk. III	SoF
+78	Armor of Inexorable Faith	SoF
+78	Armor of Inexorable Faith Rk. II	SoF
+78	Armor of Inexorable Faith Rk. III	SoF
+78	Burst of Morrow	SoF
+78	Burst of Morrow Rk. II	SoF
+78	Burst of Morrow Rk. III	SoF
+78	Solemn Cleansing	SoF
+78	Solemn Cleansing Rk. II	SoF
+78	Solemn Cleansing Rk. III	SoF
+79	Brell's Earthen Aegis	Sof
+79	Brell's Earthen Aegis Rk. II	Sof
+79	Brell's Earthen Aegis Rk. III	Sof
+79	Bthur's Mark	SoF
+79	Bthur's Mark Rk. II	SoF
+79	Bthur's Mark Rk. III	SoF
+79	Mark of the Saint	SoF
+79	Mark of the Saint Rk. II	SoF
+79	Mark of the Saint Rk. III	SoF
+79	Wave of Absolution	SoF
+79	Wave of Absolution Rk. II	SoF
+79	Wave of Absolution Rk. III	SoF
+80	Aurora Effect	SoF
+80	Aurora of Morrow	SoF
+80	Aurora of Morrow Rk. II	SoF
+80	Aurora of Morrow Rk. III	SoF
+80	Force of Timorous	SoF
+80	Force of Timorous Rk. II	SoF
+80	Force of Timorous Rk. III	SoF
+80	Oathbound Protector	SoF
+80	Oathbound Protector Rk. II	SoF
+80	Oathbound Protector Rk. III	SoF
+80	Righteous Fury	SoF
+80	Righteous Fury Rk. II	SoF
+80	Righteous Fury Rk. III	SoF
+80	Sustenance of Tunare	SoF
+80	Sustenance of Tunare Rk. II	SoF
+80	Sustenance of Tunare Rk. III	SoF
+81	Devoted Purity	SoD
+81	Devoted Purity Rk. II	SoD
+81	Devoted Purity Rk. III	SoD
+81	Devout Force	SoD
+81	Devout Force Rk. II	SoD
+81	Devout Force Rk. III	SoD
+81	Devout Touch	SoD
+81	Devout Touch Rk. II	SoD
+81	Devout Touch Rk. III	SoD
+81	Eulogy	SoD
+81	Eulogy Rk. II	SoD
+81	Eulogy Rk. III	SoD
+81	Expiation	SoD
+81	Expiation Rk. II	SoD
+81	Expiation Rk. III	SoD
+81	Mark of the Crusader	SoD
+81	Mark of the Crusader Rk. II	SoD
+81	Mark of the Crusader Rk. III	SoD
+82	Charge for Honor	SoD
+82	Charge for Honor Rk. II	SoD
+82	Charge for Honor Rk. III	SoD
+82	Crush of the Crying Seas	SoD
+82	Crush of the Crying Seas Rk. II	SoD
+82	Crush of the Crying Seas Rk. III	SoD
+82	Lesson of Compunction	SoD
+82	Lesson of Compunction Rk. II	SoD
+82	Lesson of Compunction Rk. III	SoD
+82	Shining Light	SoD
+82	Shining Light Rk. II	SoD
+82	Shining Light Rk. III	SoD
+82	Symbol of Jeneca	SoD
+82	Symbol of Jeneca Rk. II	SoD
+82	Symbol of Jeneca Rk. III	SoD
+83	Armor of Endless Honor	SoD
+83	Armor of Endless Honor Rk. II	SoD
+83	Armor of Endless Honor Rk. III	SoD
+83	Armor of Unwavering Faith	SoD
+83	Armor of Unwavering Faith Rk. II	SoD
+83	Armor of Unwavering Faith Rk. III	SoD
+83	Burst of Dawnlight	SoD
+83	Burst of Dawnlight Rk. II	SoD
+83	Burst of Dawnlight Rk. III	SoD
+83	Devout Cleansing	SoD
+83	Devout Cleansing Rk. II	SoD
+83	Devout Cleansing Rk. III	SoD
+83	Honorific Mantle	UF
+83	Honorific Mantle Rk. II	UF
+83	Honorific Mantle Rk. III	UF
+83	Splash of Sanctification	UF
+83	Splash of Sanctification Rk. II	UF
+83	Splash of Sanctification Rk. III	UF
+83	Withstand	SoD
+83	Withstand Rk. II	SoD
+83	Withstand Rk. III	SoD
+84	Brell's Loamy Ward	SoD
+84	Brell's Loamy Ward Rk. II	SoD
+84	Brell's Loamy Ward Rk. III	SoD
+84	Jeneca's Mark	SoD
+84	Jeneca's Mark Rk. II	SoD
+84	Jeneca's Mark Rk. III	SoD
+84	Mark of the Pious	SoD
+84	Mark of the Pious Rk. II	SoD
+84	Mark of the Pious Rk. III	SoD
+84	Steely Stance	SoD
+84	Steely Stance Rk. II	SoD
+84	Steely Stance Rk. III	SoD
+84	Wave of Remitment	SoD
+84	Wave of Remitment Rk. II	SoD
+84	Wave of Remitment Rk. III	SoD
+85	Aurora of Dawnlight	SoD
+85	Aurora of Dawnlight Rk. II	SoD
+85	Aurora of Dawnlight Rk. III	SoD
+85	Crush of Compunction	SoD
+85	Crush of Compunction Rk. II	SoD
+85	Crush of Compunction Rk. III	SoD
+85	Devout Fury	SoD
+85	Devout Fury Rk. II	SoD
+85	Devout Fury Rk. III	SoD
+85	Force of the Crying Seas	SoD
+85	Force of the Crying Seas Rk. II	SoD
+85	Force of the Crying Seas Rk. III	SoD
+85	Glorious Vindication	UF
+85	Glorious Vindication Rk. II	UF
+85	Glorious Vindication Rk. III	UF
+85	Preservation of Tunare	SoD
+85	Preservation of Tunare Rk. II	SoD
+85	Preservation of Tunare Rk. III	SoD
+85	Protective Confession	UF
+85	Protective Confession Guard Rk. I	UF
+85	Protective Confession Guard Rk. II	UF
+85	Protective Confession Guard Rk. III	UF
+85	Protective Confession Rk. II	UF
+85	Protective Confession Rk. III	UF
+85	Sworn Keeper	SoD
+85	Sworn Keeper Rk. II	SoD
+85	Sworn Keeper Rk. III	SoD
+86	Annihilate the Undead	HoT
+86	Annihilate the Undead Rk. II	HoT
+86	Annihilate the Undead Rk. III	HoT
+86	Cleanse	HoT
+86	Cleanse Rk. II	HoT
+86	Cleanse Rk. III	HoT
+86	Earnest Force	HoT
+86	Earnest Force Rk. II	HoT
+86	Earnest Force Rk. III	HoT
+86	Earnest Purity	HoT
+86	Earnest Purity Rk. II	HoT
+86	Earnest Purity Rk. III	HoT
+86	Earnest Touch	HoT
+86	Earnest Touch Rk. II	HoT
+86	Earnest Touch Rk. III	HoT
+86	Elegy	HoT
+86	Elegy Rk. II	HoT
+86	Elegy Rk. III	HoT
+86	Elegy Trigger	HoT
+86	Elegy Trigger II	HoT
+86	Elegy Trigger III	HoT
+86	Mark of the Pure	HoT
+86	Mark of the Pure Rk. II	HoT
+86	Mark of the Pure Rk. III	HoT
+86	Propitiate	HoT
+86	Propitiate Rk. II	HoT
+86	Propitiate Rk. III	HoT
 86	Respite	HoT
 86	Respite Rk. II	HoT
 86	Respite Rk. III	HoT
-86	Scarab Swarm	HoT
-86	Scarab Swarm Rk. II	HoT
-86	Scarab Swarm Rk. III	HoT
-86	Shield of Nettlespikes	HoT
-86	Shield of Nettlespikes Rk. II	HoT
-86	Shield of Nettlespikes Rk. III	HoT
-87	Biting Wind	HoT
-87	Biting Wind Rk. II	HoT
-87	Biting Wind Rk. III	HoT
-87	Cloak of Quills	HoT
-87	Cloak of Quills Rk. II	HoT
-87	Cloak of Quills Rk. III	HoT
-87	Jolting Edges	HoT
-87	Jolting Edges Rk. II	HoT
-87	Jolting Edges Rk. III	HoT
-87	Jolting Hook Kicks	HoT
-87	Jolting Hook Kicks Rk. II	HoT
-87	Jolting Hook Kicks Rk. III	HoT
-87	Strength of the Thicket Stalker	HoT
-87	Strength of the Thicket Stalker Rk. II	HoT
-87	Strength of the Thicket Stalker Rk. III	HoT
-88	Burning Ash	HoT
-88	Burning Ash Rk. II	HoT
-88	Burning Ash Rk. III	HoT
-88	Cloud of Guardian Hornets	HoT
-88	Cloud of Guardian Hornets II	HoT
-88	Cloud of Guardian Hornets III	HoT
-88	Heartrend	HoT
-88	Heartrend Rk. II	HoT
-88	Heartrend Rk. III	HoT
-88	Hornet Swarm	HoT
-88	Hornet Swarm II	HoT
-88	Hornet Swarm III	HoT
-88	Lingering Cloud	HoT
-88	Lingering Cloud Rk. II	HoT
-88	Lingering Cloud Rk. III	HoT
-88	Lucid Balm	HoT
-88	Lucid Balm Rk. II	HoT
-88	Lucid Balm Rk. III	HoT
-88	Quillcoat	HoT
-88	Quillcoat Rk. II	HoT
-88	Quillcoat Rk. III	HoT
-88	Roar of the Predator	HoT
-88	Roar of the Predator Rk. II	HoT
-88	Roar of the Predator Rk. III	HoT
-88	Stalker's Vigor	HoT
-88	Stalker's Vigor Rk. II	HoT
-88	Stalker's Vigor Rk. III	HoT
-88	Swarm of Hornets	HoT
-88	Swarm of Hornets Rk. II	HoT
-88	Swarm of Hornets Rk. III	HoT
-89	Desperate Deluge	HoT
-89	Desperate Deluge Rk. II	HoT
-89	Desperate Deluge Rk. III	HoT
-89	Devastating Edges	HoT
-89	Devastating Edges Rk. II	HoT
-89	Devastating Edges Rk. III	HoT
-89	Eyes of the Wolf	HoT
-89	Eyes of the Wolf Rk. II	HoT
-89	Eyes of the Wolf Rk. III	HoT
-89	Fusillade of Arrows	HoT
-89	Fusillade of Arrows Rk. II	HoT
-89	Fusillade of Arrows Rk. III	HoT
-89	Mottlecoat	HoT
-89	Mottlecoat Rk. II	HoT
-89	Mottlecoat Rk. III	HoT
-89	Summer's Storm	HoT
-89	Summer's Storm Burn	HoT
-89	Summer's Storm Burn II	HoT
-89	Summer's Storm Burn III	HoT
-89	Summer's Storm Rk. II	HoT
-89	Summer's Storm Rk. III	HoT
-89	Summer's Storm Splash	HoT
-89	Summer's Storm Splash II	HoT
-89	Summer's Storm Splash III	HoT
-90	Blusterbolt	HoT
-90	Blusterbolt Rk. II	HoT
-90	Blusterbolt Rk. III	HoT
-90	Bullseye Discipline	HoT
-90	Bullseye Discipline Rk. II	HoT
-90	Bullseye Discipline Rk. III	HoT
-90	Crackling Edges	HoT
-90	Crackling Edges Rk. II	HoT
-90	Crackling Edges Rk. III	HoT
-90	Focused Tempest of Arrows	HoT
-90	Focused Tempest of Arrows Rk. II	HoT
-90	Focused Tempest of Arrows Rk. III	HoT
-90	Heartslice	HoT
-90	Heartslice Rk. II	HoT
-90	Heartslice Rk. III	HoT
-90	Infuriating Shot	HoT
-90	Infuriating Shot Rk. II	HoT
-90	Infuriating Shot Rk. III	HoT
-90	Invigorated by the Hunt	HoT
-90	Invigorated by the Hunt Rk. II	HoT
-90	Invigorated by the Hunt Rk. III	HoT
-90	Invigorated Effect	HoT
-90	Invigorated Effect II	HoT
-90	Invigorated Effect III	HoT
-90	Protection of the Vale	HoT
-90	Protection of the Vale Rk. II	HoT
-90	Protection of the Vale Rk. III	HoT
-90	Tempest of Arrows	HoT
-90	Tempest of Arrows Rk. II	HoT
-90	Tempest of Arrows Rk. III	HoT
-91	Announced Shots	VoA
-91	Announced Shots Rk. II	VoA
-91	Announced Shots Rk. III	VoA
-91	Drifting Veil	VoA
-91	Drifting Veil Rk. II	VoA
-91	Drifting Veil Rk. III	VoA
-91	Grasping Nettlecoat	VoA
-91	Grasping Nettlecoat Rk. II	VoA
-91	Grasping Nettlecoat Rk. III	VoA
-91	Purespring	VoA
-91	Purespring Rk. II	VoA
-91	Purespring Rk. III	VoA
+87	Confrontation for Honor	HoT
+87	Confrontation for Honor Rk. II	HoT
+87	Confrontation for Honor Rk. III	HoT
+87	Crush of Marr	HoT
+87	Crush of Marr Rk. II	HoT
+87	Crush of Marr Rk. III	HoT
+87	Denouncement	HoT
+87	Denouncement Heal	HoT
+87	Denouncement Heal II	HoT
+87	Denouncement Heal III	HoT
+87	Denouncement Rk. II	HoT
+87	Denouncement Rk. III	HoT
+87	Joyous Light	HoT
+87	Joyous Light Rk. II	HoT
+87	Joyous Light Rk. III	HoT
+87	Lesson of Repentance	HoT
+87	Lesson of Repentance Rk. II	HoT
+87	Lesson of Repentance Rk. III	HoT
+87	Symbol of Jyleel	HoT
+87	Symbol of Jyleel Rk. II	HoT
+87	Symbol of Jyleel Rk. III	HoT
+88	Armor of Courage	HoT
+88	Armor of Courage Rk. II	HoT
+88	Armor of Courage Rk. III	HoT
+88	Armor of Implacable Faith	HoT
+88	Armor of Implacable Faith Rk. II	HoT
+88	Armor of Implacable Faith Rk. III	HoT
+88	Burst of Daybreak	HoT
+88	Burst of Daybreak Rk. II	HoT
+88	Burst of Daybreak Rk. III	HoT
+88	Defy	HoT
+88	Defy Rk. II	HoT
+88	Defy Rk. III	HoT
+88	Earnest Cleansing	HoT
+88	Earnest Cleansing Rk. II	HoT
+88	Earnest Cleansing Rk. III	HoT
+88	Exalted Mantle	HoT
+88	Exalted Mantle Heal	HoT
+88	Exalted Mantle Heal II	HoT
+88	Exalted Mantle Heal III	HoT
+88	Exalted Mantle Rk. II	HoT
+88	Exalted Mantle Rk. III	HoT
+88	Indignant Strike	HoT
+88	Indignant Strike II	HoT
+88	Indignant Strike III	HoT
+88	Righteous Indignation	HoT
+88	Righteous Indignation Effect	HoT
+88	Righteous Indignation Effect II	HoT
+88	Righteous Indignation Effect III	HoT
+88	Righteous Indignation Rk. II	HoT
+88	Righteous Indignation Rk. III	HoT
+89	Brell's Tellurian Rampart	HoT
+89	Brell's Tellurian Rampart Rk. II	HoT
+89	Brell's Tellurian Rampart Rk. III	HoT
+89	Mark of the Defender	HoT
+89	Mark of the Defender Rk. II	HoT
+89	Mark of the Defender Rk. III	HoT
+89	Penitence	HoT
+89	Penitence Rk. II	HoT
+89	Penitence Rk. III	HoT
+89	Stubborn Stance	HoT
+89	Stubborn Stance Rk. II	HoT
+89	Stubborn Stance Rk. III	HoT
+89	Wave of Penitence	HoT
+89	Wave of Penitence Rk. II	HoT
+89	Wave of Penitence Rk. III	HoT
+90	Aurora of Daybreak	HoT
+90	Aurora of Daybreak Rk. II	HoT
+90	Aurora of Daybreak Rk. III	HoT
+90	Crush of Repentance	HoT
+90	Crush of Repentance Rk. II	HoT
+90	Crush of Repentance Rk. III	HoT
+90	Earnest Fury	HoT
+90	Earnest Fury Rk. II	HoT
+90	Earnest Fury Rk. III	HoT
+90	Earnest Fury Strike	HoT
+90	Earnest Fury Strike II	HoT
+90	Earnest Fury Strike III	HoT
+90	Force of Marr	HoT
+90	Force of Marr Rk. II	HoT
+90	Force of Marr Rk. III	HoT
+90	Glorious Exoneration	HoT
+90	Glorious Exoneration Rk. II	HoT
+90	Glorious Exoneration Rk. III	HoT
+90	Oathbound Keeper	HoT
+90	Oathbound Keeper Rk. II	HoT
+90	Oathbound Keeper Rk. III	HoT
+90	Preservation of Marr	HoT
+90	Preservation of Marr Effect	HoT
+90	Preservation of Marr Effect II	HoT
+90	Preservation of Marr Effect III	HoT
+90	Preservation of Marr Rk. II	HoT
+90	Preservation of Marr Rk. III	HoT
+90	Protective Devotion	HoT
+90	Protective Devotion Rk. II	HoT
+90	Protective Devotion Rk. III	HoT
+90	Pureforge Discipline	HoT
+90	Pureforge Discipline Rk. II	HoT
+90	Pureforge Discipline Rk. III	HoT
+91	Abolish the Undead	VoA
+91	Abolish the Undead Rk. II	VoA
+91	Abolish the Undead Rk. III	VoA
+91	Mark of Ragan	VoA
+91	Mark of Ragan Rk. II	VoA
+91	Mark of Ragan Rk. III	VoA
+91	Mollify	VoA
+91	Mollify Rk. II	VoA
+91	Mollify Rk. III	VoA
+91	Paean	VoA
+91	Paean Rk. II	VoA
+91	Paean Rk. III	VoA
+91	Paean Trigger	VoA
+91	Paean Trigger II	VoA
+91	Paean Trigger III	VoA
+91	Purify	VoA
+91	Purify Rk. II	VoA
+91	Purify Rk. III	VoA
 91	Reprieve	VoA
 91	Reprieve Rk. II	VoA
 91	Reprieve Rk. III	VoA
-91	Shield of Bramblespikes	VoA
-91	Shield of Bramblespikes Rk. II	VoA
-91	Shield of Bramblespikes Rk. III	VoA
-91	Veil of Alaris	VoA
-91	Veil of Alaris Rk. II	VoA
-91	Veil of Alaris Rk. III	VoA
-91	Vespid Swarm	VoA
-91	Vespid Swarm Rk. II	VoA
-91	Vespid Swarm Rk. III	VoA
-92	Cloak of Burrs	VoA
-92	Cloak of Burrs Rk. II	VoA
-92	Cloak of Burrs Rk. III	VoA
-92	Enraging Crescent Kicks	VoA
-92	Enraging Crescent Kicks Rk. II	VoA
-92	Enraging Crescent Kicks Rk. III	VoA
-92	Jolting Crescent Kicks	VoA
-92	Jolting Crescent Kicks Rk. II	VoA
-92	Jolting Crescent Kicks Rk. III	VoA
-92	Jolting Impact	VoA
-92	Jolting Impact Rk. II	VoA
-92	Jolting Impact Rk. III	VoA
-92	Rime-Laced Wind	VoA
-92	Rime-Laced Wind Rk. II	VoA
-92	Rime-Laced Wind Rk. III	VoA
-92	Strength of the Gladetender	VoA
-92	Strength of the Gladetender Rk. II	VoA
-92	Strength of the Gladetender Rk. III	VoA
-93	Beastwood Ash	VoA
-93	Beastwood Ash Rk. II	VoA
-93	Beastwood Ash Rk. III	VoA
-93	Burrcoat	VoA
-93	Burrcoat Rk. II	VoA
-93	Burrcoat Rk. III	VoA
-93	Cloud of Guardian Sand Wasps	VoA
-93	Cloud of Guardian Sand Wasps II	VoA
-93	Cloud of Guardian Sand Wasps III	VoA
-93	Cry of the Predator	VoA
-93	Cry of the Predator Rk. II	VoA
-93	Cry of the Predator Rk. III	VoA
-93	Gladewalker's Vigor	VoA
-93	Gladewalker's Vigor Rk. II	VoA
-93	Gladewalker's Vigor Rk. III	VoA
-93	Heartrip	VoA
-93	Heartrip Rk. II	VoA
-93	Heartrip Rk. III	VoA
-93	Lingering Veil	VoA
-93	Lingering Veil Rk. II	VoA
-93	Lingering Veil Rk. III	VoA
-93	Sand Wasp Swarm	VoA
-93	Sand Wasp Swarm II	VoA
-93	Sand Wasp Swarm III	VoA
-93	Swarm of Sand Wasps	VoA
-93	Swarm of Sand Wasps Rk. II	VoA
-93	Swarm of Sand Wasps Rk. III	VoA
-93	Wild Balm	VoA
-93	Wild Balm Rk. II	VoA
-93	Wild Balm Rk. III	VoA
-94	Desperate Downpour	VoA
-94	Desperate Downpour Rk. II	VoA
-94	Desperate Downpour Rk. III	VoA
-94	Devastating Slashes	VoA
-94	Devastating Slashes Rk. II	VoA
-94	Devastating Slashes Rk. III	VoA
-94	Eyes of the Raptor	VoA
-94	Eyes of the Raptor Rk. II	VoA
-94	Eyes of the Raptor Rk. III	VoA
-94	Shadowcoat	VoA
-94	Shadowcoat Rk. II	VoA
-94	Shadowcoat Rk. III	VoA
-94	Shared Cloak of Burrs	VoA
-94	Shared Cloak of Burrs Rk. II	VoA
-94	Shared Cloak of Burrs Rk. III	VoA
-94	Summer's Squall	VoA
-94	Summer's Squall Burn	VoA
-94	Summer's Squall Burn II	VoA
-94	Summer's Squall Burn III	VoA
-94	Summer's Squall Rk. II	VoA
-94	Summer's Squall Rk. III	VoA
-94	Summer's Squall Splash	VoA
-94	Summer's Squall Splash II	VoA
-94	Summer's Squall Splash III	VoA
-94	Swarm of Arrows	VoA
-94	Swarm of Arrows Rk. II	VoA
-94	Swarm of Arrows Rk. III	VoA
-95	Arrow Swarm	VoA
-95	Arrow Swarm Rk. II	VoA
-95	Arrow Swarm Rk. III	VoA
-95	Deafening Edges	VoA
-95	Deafening Edges Rk. II	VoA
-95	Deafening Edges Rk. III	VoA
-95	Focused Arrow Swarm	VoA
-95	Focused Arrow Swarm Rk. II	VoA
-95	Focused Arrow Swarm Rk. III	VoA
-95	Galvanized by the Hunt	VoA
-95	Galvanized by the Hunt Rk. II	VoA
-95	Galvanized by the Hunt Rk. III	VoA
-95	Galvanized Effect	VoA
-95	Galvanized Effect II	VoA
-95	Galvanized Effect III	VoA
-95	Heartslash	VoA
-95	Heartslash Rk. II	VoA
-95	Heartslash Rk. III	VoA
-95	Protection of the Copse	VoA
-95	Protection of the Copse Rk. II	VoA
-95	Protection of the Copse Rk. III	VoA
-95	Provoking Shot	VoA
-95	Provoking Shot Rk. II	VoA
-95	Provoking Shot Rk. III	VoA
-96	Arbor Veil	RoF
-96	Arbor Veil Rk. II	RoF
-96	Arbor Veil Rk. III	RoF
-96	Cloudburst	RoF
-96	Cloudburst Rk. II	RoF
-96	Cloudburst Rk. III	RoF
-96	Dreadbeetle Swarm	RoF
-96	Dreadbeetle Swarm Rk. II	RoF
-96	Dreadbeetle Swarm Rk. III	RoF
-96	Drifting Shadow	RoF
-96	Drifting Shadow Rk. II	RoF
-96	Drifting Shadow Rk. III	RoF
-96	Forecasted Shots	RoF
-96	Forecasted Shots Rk. II	RoF
-96	Forecasted Shots Rk. III	RoF
+91	Zealous Force	VoA
+91	Zealous Force Rk. II	VoA
+91	Zealous Force Rk. III	VoA
+91	Zealous Purity	VoA
+91	Zealous Purity Rk. II	VoA
+91	Zealous Purity Rk. III	VoA
+91	Zealous Touch	VoA
+91	Zealous Touch Rk. II	VoA
+91	Zealous Touch Rk. III	VoA
+92	Avowed Keeper	VoA
+92	Avowed Keeper Rk. II	VoA
+92	Avowed Keeper Rk. III	VoA
+92	Brilliant Light	VoA
+92	Brilliant Light Rk. II	VoA
+92	Brilliant Light Rk. III	VoA
+92	Crush of Oseka	VoA
+92	Crush of Oseka Rk. II	VoA
+92	Crush of Oseka Rk. III	VoA
+92	Lesson of Remorse	VoA
+92	Lesson of Remorse Rk. II	VoA
+92	Lesson of Remorse Rk. III	VoA
+92	Provocation for Honor	VoA
+92	Provocation for Honor Rk. II	VoA
+92	Provocation for Honor Rk. III	VoA
+92	Reprimand	VoA
+92	Reprimand Heal	VoA
+92	Reprimand Heal II	VoA
+92	Reprimand Heal III	VoA
+92	Reprimand Rk. II	VoA
+92	Reprimand Rk. III	VoA
+92	Righteous Audacity	VoA
+92	Righteous Audacity Rk. II	VoA
+92	Righteous Audacity Rk. III	VoA
+92	Symbol of Erillion	VoA
+92	Symbol of Erillion Rk. II	VoA
+92	Symbol of Erillion Rk. III	VoA
+93	Armor of Formidable Faith	VoA
+93	Armor of Formidable Faith Rk. II	VoA
+93	Armor of Formidable Faith Rk. III	VoA
+93	Armor of Zeal	VoA
+93	Armor of Zeal Rk. II	VoA
+93	Armor of Zeal Rk. III	VoA
+93	Burst of Splendor	VoA
+93	Burst of Splendor Rk. II	VoA
+93	Burst of Splendor Rk. III	VoA
+93	Prominent Mantle	VoA
+93	Prominent Mantle Heal	VoA
+93	Prominent Mantle Heal II	VoA
+93	Prominent Mantle Heal III	VoA
+93	Prominent Mantle Rk. II	VoA
+93	Prominent Mantle Rk. III	VoA
+93	Renounce	VoA
+93	Renounce Rk. II	VoA
+93	Renounce Rk. III	VoA
+93	Righteous Vexation	VoA
+93	Righteous Vexation Effect	VoA
+93	Righteous Vexation Effect II	VoA
+93	Righteous Vexation Effect III	VoA
+93	Righteous Vexation Rk. II	VoA
+93	Righteous Vexation Rk. III	VoA
+93	Splash of Purification	VoA
+93	Splash of Purification Rk. II	VoA
+93	Splash of Purification Rk. III	VoA
+93	Vexed Strike	VoA
+93	Vexed Strike II	VoA
+93	Vexed Strike III	VoA
+93	Zealous Cleansing	VoA
+93	Zealous Cleansing Rk. II	VoA
+93	Zealous Cleansing Rk. III	VoA
+94	Brell's Adamantine Armor	VoA
+94	Brell's Adamantine Armor Rk. II	VoA
+94	Brell's Adamantine Armor Rk. III	VoA
+94	Contrition	VoA
+94	Contrition Rk. II	VoA
+94	Contrition Rk. III	VoA
+94	Mark of the Reverent	VoA
+94	Mark of the Reverent Rk. II	VoA
+94	Mark of the Reverent Rk. III	VoA
+94	Rejuvenating Steel	VoA
+94	Rejuvenating Steel Rk. II	VoA
+94	Rejuvenating Steel Rk. III	VoA
+94	Steely Rejuvenation	VoA
+94	Steely Rejuvenation II	VoA
+94	Steely Rejuvenation III	VoA
+94	Stoic Stance	VoA
+94	Stoic Stance Rk. II	VoA
+94	Stoic Stance Rk. III	VoA
+94	Undivided Affirmation	VoA
+94	Undivided Affirmation Rk. II	VoA
+94	Undivided Affirmation Rk. III	VoA
+94	Wave of Contrition	VoA
+94	Wave of Contrition Rk. II	VoA
+94	Wave of Contrition Rk. III	VoA
+95	Aurora of Splendor	VoA
+95	Aurora of Splendor Rk. II	VoA
+95	Aurora of Splendor Rk. III	VoA
+95	Crush of Tides	VoA
+95	Crush of Tides Rk. II	VoA
+95	Crush of Tides Rk. III	VoA
+95	Force of Oseka	VoA
+95	Force of Oseka Rk. II	VoA
+95	Force of Oseka Rk. III	VoA
+95	Glorious Exculpation	VoA
+95	Glorious Exculpation Rk. II	VoA
+95	Glorious Exculpation Rk. III	VoA
+95	Hand of the Avowed Keeper	VoA
+95	Hand of the Avowed Keeper Rk. II	VoA
+95	Hand of the Avowed Keeper Rk. III	VoA
+95	Preservation of Oseka	VoA
+95	Preservation of Oseka Effect	VoA
+95	Preservation of Oseka Effect II	VoA
+95	Preservation of Oseka Effect III	VoA
+95	Preservation of Oseka Rk. II	VoA
+95	Preservation of Oseka Rk. III	VoA
+95	Protective Dedication	VoA
+95	Protective Dedication Rk. II	VoA
+95	Protective Dedication Rk. III	VoA
+95	Zealous Fury	VoA
+95	Zealous Fury Rk. II	VoA
+95	Zealous Fury Rk. III	VoA
+95	Zealous Fury Strike	VoA
+95	Zealous Fury Strike II	VoA
+95	Zealous Fury Strike III	VoA
+96	Abrogate the Undead	RoF
+96	Abrogate the Undead Rk. II	RoF
+96	Abrogate the Undead Rk. III	RoF
+96	Doctrine of Abrogation	CotF
+96	Doctrine of Abrogation Rk. II	CotF
+96	Doctrine of Abrogation Rk. III	CotF
+96	Expurgate	RoF
+96	Expurgate Rk. II	RoF
+96	Expurgate Rk. III	RoF
+96	Laudation	RoF
+96	Laudation Rk. II	RoF
+96	Laudation Rk. III	RoF
+96	Laudation Trigger	RoF
+96	Laudation Trigger II	RoF
+96	Laudation Trigger III	RoF
+96	Mark of Olsif	RoF
+96	Mark of Olsif Rk. II	RoF
+96	Mark of Olsif Rk. III	RoF
+96	Reconcile	RoF
+96	Reconcile Rk. II	RoF
+96	Reconcile Rk. III	RoF
 96	Rest	RoF
 96	Rest Rk. II	RoF
 96	Rest Rk. III	RoF
-96	Shield of Nettlespines	RoF
-96	Shield of Nettlespines Rk. II	RoF
-96	Shield of Nettlespines Rk. III	RoF
-96	Storm of Blades	CotF
-96	Storm of Blades Rk. II	CotF
-96	Storm of Blades Rk. III	CotF
-97	Bitter Wind	RoF
-97	Bitter Wind Rk. II	RoF
-97	Bitter Wind Rk. III	RoF
-97	Cloak of Spurs	RoF
-97	Cloak of Spurs Rk. II	RoF
-97	Cloak of Spurs Rk. III	RoF
-97	Enraging Heel Kicks	RoF
-97	Enraging Heel Kicks Rk. II	RoF
-97	Enraging Heel Kicks Rk. III	RoF
-97	Jolting Heel Kicks	RoF
-97	Jolting Heel Kicks Rk. II	RoF
-97	Jolting Heel Kicks Rk. III	RoF
-97	Jolting Shock	RoF
-97	Jolting Shock Rk. II	RoF
-97	Jolting Shock Rk. III	RoF
-97	Ro's Burning Cloak	CotF
-97	Ro's Burning Cloak Rk. II	CotF
-97	Ro's Burning Cloak Rk. III	CotF
-97	Strength of the Bosquestalker	RoF
-97	Strength of the Bosquestalker Rk. II	RoF
-97	Strength of the Bosquestalker Rk. III	RoF
-97	Windblast Boon	RoF
-97	Windblast Boon Rk. II	RoF
-97	Windblast Boon Rk. III	RoF
-98	Ashcloud Boon	RoF
-98	Ashcloud Boon Rk. II	RoF
-98	Ashcloud Boon Rk. III	RoF
-98	Bosquestalker's Vigor	RoF
-98	Bosquestalker's Vigor Rk. II	RoF
-98	Bosquestalker's Vigor Rk. III	RoF
-98	Cloud of Guardian Vespines	RoF
-98	Cloud of Guardian Vespines II	RoF
-98	Cloud of Guardian Vespines III	RoF
-98	Focused Storm of Blades	CotF
-98	Focused Storm of Blades Rk. II	CotF
-98	Focused Storm of Blades Rk. III	CotF
-98	Heartspike	RoF
-98	Heartspike Rk. II	RoF
-98	Heartspike Rk. III	RoF
-98	Herbal Balm	RoF
-98	Herbal Balm Rk. II	RoF
-98	Herbal Balm Rk. III	RoF
-98	Lingering Shadow	RoF
-98	Lingering Shadow Rk. II	RoF
-98	Lingering Shadow Rk. III	RoF
-98	Shout of the Predator	RoF
-98	Shout of the Predator Rk. II	RoF
-98	Shout of the Predator Rk. III	RoF
-98	Spurcoat	RoF
-98	Spurcoat Rk. II	RoF
-98	Spurcoat Rk. III	RoF
-98	Swarm of Vespines	RoF
-98	Swarm of Vespines Rk. II	RoF
-98	Swarm of Vespines Rk. III	RoF
-98	Vespine Swarm	RoF
-98	Vespine Swarm II	RoF
-98	Vespine Swarm III	RoF
-98	Vileoak Ash	RoF
-98	Vileoak Ash Rk. II	RoF
-98	Vileoak Ash Rk. III	RoF
-98	Vinelash Assault	RoF
-98	Vinelash Assault Rk. II	RoF
-98	Vinelash Assault Rk. III	RoF
-99	Desperate Drenching	RoF
-99	Desperate Drenching Rk. II	RoF
-99	Desperate Drenching Rk. III	RoF
-99	Devastating Impact	RoF
-99	Devastating Impact Rk. II	RoF
-99	Devastating Impact Rk. III	RoF
-99	Eyes of the Howler	RoF
-99	Eyes of the Howler Rk. II	RoF
-99	Eyes of the Howler Rk. III	RoF
-99	Shadowscale	RoF
-99	Shadowscale Rk. II	RoF
-99	Shadowscale Rk. III	RoF
-99	Shared Cloak of Spurs	RoF
-99	Shared Cloak of Spurs Rk. II	RoF
-99	Shared Cloak of Spurs Rk. III	RoF
-99	Squall of Arrows	RoF
-99	Squall of Arrows Rk. II	RoF
-99	Squall of Arrows Rk. III	RoF
-99	Summer's Gale	RoF
-99	Summer's Gale Burn	RoF
-99	Summer's Gale Burn II	RoF
-99	Summer's Gale Burn III	RoF
-99	Summer's Gale Rk. II	RoF
-99	Summer's Gale Rk. III	RoF
-99	Summer's Gale Splash	RoF
-99	Summer's Gale Splash II	RoF
-99	Summer's Gale Splash III	RoF
-100	Angering Shot	RoF
-100	Angering Shot Rk. II	RoF
-100	Angering Shot Rk. III	RoF
-100	Bosquestalker's Discipline	RoF
-100	Bosquestalker's Discipline Rk. II	RoF
-100	Bosquestalker's Discipline Rk. III	RoF
-100	Bosquetender's Unity	CotF
-100	Bosquetender's Unity Rk. II	CotF
-100	Bosquetender's Unity Rk. III	CotF
-100	Deafening Weapons	RoF
-100	Deafening Weapons Rk. II	RoF
-100	Deafening Weapons Rk. III	RoF
-100	Focused Rain of Arrows	RoF
-100	Focused Rain of Arrows Rk. II	RoF
-100	Focused Rain of Arrows Rk. III	RoF
-100	Heartcarve	RoF
-100	Heartcarve Rk. II	RoF
-100	Heartcarve Rk. III	RoF
-100	Inspired by the Hunt	RoF
-100	Inspired by the Hunt Rk. II	RoF
-100	Inspired by the Hunt Rk. III	RoF
-100	Inspired Effect	RoF
-100	Inspired Effect II	RoF
-100	Inspired Effect III	RoF
-100	Protection of the Bosque	RoF
-100	Protection of the Bosque Rk. II	RoF
-100	Protection of the Bosque Rk. III	RoF
-100	Pureshot Discipline	CotF
-100	Pureshot Discipline Rk. II	CotF
-100	Pureshot Discipline Rk. III	CotF
-100	Rain of Arrows	RoF
-100	Rain of Arrows Rk. II	RoF
-100	Rain of Arrows Rk. III	RoF
-100	Reflexive Bladespurs	RoF
-100	Reflexive Bladespurs Rk. II	RoF
-100	Reflexive Bladespurs Rk. III	RoF
-100	Shout of the Bosquestalker	CotF
-100	Shout of the Bosquestalker Rk. II	CotF
-100	Shout of the Bosquestalker Rk. III	CotF
-101	Anticipated Shots	TDS
-101	Anticipated Shots Rk. II	TDS
-101	Anticipated Shots Rk. III	TDS
-101	Blisterbeetle Swarm	TDS
-101	Blisterbeetle Swarm Rk. II	TDS
-101	Blisterbeetle Swarm Rk. III	TDS
+96	Reverent Force	RoF
+96	Reverent Force Rk. II	RoF
+96	Reverent Force Rk. III	RoF
+96	Reverent Purity	RoF
+96	Reverent Purity Rk. II	RoF
+96	Reverent Purity Rk. III	RoF
+96	Reverent Touch	RoF
+96	Reverent Touch Rk. II	RoF
+96	Reverent Touch Rk. III	RoF
+96	Shackle	RoF
+96	Shackle Rk. II	RoF
+96	Shackle Rk. III	RoF
+97	Crush of the Iceclad	RoF
+97	Crush of the Iceclad Rk. II	RoF
+97	Crush of the Iceclad Rk. III	RoF
+97	Dazzling Light	RoF
+97	Dazzling Light Rk. II	RoF
+97	Dazzling Light Rk. III	RoF
+97	Demand for Honor	RoF
+97	Demand for Honor Rk. II	RoF
+97	Demand for Honor Rk. III	RoF
+97	Devout Audacity	RoF
+97	Devout Audacity Rk. II	RoF
+97	Devout Audacity Rk. III	RoF
+97	Holy Guardian Discipline	RoF
+97	Holy Guardian Discipline Rk. II	RoF
+97	Holy Guardian Discipline Rk. III	RoF
+97	Holy Guardian Heal	RoF
+97	Holy Guardian Heal II	RoF
+97	Holy Guardian Heal III	RoF
+97	Lesson of Sorrow	RoF
+97	Lesson of Sorrow Rk. II	RoF
+97	Lesson of Sorrow Rk. III	RoF
+97	Ostracize	RoF
+97	Ostracize Heal	RoF
+97	Ostracize Heal II	RoF
+97	Ostracize Heal III	RoF
+97	Ostracize Rk. II	RoF
+97	Ostracize Rk. III	RoF
+97	Penitent Mending	RoF
+97	Penitent Mending II	RoF
+97	Penitent Mending III	RoF
+97	Penitent Reward	RoF
+97	Penitent Reward II	RoF
+97	Penitent Reward III	RoF
+97	Pledged Keeper	RoF
+97	Pledged Keeper Rk. II	RoF
+97	Pledged Keeper Rk. III	RoF
+97	Reverent Penitence	CotF
+97	Reverent Penitence Rk. II	CotF
+97	Reverent Penitence Rk. III	CotF
+97	Symbol of Burim	RoF
+97	Symbol of Burim Rk. II	RoF
+97	Symbol of Burim Rk. III	RoF
+98	Armor of Formidable Grace	RoF
+98	Armor of Formidable Grace Rk. II	RoF
+98	Armor of Formidable Grace Rk. III	RoF
+98	Armor of Reverence	RoF
+98	Armor of Reverence Rk. II	RoF
+98	Armor of Reverence Rk. III	RoF
+98	Brightwing Mantle	RoF
+98	Brightwing Mantle Heal	RoF
+98	Brightwing Mantle Heal II	RoF
+98	Brightwing Mantle Heal III	RoF
+98	Brightwing Mantle Rk. II	RoF
+98	Brightwing Mantle Rk. III	RoF
+98	Burst of Sunrise	RoF
+98	Burst of Sunrise Rk. II	RoF
+98	Burst of Sunrise Rk. III	RoF
+98	Reprove	RoF
+98	Reprove Rk. II	RoF
+98	Reprove Rk. III	RoF
+98	Reverent Cleansing	RoF
+98	Reverent Cleansing Rk. II	RoF
+98	Reverent Cleansing Rk. III	RoF
+98	Righteous Umbrage	RoF
+98	Righteous Umbrage Effect	RoF
+98	Righteous Umbrage Effect II	RoF
+98	Righteous Umbrage Effect III	RoF
+98	Righteous Umbrage Rk. II	RoF
+98	Righteous Umbrage Rk. III	RoF
+98	Splash of Cleansing	RoF
+98	Splash of Cleansing Rk. II	RoF
+98	Splash of Cleansing Rk. III	RoF
+98	Umbrage Strike	CotF
+98	Umbrage Strike II	CotF
+98	Umbrage Strike III	CotF
+98	Valiant Deflection	CotF
+98	Valiant Deflection Rk. II	CotF
+98	Valiant Deflection Rk. III	CotF
+98	Valiant Healing	CotF
+98	Valiant Healing II	CotF
+98	Valiant Healing III	CotF
+99	Blunted Blade	CotF
+99	Blunted Blade Rk. II	CotF
+99	Blunted Blade Rk. III	CotF
+99	Blunted Strike	CotF
+99	Blunted Strike II	CotF
+99	Blunted Strike III	CotF
+99	Brell's Steadfast Bulwark	RoF
+99	Brell's Steadfast Bulwark Rk. II	RoF
+99	Brell's Steadfast Bulwark Rk. III	RoF
+99	Force of Reverence	RoF
+99	Force of Reverence Rk. II	RoF
+99	Force of Reverence Rk. III	RoF
+99	Mark of the Exemplar	RoF
+99	Mark of the Exemplar Rk. II	RoF
+99	Mark of the Exemplar Rk. III	RoF
+99	Reinvigorating Steel	RoF
+99	Reinvigorating Steel Rk. II	RoF
+99	Reinvigorating Steel Rk. III	RoF
+99	Reverent Healing	RoF
+99	Reverent Healing II	RoF
+99	Reverent Healing III	RoF
+99	Sorrow	RoF
+99	Sorrow Rk. II	RoF
+99	Sorrow Rk. III	RoF
+99	Steadfast Stance	RoF
+99	Steadfast Stance Rk. II	RoF
+99	Steadfast Stance Rk. III	RoF
+99	Steely Reinvigoration	RoF
+99	Steely Reinvigoration II	RoF
+99	Steely Reinvigoration III	RoF
+99	Unbroken Affirmation	RoF
+99	Unbroken Affirmation Rk. II	RoF
+99	Unbroken Affirmation Rk. III	RoF
+99	Wave of Sorrow	RoF
+99	Wave of Sorrow Rk. II	RoF
+99	Wave of Sorrow Rk. III	RoF
+100	Aurora of Sunrise	RoF
+100	Aurora of Sunrise Rk. II	RoF
+100	Aurora of Sunrise Rk. III	RoF
+100	Crush of Tarew	RoF
+100	Crush of Tarew Rk. II	RoF
+100	Crush of Tarew Rk. III	RoF
+100	Force of Abrogation	CotF
+100	Force of Abrogation Rk. II	CotF
+100	Force of Abrogation Rk. III	CotF
+100	Force of the Iceclad	RoF
+100	Force of the Iceclad Rk. II	RoF
+100	Force of the Iceclad Rk. III	RoF
+100	Glorious Expurgation	RoF
+100	Glorious Expurgation Rk. II	RoF
+100	Glorious Expurgation Rk. III	RoF
+100	Hand of the Pledged Keeper	RoF
+100	Hand of the Pledged Keeper Rk. II	RoF
+100	Hand of the Pledged Keeper Rk. III	RoF
+100	Preservation of the Iceclad	RoF
+100	Preservation of the Iceclad Effect	RoF
+100	Preservation of the Iceclad Effect II	RoF
+100	Preservation of the Iceclad Effect III	RoF
+100	Preservation of the Iceclad Rk. II	RoF
+100	Preservation of the Iceclad Rk. III	RoF
+100	Protective Allegiance	RoF
+100	Protective Allegiance Rk. II	RoF
+100	Protective Allegiance Rk. III	RoF
+100	Reflexive Righteousness	RoF
+100	Reflexive Righteousness Rk. II	RoF
+100	Reflexive Righteousness Rk. III	RoF
+100	Reverent Fury	RoF
+100	Reverent Fury Rk. II	RoF
+100	Reverent Fury Rk. III	RoF
+100	Reverent Fury Strike	RoF
+100	Reverent Fury Strike II	RoF
+100	Reverent Fury Strike III	RoF
+101	Ardent Force	TDS
+101	Ardent Force Rk. II	TDS
+101	Ardent Force Rk. III	TDS
+101	Ardent Purity	TDS
+101	Ardent Purity Rk. II	TDS
+101	Ardent Purity Rk. III	TDS
+101	Ardent Touch	TDS
+101	Ardent Touch Rk. II	TDS
+101	Ardent Touch Rk. III	TDS
 101	Breather	TDS
 101	Breather Rk. II	TDS
 101	Breather Rk. III	TDS
-101	Cloudfont	TDS
-101	Cloudfont Rk. II	TDS
-101	Cloudfont Rk. III	TDS
-101	Dichotomic Fusillade	TBM
-101	Drifting Darkness	TDS
-101	Drifting Darkness Rk. II	TDS
-101	Drifting Darkness Rk. III	TDS
-101	Shield of Nettlespears	TDS
-101	Shield of NettlespearsRk. II	TDS
-101	Shield of NettlespearsRk. III	TDS
-101	Shimmering Veil	TDS
-101	Shimmering Veil Rk. II	TDS
-101	Shimmering Veil Rk. III	TDS
-101	Squall of Blades	TDS
-101	Squall of Blades Rk. II	TDS
-101	Squall of Blades Rk. III	TDS
-102	Bellow of the Predator	TDS
-102	Bellow of the Predator Rk. II	TDS
-102	Bellow of the Predator Rk. III	TDS
-102	Cloak of Nettlespears	TDS
-102	Cloak of Nettlespears Rk. II	TDS
-102	Cloak of Nettlespears Rk. III	TDS
-102	Enraging Cut Kicks	TDS
-102	Enraging Cut Kicks Rk. II	TDS
-102	Enraging Cut Kicks Rk. III	TDS
-102	Frozen Wind	TDS
-102	Frozen Wind Rk. II	TDS
-102	Frozen Wind Rk. III	TDS
-102	Jolting Cut Kicks	TDS
-102	Jolting Cut Kicks Rk. II	TDS
-102	Jolting Cut Kicks Rk. III	TDS
-102	Jolting Swords	TDS
-102	Jolting Swords Rk. II	TDS
-102	Jolting Swords Rk. III	TDS
-102	Lingering Darkness	TDS
-102	Lingering Darkness Rk. II	TDS
-102	Lingering Darkness Rk. III	TDS
-102	Strength of the Copsestalker	TDS
-102	Strength of the Copsestalker Rk. II	TDS
-102	Strength of the Copsestalker Rk. III	TDS
-102	Windgale Boon	TDS
-102	Windgale Boon Rk. II	TDS
-102	Windgale Boon Rk. III	TDS
-103	Bosquestalker's Alliance	EoK
-103	Bosquestalker's Alliance Rk. II	EoK
-103	Bosquestalker's Alliance Rk. III	EoK
-103	Cloud of Guardian Glistenwings	TDS
-103	Cloud of Guardian Glistenwings II	TDS
-103	Cloud of Guardian Glistenwings III	TDS
-103	Copsestalker's Vigor	TDS
-103	Copsestalker's Vigor Rk. II	TDS
-103	Copsestalker's Vigor Rk. III	TDS
-103	Focused Squall of Blades	EoK
-103	Focused Squall of Blades Rk. II	EoK
-103	Focused Squall of Blades Rk. III	EoK
-103	Glistenwing Swarm	TDS
-103	Glistenwing Swarm II	TDS
-103	Glistenwing Swarm III	TDS
-103	Kromtus Balm	TDS
-103	Kromtus Balm Rk. II	TDS
-103	Kromtus Balm Rk. III	TDS
-103	Nettlespear Coat	TDS
-103	Nettlespear Coat Rk. II	TDS
-103	Nettlespear Coat Rk. III	TDS
-103	Silent Shot	EoK
-103	Silent Shot Rk. II	EoK
-103	Silent Shot Rk. III	EoK
-103	Swarm of Glistenwings	TDS
-103	Swarm of Glistenwings Rk. II	TDS
-103	Swarm of Glistenwings Rk. III	TDS
-103	Wildfire Ash	TDS
-103	Wildfire Ash Rk. II	TDS
-103	Wildfire Ash Rk. III	TDS
-103	Wildfire Boon	TDS
-103	Wildfire Boon Rk. II	TDS
-103	Wildfire Boon Rk. III	TDS
-104	Cyclone of Arrows	TDS
-104	Cyclone of Arrows Rk. II	TDS
-104	Cyclone of Arrows Rk. III	TDS
-104	Desperate Dousing	TDS
-104	Desperate Dousing Rk. II	TDS
-104	Desperate Dousing Rk. III	TDS
-104	Devastating Swords	TDS
-104	Devastating Swords Rk. II	TDS
-104	Devastating Swords Rk. III	TDS
-104	Eyes of the Harrier	TDS
-104	Eyes of the Harrier Rk. II	TDS
-104	Eyes of the Harrier Rk. III	TDS
-104	Ravencoat	TDS
-104	Ravencoat Rk. II	TDS
-104	Ravencoat Rk. III	TDS
-104	Shout of the Copsestalker	TDS
-104	Shout of the Copsestalker Rk. II	TDS
-104	Shout of the Copsestalker Rk. III	TDS
-104	Summer's Cyclone	TDS
-104	Summer's Cyclone Burn	TDS
-104	Summer's Cyclone Burn II	TDS
-104	Summer's Cyclone Burn III	TDS
-104	Summer's Cyclone Rk. II	TDS
-104	Summer's Cyclone Rk. III	TDS
-104	Summer's Cyclone Splash	TDS
-104	Summer's Cyclone Splash II	TDS
-104	Summer's Cyclone Splash III	TDS
-105	Arrowrain	TDS
-105	Arrowrain Rk. II	TDS
-105	Arrowrain Rk. III	TDS
-105	Copsestalker's Discipline	TDS
-105	Copsestalker's Discipline Rk. II	TDS
-105	Copsestalker's Discipline Rk. III	TDS
-105	Copsestalker's Enrichment	TBM
-105	Copsestalker's Enrichment Rk. II	TBM
-105	Copsestalker's Enrichment Rk. III	TBM
-105	Copsestalker's Unity	TDS
-105	Copsestalker's Unity Rk. II	TDS
-105	Copsestalker's Unity Rk. III	TDS
-105	Energized by the Hunt	TDS
-105	Energized by the Hunt Rk. II	TDS
-105	Energized by the Hunt Rk. III	TDS
-105	Energized Effect	TDS
-105	Energized Effect II	TDS
-105	Energized Effect III	TDS
-105	Focused Arrowrain	TDS
-105	Focused Arrowrain Rk. II	TDS
-105	Focused Arrowrain Rk. III	TDS
-105	Heartsplit	TDS
-105	Heartsplit Rk. II	TDS
-105	Heartsplit Rk. III	TDS
-105	Protection of the Forest	TDS
-105	Protection of the Forest Rk. II	TDS
-105	Protection of the Forest Rk. III	TDS
-105	Reflexive Nettlespears	EoK
-105	Reflexive Nettlespears Rk. II	EoK
-105	Reflexive Nettlespears Rk. III	EoK
-105	Roaring Weapons	TDS
-105	Roaring Weapons Rk. II	TDS
-105	Roaring Weapons Rk. III	TDS
-106	Bonecrawler Swarm	RoS
-106	Bonecrawler Swarm Rk. II	RoS
-106	Bonecrawler Swarm Rk. III	RoS
-106	Dissident Fusillade	TBL
-106	Drifting Smoke	RoS
-106	Drifting Smoke Rk. II	RoS
-106	Drifting Smoke Rk. III	RoS
-106	Foreseen Shots	RoS
-106	Foreseen Shots Rk. II	RoS
-106	Foreseen Shots Rk. III	RoS
-106	Gale of Blades	RoS
-106	Gale of Blades Rk. II	RoS
-106	Gale of Blades Rk. III	RoS
+101	Consecration	TDS
+101	Consecration Rk. II	TDS
+101	Consecration Rk. III	TDS
+101	Consecration Trigger	TDS
+101	Consecration Trigger II	TDS
+101	Consecration Trigger III	TDS
+101	Depurate	TDS
+101	Depurate Rk. II	TDS
+101	Depurate Rk. III	TDS
+101	Dichotomic Force	TBM
+101	Doctrine of Rescission	TDS
+101	Doctrine of Rescission Rk. II	TDS
+101	Doctrine of Rescission Rk. III	TDS
+101	Dulcify	TDS
+101	Dulcify Rk. II	TDS
+101	Dulcify Rk. III	TDS
+101	Mark of Krausig	TDS
+101	Mark of Krausig Rk. II	TDS
+101	Mark of Krausig Rk. III	TDS
+102	Admonish	TDS
+102	Admonish Heal	TDS
+102	Admonish Heal II	TDS
+102	Admonish Heal III	TDS
+102	Admonish Rk. II	TDS
+102	Admonish Rk. III	TDS
+102	Blessed Light	TDS
+102	Blessed Light Rk. II	TDS
+102	Blessed Light Rk. III	TDS
+102	Crush of the Darkened Sea	TDS
+102	Crush of the Darkened Sea Rk. II	TDS
+102	Crush of the Darkened Sea Rk. III	TDS
+102	Devout Penitence	TBM
+102	Devout Penitence Rk. II	TBM
+102	Devout Penitence Rk. III	TBM
+102	Impose for Honor	TDS
+102	Impose for Honor Rk. II	TDS
+102	Impose for Honor Rk. III	TDS
+102	Lesson of Grief	TDS
+102	Lesson of Grief Rk. II	TDS
+102	Lesson of Grief Rk. III	TDS
+102	Penitent Mending	TBM
+102	Penitent Mending II	TBM
+102	Penitent Mending III	TBM
+102	Penitent Reward	TBM
+102	Penitent Reward II	TBM
+102	Penitent Reward III	TBM
+102	Stormbound Keeper	TDS
+102	Stormbound Keeper Rk. II	TDS
+102	Stormbound Keeper Rk. III	TDS
+102	Symbol of Niparson	TDS
+102	Symbol of Niparson Rk. II	TDS
+102	Symbol of Niparson Rk. III	TDS
+103	Ardent Cleansing	TDS
+103	Ardent Cleansing Rk. II	TDS
+103	Ardent Cleansing Rk. III	TDS
+103	Armor of Ardency	TDS
+103	Armor of Ardency Rk. II	TDS
+103	Armor of Ardency Rk. III	TDS
+103	Armor of Formidable Spirit	TDS
+103	Armor of Formidable Spirit Rk. II	TDS
+103	Armor of Formidable Spirit Rk. III	TDS
+103	Burst of Dayspring	TDS
+103	Burst of Dayspring Rk. II	TDS
+103	Burst of Dayspring Rk. III	TDS
+103	Harmonious Blessing	EoK
+103	Harmonious Blessing Rk. II	EoK
+103	Harmonious Blessing Rk. III	EoK
+103	Repel	TDS
+103	Repel Rk. II	TDS
+103	Repel Rk. III	TDS
+103	Skalber Mantle	TDS
+103	Skalber Mantle Heal	TDS
+103	Skalber Mantle Heal II	TDS
+103	Skalber Mantle Heal III	TDS
+103	Skalber Mantle Rk. II	TDS
+103	Skalber Mantle Rk. III	TDS
+103	Splash of Atonement	TDS
+103	Splash of Atonement Rk. II	TDS
+103	Splash of Atonement Rk. III	TDS
+104	Ardent Healing	TDS
+104	Ardent Healing II	TDS
+104	Ardent Healing III	TDS
+104	Brell's Stalwart Bulwark	TDS
+104	Brell's Stalwart Bulwark Rk. II	TDS
+104	Brell's Stalwart Bulwark Rk. III	TDS
+104	Force of Ardency	TDS
+104	Force of Ardency Rk. II	TDS
+104	Force of Ardency Rk. III	TDS
+104	Grief	TDS
+104	Grief Rk. II	TDS
+104	Grief Rk. III	TDS
+104	Holy Alliance	EoK
+104	Holy Alliance Rk. II	EoK
+104	Holy Alliance Rk. III	EoK
+104	Mark of the Commander	TDS
+104	Mark of the Commander Rk. II	TDS
+104	Mark of the Commander Rk. III	TDS
+104	Staunch Stance	TDS
+104	Staunch Stance Rk. II	TDS
+104	Staunch Stance Rk. III	TDS
+104	Unflinching Affirmation	TDS
+104	Unflinching Affirmation Rk. II	TDS
+104	Unflinching Affirmation Rk. III	TDS
+104	Wave of Grief	TDS
+104	Wave of Grief Rk. II	TDS
+104	Wave of Grief Rk. III	TDS
+105	Ardent Fury	TDS
+105	Ardent Fury Rk. II	TDS
+105	Ardent Fury Rk. III	TDS
+105	Ardent Fury Strike	TDS
+105	Ardent Fury Strike II	TDS
+105	Ardent Fury Strike III	TDS
+105	Aurora of Dayspring	TDS
+105	Aurora of Dayspring Rk. II	TDS
+105	Aurora of Dayspring Rk. III	TDS
+105	Brilliant Vindication	TDS
+105	Brilliant Vindication Rk. II	TDS
+105	Brilliant Vindication Rk. III	TDS
+105	Crush of Povar	TDS
+105	Crush of Povar Rk. II	TDS
+105	Crush of Povar Rk. III	TDS
+105	Force of the Darkened Sea	TDS
+105	Force of the Darkened Sea Rk. II	TDS
+105	Force of the Darkened Sea Rk. III	TDS
+105	Hand of the Stormbound Keeper	TDS
+105	Hand of the Stormbound Keeper Rk. II	TDS
+105	Hand of the Stormbound Keeper Rk. III	TDS
+105	Protective Proclamation	TDS
+105	Protective Proclamation Rk. II	TDS
+105	Protective Proclamation Rk. III	TDS
+105	Reflexive Reverence	EoK
+105	Reflexive Reverence Rk. II	EoK
+105	Reflexive Reverence Rk. III	EoK
+105	Valiant Defense	EoK
+105	Valiant Defense Rk. II	EoK
+105	Valiant Defense Rk. III	EoK
+106	Dissident Force	TBL
+106	Doctrine of Exculpation	RoS
+106	Doctrine of Exculpation Rk. II	RoS
+106	Doctrine of Exculpation Rk. III	RoS
 106	Hiatus	RoS
 106	Hiatus Rk. II	RoS
 106	Hiatus Rk. III	RoS
-106	Shield of Needlebarbs	RoS
-106	Shield of Needlebarbs Rk. II	RoS
-106	Shield of Needlebarbs Rk. III	RoS
-106	Vaporous Veil	RoS
-106	Vaporous Veil Rk. II	RoS
-106	Vaporous Veil Rk. III	RoS
-106	Wellspring	RoS
-106	Wellspring Rk. II	RoS
-106	Wellspring Rk. III	RoS
-107	Cloak of Needlebarbs	RoS
-107	Cloak of Needlebarbs Rk. II	RoS
-107	Cloak of Needlebarbs Rk. III	RoS
-107	Enraging Wheel Kicks	RoS
-107	Enraging Wheel Kicks Rk. II	RoS
-107	Enraging Wheel Kicks Rk. III	RoS
-107	Frigid Wind	RoS
-107	Frigid Wind Rk. II	RoS
-107	Frigid Wind Rk. III	RoS
-107	Jolting Steel	RoS
-107	Jolting Steel Rk. II	RoS
-107	Jolting Steel Rk. III	RoS
-107	Jolting Wheel Kicks	RoS
-107	Jolting Wheel Kicks Rk. II	RoS
-107	Jolting Wheel Kicks Rk. III	RoS
-107	Lavastorm Cloak	RoS
-107	Lavastorm Cloak Rk. II	RoS
-107	Lavastorm Cloak Rk. III	RoS
-107	Lingering Smoke	RoS
-107	Lingering Smoke Rk. II	RoS
-107	Lingering Smoke Rk. III	RoS
-107	Strength of the Wildstalker	RoS
-107	Strength of the Wildstalker Rk. II	RoS
-107	Strength of the Wildstalker Rk. III	RoS
-107	Wail of the Predator	RoS
-107	Wail of the Predator Rk. II	RoS
-107	Wail of the Predator Rk. III	RoS
-107	Windshear Boon	RoS
-107	Windshear Boon Rk. II	RoS
-107	Windshear Boon Rk. III	RoS
-108	Cloud of Guardian Polybiads	RoS
-108	Cloud of Guardian Polybiads II	RoS
-108	Cloud of Guardian Polybiads III	RoS
-108	Fereth Balm	RoS
-108	Fereth Balm Rk. II	RoS
-108	Fereth Balm Rk. III	RoS
-108	Needlebarb Coat	RoS
-108	Needlebarb Coat Rk. II	RoS
-108	Needlebarb Coat Rk. III	RoS
-108	Polybiad Swarm	RoS
-108	Polybiad Swarm II	RoS
-108	Polybiad Swarm III	RoS
-108	Skyfire Ash	RoS
-108	Skyfire Ash Rk. II	RoS
-108	Skyfire Ash Rk. III	RoS
-108	Skyfire Boon	RoS
-108	Skyfire Boon Rk. II	RoS
-108	Skyfire Boon Rk. III	RoS
-108	Swarm of Polybiads	RoS
-108	Swarm of Polybiads Rk. II	RoS
-108	Swarm of Polybiads Rk. III	RoS
-108	Wildstalker's Covenant	TBL
-108	Wildstalker's Covenant Rk. II	TBL
-108	Wildstalker's Covenant Rk. III	TBL
-108	Wildstalker's Vigor	RoS
-108	Wildstalker's Vigor Rk. II	RoS
-108	Wildstalker's Vigor Rk. III	RoS
-109	Blackscale	RoS
-109	Blackscale Rk. II	RoS
-109	Blackscale Rk. III	RoS
-109	Desperate Dewcloud	RoS
-109	Desperate Dewcloud Rk. II	RoS
-109	Desperate Dewcloud Rk. III	RoS
-109	Devastating Steel	RoS
-109	Devastating Steel Rk. II	RoS
-109	Devastating Steel Rk. III	RoS
-109	Eyes of the Sabertooth	RoS
-109	Eyes of the Sabertooth Rk. II	RoS
-109	Eyes of the Sabertooth Rk. III	RoS
-109	Focused Gale of Blades	TBL
-109	Focused Gale of Blades Rk. II	TBL
-109	Focused Gale of Blades Rk. III	TBL
-109	Gale of Arrows	RoS
-109	Gale of Arrows Rk. II	RoS
-109	Gale of Arrows Rk. III	RoS
-109	Shared Cloak of Needlebarbs	RoS
-109	Shared Cloak of Needlebarbs Rk. II	RoS
-109	Shared Cloak of Needlebarbs Rk. III	RoS
-109	Shout of the Wildstalker	RoS
-109	Shout of the Wildstalker Rk. II	RoS
-109	Shout of the Wildstalker Rk. III	RoS
-109	Summer's Tempest	RoS
-109	Summer's Tempest Burn	RoS
-109	Summer's Tempest Burn II	RoS
-109	Summer's Tempest Burn III	RoS
-109	Summer's Tempest Rk. II	RoS
-109	Summer's Tempest Rk. III	RoS
-109	Summer's Tempest Splash	RoS
-109	Summer's Tempest Splash II	RoS
-109	Summer's Tempest Splash III	RoS
-110	Arrowgale	RoS
-110	Arrowgale Rk. II	RoS
-110	Arrowgale Rk. III	RoS
-110	Focused Arrowgale	RoS
-110	Focused Arrowgale Rk. II	RoS
-110	Focused Arrowgale Rk. III	RoS
-110	Heartcleave	RoS
-110	Heartcleave Rk. II	RoS
-110	Heartcleave Rk. III	RoS
-110	Protection of the Woodlands	RoS
-110	Protection of the Woodlands Rk. II	RoS
-110	Protection of the Woodlands Rk. III	RoS
-110	Roaring Blades	RoS
-110	Roaring Blades Rk. II	RoS
-110	Roaring Blades Rk. III	RoS
-110	Spurred by the Hunt	RoS
-110	Spurred by the Hunt Rk. II	RoS
-110	Spurred by the Hunt Rk. III	RoS
-110	Spurred Effect	RoS
-110	Spurred Effect II	RoS
-110	Spurred Effect III	RoS
-110	Wildstalker's Discipline	RoS
-110	Wildstalker's Discipline Rk. II	RoS
-110	Wildstalker's Discipline Rk. III	RoS
-110	Wildstalker's Enrichment	TBL
-110	Wildstalker's Enrichment Rk. II	TBL
-110	Wildstalker's Enrichment Rk. III	TBL
-110	Wildstalker's Unity	RoS
-110	Wildstalker's Unity Rk. II	RoS
-110	Wildstalker's Unity Rk. III	RoS
-111	Blizzard of Blades	ToV
-111	Blizzard of Blades Rk. II	ToV
-111	Blizzard of Blades Rk. III	ToV
-111	Composite Fusillade	CoV
-111	Drifting Snowshower	ToV
-111	Drifting Snowshower Rk. II	ToV
-111	Drifting Snowshower Rk. III	ToV
-111	Frostveil	ToV
-111	Frostveil Rk. II	ToV
-111	Frostveil Rk. III	ToV
-111	Ice Burrower Swarm	ToV
-111	Ice Burrower Swarm Rk. II	ToV
-111	Ice Burrower Swarm Rk. III	ToV
-111	Marked Shots	ToV
-111	Marked Shots Rk. II	ToV
-111	Marked Shots Rk. III	ToV
-111	Meltwater Spring	ToV
-111	Meltwater Spring Rk. II	ToV
-111	Meltwater Spring Rk. III	ToV
-111	Reflexive Rimespurs	CoV
-111	Reflexive Rimespurs Rk. II	CoV
-111	Reflexive Rimespurs Rk. III	CoV
+106	Mark of Teralov	RoS
+106	Mark of Teralov Rk. II	RoS
+106	Mark of Teralov Rk. III	RoS
+106	Merciful Force	RoS
+106	Merciful Force Rk. II	RoS
+106	Merciful Force Rk. III	RoS
+106	Merciful Purity	RoS
+106	Merciful Purity Rk. II	RoS
+106	Merciful Purity Rk. III	RoS
+106	Merciful Touch	RoS
+106	Merciful Touch Rk. II	RoS
+106	Merciful Touch Rk. III	RoS
+106	Remembrance	RoS
+106	Remembrance Rk. II	RoS
+106	Remembrance Rk. III	RoS
+106	Remembrance Trigger	RoS
+106	Remembrance Trigger II	RoS
+106	Remembrance Trigger III	RoS
+106	Sanctify	RoS
+106	Sanctify Rk. II	RoS
+106	Sanctify Rk. III	RoS
+106	Soothe	RoS
+106	Soothe Rk. II	RoS
+106	Soothe Rk. III	RoS
+107	Ashbound Keeper	RoS
+107	Ashbound Keeper Rk. II	RoS
+107	Ashbound Keeper Rk. III	RoS
+107	Blessed Guardian Discipline	RoS
+107	Blessed Guardian Discipline Rk. II	RoS
+107	Blessed Guardian Discipline Rk. III	RoS
+107	Blessed Guardian Heal	RoS
+107	Blessed Guardian Heal II	RoS
+107	Blessed Guardian Heal III	RoS
+107	Censure	RoS
+107	Censure Heal	RoS
+107	Censure Heal II	RoS
+107	Censure Heal III	RoS
+107	Censure Rk. II	RoS
+107	Censure Rk. III	RoS
+107	Crush of the Timorous Deep	RoS
+107	Crush of the Timorous Deep Rk. II	RoS
+107	Crush of the Timorous Deep Rk. III	RoS
+107	Lesson of Expiation	RoS
+107	Lesson of Expiation Rk. II	RoS
+107	Lesson of Expiation Rk. III	RoS
+107	Merciful Light	RoS
+107	Merciful Light Rk. II	RoS
+107	Merciful Light Rk. III	RoS
+107	Merciful Penitence	TBL
+107	Merciful Penitence Rk. II	TBL
+107	Merciful Penitence Rk. III	TBL
+107	Refute for Honor	RoS
+107	Refute for Honor Rk. II	RoS
+107	Refute for Honor Rk. III	RoS
+107	Sanctimonious Audacity	RoS
+107	Sanctimonious Audacity Rk. II	RoS
+107	Sanctimonious Audacity Rk. III	RoS
+107	Symbol of Teralov	RoS
+107	Symbol of Teralov Rk. II	RoS
+107	Symbol of Teralov Rk. III	RoS
+108	Armor of Mercy	RoS
+108	Armor of Mercy Rk. II	RoS
+108	Armor of Mercy Rk. III	RoS
+108	Armor of Steadfast Faith	RoS
+108	Armor of Steadfast Faith Rk. II	RoS
+108	Armor of Steadfast Faith Rk. III	RoS
+108	Burst of Morninglight	RoS
+108	Burst of Morninglight Rk. II	RoS
+108	Burst of Morninglight Rk. III	RoS
+108	Concordant Blessing	RoS
+108	Concordant Blessing Rk. II	RoS
+108	Concordant Blessing Rk. III	RoS
+108	Condemnation Strike	RoS
+108	Condemnation Strike II	RoS
+108	Condemnation Strike III	RoS
+108	Kar`Zok Mantle	RoS
+108	Kar`Zok Mantle Heal	RoS
+108	Kar`Zok Mantle Heal II	RoS
+108	Kar`Zok Mantle Heal III	RoS
+108	Kar`Zok Mantle Rk. II	RoS
+108	Kar`Zok Mantle Rk. III	RoS
+108	Merciful Cleansing	RoS
+108	Merciful Cleansing Rk. II	RoS
+108	Merciful Cleansing Rk. III	RoS
+108	Righteous Condemnation	RoS
+108	Righteous Condemnation Rk. II	RoS
+108	Righteous Condemnation Rk. III	RoS
+108	Splash of Depuration	RoS
+108	Splash of Depuration Rk. II	RoS
+108	Splash of Depuration Rk. III	RoS
+108	Spurn	RoS
+108	Spurn Rk. II	RoS
+108	Spurn Rk. III	RoS
+109	Brell's Blessed Bastion	RoS
+109	Brell's Blessed Bastion Rk. II	RoS
+109	Brell's Blessed Bastion Rk. III	RoS
+109	Defiant Stance	RoS
+109	Defiant Stance Rk. II	RoS
+109	Defiant Stance Rk. III	RoS
+109	Expiation	RoS
+109	Expiation Rk. II	RoS
+109	Expiation Rk. III	RoS
+109	Force of Mercy	RoS
+109	Force of Mercy Rk. II	RoS
+109	Force of Mercy Rk. III	RoS
+109	Mark of Orthiss	RoS
+109	Mark of Orthiss Rk. II	RoS
+109	Mark of Orthiss Rk. III	RoS
+109	Merciful Healing	RoS
+109	Merciful Healing II	RoS
+109	Merciful Healing III	RoS
+109	Penitent Mending III Azia	TBL
+109	Penitent Mending III Beza	TBL
+109	Penitent Mending III Caza	TBL
+109	Penitent Reward III Azia	TBL
+109	Penitent Reward III Beza	TBL
+109	Penitent Reward III Caza	TBL
+109	Revitalizating Steel	RoS
+109	Revitalizating Steel Rk. II	RoS
+109	Revitalizating Steel Rk. III	RoS
+109	Steely Revitalization	RoS
+109	Steely Revitalization II	RoS
+109	Steely Revitalization III	RoS
+109	Unyielding Affirmation	RoS
+109	Unyielding Affirmation Reflection	RoS
+109	Unyielding Affirmation Reflection II	RoS
+109	Unyielding Affirmation Reflection III	RoS
+109	Unyielding Affirmation Rk. II	RoS
+109	Unyielding Affirmation Rk. III	RoS
+109	Wave of Expiation	RoS
+109	Wave of Expiation Rk. II	RoS
+109	Wave of Expiation Rk. III	RoS
+110	Aurora of Morninglight	RoS
+110	Aurora of Morninglight Rk. II	RoS
+110	Aurora of Morninglight Rk. III	RoS
+110	Brilliant Exoneration	RoS
+110	Brilliant Exoneration Rk. II	RoS
+110	Brilliant Exoneration Rk. III	RoS
+110	Crush of E'Ci	RoS
+110	Crush of E'Ci Rk. II	RoS
+110	Crush of E'Ci Rk. III	RoS
+110	Force of Orthiss	RoS
+110	Force of Orthiss Rk. II	RoS
+110	Force of Orthiss Rk. III	RoS
+110	Force of the Timorous Deep	RoS
+110	Force of the Timorous Deep Rk. II	RoS
+110	Force of the Timorous Deep Rk. III	RoS
+110	Hand of the Ashbound Keeper	RoS
+110	Hand of the Ashbound Keeper Rk. II	RoS
+110	Hand of the Ashbound Keeper Rk. III	RoS
+110	Merciful Fury	RoS
+110	Merciful Fury Rk. II	RoS
+110	Merciful Fury Rk. III	RoS
+110	Merciful Fury Strike	RoS
+110	Merciful Fury Strike II	RoS
+110	Merciful Fury Strike III	RoS
+110	Preservation of Rodcet	RoS
+110	Preservation of Rodcet Effect	RoS
+110	Preservation of Rodcet Effect II	RoS
+110	Preservation of Rodcet Effect III	RoS
+110	Preservation of Rodcet Rk. II	RoS
+110	Preservation of Rodcet Rk. III	RoS
+110	Protective Devotion	RoS
+110	Protective Devotion Rk. II	RoS
+110	Protective Devotion Rk. III	RoS
+110	Valiant Diversion	TBL
+110	Valiant Diversion Rk. II	TBL
+110	Valiant Diversion Rk. III	TBL
+111	Composite Force	CoV
+111	Doctrine of Abolishment	ToV
+111	Doctrine of Abolishment Rk. II	ToV
+111	Doctrine of Abolishment Rk. III	ToV
+111	Mark of Sevalak	ToV
+111	Mark of Sevalak Rk. II	ToV
+111	Mark of Sevalak Rk. III	ToV
+111	Placating Words	ToV
+111	Placating Words Rk. II	ToV
+111	Placating Words Rk. III	ToV
+111	Reflexive Redemption	CoV
+111	Reflexive Redemption Rk. II	CoV
+111	Reflexive Redemption Rk. III	CoV
 111	Relax	ToV
 111	Relax Rk. II	ToV
 111	Relax Rk. III	ToV
-111	Shield of Rimespurs	ToV
-111	Stealthy Shot	CoV
-111	Stealthy Shot Rk. II	CoV
-111	Stealthy Shot Rk. III	CoV
-112	Arrowstorm	CoV
-112	Arrowstorm Rk. II	CoV
-112	Arrowstorm Rk. III	CoV
-112	Cloak of Rimespurs	ToV
-112	Enraging Axe Kicks	ToV
-112	Enraging Axe Kicks Rk. II	ToV
-112	Enraging Axe Kicks Rk. III	ToV
-112	Frostroar of the Predator	ToV
-112	Jolting Axe Kicks	ToV
-112	Jolting Axe Kicks Rk. II	ToV
-112	Jolting Axe Kicks Rk. III	ToV
-112	Jolting Velium	ToV
-112	Jolting Velium Rk. II	ToV
-112	Jolting Velium Rk. III	ToV
-112	Lingering Snowshower	ToV
-112	Lingering Snowshower Rk. II	ToV
-112	Lingering Snowshower Rk. III	ToV
-112	Mistral Boon	ToV
-112	Mistral Boon Rk. II	ToV
-112	Mistral Boon Rk. III	ToV
-112	Outrider's Ever-Burning Cloak	ToV
-112	Outrider's Ever-Burning Cloak Rk. II	ToV
-112	Outrider's Ever-Burning Cloak Rk. III	ToV
-112	Restless Wind	ToV
-112	Restless Wind Rk. II	ToV
-112	Restless Wind Rk. III	ToV
-112	Strength of the Arbor Stalker	ToV
-113	Arbor Stalker's Coalition	CoV
-113	Arbor Stalker's Coalition Rk. II	CoV
-113	Arbor Stalker's Coalition Rk. III	CoV
-113	Arbor Stalker's Vigor	ToV
-113	Cloud of Guardian Hyperboreads	ToV
-113	Cloud of Guardian Hyperboreads II	ToV
-113	Cloud of Guardian Hyperboreads III	ToV
-113	Hyperboread Swarm	ToV
-113	Hyperboread Swarm II	ToV
-113	Hyperboread Swarm III	ToV
-113	Pyroclastic Ash	ToV
-113	Pyroclastic Ash Rk. II	ToV
-113	Pyroclastic Ash Rk. III	ToV
-113	Pyroclastic Boon	ToV
-113	Pyroclastic Boon Rk. II	ToV
-113	Pyroclastic Boon Rk. III	ToV
-113	Rimespur Coat	ToV
-113	Rimespur Coat Rk. II	ToV
-113	Rimespur Coat Rk. III	ToV
-113	Swarm of Hyperboreads	ToV
-113	Swarm of Hyperboreads Rk. II	ToV
-113	Swarm of Hyperboreads Rk. III	ToV
-113	Wakening Balm	ToV
-113	Wakening Balm Rk. II	ToV
-113	Wakening Balm Rk. III	ToV
-114	Blizzard of Arrows	ToV
-114	Blizzard of Arrows Rk. II	ToV
-114	Blizzard of Arrows Rk. III	ToV
-114	Desperate Meltwater	ToV
-114	Desperate Meltwater Rk. II	ToV
-114	Desperate Meltwater Rk. III	ToV
-114	Devastating Velium	ToV
-114	Devastating Velium Rk. II	ToV
-114	Devastating Velium Rk. III	ToV
-114	Eyes of the Visionary	ToV
-114	Eyes of the Visionary Rk. II	ToV
-114	Eyes of the Visionary Rk. III	ToV
-114	Focused Blizzard of Blades	CoV
-114	Focused Blizzard of Blades Rk. II	CoV
-114	Focused Blizzard of Blades Rk. III	CoV
-114	Obsidian Coat	ToV
-114	Shared Cloak of Rimespurs	ToV
-114	Shout of the Arbor Stalker	ToV
-114	Summer's Sleet	ToV
-114	Summer's Sleet Burn	ToV
-114	Summer's Sleet Burn II	ToV
-114	Summer's Sleet Burn III	ToV
-114	Summer's Sleet Rk. II	ToV
-114	Summer's Sleet Rk. III	ToV
-114	Summer's Sleet Splash	ToV
-114	Summer's Sleet Splash II	ToV
-114	Summer's Sleet Splash III	ToV
-115	Arbor Stalker's Discipline	ToV
-115	Arbor Stalker's Discipline Rk. II	ToV
-115	Arbor Stalker's Discipline Rk. III	ToV
-115	Arbor Stalker's Enrichment	CoV
-115	Focused Blizzard of Arrows	ToV
-115	Focused Blizzard of Arrows Rk. II	ToV
-115	Focused Blizzard of Arrows Rk. III	ToV
-115	Heartsunder	ToV
-115	Heartsunder Rk. II	ToV
-115	Heartsunder Rk. III	ToV
-115	Howling Blades	ToV
-115	Howling Blades Rk. II	ToV
-115	Howling Blades Rk. III	ToV
-115	Protection of the Wakening Land	ToV
-115	Provoked by the Hunt	ToV
-115	Provoked by the Hunt Rk. II	ToV
-115	Provoked by the Hunt Rk. III	ToV
-115	Provoked Effect	ToV
-115	Provoked Effect II	ToV
-115	Provoked Effect III	ToV
-116	Bloodbeetle Swarm	ToL
-116	Bloodbeetle Swarm Rk. II	ToL
-116	Bloodbeetle Swarm Rk. III	ToL
-116	Claimed Shots	ToL
-116	Claimed Shots Rk. II	ToL
-116	Claimed Shots Rk. III	ToL
-116	Darkflow Spring	ToL
-116	Darkflow Spring Rk. II	ToL
-116	Darkflow Spring Rk. III	ToL
-116	Drifting Dreamshade	ToL
-116	Drifting Dreamshade Rk. II	ToL
-116	Drifting Dreamshade Rk. III	ToL
-116	Duskveil	ToL
-116	Duskveil Rk. II	ToL
-116	Duskveil Rk. III	ToL
-116	Ecliptic Fusillade	NoS
+111	Requiem	ToV
+111	Requiem Rk. II	ToV
+111	Requiem Rk. III	ToV
+111	Requiem Trigger	ToV
+111	Requiem Trigger II	ToV
+111	Requiem Trigger III	ToV
+111	Sincere Force	ToV
+111	Sincere Force Rk. II	ToV
+111	Sincere Force Rk. III	ToV
+111	Sincere Touch	ToV
+111	Sincere Touch Rk. II	ToV
+111	Sincere Touch Rk. III	ToV
+112	Crush of the Grotto	ToV
+112	Crush of the Grotto Rk. II	ToV
+112	Crush of the Grotto Rk. III	ToV
+112	Fervent Audacity	ToV
+112	Fervent Audacity Rk. II	ToV
+112	Fervent Audacity Rk. III	ToV
+112	Lesson of Propitiation	ToV
+112	Lesson of Propitiation Rk. II	ToV
+112	Lesson of Propitiation Rk. III	ToV
+112	Protest for Honor	ToV
+112	Protest for Honor Rk. II	ToV
+112	Protest for Honor Rk. III	ToV
+112	Remonstrate	ToV
+112	Remonstrate Heal	ToV
+112	Remonstrate Heal II	ToV
+112	Remonstrate Heal III	ToV
+112	Remonstrate Rk. II	ToV
+112	Remonstrate Rk. III	ToV
+112	Sincere Light	ToV
+112	Sincere Light Rk. II	ToV
+112	Sincere Light Rk. III	ToV
+112	Sincere Penitence	CoV
+112	Sincere Penitence Rk. II	CoV
+112	Sincere Penitence Rk. III	CoV
+112	Stormwall Keeper	ToV
+112	Symbol of Sevalak	ToV
+113	Antipathetic Strike	ToV
+113	Antipathetic Strike II	ToV
+113	Antipathetic Strike III	ToV
+113	Armor of Sincerity	ToV
+113	Armor of Sincerity Rk. II	ToV
+113	Armor of Sincerity Rk. III	ToV
+113	Armor of Steadfast Grace	ToV
+113	Armor of Steadfast Grace Rk. II	ToV
+113	Armor of Steadfast Grace Rk. III	ToV
+113	Burst of Wakening	ToV
+113	Burst of Wakening Rk. II	ToV
+113	Burst of Wakening Rk. III	ToV
+113	Confluent Blessing	CoV
+113	Confluent Blessing Rk. II	CoV
+113	Confluent Blessing Rk. III	CoV
+113	Mantle of the Sapphire Cohort	ToV
+113	Mantle of the Sapphire Cohort Heal	ToV
+113	Mantle of the Sapphire Cohort Heal II	ToV
+113	Mantle of the Sapphire Cohort Heal III	ToV
+113	Mantle of the Sapphire Cohort Rk. II	ToV
+113	Mantle of the Sapphire Cohort Rk. III	ToV
+113	Righteous Antipathy	ToV
+113	Righteous Antipathy Rk. II	ToV
+113	Righteous Antipathy Rk. III	ToV
+113	Sincere Cleansing	ToV
+113	Sincere Cleansing Rk. II	ToV
+113	Sincere Cleansing Rk. III	ToV
+113	Splash of Exaltation	ToV
+113	Splash of Exaltation Rk. II	ToV
+113	Splash of Exaltation Rk. III	ToV
+113	Thwart	ToV
+113	Thwart Rk. II	ToV
+113	Thwart Rk. III	ToV
+114	Brell's Blessed Barrier	ToV
+114	Force of Sincerity	CoV
+114	Force of Sincerity Rk. II	CoV
+114	Force of Sincerity Rk. III	CoV
+114	Mark of the Jade Cohort	ToV
+114	Mark of the Jade Cohort Rk. II	ToV
+114	Mark of the Jade Cohort Rk. III	ToV
+114	Penitent Mending IV Azia	CoV
+114	Penitent Mending IV Beza	CoV
+114	Penitent Mending IV Caza	CoV
+114	Penitent Reward IV Azia	CoV
+114	Penitent Reward IV Beza	CoV
+114	Penitent Reward IV Caza	CoV
+114	Propitiation	ToV
+114	Propitiation Rk. II	ToV
+114	Propitiation Rk. III	ToV
+114	Renewing Steel	ToV
+114	Renewing Steel Rk. II	ToV
+114	Renewing Steel Rk. III	ToV
+114	Sincere Healing	CoV
+114	Sincere Healing II	CoV
+114	Sincere Healing III	CoV
+114	Steely Renewal	ToV
+114	Steely Renewal II	ToV
+114	Steely Renewal III	ToV
+114	Stormwall Coalition	CoV
+114	Stormwall Coalition Rk. II	CoV
+114	Stormwall Coalition Rk. III	CoV
+114	Stormwall Stance	ToV
+114	Stormwall Stance Rk. II	ToV
+114	Stormwall Stance Rk. III	ToV
+114	Unending Affirmation	ToV
+114	Unending Affirmation Reflection	ToV
+114	Unending Affirmation Reflection II	ToV
+114	Unending Affirmation Reflection III	ToV
+114	Unending Affirmation Rk. II	ToV
+114	Unending Affirmation Rk. III	ToV
+114	Wave of Propitiation	ToV
+114	Wave of Propitiation Rk. II	ToV
+114	Wave of Propitiation Rk. III	ToV
+115	Aurora of Wakening	ToV
+115	Aurora of Wakening Rk. II	ToV
+115	Aurora of Wakening Rk. III	ToV
+115	Brilliant Exculpation	ToV
+115	Brilliant Exculpation Rk. II	ToV
+115	Brilliant Exculpation Rk. III	ToV
+115	Crush of Restless Ice	ToV
+115	Crush of Restless Ice Rk. II	ToV
+115	Crush of Restless Ice Rk. III	ToV
+115	Force of the Grotto	ToV
+115	Force of the Grotto Rk. II	ToV
+115	Force of the Grotto Rk. III	ToV
+115	Force of the Jade Cohort	ToV
+115	Force of the Jade Cohort Rk. II	ToV
+115	Force of the Jade Cohort Rk. III	ToV
+115	Hand of the Stormwall Keeper	ToV
+115	Preservation of the Grotto	ToV
+115	Preservation of the Grotto Effect	ToV
+115	Preservation of the Grotto Effect II	ToV
+115	Preservation of the Grotto Effect III	ToV
+115	Preservation of the Grotto Rk. II	ToV
+115	Preservation of the Grotto Rk. III	ToV
+115	Protective Consecration	ToV
+115	Protective Consecration Rk. II	ToV
+115	Protective Consecration Rk. III	ToV
+115	Sincere Fury	ToV
+115	Sincere Fury Rk. II	ToV
+115	Sincere Fury Rk. III	ToV
+115	Sincere Fury Strike	ToV
+115	Sincere Fury Strike II	ToV
+115	Sincere Fury Strike III	ToV
+115	Valiant Deterrence	CoV
+115	Valiant Deterrence Rk. II	CoV
+115	Valiant Deterrence Rk. III	CoV
+116	Balanced Purity	ToL
+116	Balanced Purity Rk. II	ToL
+116	Balanced Purity Rk. III	ToL
+116	Consecrate	ToL
+116	Consecrate Rk. II	ToL
+116	Consecrate Rk. III	ToL
+116	Doctrine of Annulment	ToL
+116	Doctrine of Annulment Rk. II	ToL
+116	Doctrine of Annulment Rk. III	ToL
+116	Ecliptic Force	NoS
+116	Hymnal	ToL
+116	Hymnal Rk. II	ToL
+116	Hymnal Rk. III	ToL
+116	Hymnal Trigger	ToL
+116	Hymnal Trigger II	ToL
+116	Hymnal Trigger III	ToL
+116	Mark of the Protector	ToL
+116	Mark of the Protector Rk. II	ToL
+116	Mark of the Protector Rk. III	ToL
 116	Night's Calming	ToL
 116	Night's Calming Rk. II	ToL
 116	Night's Calming Rk. III	ToL
-116	Shield of Shadethorns	ToL
-116	Tempest of Blades	ToL
-116	Tempest of Blades Rk. II	ToL
-116	Tempest of Blades Rk. III	ToL
-117	Arrowswarm	NoS
-117	Arrowswarm Rk. II	NoS
-117	Arrowswarm Rk. III	NoS
-117	Bay of the Predator	ToL
-117	Cloak of Bloodbarbs	ToL
-117	Coagulated Wind	ToL
-117	Coagulated Wind Rk. II	ToL
-117	Coagulated Wind Rk. III	ToL
-117	Enraging Roundhouse Kicks	ToL
-117	Enraging Roundhouse Kicks Rk. II	ToL
-117	Enraging Roundhouse Kicks Rk. III	ToL
-117	Jolting Luclinite	ToL
-117	Jolting Luclinite Rk. II	ToL
-117	Jolting Luclinite Rk. III	ToL
-117	Jolting Roundhouse Kicks	ToL
-117	Jolting Roundhouse Kicks Rk. II	ToL
-117	Jolting Roundhouse Kicks Rk. III	ToL
-117	Lingering Quietus	ToL
-117	Lingering Quietus Rk. II	ToL
-117	Lingering Quietus Rk. III	ToL
-117	Luclin's Darkfire Cloak	ToL
-117	Luclin's Darkfire Cloak Rk. II	ToL
-117	Luclin's Darkfire Cloak Rk. III	ToL
-117	Nocturnal Boon	ToL
-117	Nocturnal Boon Rk. II	ToL
-117	Nocturnal Boon Rk. III	ToL
-117	Strength of the Dusksage Stalker	ToL
-118	Bloodfly Swarm	ToL
-118	Bloodfly Swarm II	ToL
-118	Bloodfly Swarm III	ToL
-118	Cloud of Guardian Bloodflies	ToL
-118	Cloud of Guardian Bloodflies II	ToL
-118	Cloud of Guardian Bloodflies III	ToL
-118	Dusksage Stalker's Conjunction	NoS
-118	Dusksage Stalker's Conjunction Rk. II	NoS
-118	Dusksage Stalker's Conjunction Rk. III	NoS
-118	Dusksage Stalker's Vigor	ToL
-118	Lunar Balm	ToL
-118	Lunar Balm Rk. II	ToL
-118	Lunar Balm Rk. III	ToL
-118	Lunarflare Ash	ToL
-118	Lunarflare Ash Rk. II	ToL
-118	Lunarflare Ash Rk. III	ToL
-118	Lunarflare Boon	ToL
-118	Lunarflare Boon Rk. II	ToL
-118	Lunarflare Boon Rk. III	ToL
-118	Moonthorn Coat	ToL
-118	Moonthorn Coat Rk. II	ToL
-118	Moonthorn Coat Rk. III	ToL
-118	Swarm of Bloodflies	ToL
-118	Swarm of Bloodflies Rk. II	ToL
-118	Swarm of Bloodflies Rk. III	ToL
-119	Desperate Geyser	ToL
-119	Desperate Geyser Rk. II	ToL
-119	Desperate Geyser Rk. III	ToL
-119	Devastating Barrage	ToL
-119	Devastating Barrage Rk. II	ToL
-119	Devastating Barrage Rk. III	ToL
-119	Dusksage Coat	ToL
-119	Eyes of the Senshali	ToL
-119	Eyes of the Senshali Rk. II	ToL
-119	Eyes of the Senshali Rk. III	ToL
-119	Focused Tempest of Blades	NoS
-119	Focused Tempest of Blades Rk. II	NoS
-119	Focused Tempest of Blades Rk. III	NoS
-119	Shout of the Dusksage Stalker	ToL
-119	Summer's Torrent	ToL
-119	Summer's Torrent Burn	ToL
-119	Summer's Torrent Burn II	ToL
-119	Summer's Torrent Burn III	ToL
-119	Summer's Torrent Rk. II	ToL
-119	Summer's Torrent Rk. III	ToL
-119	Summer's Torrent Splash	ToL
-119	Summer's Torrent Splash II	ToL
-119	Summer's Torrent Splash III	ToL
-119	Whirlwind of Arrows	ToL
-119	Whirlwind of Arrows Rk. II	ToL
-119	Whirlwind of Arrows Rk. III	ToL
-120	Dusksage Stalker's Discipline	ToL
-120	Dusksage Stalker's Discipline Rk. II	ToL
-120	Dusksage Stalker's Discipline Rk. III	ToL
-120	Focused Whirlwind of Arrows	ToL
-120	Focused Whirlwind of Arrows Rk. II	ToL
-120	Focused Whirlwind of Arrows Rk. III	ToL
-120	Heartruin	ToL
-120	Heartruin Rk. II	ToL
-120	Heartruin Rk. III	ToL
-120	Protection of the Valley	ToL
-120	Steeled by the Hunt	ToL
-120	Steeled by the Hunt Rk. II	ToL
-120	Steeled by the Hunt Rk. III	ToL
-120	Steeled Effect	ToL
-120	Steeled Effect II	ToL
-120	Steeled Effect III	ToL
-120	Vociferous Blades	ToL
-120	Vociferous Blades Rk. II	ToL
-120	Vociferous Blades Rk. III	ToL
+116	Pious Force	ToL
+116	Pious Force Rk. II	ToL
+116	Pious Force Rk. III	ToL
+116	Soothing Touch	ToL
+116	Soothing Touch Rk. II	ToL
+116	Soothing Touch Rk. III	ToL
+116	Tranquil Words	ToL
+116	Tranquil Words Rk. II	ToL
+116	Tranquil Words Rk. III	ToL
+117	Ardent Audacity	ToL
+117	Ardent Audacity Rk. II	ToL
+117	Ardent Audacity Rk. III	ToL
+117	Crush of the Twilight Sea	ToL
+117	Crush of the Twilight Sea Rk. II	ToL
+117	Crush of the Twilight Sea Rk. III	ToL
+117	Fervent Penitence	NoS
+117	Fervent Penitence Rk. II	NoS
+117	Fervent Penitence Rk. III	NoS
+117	Lesson of Guilt	ToL
+117	Lesson of Guilt Rk. II	ToL
+117	Lesson of Guilt Rk. III	ToL
+117	Parlay for Honor	ToL
+117	Parlay for Honor Rk. II	ToL
+117	Parlay for Honor Rk. III	ToL
+117	Penitent Mending V Azia	NoS
+117	Penitent Mending V Beza	NoS
+117	Penitent Mending V Caza	NoS
+117	Penitent Reward V Azia	NoS
+117	Penitent Reward V Beza	NoS
+117	Penitent Reward V Caza	NoS
+117	Raptured Light	ToL
+117	Raptured Light Rk. II	ToL
+117	Raptured Light Rk. III	ToL
+117	Revered Guardian Discipline	ToL
+117	Revered Guardian Discipline Rk. II	ToL
+117	Revered Guardian Discipline Rk. III	ToL
+117	Revered Guardian Heal	ToL
+117	Revered Guardian Heal II	ToL
+117	Revered Guardian Heal III	ToL
+117	Shadewell Keeper	ToL
+117	Symbol of Liako	ToL
+117	Upbraid	ToL
+117	Upbraid Heal	ToL
+117	Upbraid Heal II	ToL
+117	Upbraid Heal III	ToL
+117	Upbraid Rk. II	ToL
+117	Upbraid Rk. III	ToL
+118	Ardent Strike	ToL
+118	Ardent Strike II	ToL
+118	Ardent Strike III	ToL
+118	Armor of the Forthright	ToL
+118	Armor of the Forthright Rk. II	ToL
+118	Armor of the Forthright Rk. III	ToL
+118	Armor of Unyielding Grace	ToL
+118	Armor of Unyielding Grace Rk. II	ToL
+118	Armor of Unyielding Grace Rk. III	ToL
+118	Burst of Dawnbreak	ToL
+118	Burst of Dawnbreak Rk. II	ToL
+118	Burst of Dawnbreak Rk. III	ToL
+118	Forthright Cleansing	ToL
+118	Forthright Cleansing Rk. II	ToL
+118	Forthright Cleansing Rk. III	ToL
+118	Penumbral Blessing	NoS
+118	Penumbral Blessing Rk. II	NoS
+118	Penumbral Blessing Rk. III	NoS
+118	Repudiate	ToL
+118	Repudiate Rk. II	ToL
+118	Repudiate Rk. III	ToL
+118	Righteous Censure	ToL
+118	Righteous Censure Rk. II	ToL
+118	Righteous Censure Rk. III	ToL
+118	Splash of Repentance	ToL
+118	Splash of Repentance Rk. II	ToL
+118	Splash of Repentance Rk. III	ToL
+118	Supernal Mantle	ToL
+118	Supernal Mantle Heal	ToL
+118	Supernal Mantle Heal II	ToL
+118	Supernal Mantle Heal III	ToL
+118	Supernal Mantle Rk. II	ToL
+118	Supernal Mantle Rk. III	ToL
+119	Adamant Stance	ToL
+119	Adamant Stance Rk. II	ToL
+119	Adamant Stance Rk. III	ToL
+119	Brell's Tenacious Barrier	ToL
+119	Culpability	ToL
+119	Culpability Rk. II	ToL
+119	Culpability Rk. III	ToL
+119	Force of Generosity	ToL
+119	Force of Generosity Rk. II	ToL
+119	Force of Generosity Rk. III	ToL
+119	Generous Healing	ToL
+119	Generous Healing II	ToL
+119	Generous Healing III	ToL
+119	Mark of the Eclipsed Cohort	ToL
+119	Mark of the Eclipsed Cohort Rk. II	ToL
+119	Mark of the Eclipsed Cohort Rk. III	ToL
+119	Regenerating Steel	ToL
+119	Regenerating Steel Rk. II	ToL
+119	Regenerating Steel Rk. III	ToL
+119	Steely Regeneration	ToL
+119	Steely Regeneration II	ToL
+119	Steely Regeneration III	ToL
+119	Unrelenting Affirmation	ToL
+119	Unrelenting Affirmation Reflection	ToL
+119	Unrelenting Affirmation Reflection II	ToL
+119	Unrelenting Affirmation Reflection III	ToL
+119	Unrelenting Affirmation Rk. II	ToL
+119	Unrelenting Affirmation Rk. III	ToL
+119	Valiant Disruption	NoS
+119	Valiant Disruption Rk. II	NoS
+119	Valiant Disruption Rk. III	NoS
+119	Wave of Bereavement	ToL
+119	Wave of Bereavement Rk. II	ToL
+119	Wave of Bereavement Rk. III	ToL
+120	Aurora of Dawning	ToL
+120	Aurora of Dawning Rk. II	ToL
+120	Aurora of Dawning Rk. III	ToL
+120	Brilliant Acquittal	ToL
+120	Brilliant Acquittal Rk. II	ToL
+120	Brilliant Acquittal Rk. III	ToL
+120	Crush of the Umbra	ToL
+120	Crush of the Umbra Rk. II	ToL
+120	Crush of the Umbra Rk. III	ToL
+120	Force of the Maiden	ToL
+120	Force of the Maiden Rk. II	ToL
+120	Force of the Maiden Rk. III	ToL
+120	Force of the Umbra	ToL
+120	Force of the Umbra Rk. II	ToL
+120	Force of the Umbra Rk. III	ToL
+120	Hand of the Dreaming Keeper	ToL
+120	Penitence for the Fallen	NoS
+120	Penitence for the Fallen Rk. II	NoS
+120	Penitence for the Fallen Rk. III	NoS
+120	Preservation of the Basilica	ToL
+120	Preservation of the Basilica Effect	ToL
+120	Preservation of the Basilica Effect II	ToL
+120	Preservation of the Basilica Effect III	ToL
+120	Preservation of the Basilica Rk. II	ToL
+120	Preservation of the Basilica Rk. III	ToL
+120	Protective Revelation	ToL
+120	Protective Revelation Rk. II	ToL
+120	Protective Revelation Rk. III	ToL
+120	Wrathful Fury	ToL
+120	Wrathful Fury Rk. II	ToL
+120	Wrathful Fury Rk. III	ToL
+120	Wrathful Fury Strike	ToL
+120	Wrathful Fury Strike II	ToL
+120	Wrathful Fury Strike III	ToL
+121	Assuring Words	LS
+121	Assuring Words Rk. II	LS
+121	Assuring Words Rk. III	LS
+121	Avowed Force	LS
+121	Avowed Force Rk. II	LS
+121	Avowed Force Rk. III	LS
+121	Avowed Touch	LS
+121	Avowed Touch Rk. II	LS
+121	Avowed Touch Rk. III	LS
 121	Convalesce	LS
 121	Convalesce Rk. II	LS
 121	Convalesce Rk. III	LS
-121	Drifting Obscurity	LS
-121	Drifting Obscurity Rk. II	LS
-121	Drifting Obscurity Rk. III	LS
-121	Elizerain Spring	LS
-121	Elizerain Spring Rk. II	LS
-121	Elizerain Spring Rk. III	LS
-121	Hotaria Swarm	LS
-121	Hotaria Swarm Rk. II	LS
-121	Hotaria Swarm Rk. III	LS
-121	Inevitable Shots	LS
-121	Inevitable Shots Rk. II	LS
-121	Inevitable Shots Rk. III	LS
-121	Maelstrom of Blades	LS
-121	Maelstrom of Blades Rk. II	LS
-121	Maelstrom of Blades Rk. III	LS
-121	Shield of Needlespikes	LS
-122	Cloak of Needlespikes	LS
-122	Enraging Drop Kicks	LS
-122	Enraging Drop Kicks Rk. II	LS
-122	Enraging Drop Kicks Rk. III	LS
-122	Frostsquall Boon	LS
-122	Frostsquall Boon Rk. II	LS
-122	Frostsquall Boon Rk. III	LS
-122	Gelid Wind	LS
-122	Gelid Wind Rk. II	LS
-122	Gelid Wind Rk. III	LS
-122	Jolting Drop Kicks	LS
-122	Jolting Drop Kicks Rk. II	LS
-122	Jolting Drop Kicks Rk. III	LS
-122	Jolting Emberquartz	LS
-122	Jolting Emberquartz Rk. II	LS
-122	Jolting Emberquartz Rk. III	LS
-122	Lingering Obscurity	LS
-122	Lingering Obscurity Rk. II	LS
-122	Lingering Obscurity Rk. III	LS
-122	Shriek of the Predator	LS
-122	Strength of the Fernstalker	LS
-123	Cloud of Guardian Fernflies	LS
-123	Cloud of Guardian Fernflies II	LS
-123	Cloud of Guardian Fernflies III	LS
-123	Fernflash Boon	LS
-123	Fernflash Boon Rk. II	LS
-123	Fernflash Boon Rk. III	LS
-123	Fernfly Swarm	LS
-123	Fernfly Swarm II	LS
-123	Fernfly Swarm III	LS
-123	Fernstalker's Vigor	LS
-123	Laurion Ash	LS
-123	Laurion Ash Rk. II	LS
-123	Laurion Ash Rk. III	LS
-123	Needlespike Coat	LS
-123	Needlespike Coat Rk. II	LS
-123	Needlespike Coat Rk. III	LS
-123	Shalowain's Crucible Cloak	LS
-123	Shalowain's Crucible Cloak Rk. II	LS
-123	Shalowain's Crucible Cloak Rk. III	LS
-123	Swarm of Fernflies	LS
-123	Swarm of Fernflies Rk. II	LS
-123	Swarm of Fernflies Rk. III	LS
-123	Therapeutic Balm	LS
-123	Therapeutic Balm Rk. II	LS
-123	Therapeutic Balm Rk. III	LS
-124	Desperate Quenching	LS
-124	Desperate Quenching Rk. II	LS
-124	Desperate Quenching Rk. III	LS
-124	Devastating Spate	LS
-124	Devastating Spate Rk. II	LS
-124	Devastating Spate Rk. III	LS
-124	Eyes of the Phoenix	LS
-124	Eyes of the Phoenix Rk. II	LS
-124	Eyes of the Phoenix Rk. III	LS
-124	Frenzy of Arrows	LS
-124	Frenzy of Arrows Rk. II	LS
-124	Frenzy of Arrows Rk. III	LS
-124	Glitterine Coat	LS
-124	Shout of the Fernstalker	LS
-124	Summer's Deluge	LS
-124	Summer's Deluge Burn	LS
-124	Summer's Deluge Burn II	LS
-124	Summer's Deluge Burn III	LS
-124	Summer's Deluge Rk. II	LS
-124	Summer's Deluge Rk. III	LS
-124	Summer's Deluge Splash	LS
-124	Summer's Deluge Splash II	LS
-124	Summer's Deluge Splash III	LS
-125	Arcing Blades	LS
-125	Arcing Blades Rk. II	LS
-125	Arcing Blades Rk. III	LS
-125	Engulfed by the Hunt	LS
-125	Engulfed by the Hunt Rk. II	LS
-125	Engulfed by the Hunt Rk. III	LS
-125	Engulfed Effect	LS
-125	Engulfed Effect II	LS
-125	Engulfed Effect III	LS
-125	Fernstalker's Discipline	LS
-125	Fernstalker's Discipline Rk. II	LS
-125	Fernstalker's Discipline Rk. III	LS
-125	Focused Frenzy of Arrows	LS
-125	Focused Frenzy of Arrows Rk. II	LS
-125	Focused Frenzy of Arrows Rk. III	LS
-125	Heartbreak	LS
-125	Heartbreak Rk. II	LS
-125	Heartbreak Rk. III	LS
-125	Protection of Pal'Lomen	LS
-125	Shadowveil	LS
-125	Shadowveil Rk. II	LS
-125	Shadowveil Rk. III	LS
-250	Composite Fusillade Strike 1	CoV
-250	Composite Fusillade Strike 2	CoV
-250	Composite Fusillade Strike 3	CoV
-250	Composite Fusillade Strike 4	CoV
-250	Composite Fusillade Strike 5	CoV
-250	Composite Fusillade Strike 6	CoV
-250	Dichotomic Fusillade Strike 1	TBM
-250	Dichotomic Fusillade Strike 2	TBM
-250	Dichotomic Fusillade Strike 3	TBM
-250	Dichotomic Fusillade Strike 4	TBM
-250	Dichotomic Fusillade Strike 5	TBM
-250	Dichotomic Fusillade Strike 6	TBM
-250	Dissident Fusillade Strike 1	TBL
-250	Dissident Fusillade Strike 2	TBL
-250	Dissident Fusillade Strike 3	TBL
-250	Dissident Fusillade Strike 4	TBL
-250	Dissident Fusillade Strike 5	TBL
-250	Dissident Fusillade Strike 6	TBL
-250	Ecliptic Fusillade Strike 1	NoS
-250	Ecliptic Fusillade Strike 2	NoS
-250	Ecliptic Fusillade Strike 3	NoS
-250	Ecliptic Fusillade Strike 4	NoS
-250	Ecliptic Fusillade Strike 5	NoS
-250	Ecliptic Fusillade Strike 6	NoS
+121	Doctrine of Repudiation	LS
+121	Doctrine of Repudiation Rk. II	LS
+121	Doctrine of Repudiation Rk. III	LS
+121	Mark of Helmsbane	LS
+121	Mark of Helmsbane Rk. II	LS
+121	Mark of Helmsbane Rk. III	LS
+121	Revelation	LS
+121	Revelation Rk. II	LS
+121	Revelation Rk. III	LS
+121	Revelation Trigger	LS
+121	Revelation Trigger II	LS
+121	Revelation Trigger III	LS
+121	Righteous Disdain	LS
+121	Righteous Disdain Rk. II	LS
+121	Righteous Disdain Rk. III	LS
+122	Avowed Light	LS
+122	Avowed Light Rk. II	LS
+122	Avowed Light Rk. III	LS
+122	Chastise	LS
+122	Chastise Heal	LS
+122	Chastise Heal II	LS
+122	Chastise Heal III	LS
+122	Chastise Rk. II	LS
+122	Chastise Rk. III	LS
+122	Crush of the Wayunder	LS
+122	Crush of the Wayunder Rk. II	LS
+122	Crush of the Wayunder Rk. III	LS
+122	Fanatical Audacity	LS
+122	Fanatical Audacity Rk. II	LS
+122	Fanatical Audacity Rk. III	LS
+122	Fernshade Keeper	LS
+122	Lesson of Remembrance	LS
+122	Lesson of Remembrance Rk. II	LS
+122	Lesson of Remembrance Rk. III	LS
+122	Mark of the Forgotten Hero	LS
+122	Mark of the Forgotten Hero Rk. II	LS
+122	Mark of the Forgotten Hero Rk. III	LS
+122	Petition for Honor	LS
+122	Petition for Honor Rk. II	LS
+122	Petition for Honor Rk. III	LS
+122	Symbol of Thormir	LS
+123	Armor of Avowal	LS
+123	Armor of Avowal Rk. II	LS
+123	Armor of Avowal Rk. III	LS
+123	Armor of Heroic Faith	LS
+123	Armor of Heroic Faith Rk. II	LS
+123	Armor of Heroic Faith Rk. III	LS
+123	Avowed Cleansing	LS
+123	Avowed Cleansing Rk. II	LS
+123	Avowed Cleansing Rk. III	LS
+123	Burst of Sunspring	LS
+123	Burst of Sunspring Rk. II	LS
+123	Burst of Sunspring Rk. III	LS
+123	Disdained Strike	LS
+123	Disdained Strike II	LS
+123	Disdained Strike III	LS
+123	Gird	LS
+123	Gird Rk. II	LS
+123	Gird Rk. III	LS
+123	Mantle of the Remembered	LS
+123	Mantle of the Remembered Heal	LS
+123	Mantle of the Remembered Heal II	LS
+123	Mantle of the Remembered Heal III	LS
+123	Mantle of the Remembered Rk. II	LS
+123	Mantle of the Remembered Rk. III	LS
+123	Splash of Heroism	LS
+123	Splash of Heroism Rk. II	LS
+123	Splash of Heroism Rk. III	LS
+124	Angst	LS
+124	Angst Rk. II	LS
+124	Angst Rk. III	LS
+124	Avowed Healing	LS
+124	Avowed Healing II	LS
+124	Avowed Healing III	LS
+124	Brell's Unbreakable Palisade	LS
+124	Crush of the Heroic	LS
+124	Crush of the Heroic Rk. II	LS
+124	Crush of the Heroic Rk. III	LS
+124	Force of the Avowed	LS
+124	Force of the Avowed Rk. II	LS
+124	Force of the Avowed Rk. III	LS
+124	Restoring Steel	LS
+124	Restoring Steel Rk. II	LS
+124	Restoring Steel Rk. III	LS
+124	Steely Restoration	LS
+124	Steely Restoration II	LS
+124	Steely Restoration III	LS
+124	Unconditional Affirmation	LS
+124	Unconditional Affirmation Reflection	LS
+124	Unconditional Affirmation Reflection II	LS
+124	Unconditional Affirmation Reflection III	LS
+124	Unconditional Affirmation Rk. II	LS
+124	Unconditional Affirmation Rk. III	LS
+124	Unwavering Stance	LS
+124	Unwavering Stance Rk. II	LS
+124	Unwavering Stance Rk. III	LS
+124	Wave of Regret	LS
+124	Wave of Regret Rk. II	LS
+124	Wave of Regret Rk. III	LS
+125	Aurora of Realizing	LS
+125	Aurora of Realizing Rk. II	LS
+125	Aurora of Realizing Rk. III	LS
+125	Avowed Fury	LS
+125	Avowed Fury Rk. II	LS
+125	Avowed Fury Rk. III	LS
+125	Avowed Fury Strike	LS
+125	Avowed Fury Strike II	LS
+125	Avowed Fury Strike III	LS
+125	Brilliant Denouncement	LS
+125	Brilliant Denouncement Rk. II	LS
+125	Brilliant Denouncement Rk. III	LS
+125	Force of the Forge	LS
+125	Force of the Forge Rk. II	LS
+125	Force of the Forge Rk. III	LS
+125	Force of the Wayunder	LS
+125	Force of the Wayunder Rk. II	LS
+125	Force of the Wayunder Rk. III	LS
+125	Hand of the Fernshade Keeper	LS
+125	Preservation of the Fern	LS
+125	Preservation of the Fern Effect	LS
+125	Preservation of the Fern Effect Rk. II	LS
+125	Preservation of the Fern Effect RK. III	LS
+125	Preservation of the Fern Rk. II	LS
+125	Preservation of the Fern Rk. III	LS
+125	Protective Acceptance	LS
+125	Protective Acceptance Rk. II	LS
+125	Protective Acceptance Rk. III	LS
+250	Composite Force Healing 1	CoV
+250	Composite Force Healing 2	CoV
+250	Composite Force Healing 3	CoV
+250	Composite Force Healing 4	CoV
+250	Composite Force Healing 5	CoV
+250	Composite Force Healing 6	CoV
+250	Composite Force Stun 1	CoV
+250	Composite Force Stun 2	CoV
+250	Composite Force Stun 3	CoV
+250	Composite Force Stun 4	CoV
+250	Composite Force Stun 5	CoV
+250	Composite Force Stun 6	CoV
+250	Dichotomic Force Healing 1	TBM
+250	Dichotomic Force Healing 2	TBM
+250	Dichotomic Force Healing 3	TBM
+250	Dichotomic Force Healing 4	TBM
+250	Dichotomic Force Healing 5	TBM
+250	Dichotomic Force Healing 6	TBM
+250	Dichotomic Force Stun 1	TBM
+250	Dichotomic Force Stun 2	TBM
+250	Dichotomic Force Stun 3	TBM
+250	Dichotomic Force Stun 4	TBM
+250	Dichotomic Force Stun 5	TBM
+250	Dichotomic Force Stun 6	TBM
+250	Dissident Force Healing 1	TBL
+250	Dissident Force Healing 2	TBL
+250	Dissident Force Healing 3	TBL
+250	Dissident Force Healing 4	TBL
+250	Dissident Force Healing 5	TBL
+250	Dissident Force Healing 6	TBL
+250	Dissident Force Stun 1	TBL
+250	Dissident Force Stun 2	TBL
+250	Dissident Force Stun 3	TBL
+250	Dissident Force Stun 4	TBL
+250	Dissident Force Stun 5	TBL
+250	Dissident Force Stun 6	TBL
+250	Ecliptic Force Healing 1	NoS
+250	Ecliptic Force Healing 2	NoS
+250	Ecliptic Force Healing 3	NoS
+250	Ecliptic Force Healing 4	NoS
+250	Ecliptic Force Healing 5	NoS
+250	Ecliptic Force Healing 6	NoS
+250	Ecliptic Force Stun 1	NoS
+250	Ecliptic Force Stun 2	NoS
+250	Ecliptic Force Stun 3	NoS
+250	Ecliptic Force Stun 4	NoS
+250	Ecliptic Force Stun 5	NoS
+250	Ecliptic Force Stun 6	NoS

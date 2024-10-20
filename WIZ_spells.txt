@@ -1,1913 +1,532 @@
-1	Blast of Cold	EQ
-1	Frost Bolt	EQ
-1	Minor Shielding	EQ
-1	Numbing Cold	EQ
-1	Sphere of Light	EQ
-1	True North	EQ
-2	Glimpse	EQ
-2	O`Keil's Radiation	EQ
-3	Fade	EQ
-3	Root	EQ
-4	Gate	EQ
-4	See Invisible	EQ
-4	Shock of Fire	EQ
-5	Fingers of Fire	EQ
-5	Fire Bolt	EQ
-6	Icestrike	EQ
-6	Lesser Shielding	EQ
-7	Sense Summoned	EQ
-7	Shadow Step	EQ
-8	Column of Frost	EQ
-8	Eye of Zomm	EQ
-8	Shock of Ice	EQ
-9	Halo of Light	EQ
-9	Resistant Skin	EQ
-10	O`Keil's Embers	Luclin
-10	Shock of Lightning	EQ
-11	Cancel Magic	EQ
-11	Gaze	EQ
-12	Bind Affinity	EQ
-12	Firestorm	EQ
-12	Frost Spiral of Al`Kabor	EQ
-13	Shieldskin	EQ
-13	Xalirilan's Lesser Appraisal	LDoN
-14	Identify	EQ
-14	Project Lightning	EQ
-14	Xalirilan's Lesser Discombobulation	LDoN
-14	Xalirilan's Lesser Extrication	LDoN
-15	Flame Shock	EQ
-15	Pillar of Fire	EQ
-15	Shielding	EQ
-16	Bind Sight	EQ
-16	Focus Crude Spellcaster's Empowering Essence	SoF
-16	Focus Primitive Spellcaster's Empowering Essence	SoF
-16	Focus Rudimentary Spellcaster's Empowering Essence	SoF
-16	Heat Sight	EQ
-16	Invisibility	EQ
-16	Lightning Bolt	EQ
-17	Force Snap	EQ
-17	Instill	EQ
-17	Nexus Gate	Luclin
-18	Fire Spiral of Al`Kabor	EQ
-18	Garrison's Mighty Mana Shock	Luclin
-18	Lesser Evacuate	EQ
-18	North Gate	EQ
-19	Sight	EQ
-19	Tishan's Clash	EQ
-19	Tox Gate	EQ
-20	Blightfire Moors Gate	TSS
-20	Blightfire Moors Portal	TSS
-20	Elemental Shield	EQ
-20	Fay Gate	EQ
-20	Focus Makeshift Spellcaster's Empowering Essence	SoF
-20	Focus Mass Crude Spellcaster's Empowering Essence	SoF
-20	Focus Mass Primitive Spellcaster's Empowering Essence	SoF
-20	Focus Mass Rudimentary Spellcaster's Empowering Essence	SoF
-20	Grimling Gate	Luclin
-20	Primary Anchor Gate	HoT
-20	Secondary Anchor Gate	HoT
-20	Translocate: Blightfire Moors	TSS
-21	Common Gate	EQ
-21	Leatherskin	EQ
-21	Stonebrunt Gate	EQ
-22	Levitate	EQ
-22	Nek Gate	EQ
-22	Ro Gate	EQ
-22	Twilight Gate	Luclin
-23	Cazic Gate	EQ
-23	Lightning Storm	EQ
-23	Major Shielding	EQ
-23	West Gate	EQ
-23	Xalirilan's Appraisal	LDoN
-24	Cast Force	EQ
-24	Column of Lightning	EQ
-24	Combine Gate	Kunark
-24	Focus Mass Makeshift Spellcaster's Empowering Essence	SoF
-24	Frost Shock	EQ
-24	Xalirilan's Discombobulation	LDoN
-24	Xalirilan's Extrication	LDoN
-25	Minor Familiar	Luclin
-25	North Portal	EQ
-25	O`Keil's Levity	EQ
-25	Yonder	EQ
-26	Energy Storm	EQ
-26	Evacuate: North	EQ
-26	Imbue Fire Opal	EQ
-26	Inferno Shock	EQ
-27	Bonds of Force	EQ
-27	Fay Portal	EQ
-27	Knowledge Gate	PoP
-27	Stonebrunt Portal	EQ
-28	Mass Imbue Fire Opal	EQ
-28	Shock Spiral of Al`Kabor	EQ
-28	Thunder Strike	EQ
-28	Tox Portal	EQ
-29	Dawnshroud Gate	Luclin
-29	Grimling Portal	Luclin
-29	Magnify	EQ
-29	Nexus Portal	Luclin
-30	Focus Elementary Spellcaster's Empowering Essence	SoF
-30	Steelskin	EQ
-30	Thunderclap	EQ
-31	Circle of Force	EQ
-31	O`Keil's Flickering Flame	Velious
-32	Evacuate: Fay	EQ
-32	Harvest	EQ
-32	Iceclad Gate	Velious
-32	Lava Storm	EQ
-32	Nek Portal	EQ
-33	Cazic Portal	EQ
-33	Greater Shielding	EQ
-33	Iceclad Portal	Velious
-33	Twilight Portal	Luclin
-33	Xalirilan's Greater Appraisal	LDoN
-34	Combine Portal	Kunark
-34	Focus Mass Elementary Spellcaster's Empowering Essence	SoF
-34	Great Divide Gate	Velious
-34	Ice Shock	EQ
-34	Nullify Magic	EQ
-34	Xalirilan's Greater Discombobulation	LDoN
-34	Xalirilan's Greater Extrication	LDoN
-35	Common Portal	EQ
-35	Elnerick's Entombment of Ice	Luclin
-35	Force Spiral of Al`Kabor	EQ
-35	Primary Anchor Portal	HoT
-35	Secondary Anchor Portal	HoT
-35	Translocate: North	EQ
-35	Translocate: Stonebrunt	EQ
-36	Great Divide Portal	Velious
-36	Ro Portal	EQ
-36	Tishan's Relocation	Kunark
-36	Translocate: Fay	EQ
-36	Translocate: Nexus	Luclin
-37	Concussion	EQ
-37	Lightning Shock	EQ
-37	Markar's Relocation	Kunark
-37	Translocate: Tox	EQ
-37	West Portal	EQ
-38	Chill Sight	EQ
-38	Evacuate: Ro	EQ
-38	Knowledge Portal	PoP
-38	Shifting Sight	EQ
-38	Translocate: Combine	Kunark
-38	Wakening Lands Gate	Velious
-39	Cobalt Scar Gate	Velious
-39	Dawnshroud Portal	Luclin
-39	Immobilize	EQ
-39	Invisibility to Undead	Velious
-39	Translocate: Grimling	Luclin
-40	Diamondskin	EQ
-40	Focus Modest Spellcaster's Empowering Essence	SoF
-40	Primary Anchor Push	HoT
-40	Secondary Anchor Push	HoT
-40	Translocate: Common	EQ
-40	Translocate: Primary Anchor	HoT
-40	Translocate: Secondary Anchor	HoT
-40	Vision Shift	LoY
-41	Force Strike	EQ
-41	Frost Storm	EQ
-41	Translocate: Nek	EQ
-41	Translocate: Twilight	Luclin
-42	Elemental Armor	EQ
-42	Evacuate: Nek	EQ
-42	Greater Mass Imbue Fire Opal	CoV
-42	Translocate: West	EQ
-42	Wakening Lands Portal	Velious
-43	Cobalt Scar Portal	Velious
-43	Conflagration	EQ
-43	Gravity Flux	EQ
-43	Translocate: Ro	EQ
-44	Arch Shielding	EQ
-44	Bounce	LDoN
-44	Enticement of Flame	Velious
-44	Focus Mass Modest Spellcaster's Empowering Essence	SoF
-44	Translocate: Cazic	EQ
-45	Lesser Familiar	Luclin
-45	Supernova	EQ
-45	Translocate: Iceclad	Velious
-45	Translocate: Knowledge	PoP
-46	Alter Plane: Hate	EQ
-46	Alter Plane: Sky	EQ
-46	Translocate: Great Divide	Velious
-47	Evacuate: West	EQ
-47	Markar's Clash	EQ
-47	Rend	EQ
-47	Translocate: Wakening Lands	Velious
-48	Paralyzing Earth	Kunark
-48	Translocate: Cobalt Scar	Velious
-48	Wrath of Al`Kabor	EQ
-49	Ice Comet	EQ
-49	Translocate: Dawnshroud	Luclin
-49	Ward of Calrena	LDoN
-50	Focus Simple Spellcaster's Empowering Essence	SoF
-50	Levitation	Luclin
-50	Translocate	Velious
-51	Arcstone Gate	PoR
-51	Arcstone Portal	PoR
-51	Atol's Spectral Shackles	Kunark
-51	Draught of Fire	Kunark
-51	Pillar of Frost	Kunark
-51	Tishan's Discord	Kunark
-51	Tranquility Gate	PoP
-51	Undershore Gate	DoD
-51	Undershore Portal	DoD
-52	Abscond	Kunark
-52	Barindu Gate	Gates
-52	Frozen Harpoon	LoY
-52	Lure of Frost	Kunark
-52	Manaskin	Kunark
-52	Natimbi Gate	Gates
-52	Tears of Druzzil	Kunark
-52	Translocate: Group	Velious
-53	Annul Magic	Kunark
-53	Bloodfields Gate	Omens
-53	Inferno of Al`Kabor	Kunark
-53	Jyll's Static Pulse	Kunark
-54	Elemental Cloak	PoP
-54	Familiar	Luclin
-54	Focus Mass Simple Spellcaster's Empowering Essence	SoF
-54	Magi Ward	LDoN
-54	Natimbi Portal	Gates
-54	Pillar of Lightning	Kunark
-54	Shield of the Magi	Kunark
-54	Thunderbolt	Kunark
-54	Tranquility Portal	PoP
-54	Voltaic Draught	Kunark
-55	Barindu Portal	Gates
-55	Bloodfields Portal	Omens
-55	Draught of Jiva	Kunark
-55	Fire Mark	PoR
-55	Focus Spellcaster's Empowering Essence	SoF
-55	Improved Invisibility	Velious
-55	Lure of Flame	Kunark
-55	Plainsight	Kunark
-55	Tears of Solusek	Kunark
-55	Translocate: Arcstone	PoR
-55	Translocate: Undershore	DoD
-56	Decession	Luclin
-56	Single In Group	Luclin
-56	Jyll's Zephyr of Ice	Kunark
-56	Markar's Discord	Kunark
-56	Retribution of Al`Kabor	Kunark
-57	Draught of Ice	Kunark
-57	Evacuate	Kunark
-57	Eye of Tallon	Kunark
-57	Guard of Calrena	LDoN
-57	Pillar of Flame	Kunark
-57	Translocate: Natimbi	Gates
-57	Translocate: Tranquility	PoP
-58	Fetter	Kunark
-58	Lure of Lightning	Kunark
-58	Manasink	Kunark
-58	Reflect	LDoN
-58	Spellshield	Luclin
-58	Tears of Prexus	Kunark
-58	Translocate: Bloodfields	Omens
-59	Flaming Sword of Xuzl	Kunark
-59	Focus Mass Spellcaster's Empowering Essence	SoF
-59	Invert Gravity	Kunark
-59	Jyll's Wave of Heat	Kunark
-59	Vengeance of Al`Kabor	Kunark
-60	Ancient: Destruction of Ice	Luclin
-60	Ancient: Greater Concussion	Luclin
-60	Disintegrate	Kunark
-60	Elnerick's Electrical Rending	Luclin
-60	Focus Refined Spellcaster's Empowering Essence	SoF
-60	Garrison's Superior Sundering	Luclin
-60	Greater Familiar	Luclin
-60	Hsagra's Wrath	Velious
-60	Old Giants	Velious
-60	Ice Spear of Solist	Velious
-60	Lure of Ice	Kunark
-60	Porlos' Fury	Velious
-60	Old Dragons	Velious
-60	Sunderock Springs Gate	TSS
-60	Sunderock Springs Portal	TSS
-60	Sunstrike	Kunark
-60	Teleport Guild Hall Anchor	VoA
-60	Teleport Primary Anchor	HoT
-60	Teleport Secondary Anchor	HoT
-60	Translocate: Barindu	Gates
-60	Translocate: Sunderock Springs	TSS
-60	Winds of Gelid	Kunark
-61	Claw of Frost	DoN
-61	Greater Fetter	PoP
-61	Lure of Thunder	PoP
-61	Resistant Armor	PoP
-61	Shield of the Arcane	PoP
-61	Tears of Ro	PoP
-62	Draught of Ro	PoP
-62	Elemental Barrier	PoP
-62	Lure of Ro	PoP
-62	Slaughter Gate	Omens
-62	Teleport	PoP
-63	Agnarr's Thunder	PoP
-63	Draught of Lightning	PoP
-63	Draught of Thunder	PoP
-63	Force Shield	PoP
-63	Iceflame of E`ci	PoP
-63	Mana Ward	LDoN
-64	Draught of E`ci	PoP
-64	Focus Mass Refined Spellcaster's Empowering Essence	SoF
-64	Ice Meteor	LDoN
-64	Katta Castrum Gate	TBS
-64	Protection of Calrena	LDoN
-64	Shield of Maelin	PoP
-64	Slaughter Portal	Omens
-64	Tears of Arlyxir	PoP
-64	Telekin	PoP
-65	Ancient: Strike of Chaos	Gates
-65	Black Ice	Gates
-65	Focus Intricate Spellcaster's Empowering Essence	SoF
-65	Greater Decession	PoP
-65	Shock of Magic	PoP
-65	Strike of Solusek	PoP
-65	Tears of Marr	PoP
-65	Telaka	Gates
-65	White Fire	Gates
-66	Ether Shield	Omens
-66	Icebane	Omens
-66	Spark of Fire	Omens
-66	Tears of the Sun	Omens
-67	Circle of Fire	Omens
-67	Lightningbane	Omens
-67	Phase Walk	Omens
-67	Translocate: Slaughter	Omens
-68	Clinging Frost	DoD
-68	Ether Skin	Omens
-68	Firebane	Omens
-68	Spark of Lightning	Omens
-68	Spark of Thunder	Omens
-68	Thundaka	Omens
-69	Claw of Vox	DoN
-69	Ether Ward	Omens
-69	Focus Mass Intricate Spellcaster's Empowering Essence	SoF
-69	Gelidin Comet	Omens
-69	Katta Castrum Portal	TBS
-69	Mana Weave	DoD
-69	Meteor Storm	Omens
-69	Solist's Frozen Sword	Omens
-69	Spark of Ice	Omens
-70	Ancient: Core Fire	Omens
-70	Ancient: Spear of Gelaqua	Omens
-70	Bulwark of Calrena	Omens
-70	Chaos Flame	PoR
-70	Circle of Thunder	Omens
-70	Corona Flare	Omens
-70	Ether Flame	DoD
-70	Fire Rune	PoR
-70	Focus Elaborate Spellcaster's Empowering Essence	SoF
-70	Gelid Rains	Omens
-70	Ice Block	PoR
-70	Icefall Glacier Gate	TSS
-70	Icefall Glacier Portal	TSS
-70	Telekara	Omens
-70	Translocate: Icefall Glacier	TSS
-71	Concussive Blast	TSS
-71	Concussive Blast Rk. II	TSS
-71	Concussive Blast Rk. III	TSS
-71	Defense of Calrena	TSS
-71	Defense of Calrena Rk. II	TSS
-71	Rimelure	TSS
-71	Rimelure Rk. II	TSS
-71	Rimelure Rk. III	TSS
-71	Shield of the Crystalwing	TSS
-71	Shield of the Crystalwing Rk. II	TSS
-71	Shield of the Crystalwing Rk. III	TSS
-71	Tears of the Betrayed	TSS
-71	Tears of the Betrayed Rk. II	TSS
-71	Wildmagic Strike	TBS
-71	Wildmagic Strike Rk. II	TBS
-71	Wildmagic Strike Rk. III	TBS
-72	Beam of Solteris	TBS
-72	Beam of Solteris Rk. II	TBS
-72	Beam of Solteris Rk. III	TBS
-72	Cloudburst Strike	TSS
-72	Cloudburst Strike Rk. II	TSS
-72	Impel	TSS
-72	Impel Rk. II	TSS
-72	Leap of Sparks	TSS
-72	Leap of Sparks Rk. II	TSS
-72	Magmaraug's Presence	TSS
-72	Magmaraug's Presence Rk. II	TSS
-72	Magmaraug's Presence Rk. III	TSS
-72	Patient Harvest	TSS
-72	Patient Harvest Rk. II	TSS
-72	Patient Harvest Rk. III	TSS
-73	Ball Lightning	TSS
-73	Ball Lightning Rk. II	TSS
-73	Ball Lightning Rk. III	TSS
-73	Cold Snap	TSS
-73	Cold Snap Rk. II	TSS
-73	Lavalure	TSS
-73	Lavalure Rk. II	TSS
-73	Lavalure Rk. III	TSS
-73	Leap of Shocking Bolts	TSS
-73	Leap of Shocking Bolts Rk. II	TSS
-73	Scales of the Crystalwing	TSS
-73	Scales of the Crystalwing Rk. II	TSS
-73	Scales of the Crystalwing Rk. III	TSS
-73	Tendrilmist Guard	TBS
-73	Tendrilmist Guard Rk. II	TBS
-73	Tendrilmist Guard Rk. III	TBS
-74	Chaos Immolation	TBS
-74	Chaos Immolation Rk. II	TBS
-74	Chaos Immolation Rk. III	TBS
-74	Crystalwing Ward	TSS
-74	Crystalwing Ward Rk. II	TSS
-74	Ethantis's Burning Blade	TSS
-74	Flashfires	TSS
-74	Flashfires Rk. II	TSS
-74	Flashfires Rk. III	TSS
-74	Focus Mass Elaborate Spellcaster's Empowering Essence	SoF
-74	Icefall Avalanche	TSS
-74	Icefall Avalanche Rk. II	TSS
-74	Icefall Avalanche Rk. III	TSS
-74	Translocate: Katta Castrum	TBS
-74	Volcanic Eruption	TSS
-74	Volcanic Eruption Rk. II	TSS
-75	Claw of Selay	TSS
-75	Claw of Selay Rk. II	TSS
-75	Claw of Selay Rk. III	TSS
-75	Dragonscale Hills Gate	SoF
-75	Dragonscale Hills Portal	SoF
-75	Ethereal Conflagration	TSS
-75	Ethereal Conflagration Rk. II	TSS
-75	Ethereal Conflagration Rk. III	TSS
-75	Focus Ornate Spellcaster's Empowering Essence	SoF
-75	Icicle Deluge	TSS
-75	Icicle Deluge Rk. II	TSS
-75	Intertwining Energy	TBS
-75	Intertwining Energy Rk. II	TBS
-75	Intertwining Energy Rk. III	TBS
-75	Pure Wildmagic Azia	TBS
-75	Pure Wildmagic Beza	TBS
-75	Pure Wildmagic Caza	TBS
-75	Sothgar's Flame	TSS
-75	Sothgar's Flame Rk. II	TSS
-75	Sothgar's Flame Rk. III	TSS
-75	Telakisz	TSS
-75	Telakisz Rk. II	TSS
-75	Translocate: Dragonscale Hills	SoF
-76	Bulwark of Caella	SoF
-76	Bulwark of Caella Rk. II	SoF
-76	Bulwark of Caella Rk. III	SoF
-76	Bulwark of the Crystalwing	SoF
-76	Bulwark of the Crystalwing Rk. II	SoF
-76	Bulwark of the Crystalwing Rk. III	SoF
-76	Concussive Burst	SoF
-76	Concussive Burst Rk. II	SoF
-76	Concussive Burst Rk. III	SoF
-76	Lure of Isaz	SoF
-76	Lure of Isaz Rk. II	SoF
-76	Lure of Isaz Rk. III	SoF
-76	Phase March	Sof
-76	Phase March Rk. II	Sof
-76	Phase March Rk. III	Sof
-76	Tears of the Forsaken	Sof
-76	Tears of the Forsaken Rk. II	Sof
-76	Tears of the Forsaken Rk. III	Sof
-76	Wildmagic Burst	SoF
-76	Wildmagic Burst Rk. II	SoF
-76	Wildmagic Burst Rk. III	SoF
-77	Aspect of Zomm	SoF
-77	Aspect of Zomm Rk. II	SoF
-77	Aspect of Zomm Rk. III	SoF
-77	Cloudburst Bolts	SoF
-77	Cloudburst Bolts Rk. II	SoF
-77	Cloudburst Bolts Rk. III	SoF
-77	Leap of Static Bolts	SoF
-77	Leap of Static Bolts Rk. II	SoF
-77	Leap of Static Bolts Rk. III	SoF
-77	Tranquil Harvest	SoF
-77	Tranquil Harvest Rk. II	SoF
-77	Tranquil Harvest Rk. III	SoF
-77	Vsorug's Presence	SoF
-77	Vsorug's Presence Rk. II	SoF
-77	Vsorug's Presence Rk. III	SoF
-78	Etherroot Guard	SoF
-78	Etherroot Guard Rk. II	SoF
-78	Etherroot Guard Rk. III	SoF
-78	Funnel of Frost	SoF
-78	Funnel of Frost Rk. II	SoF
-78	Funnel of Frost Rk. III	SoF
-78	Laminae of the Crystalwing	SoF
-78	Laminae of the Crystalwing Rk. II	SoF
-78	Laminae of the Crystalwing Rk. III	SoF
-78	Leap of Arclight	SoF
-78	Leap of Arclight Rk. II	SoF
-78	Leap of Arclight Rk. III	SoF
-78	Pyrolure	SoF
-78	Pyrolure Rk. II	SoF
-78	Pyrolure Rk. III	SoF
-78	Rime Snap	SoF
-78	Rime Snap Rk. II	SoF
-78	Rime Snap Rk. III	SoF
-78	Rolling Lightning	SoF
-78	Rolling Lightning Rk. II	SoF
-78	Rolling Lightning Rk. III	SoF
-79	Chaos Conflagration	SoF
-79	Chaos Conflagration Rk. II	SoF
-79	Chaos Conflagration Rk. III	SoF
-79	Crystalwing Guard	SoF
-79	Crystalwing Guard Rk. II	SoF
-79	Crystalwing Guard Rk. III	SoF
-79	Ethereal Rime	SoF
-79	Ethereal Rime Rk. II	SoF
-79	Ethereal Rime Rk. III	SoF
-79	Euthanos' Flameblade	SoF
-79	Euthanos' Flameblade Rk. II	SoF
-79	Euthanos' Flameblade Rk. III	SoF
-79	Flashflames	SoF
-79	Flashflames Rk. II	SoF
-79	Flashflames Rk. III	SoF
-79	Focus Mass Ornate Spellcaster's Empowering Essence	SoF
-79	Glacial Collapse	SoF
-79	Glacial Collapse Rk. II	SoF
-79	Glacial Collapse Rk. III	SoF
-79	Pyroclastic Eruption	Sof
-79	Pyroclastic Eruption Rk. II	Sof
-79	Pyroclastic Eruption Rk. III	Sof
-80	Brell's Rest Gate	UF
-80	Brell's Rest Portal	UF
-80	Claw of Selig	SoF
-80	Claw of Selig Rk. II	SoF
-80	Claw of Selig Rk. III	SoF
-80	Ethereal Incineration	SoF
-80	Ethereal Incineration Rk. II	SoF
-80	Ethereal Incineration Rk. III	SoF
-80	Focus Runed Spellcaster's Empowering Essence	SoD
-80	Icicle Storm	Sof
-80	Icicle Storm Rk. II	Sof
-80	Icicle Storm Rk. III	Sof
-80	Inizen's Fire	SoF
-80	Inizen's Fire Rk. II	SoF
-80	Inizen's Fire Rk. III	SoF
-80	Netherstep	SoF
-80	Netherstep Rk. II	SoF
-80	Netherstep Rk. III	SoF
-80	Plane of Time Gate	SoD
-80	Plane of Time Portal	SoD
-80	Pure Wildmagic II Azia	SoF
-80	Pure Wildmagic II Beza	SoF
-80	Pure Wildmagic II Caza	SoF
-80	Tangleweave Energy	SoF
-80	Tangleweave Energy Rk. II	SoF
-80	Tangleweave Energy Rk. III	SoF
-80	Telajasz	SoF
-80	Telajasz Rk. II	SoF
-80	Telajasz Rk. III	SoF
-80	Translocate: Brell's Rest	UF
-80	Translocate: Plane of Time	SoD
-81	Aegis of Calrena	SoD
-81	Aegis of Calrena Rk. II	SoD
-81	Aegis of Calrena Rk. III	SoD
-81	Concussive Flash	SoD
-81	Concussive Flash Rk. II	SoD
-81	Concussive Flash Rk. III	SoD
-81	Nethervoid March	SoD
-81	Nethervoid March Rk. II	SoD
-81	Nethervoid March Rk. III	SoD
-81	Shield of the Void	SoD
-81	Shield of the Void Rk. II	SoD
-81	Shield of the Void Rk. III	SoD
-81	Tears of the Pyrilen	SoD
-81	Tears of the Pyrilen Rk. II	SoD
-81	Tears of the Pyrilen Rk. III	SoD
-81	Voidfrost Lure	SoD
-81	Voidfrost Lure Rk. II	SoD
-81	Voidfrost Lure Rk. III	SoD
-81	Wildmagic Blast	SoD
-81	Wildmagic Blast Rk. II	SoD
-81	Wildmagic Blast Rk. III	SoD
-82	Cloudburst Levin	SoD
-82	Cloudburst Levin Rk. II	SoD
-82	Cloudburst Levin Rk. III	SoD
-82	Leap of Static Jolts	SoD
-82	Leap of Static Jolts Rk. II	SoD
-82	Leap of Static Jolts Rk. III	SoD
-82	Mindfreeze	SoD
-82	Mindfreeze Rk. II	SoD
-82	Mindfreeze Rk. III	SoD
-82	Mindfreeze Strike	SoD
-82	Mindfreeze Strike	SoD
-82	Mindfreeze Strike	SoD
-82	Serene Harvest	SoD
-82	Serene Harvest Rk. II	SoD
-82	Serene Harvest Rk. III	SoD
-82	Talendor's Presence	SoD
-82	Talendor's Presence Rk. II	SoD
-82	Talendor's Presence Rk. III	SoD
-83	Crystallizing Circle	UF
-83	Crystallizing Circle Rk. II	UF
-83	Crystallizing Circle Rk. III	UF
-83	Flarelure	SoD
-83	Flarelure Rk. II	SoD
-83	Flarelure Rk. III	SoD
-83	Funnel of Frigidity	SoD
-83	Funnel of Frigidity Rk. II	SoD
-83	Funnel of Frigidity Rk. III	SoD
-83	Gelid Snap	SoD
-83	Gelid Snap Rk. II	SoD
-83	Gelid Snap Rk. III	SoD
-83	Leap of Lightning Sprites	SoD
-83	Leap of Lightning Sprites Rk. II	SoD
-83	Leap of Lightning Sprites Rk. III	SoD
-83	Nethermist Guard	SoD
-83	Nethermist Guard Rk. II	SoD
-83	Nethermist Guard Rk. III	SoD
-83	Ribbon Lightning	SoD
-83	Ribbon Lightning Rk. II	SoD
-83	Ribbon Lightning Rk. III	SoD
-83	Squamae of the Crystalwing	SoD
-83	Squamae of the Crystalwing Rk. II	SoD
-83	Squamae of the Crystalwing Rk. III	SoD
-84	Chaos Combustion	SoD
-84	Chaos Combustion Rk. II	SoD
-84	Chaos Combustion Rk. III	SoD
-84	Crystalwing Shell	SoD
-84	Crystalwing Shell Rk. II	SoD
-84	Crystalwing Shell Rk. III	SoD
-84	Daveron's Pyroblade	SoD
-84	Daveron's Pyroblade Rk. II	SoD
-84	Daveron's Pyroblade Rk. III	SoD
-84	Ethereal Iceblight	SoD
-84	Ethereal Iceblight Rk. II	SoD
-84	Ethereal Iceblight Rk. III	SoD
-84	Flashblaze	SoD
-84	Flashblaze Rk. II	SoD
-84	Flashblaze Rk. III	SoD
-84	Focus Mass Runed Spellcaster's Empowering Essence	SoD
-84	Icesheet Cascade	SoD
-84	Icesheet Cascade Rk. II	SoD
-84	Icesheet Cascade Rk. III	SoD
-84	Magmatic Eruption	SoD
-84	Magmatic Eruption Rk. II	SoD
-84	Magmatic Eruption Rk. III	SoD
-84	Malediction of Havoc	UF
-84	Malediction of Havoc Rk. II	UF
-84	Malediction of Havoc Rk. III	UF
-85	Claw of Gorenaire	SoD
-85	Claw of Gorenaire Rk. II	SoD
-85	Claw of Gorenaire Rk. III	SoD
-85	Ethereal Combustion	SoD
-85	Ethereal Combustion Rk. II	SoD
-85	Ethereal Combustion Rk. III	SoD
-85	Grounds Gate	HoT
-85	Grounds Portal	HoT
-85	Icicle Torrent	SoD
-85	Icicle Torrent Rk. II	SoD
-85	Icicle Torrent Rk. III	SoD
-85	Klixcxyk's Fire	SoD
-85	Klixcxyk's Fire Rk. II	SoD
-85	Klixcxyk's Fire Rk. III	SoD
-85	Pure Wildmagic III Azia	SoD
-85	Pure Wildmagic III Beza	SoD
-85	Pure Wildmagic III Caza	SoD
-85	Self-Immolation	UF
-85	Self-Immolation Rk. II	UF
-85	Self-Immolation Rk. III	UF
-85	Splash of Brimstone	UF
-85	Splash of Brimstone Rk. II	UF
-85	Splash of Brimstone Rk. III	UF
-85	Telajara	SoD
-85	Telajara Rk. II	SoD
-85	Telajara Rk. III	SoD
-85	Thricewoven Energy	SoD
-85	Thricewoven Energy Rk. II	SoD
-85	Thricewoven Energy Rk. III	SoD
-85	Translocate: the Grounds	HoT
-85	Twincast	SoD
-85	Twincast Rk. II	SoD
-85	Twincast Rk. III	SoD
-86	Aegis of Lithara	HoT
-86	Aegis of Lithara Rk. II	HoT
-86	Aegis of Lithara Rk. III	HoT
-86	Concussive Burst	HoT
-86	Concussive Burst Rk. II	HoT
-86	Concussive Burst Rk. III	HoT
-86	Corona Beam	HoT
-86	Corona Beam Rk. II	HoT
-86	Corona Beam Rk. III	HoT
-86	Fire Vortex	HoT
-86	Fire Vortex Effect	HoT
-86	Fire Vortex Effect II	HoT
-86	Fire Vortex Effect III	HoT
-86	Fire Vortex Rk. II	HoT
-86	Fire Vortex Rk. III	HoT
-86	Glacial Lure	HoT
-86	Glacial Lure Rk. II	HoT
-86	Glacial Lure Rk. III	HoT
-86	Shield of Dreams	HoT
-86	Shield of Dreams Rk. II	HoT
-86	Shield of Dreams Rk. III	HoT
-86	Tears of Flame	HoT
-86	Tears of Flame Rk. II	HoT
-86	Tears of Flame Rk. III	HoT
-86	Wildmana Barrage	HoT
-86	Wildmana Barrage Rk. II	HoT
-86	Wildmana Barrage Rk. III	HoT
-87	Brainfreeze	HoT
-87	Brainfreeze Effect	HoT
-87	Brainfreeze Effect II	HoT
-87	Brainfreeze Effect III	HoT
-87	Brainfreeze Rk. II	HoT
-87	Brainfreeze Rk. III	HoT
-87	Cloudburst Storm	HoT
-87	Cloudburst Storm Rk. II	HoT
-87	Cloudburst Storm Rk. III	HoT
-87	Glacial Pillar	HoT
-87	Glacial Pillar Rk. II	HoT
-87	Glacial Pillar Rk. III	HoT
-87	Leap of Corposantum	HoT
-87	Leap of Corposantum Rk. II	HoT
-87	Leap of Corposantum Rk. III	HoT
-87	Ring of Fire	HoT
-87	Ring of Fire Rk. II	HoT
-87	Ring of Fire Rk. III	HoT
-87	Soothing Harvest	HoT
-87	Soothing Harvest Rk. II	HoT
-87	Soothing Harvest Rk. III	HoT
-88	Beam of Permafrost	HoT
-88	Beam of Permafrost Rk. II	HoT
-88	Beam of Permafrost Rk. III	HoT
-88	Dermis of the Crystalwing	HoT
-88	Dermis of the Crystalwing Rk. II	HoT
-88	Dermis of the Crystalwing Rk. III	HoT
-88	Flamelure	HoT
-88	Flamelure Rk. II	HoT
-88	Flamelure Rk. III	HoT
-88	Freezing Snap	HoT
-88	Freezing Snap Rk. II	HoT
-88	Freezing Snap Rk. III	HoT
-88	Lightning Helix	HoT
-88	Lightning Helix Rk. II	HoT
-88	Lightning Helix Rk. III	HoT
-88	Lightning Surge	HoT
-88	Lightning Surge Rk. II	HoT
-88	Lightning Surge Rk. III	HoT
-88	Mana Vortex	HoT
-88	Mana Vortex Effect	HoT
-88	Mana Vortex Effect II	HoT
-88	Mana Vortex Effect III	HoT
-88	Mana Vortex Rk. II	HoT
-88	Mana Vortex Rk. III	HoT
-88	Murkmist Grasp	HoT
-88	Murkmist Grasp II	HoT
-88	Murkmist Grasp III	HoT
-88	Murkmist Guard	HoT
-88	Murkmist Guard Rk. II	HoT
-88	Murkmist Guard Rk. III	HoT
-89	Blazing Pillar	HoT
-89	Blazing Pillar Rk. II	HoT
-89	Blazing Pillar Rk. III	HoT
-89	Chaos Char	HoT
-89	Chaos Char Rk. II	HoT
-89	Chaos Char Rk. III	HoT
-89	Crystalwing Carapace	HoT
-89	Crystalwing Carapace Rk. II	HoT
-89	Crystalwing Carapace Rk. III	HoT
-89	Denunciation of Havoc	HoT
-89	Denunciation of Havoc Rk. II	HoT
-89	Denunciation of Havoc Rk. III	HoT
-89	Ethereal Glaciation	HoT
-89	Ethereal Glaciation Rk. II	HoT
-89	Ethereal Glaciation Rk. III	HoT
-89	Flashpyre	HoT
-89	Flashpyre Rk. II	HoT
-89	Flashpyre Rk. III	HoT
-89	Glacial Cascade	HoT
-89	Glacial Cascade Rk. II	HoT
-89	Glacial Cascade Rk. III	HoT
-89	Lithara's Pyroblade	HoT
-89	Lithara's Pyroblade Rk. II	HoT
-89	Lithara's Pyroblade Rk. III	HoT
-89	Magmatic Downpour	HoT
-89	Magmatic Downpour Rk. II	HoT
-89	Magmatic Downpour Rk. III	HoT
-90	Ethereal Inferno	HoT
-90	Ethereal Inferno Rk. II	HoT
-90	Ethereal Inferno Rk. III	HoT
-90	Fire Spiral	HoT
-90	Fire Spiral II	HoT
-90	Fire Spiral III	HoT
-90	Glacial Claw	HoT
-90	Glacial Claw Rk. II	HoT
-90	Glacial Claw Rk. III	HoT
-90	Hail Torrent	HoT
-90	Hail Torrent Rk. II	HoT
-90	Hail Torrent Rk. III	HoT
-90	Ice Spiral	HoT
-90	Ice Spiral II	HoT
-90	Ice Spiral III	HoT
-90	Ice Vortex	HoT
-90	Ice Vortex Effect	HoT
-90	Ice Vortex Effect II	HoT
-90	Ice Vortex Effect III	HoT
-90	Ice Vortex Rk. II	HoT
-90	Ice Vortex Rk. III	HoT
-90	Lithara's Fire	HoT
-90	Lithara's Fire Rk. II	HoT
-90	Lithara's Fire Rk. III	HoT
-90	Maelstrom of Mana	HoT
-90	Maelstrom of Mana Rk. II	HoT
-90	Maelstrom of Mana Rk. III	HoT
-90	Power Spiral	HoT
-90	Power Spiral II	HoT
-90	Power Spiral III	HoT
-90	Pure Wildmagic IV Azia	HoT
-90	Pure Wildmagic IV Beza	HoT
-90	Pure Wildmagic IV Caza	HoT
-90	Sarith Gate	VoA
-90	Sarith Portal	VoA
-90	Self-Annihilation	HoT
-90	Self-Annihilation Rk. II	HoT
-90	Self-Annihilation Rk. III	HoT
-90	Splash of Rhyolite	HoT
-90	Splash of Rhyolite Rk. II	HoT
-90	Splash of Rhyolite Rk. III	HoT
-90	Telakama	HoT
-90	Telakama Rk. II	HoT
-90	Telakama Rk. III	HoT
-90	Thricewoven Electricity	HoT
-90	Thricewoven Electricity Rk. II	HoT
-90	Thricewoven Electricity Rk. III	HoT
-90	Translocate Sarith	VoA
-91	Aegis of Alra	VoA
-91	Aegis of Alra Rk. II	VoA
-91	Aegis of Alra Rk. III	VoA
-91	Blazing Beam	VoA
-91	Blazing Beam Rk. II	VoA
-91	Blazing Beam Rk. III	VoA
-91	Concussive Barrage	VoA
-91	Concussive Barrage Rk. II	VoA
-91	Concussive Barrage Rk. III	VoA
-91	Flame Vortex	VoA
-91	Flame Vortex Effect	VoA
-91	Flame Vortex Rk. II	VoA
-91	Flame Vortex Rk. III	VoA
-91	Frigid Lure	VoA
-91	Frigid Lure Rk. II	VoA
-91	Frigid Lure Rk. III	VoA
-91	Katelanama	VoA
-91	Katelanama Rk. II	VoA
-91	Katelanama Rk. III	VoA
-91	Shield of Bronze	VoA
-91	Shield of Bronze Rk. II	VoA
-91	Shield of Bronze Rk. III	VoA
-91	Tears of Daevan	VoA
-91	Tears of Daevan Rk. II	VoA
-91	Tears of Daevan Rk. III	VoA
-91	Wildspark Barrage	VoA
-91	Wildspark Barrage Rk. II	VoA
-91	Wildspark Barrage Rk. III	VoA
-92	Alra Gate	VoA
-92	Alra Portal	VoA
-92	Cloudburst Tempest	VoA
-92	Cloudburst Tempest Rk. II	VoA
-92	Cloudburst Tempest Rk. III	VoA
-92	Ethereal Barrage	VoA
-92	Ethereal Barrage Rk. II	VoA
-92	Ethereal Barrage Rk. III	VoA
-92	Frozen Pillar	VoA
-92	Frozen Pillar Rk. II	VoA
-92	Frozen Pillar Rk. III	VoA
-92	Leap of Plasma	VoA
-92	Leap of Plasma Rk. II	VoA
-92	Leap of Plasma Rk. III	VoA
-92	Placid Harvest	VoA
-92	Placid Harvest Rk. II	VoA
-92	Placid Harvest Rk. III	VoA
-92	Ring of Flame	VoA
-92	Ring of Flame Rk. II	VoA
-92	Ring of Flame Rk. III	VoA
-92	Thoughtfreeze	VoA
-92	Thoughtfreeze Effect	VoA
-92	Thoughtfreeze Rk. II	VoA
-92	Thoughtfreeze Rk. III	VoA
-92	Translocate Pillars of Alra	VoA
-93	Armor of the Crystalwing	VoA
-93	Armor of the Crystalwing Rk. II	VoA
-93	Armor of the Crystalwing Rk. III	VoA
-93	Atol's Concussive Shackles	VoA
-93	Atol's Concussive Shackles Rk. II	VoA
-93	Atol's Concussive Shackles Rk. III	VoA
-93	Beam of Rime Crystals	VoA
-93	Beam of Rime Crystals Rk. II	VoA
-93	Beam of Rime Crystals Rk. III	VoA
-93	Blazelure	VoA
-93	Blazelure Rk. II	VoA
-93	Blazelure Rk. III	VoA
-93	Frost Snap	VoA
-93	Frost Snap Rk. II	VoA
-93	Frost Snap Rk. III	VoA
-93	Lightning Swarm	VoA
-93	Lightning Swarm Rk. II	VoA
-93	Lightning Swarm Rk. III	VoA
-93	Power Vortex	VoA
-93	Power Vortex Effect	VoA
-93	Power Vortex Rk. II	VoA
-93	Power Vortex Rk. III	VoA
-93	Shademist Grasp	VoA
-93	Shademist Grasp II	VoA
-93	Shademist Grasp III	VoA
-93	Shademist Guard	VoA
-93	Shademist Guard Rk. II	VoA
-93	Shademist Guard Rk. III	VoA
-93	Staccato Lightning	VoA
-93	Staccato Lightning Rk. II	VoA
-93	Staccato Lightning Rk. III	VoA
-94	Burning Pillar	VoA
-94	Burning Pillar Rk. II	VoA
-94	Burning Pillar Rk. III	VoA
-94	Burnmaster's Pyroblade	VoA
-94	Burnmaster's Pyroblade Rk. II	VoA
-94	Burnmaster's Pyroblade Rk. III	VoA
-94	Chaos Blaze	VoA
-94	Chaos Blaze Rk. II	VoA
-94	Chaos Blaze Rk. III	VoA
-94	Crystalwing Husk	VoA
-94	Crystalwing Husk Rk. II	VoA
-94	Crystalwing Husk Rk. III	VoA
-94	Ethereal Frost	VoA
-94	Ethereal Frost Rk. II	VoA
-94	Ethereal Frost Rk. III	VoA
-94	Flashflares	VoA
-94	Flashflares Rk. II	VoA
-94	Flashflares Rk. III	VoA
-94	Magmatic Outburst	VoA
-94	Magmatic Outburst Rk. II	VoA
-94	Magmatic Outburst Rk. III	VoA
-94	Rime Cascade	VoA
-94	Rime Cascade Rk. II	VoA
-94	Rime Cascade Rk. III	VoA
-94	Villification of Havoc	VoA
-94	Villification of Havoc Rk. II	VoA
-94	Villification of Havoc Rk. III	VoA
-95	Claw of the Abyss	VoA
-95	Claw of the Abyss Rk. II	VoA
-95	Claw of the Abyss Rk. III	VoA
-95	Daevan's Fire	VoA
-95	Daevan's Fire Rk. II	VoA
-95	Daevan's Fire Rk. III	VoA
-95	Ethereal Blaze	VoA
-95	Ethereal Blaze Rk. II	VoA
-95	Ethereal Blaze Rk. III	VoA
-95	Fire Spiral	VoA
-95	Fire Spiral II	VoA
-95	Fire Spiral III	VoA
-95	Frost Torrent	VoA
-95	Frost Torrent Rk. II	VoA
-95	Frost Torrent Rk. III	VoA
-95	Frost Vortex	VoA
-95	Frost Vortex Effect	VoA
-95	Frost Vortex Rk. II	VoA
-95	Frost Vortex Rk. III	VoA
-95	Ice Spiral	VoA
-95	Ice Spiral II	VoA
-95	Ice Spiral III	VoA
-95	Maelstrom of Power	VoA
-95	Maelstrom of Power Rk. II	VoA
-95	Maelstrom of Power Rk. III	VoA
-95	Power Spiral	VoA
-95	Power Spiral II	VoA
-95	Power Spiral III	VoA
-95	Pure Wildmagic V Azia	VoA
-95	Pure Wildmagic V Beza	VoA
-95	Pure Wildmagic V Caza	VoA
-95	Self-Devastation	VoA
-95	Self-Devastation Rk. II	VoA
-95	Self-Devastation Rk. III	VoA
-95	Shard's Landing Gate	RoF
-95	Shard's Landing Portal	RoF
-95	Splash of Phenocrysts	VoA
-95	Splash of Phenocrysts Rk. II	VoA
-95	Splash of Phenocrysts Rk. III	VoA
-95	Telanama	VoA
-95	Telanama Rk. II	VoA
-95	Telanama Rk. III	VoA
-95	Thricewoven Potential	VoA
-95	Thricewoven Potential Rk. II	VoA
-95	Thricewoven Potential Rk. III	VoA
-95	Translocate: Shard's Landing	RoF
-95	Translocate: West Karana	CotF
-95	West Karana Gate	CotF
-95	West Karana Portal	CotF
-96	Aegis of Velishan	RoF
-96	Aegis of Velishan Rk. II	RoF
-96	Aegis of Velishan Rk. III	RoF
-96	Claw of the Ashwing	RoF
-96	Claw of the Ashwing Rk. II	RoF
-96	Claw of the Ashwing Rk. III	RoF
-96	Concussive Salvo	RoF
-96	Concussive Salvo Rk. II	RoF
-96	Concussive Salvo Rk. III	RoF
-96	Depart	CotF
-96	Depart Rk. II	CotF
-96	Depart Rk. III	CotF
-96	Incandescent Vortex	RoF
-96	Incandescent Vortex Effect	RoF
-96	Incandescent Vortex Rk. II	RoF
-96	Incandescent Vortex Rk. III	RoF
-96	Incinerating Beam	RoF
-96	Incinerating Beam Rk. II	RoF
-96	Incinerating Beam Rk. III	RoF
-96	Katelanaka	RoF
-96	Katelanaka Rk. II	RoF
-96	Katelanaka Rk. III	RoF
-96	Lure of the Wastes	RoF
-96	Lure of the Wastes Rk. II	RoF
-96	Lure of the Wastes Rk. III	RoF
-96	Shield of the Dauntless	RoF
-96	Shield of the Dauntless Rk. II	RoF
-96	Shield of the Dauntless Rk. III	RoF
-96	Tears of Gosik	RoF
-96	Tears of Gosik Rk. II	RoF
-96	Tears of Gosik Rk. III	RoF
-96	Wildether Barrage	RoF
-96	Wildether Barrage Rk. II	RoF
-96	Wildether Barrage Rk. III	RoF
-97	Bucolic Harvest	RoF
-97	Bucolic Harvest Rk. II	RoF
-97	Bucolic Harvest Rk. III	RoF
-97	Circle of Flame	RoF
-97	Circle of Flame Rk. II	RoF
-97	Circle of Flame Rk. III	RoF
-97	Cloudburst Thunderbolt	RoF
-97	Cloudburst Thunderbolt Rk. II	RoF
-97	Cloudburst Thunderbolt Rk. III	RoF
-97	Ethereal Salvo	RoF
-97	Ethereal Salvo Rk. II	RoF
-97	Ethereal Salvo Rk. III	RoF
-97	Icebound Pillar	RoF
-97	Icebound Pillar Rk. II	RoF
-97	Icebound Pillar Rk. III	RoF
-97	Leap of Static Sparks	RoF
-97	Leap of Static Sparks Rk. II	RoF
-97	Leap of Static Sparks Rk. III	RoF
-97	Permeating Ether	CotF
-97	Permeating Ether Rk. II	CotF
-97	Permeating Ether Rk. III	CotF
-97	Shield of Fate	CotF
-97	Shield of Fate Rk. II	CotF
-97	Shield of Fate Rk. III	CotF
-97	Skullfreeze	RoF
-97	Skullfreeze Effect	RoF
-97	Skullfreeze Rk. II	RoF
-97	Skullfreeze Rk. III	RoF
-98	Armor of the Stonescale	RoF
-98	Armor of the Stonescale Rk. II	RoF
-98	Armor of the Stonescale Rk. III	RoF
-98	Barbed Lightning	RoF
-98	Barbed Lightning Rk. II	RoF
-98	Barbed Lightning Rk. III	RoF
-98	Bleakmist Grasp	RoF
-98	Bleakmist Guard	RoF
-98	Bleakmist Guard Rk. II	RoF
-98	Bleakmist Guard Rk. III	RoF
-98	Claw of the Flamewing	RoF
-98	Claw of the Flamewing Rk. II	RoF
-98	Claw of the Flamewing Rk. III	RoF
-98	Ether Vortex	RoF
-98	Ether Vortex Effect	RoF
-98	Ether Vortex Rk. II	RoF
-98	Ether Vortex Rk. III	RoF
-98	Flashfreeze	RoF
-98	Flashfreeze Rk. II	RoF
-98	Flashfreeze Rk. III	RoF
-98	Frigid Beam	RoF
-98	Frigid Beam Rk. II	RoF
-98	Frigid Beam Rk. III	RoF
-98	Lceanium Gate	EoK
-98	Lightning Squall	RoF
-98	Lightning Squall Rk. II	RoF
-98	Lightning Squall Rk. III	RoF
-98	Magmalure	RoF
-98	Magmalure Rk. II	RoF
-98	Magmalure Rk. III	RoF
-98	Mirror	CotF
-98	Mirror Rk. II	CotF
-98	Mirror Rk. III	CotF
-98	Permeating Blaze	CotF
-98	Permeating Blaze Rk. II	CotF
-98	Permeating Blaze Rk. III	CotF
-98	Permeating Ice	CotF
-98	Permeating Ice Rk. II	CotF
-98	Permeating Ice Rk. III	CotF
-99	Bucolic Gambit	CotF
-99	Bucolic Gambit Rk. II	CotF
-99	Bucolic Gambit Rk. III	CotF
-99	Chaos Incandescence	RoF
-99	Chaos Incandescence Rk. II	RoF
-99	Chaos Incandescence Rk. III	RoF
-99	Ethereal Hoarfrost	RoF
-99	Ethereal Hoarfrost Rk. II	RoF
-99	Ethereal Hoarfrost Rk. III	RoF
-99	Flamelocked Pillar	RoF
-99	Flamelocked Pillar Rk. II	RoF
-99	Flamelocked Pillar Rk. III	RoF
-99	Flashsear	RoF
-99	Flashsear Rk. II	RoF
-99	Flashsear Rk. III	RoF
-99	Hoarfrost Cascade	RoF
-99	Hoarfrost Cascade Rk. II	RoF
-99	Hoarfrost Cascade Rk. III	RoF
-99	Ice Slab	RoF
-99	Ice Slab Rk. II	RoF
-99	Ice Slab Rk. III	RoF
-99	Lceanium Portal	EoK
-99	Magmatic Vent	RoF
-99	Magmatic Vent Rk. II	RoF
-99	Magmatic Vent Rk. III	RoF
-99	Mul's Pyroblade	RoF
-99	Mul's Pyroblade Rk. II	RoF
-99	Mul's Pyroblade Rk. III	RoF
-99	Stonescale Husk	RoF
-99	Stonescale Husk Rk. II	RoF
-99	Stonescale Husk Rk. III	RoF
-99	Translocate: Lceanium	EoK
-100	Claw of the Icewing	RoF
-100	Claw of the Icewing Rk. II	RoF
-100	Claw of the Icewing Rk. III	RoF
-100	Ether Shard Strike	CotF
-100	Ethereal Incandescence	RoF
-100	Ethereal Incandescence Rk. II	RoF
-100	Ethereal Incandescence Rk. III	RoF
-100	Ethereal Weave	RoF
-100	Ethereal Weave Rk. II	RoF
-100	Ethereal Weave Rk. III	RoF
-100	Gosik's Fire	RoF
-100	Gosik's Fire Rk. II	RoF
-100	Gosik's Fire Rk. III	RoF
-100	Hoarfrost Vortex	RoF
-100	Hoarfrost Vortex Effect	RoF
-100	Hoarfrost Vortex Rk. II	RoF
-100	Hoarfrost Vortex Rk. III	RoF
-100	Pure Wildmagic VI Azia	RoF
-100	Pure Wildmagic VI Beza	RoF
-100	Pure Wildmagic VI Caza	RoF
-100	Self-Destruction	RoF
-100	Self-Destruction Rk. II	RoF
-100	Self-Destruction Rk. III	RoF
-100	Skyfire Gate	RoS
-100	Skyfire Portal	RoS
-100	Splash of Pyroxene	CotF
-100	Splash of Pyroxene Rk. II	CotF
-100	Splash of Pyroxene Rk. III	CotF
-100	Tamagrist Torrent	RoF
-100	Tamagrist Torrent Rk. II	RoF
-100	Tamagrist Torrent Rk. III	RoF
-100	Telanaga	RoF
-100	Telanaga Rk. II	RoF
-100	Telanaga Rk. III	RoF
-100	Tempest Temple Gate	TDS
-100	Tempest Temple Portal	TDS
-100	Thricewoven Mana	RoF
-100	Thricewoven Mana Rk. II	RoF
-100	Thricewoven Mana Rk. III	RoF
-100	Translocate: Skyfire	RoS
-100	Translocate: Tempest Temple	TDS
-101	Aegis of Satum	TDS
-101	Aegis of Satum Rk. II	TDS
-101	Aegis of Satum Rk. III	TDS
-101	Chaotic Wildfire VII Azia	TDS
-101	Chaotic Wildfire VII Beza	TDS
-101	Chaotic Wildfire VII Caza	TDS
-101	Claw of the Indagatori	TDS
-101	Claw of the Indagatori Rk. II	TDS
-101	Claw of the Indagatori Rk. III	TDS
-101	Combusting Beam	TDS
-101	Combusting Beam Rk. II	TDS
-101	Combusting Beam Rk. III	TDS
-101	Concussive Storm	TDS
-101	Concussive Storm Rk. II	TDS
-101	Concussive Storm Rk. III	TDS
-101	Dichotomic Fire	TBM
-101	Katelanara	TDS
-101	Katelanara Rk. II	TDS
-101	Katelanara Rk. III	TDS
-101	Lure of the Depths	TDS
-101	Lure of the Depths Rk. II	TDS
-101	Lure of the Depths Rk. III	TDS
-101	Shield of the Pellarus	TDS
-101	Shield of the Pellarus Rk. II	TDS
-101	Shield of the Pellarus Rk. III	TDS
-101	Tears of Narendi	TDS
-101	Tears of Narendi Rk. II	TDS
-101	Tears of Narendi Rk. III	TDS
-101	Wildflash Barrage	TDS
-101	Wildflash Barrage Rk. II	TDS
-101	Wildflash Barrage Rk. III	TDS
-101	Wildice Cascade VII Azia	TDS
-101	Wildice Cascade VII Beza	TDS
-101	Wildice Cascade VII Caza	TDS
-102	Cloudburst Stormstrike	TDS
-102	Cloudburst Stormstrike Rk. II	TDS
-102	Cloudburst Stormstrike Rk. III	TDS
-102	Corona of Flame	TDS
-102	Corona of Flame Rk. II	TDS
-102	Corona of Flame Rk. III	TDS
-102	Ethereal Flash	TDS
-102	Ethereal Flash Rk. II	TDS
-102	Ethereal Flash Rk. III	TDS
-102	Frostbound Alliance	EoK
-102	Frostbound Alliance Rk. II	EoK
-102	Frostbound Alliance Rk. III	EoK
-102	Leap of Stormbolts	TDS
-102	Leap of Stormbolts Rk. II	TDS
-102	Leap of Stormbolts Rk. III	TDS
-102	Quiescent Harvest	TDS
-102	Quiescent Harvest Rk. II	TDS
-102	Quiescent Harvest Rk. III	TDS
-102	Shield of Consequence	TDS
-102	Shield of Consequence Rk. II	TDS
-102	Shield of Consequence Rk. III	TDS
-102	Silverstorm Pillar	TDS
-102	Silverstorm Pillar Rk. II	TDS
-102	Silverstorm Pillar Rk. III	TDS
-102	Synapsefreeze	TDS
-102	Synapsefreeze Effect	TDS
-102	Synapsefreeze Rk. II	TDS
-102	Synapsefreeze Rk. III	TDS
-103	Armor of the Codex	TDS
-103	Armor of the Codex Rk. II	TDS
-103	Armor of the Codex Rk. III	TDS
-103	Chaos Scintillation	TDS
-103	Chaos Scintillation Rk. II	TDS
-103	Chaos Scintillation Rk. III	TDS
-103	Claw of the Flameweaver	TDS
-103	Claw of the Flameweaver Rk. II	TDS
-103	Claw of the Flameweaver Rk. III	TDS
-103	Darkmist Guard	TDS
-103	Darkmist Guard Rk. II	TDS
-103	Darkmist Guard Rk. III	TDS
-103	Flashrime	TDS
-103	Flashrime Rk. II	TDS
-103	Flashrime Rk. III	TDS
-103	Forked Lightning	TDS
-103	Forked Lightning Rk. II	TDS
-103	Forked Lightning Rk. III	TDS
-103	Funnel of the Frostdeep	TDS
-103	Funnel of the Frostdeep Rk. II	TDS
-103	Funnel of the Frostdeep Rk. III	TDS
-103	Lightning Storm	TDS
-103	Lightning Storm Rk. II	TDS
-103	Lightning Storm Rk. III	TDS
-103	Plasmalure	TDS
-103	Plasmalure Rk. II	TDS
-103	Plasmalure Rk. III	TDS
-103	Shocking Vortex	TBM
-103	Shocking Vortex Effect	TBM
-103	Shocking Vortex Rk. II	TBM
-103	Shocking Vortex Rk. III	TBM
-104	Doomscale Husk	TDS
-104	Doomscale Husk Rk. II	TDS
-104	Doomscale Husk Rk. III	TDS
-104	Ethereal Rimeblast	TDS
-104	Ethereal Rimeblast Rk. II	TDS
-104	Ethereal Rimeblast Rk. III	TDS
-104	Flashchar	TDS
-104	Flashchar Rk. II	TDS
-104	Flashchar Rk. III	TDS
-104	Ice Grinder	EoK
-104	Ice Grinder Rk. II	EoK
-104	Ice Grinder Rk. III	EoK
-104	Magmatic Burst	TDS
-104	Magmatic Burst Rk. II	TDS
-104	Magmatic Burst Rk. III	TDS
-104	Quiescent Gambit	EoK
-104	Quiescent Gambit Rk. II	EoK
-104	Quiescent Gambit Rk. III	EoK
-104	Rimeblast Cascade	TDS
-104	Rimeblast Cascade Rk. II	TDS
-104	Rimeblast Cascade Rk. III	TDS
-104	Skyblaze Pillar	TDS
-104	Skyblaze Pillar Rk. II	TDS
-104	Skyblaze Pillar Rk. III	TDS
-104	Yulin's Pyroblade	TDS
-104	Yulin's Pyroblade Rk. II	TDS
-104	Yulin's Pyroblade Rk. III	TDS
-105	Claw of the Oceanlord	TDS
-105	Claw of the Oceanlord Rk. II	TDS
-105	Claw of the Oceanlord Rk. III	TDS
-105	Darkwater Torrent	TDS
-105	Darkwater Torrent Rk. II	TDS
-105	Darkwater Torrent Rk. III	TDS
-105	Ethereal Fuse	TDS
-105	Ethereal Fuse Rk. II	TDS
-105	Ethereal Fuse Rk. III	TDS
-105	Ethereal Skyblaze	TDS
-105	Ethereal Skyblaze Rk. II	TDS
-105	Ethereal Skyblaze Rk. III	TDS
-105	Narendi's Fire	TDS
-105	Narendi's Fire Rk. II	TDS
-105	Narendi's Fire Rk. III	TDS
-105	Pure Wildmagic VII Azia	TDS
-105	Pure Wildmagic VII Beza	TDS
-105	Pure Wildmagic VII Caza	TDS
-105	Self-Combustion	TBM
-105	Self-Combustion Rk. II	TBM
-105	Self-Combustion Rk. III	TBM
-105	Telanara	TDS
-105	Telanara Rk. II	TDS
-105	Telanara Rk. III	TDS
-105	Thricewoven Stormstrike	TDS
-105	Thricewoven Stormstrike Rk. II	TDS
-105	Thricewoven Stormstrike Rk. III	TDS
-106	Aegis of the Arcron	RoS
-106	Aegis of the Arcron Rk. II	RoS
-106	Aegis of the Arcron Rk. III	RoS
-106	Burning Beam	RoS
-106	Burning Beam Rk. II	RoS
-106	Burning Beam Rk. III	RoS
-106	Chaotic Wildfire VIII Azia	RoS
-106	Chaotic Wildfire VIII Beza	RoS
-106	Chaotic Wildfire VIII Caza	RoS
-106	Claw of Ellarr	RoS
-106	Claw of Ellarr Rk. II	RoS
-106	Claw of Ellarr Rk. III	RoS
-106	Concussive Volley	RoS
-106	Concussive Volley Rk. II	RoS
-106	Concussive Volley Rk. III	RoS
-106	Dissident Fire	TBL
-106	Katelanata	RoS
-106	Katelanata Rk. II	RoS
-106	Katelanata Rk. III	RoS
-106	Lure of Travenro	RoS
-106	Lure of Travenro Rk. II	RoS
-106	Lure of Travenro Rk. III	RoS
-106	Shield of Scales	RoS
-106	Shield of Scales Rk. II	RoS
-106	Shield of Scales Rk. III	RoS
-106	Tears of Dragoflux	RoS
-106	Tears of Dragoflux Rk. II	RoS
-106	Tears of Dragoflux Rk. III	RoS
-106	Wildflash Strike	RoS
-106	Wildflash Strike Rk. II	RoS
-106	Wildflash Strike Rk. III	RoS
-106	Wildice Cascade VIII Azia	RoS
-106	Wildice Cascade VIII Beza	RoS
-106	Wildice Cascade VIII Caza	RoS
-107	Cloudburst Thunderbolt	RoS
-107	Cloudburst Thunderbolt Rk. II	RoS
-107	Cloudburst Thunderbolt Rk. III	RoS
-107	Cortexfreeze	RoS
-107	Cortexfreeze Effect	RoS
-107	Cortexfreeze Rk. II	RoS
-107	Cortexfreeze Rk. III	RoS
-107	Ethereal Volley	RoS
-107	Ethereal Volley Rk. II	RoS
-107	Ethereal Volley Rk. III	RoS
-107	Frostbite Pillar	RoS
-107	Frostbite Pillar Rk. II	RoS
-107	Frostbite Pillar Rk. III	RoS
-107	Frostbound Covenant	TBL
-107	Frostbound Covenant Rk. II	TBL
-107	Frostbound Covenant Rk. III	TBL
-107	Leap of Stormjolts	RoS
-107	Leap of Stormjolts Rk. II	RoS
-107	Leap of Stormjolts Rk. III	RoS
-107	Musing Harvest	RoS
-107	Musing Harvest Rk. II	RoS
-107	Musing Harvest Rk. III	RoS
-107	Shield of Order	RoS
-107	Shield of Order Rk. II	RoS
-107	Shield of Order Rk. III	RoS
-107	Wheel of Flame	RoS
-107	Wheel of Flame Rk. II	RoS
-107	Wheel of Flame Rk. III	RoS
-108	Armor of Wirn	RoS
-108	Armor of Wirn Rk. II	RoS
-108	Armor of Wirn Rk. III	RoS
-108	Chaos Burn	RoS
-108	Chaos Burn Rk. II	RoS
-108	Chaos Burn Rk. III	RoS
-108	Claw of Qunard	RoS
-108	Claw of Qunard Rk. II	RoS
-108	Claw of Qunard Rk. III	RoS
-108	Divergent Lightning	RoS
-108	Divergent Lightning Rk. II	RoS
-108	Divergent Lightning Rk. III	RoS
-108	Esianti Gate	TBL
-108	Flashfrost	RoS
-108	Flashfrost Rk. II	RoS
-108	Flashfrost Rk. III	RoS
-108	Funnel of Frostbite	RoS
-108	Funnel of Frostbite Rk. II	RoS
-108	Funnel of Frostbite Rk. III	RoS
-108	Lightning Tempest	RoS
-108	Lightning Tempest Rk. II	RoS
-108	Lightning Tempest Rk. III	RoS
-108	Lure of Qunard	RoS
-108	Lure of Qunard Rk. II	RoS
-108	Lure of Qunard Rk. III	RoS
-108	Stormjolt Vortex	TBL
-108	Stormjolt Vortex Effect	TBL
-108	Stormjolt Vortex Rk. II	TBL
-108	Stormjolt Vortex Rk. III	TBL
-108	Torsis Guard	RoS
-108	Torsis Guard Rk. II	RoS
-108	Torsis Guard Rk. III	RoS
-109	Arcron Husk	RoS
-109	Arcron Husk Rk. II	RoS
-109	Arcron Husk Rk. III	RoS
-109	Esianti Portal	TBL
-109	Ethereal Icefloe	RoS
-109	Ethereal Icefloe Rk. II	RoS
-109	Ethereal Icefloe Rk. III	RoS
-109	Flashburn	RoS
-109	Flashburn Rk. II	RoS
-109	Flashburn Rk. III	RoS
-109	Icefloe Cascade	RoS
-109	Icefloe Cascade Rk. II	RoS
-109	Icefloe Cascade Rk. III	RoS
-109	Magmatic Explosion	RoS
-109	Magmatic Explosion Rk. II	RoS
-109	Magmatic Explosion Rk. III	RoS
-109	Skyfire Pillar	RoS
-109	Skyfire Pillar Rk. II	RoS
-109	Skyfire Pillar Rk. III	RoS
-109	Translocate: Esianti	TBL
-109	Virnax's Pyroblade	RoS
-109	Virnax's Pyroblade Rk. II	RoS
-109	Virnax's Pyroblade Rk. III	RoS
-110	Claw of Travenro	RoS
-110	Claw of Travenro Rk. II	RoS
-110	Claw of Travenro Rk. III	RoS
-110	Dragoflux's Fire	RoS
-110	Dragoflux's Fire Rk. II	RoS
-110	Dragoflux's Fire Rk. III	RoS
-110	Ethereal Braid	RoS
-110	Ethereal Skyfire	RoS
-110	Ethereal Skyfire Rk. II	RoS
-110	Ethereal Skyfire Rk. III	RoS
-110	Frostbite Torrent	RoS
-110	Frostbite Torrent Rk. II	RoS
-110	Frostbite Torrent Rk. III	RoS
-110	Musing Gambit	TBL
-110	Musing Gambit Rk. II	TBL
-110	Musing Gambit Rk. III	TBL
-110	Pure Wildmagic VIII Azia	RoS
-110	Pure Wildmagic VIII Beza	RoS
-110	Pure Wildmagic VIII Caza	RoS
-110	Telanata	RoS
-110	Telanata Rk. II	RoS
-110	Telanata Rk. III	RoS
-110	Thricewoven Capacity	RoS
-110	Thricewoven Capacity Rk. II	RoS
-110	Thricewoven Capacity Rk. III	RoS
-111	Aegis of the Icebound	ToV
-111	Aegis of the Icebound Rk. II	ToV
-111	Aegis of the Icebound Rk. III	ToV
-111	Chaotic Wildfire IX Azia	ToV
-111	Chaotic Wildfire IX Beza	ToV
-111	Chaotic Wildfire IX Caza	ToV
-111	Claw of Feshlak	ToV
-111	Claw of Feshlak Rk. II	ToV
-111	Claw of Feshlak Rk. III	ToV
-111	Composite Fire	CoV
-111	Concussive Shock	ToV
-111	Concussive Shock Rk. II	ToV
-111	Concussive Shock Rk. III	ToV
-111	Katelanaga	ToV
-111	Katelanaga Rk. II	ToV
-111	Katelanaga Rk. III	ToV
-111	Lure of Restless Ice	ToV
-111	Lure of Restless Ice Rk. II	ToV
-111	Lure of Restless Ice Rk. III	ToV
-111	Restless Ice Block	CoV
-111	Restless Ice Block Rk. II	CoV
-111	Restless Ice Block Rk. III	CoV
-111	Scorching Beam	ToV
-111	Scorching Beam Rk. II	ToV
-111	Scorching Beam Rk. III	ToV
-111	Shield of Restless Ice	ToV
-111	Shield of Restless Ice Rk. II	ToV
-111	Shield of Restless Ice Rk. III	ToV
-111	Tears of Wildfire	ToV
-111	Tears of Wildfire Rk. II	ToV
-111	Tears of Wildfire Rk. III	ToV
-111	Wildice Cascade IX Azia	ToV
-111	Wildice Cascade IX Beza	ToV
-111	Wildice Cascade IX Caza	ToV
-111	Wildscorch Strike	ToV
-111	Wildscorch Strike Rk. II	ToV
-111	Wildscorch Strike Rk. III	ToV
-112	Cloudburst Stormbolt	ToV
-112	Cloudburst Stormbolt Rk. II	ToV
-112	Cloudburst Stormbolt Rk. III	ToV
-112	Ethereal Blast	ToV
-112	Ethereal Blast Rk. II	ToV
-112	Ethereal Blast Rk. III	ToV
-112	Frostbound Coalition	CoV
-112	Frostbound Coalition Rk. II	CoV
-112	Frostbound Coalition Rk. III	CoV
-112	Leap of Stormsparks	ToV
-112	Leap of Stormsparks Rk. II	ToV
-112	Leap of Stormsparks Rk. III	ToV
-112	Loop of Flame	ToV
-112	Loop of Flame Rk. II	ToV
-112	Loop of Flame Rk. III	ToV
-112	Neurofreeze	ToV
-112	Neurofreeze Effect	ToV
-112	Neurofreeze Rk. II	ToV
-112	Neurofreeze Rk. III	ToV
-112	Quiet Harvest	ToV
-112	Quiet Harvest Rk. II	ToV
-112	Quiet Harvest Rk. III	ToV
-112	Restless Ice Pillar	ToV
-112	Restless Ice Pillar Rk. II	ToV
-112	Restless Ice Pillar Rk. III	ToV
-112	Shield of Destiny	ToV
-112	Shield of Destiny Rk. II	ToV
-112	Shield of Destiny Rk. III	ToV
-113	Aegis of the Crystalwing	ToV
-113	Aegis of the Crystalwing Rk. II	ToV
-113	Aegis of the Crystalwing Rk. III	ToV
-113	Chaos Inferno	ToV
-113	Chaos Inferno Rk. II	ToV
-113	Chaos Inferno Rk. III	ToV
-113	Claw of Sontalak	ToV
-113	Claw of Sontalak Rk. II	ToV
-113	Claw of Sontalak Rk. III	ToV
-113	Cobalt Scar Gate	CoV
-113	Coldburst	ToV
-113	Coldburst Rk. II	ToV
-113	Coldburst Rk. III	ToV
-113	Coldmist Guard	ToV
-113	Coldmist Guard Rk. II	ToV
-113	Coldmist Guard Rk. III	ToV
-113	Funnel of Restless Ice	ToV
-113	Funnel of Restless Ice Rk. II	ToV
-113	Funnel of Restless Ice Rk. III	ToV
-113	Lightning Roar	ToV
-113	Lightning Roar Rk. II	ToV
-113	Lightning Roar Rk. III	ToV
-113	Lure of Sontalak	ToV
-113	Lure of Sontalak Rk. II	ToV
-113	Lure of Sontalak Rk. III	ToV
-113	Spiked Lightning	ToV
-113	Spiked Lightning Rk. II	ToV
-113	Spiked Lightning Rk. III	ToV
-113	Thaumaturgic Vortex	CoV
-113	Thaumaturgic Vortex Effect	CoV
-113	Thaumaturgic Vortex Rk. II	CoV
-113	Thaumaturgic Vortex Rk. III	CoV
-113	The Great Divide Gate	ToV
-114	Cobalt Scar Portal	CoV
-114	Fiery Pillar	ToV
-114	Fiery Pillar Rk. II	ToV
-114	Fiery Pillar Rk. III	ToV
-114	Flashbrand	ToV
-114	Flashbrand Rk. II	ToV
-114	Flashbrand Rk. III	ToV
-114	Frostscale Husk	ToV
-114	Frostscale Husk Rk. II	ToV
-114	Frostscale Husk Rk. III	ToV
-114	Restless Ice Cascade	ToV
-114	Restless Ice Cascade Rk. II	ToV
-114	Restless Ice Cascade Rk. III	ToV
-114	Restless Ice Comet	ToV
-114	Restless Ice Comet Rk. II	ToV
-114	Restless Ice Comet Rk. III	ToV
-114	Ricartine's Pyroblade	ToV
-114	Ricartine's Pyroblade Rk. II	ToV
-114	Ricartine's Pyroblade Rk. III	ToV
-114	Self-Incineration	CoV
-114	Self-Incineration Rk. II	CoV
-114	Self-Incineration Rk. III	CoV
-114	Shadeweaver's Tangle Gate	NoS
-114	The Great Divide Portal	ToV
-114	Translocate: Cobalt Scar	CoV
-114	Translocate: The Great Divide	ToV
-114	Volcanic Downpour	ToV
-114	Volcanic Downpour Rk. II	ToV
-114	Volcanic Downpour Rk. III	ToV
-115	Claw of Gozzrem	ToV
-115	Claw of Gozzrem Rk. II	ToV
-115	Claw of Gozzrem Rk. III	ToV
-115	Coldburst Torrent	ToV
-115	Coldburst Torrent Rk. II	ToV
-115	Coldburst Torrent Rk. III	ToV
-115	Dagarn's Fire	ToV
-115	Dagarn's Fire Rk. II	ToV
-115	Dagarn's Fire Rk. III	ToV
-115	Ethereal Brand	ToV
-115	Ethereal Brand Rk. II	ToV
-115	Ethereal Brand Rk. III	ToV
-115	Ethereal Confluence	ToV
-115	Idyllic Gambit	CoV
-115	Idyllic Gambit Rk. II	CoV
-115	Idyllic Gambit Rk. III	CoV
-115	Pure Wildmagic IX Azia	ToV
-115	Pure Wildmagic IX Beza	ToV
-115	Pure Wildmagic IX Caza	ToV
-115	Shadeweaver's Tangle Portal	NoS
-115	Shadow Valley Gate	ToL
-115	Telajaga	ToV
-115	Telajaga Rk. II	ToV
-115	Telajaga Rk. III	ToV
-115	Thricewoven Radiance	ToV
-115	Thricewoven Radiance Rk. II	ToV
-115	Thricewoven Radiance Rk. III	ToV
-115	Translocate: Shadeweaver's Tangle	NoS
-116	Aegis of the Umbra	ToL
-116	Aegis of the Umbra Rk. II	ToL
-116	Aegis of the Umbra Rk. III	ToL
-116	Chaotic Wildfire X Azia	ToL
-116	Chaotic Wildfire X Beza	ToL
-116	Chaotic Wildfire X Caza	ToL
-116	Claw of Itzal	ToL
-116	Claw of Itzal Rk. II	ToL
-116	Claw of Itzal Rk. III	ToL
-116	Concussive Fusillade	ToL
-116	Concussive Fusillade Rk. II	ToL
-116	Concussive Fusillade Rk. III	ToL
-116	Ecliptic Fire	NoS
-116	Katelamara	ToL
-116	Katelamara Rk. II	ToL
-116	Katelamara Rk. III	ToL
-116	Lure of the Cold Moon	ToL
-116	Lure of the Cold Moon Rk. II	ToL
-116	Lure of the Cold Moon Rk. III	ToL
-116	Shadow Valley Portal	ToL
-116	Shield of Shadow	ToL
-116	Shield of Shadow Rk. II	ToL
-116	Shield of Shadow Rk. III	ToL
-116	Tears of Night Fire	ToL
-116	Tears of Night Fire Rk. II	ToL
-116	Tears of Night Fire Rk. III	ToL
-116	Translocate: Shadow Valley	ToL
-116	Vaporizing Beam	ToL
-116	Vaporizing Beam Rk. II	ToL
-116	Vaporizing Beam Rk. III	ToL
-116	Wildflame Strike	ToL
-116	Wildflame Strike Rk. II	ToL
-116	Wildflame Strike Rk. III	ToL
-116	Wildice Cascade X Azia	ToL
-116	Wildice Cascade X Beza	ToL
-116	Wildice Cascade X Caza	ToL
-117	Cerebrumfreeze	ToL
-117	Cerebrumfreeze Effect	ToL
-117	Cerebrumfreeze Rk. II	ToL
-117	Cerebrumfreeze Rk. III	ToL
-117	Cloudburst Joltstrike	ToL
-117	Cloudburst Joltstrike Rk. II	ToL
-117	Cloudburst Joltstrike Rk. III	ToL
-117	Coil of Flame	ToL
-117	Coil of Flame Rk. II	ToL
-117	Coil of Flame Rk. III	ToL
-117	Darkice Pillar	ToL
-117	Darkice Pillar Rk. II	ToL
-117	Darkice Pillar Rk. III	ToL
-117	Ethereal Mortar	ToL
-117	Ethereal Mortar Rk. II	ToL
-117	Ethereal Mortar Rk. III	ToL
-117	Frostbound Conjunction	NoS
-117	Frostbound Conjunction Rk. II	NoS
-117	Frostbound Conjunction Rk. III	NoS
-117	Leap of Levinsparks	ToL
-117	Leap of Levinsparks Rk. II	ToL
-117	Leap of Levinsparks Rk. III	ToL
-117	Shadow Harvest	ToL
-117	Shadow Harvest Rk. II	ToL
-117	Shadow Harvest Rk. III	ToL
-117	Shield of Inevitability	ToL
-117	Shield of Inevitability Rk. II	ToL
-117	Shield of Inevitability Rk. III	ToL
-118	Branched Lightning	ToL
-118	Branched Lightning Rk. II	ToL
-118	Branched Lightning Rk. III	ToL
-118	Chaos Whirl	ToL
-118	Chaos Whirl Rk. II	ToL
-118	Chaos Whirl Rk. III	ToL
-118	Chillblast	ToL
-118	Chillblast Rk. II	ToL
-118	Chillblast Rk. III	ToL
-118	Chillmist Guard	ToL
-118	Chillmist Guard Rk. II	ToL
-118	Chillmist Guard Rk. III	ToL
-118	Claw of the Duskflame	ToL
-118	Claw of the Duskflame Rk. II	ToL
-118	Claw of the Duskflame Rk. III	ToL
-118	Funnel of Umbra	ToL
-118	Funnel of Umbra Ice Rk. II	ToL
-118	Funnel of Umbra Ice Rk. III	ToL
-118	Lightning Maelstrom	ToL
-118	Lightning Maelstrom Rk. II	ToL
-118	Lightning Maelstrom Rk. III	ToL
-118	Lure of Fyrthek	ToL
-118	Lure of Fyrthek Rk. II	ToL
-118	Lure of Fyrthek Rk. III	ToL
-118	Scales of the Crystalwing	ToL
-118	Scales of the Crystalwing Rk. II	ToL
-118	Scales of the Crystalwing Rk. III	ToL
-118	Shadebright Vortex	NoS
-118	Shadebright Vortex Effect	NoS
-118	Shadebright Vortex Rk. II	NoS
-118	Shadebright Vortex Rk. III	NoS
-119	Diabo Xi Fer's Pyroblade	ToL
-119	Diabo Xi Fer's Pyroblade Rk. II	ToL
-119	Diabo Xi Fer's Pyroblade Rk. III	ToL
-119	Exfiltrate	NoS
-119	Exfiltrate Rk. II	NoS
-119	Exfiltrate Rk. III	NoS
-119	Flashbroil	ToL
-119	Flashbroil Rk. II	ToL
-119	Flashbroil Rk. III	ToL
-119	Lunar Ice Comet	ToL
-119	Lunar Ice Comet Rk. II	ToL
-119	Lunar Ice Comet Rk. III	ToL
-119	Moonflame Pillar	ToL
-119	Moonflame Pillar Rk. II	ToL
-119	Moonflame Pillar Rk. III	ToL
-119	Moonscale Husk	ToL
-119	Moonscale Husk Rk. II	ToL
-119	Moonscale Husk Rk. III	ToL
-119	Tundra Ice Cascade	ToL
-119	Tundra Ice Cascade Rk. II	ToL
-119	Tundra Ice Cascade Rk. III	ToL
-119	Volcanic Barrage	ToL
-119	Volcanic Barrage Rk. II	ToL
-119	Volcanic Barrage Rk. III	ToL
-120	Anodyne Gambit	NoS
-120	Anodyne Gambit Rk. II	NoS
-120	Anodyne Gambit Rk. III	NoS
-120	Claw of the Void	ToL
-120	Claw of the Void Rk. II	ToL
-120	Claw of the Void Rk. III	ToL
-120	Coronal Blast	NoS
-120	Ethereal Ignition	ToL
-120	Ethereal Ignition Rk. II	ToL
-120	Ethereal Ignition Rk. III	ToL
-120	Ethereal Twist	ToL
-120	Hypothermic Torrent	ToL
-120	Hypothermic Torrent Rk. II	ToL
-120	Hypothermic Torrent Rk. III	ToL
-120	Laurion Gate	LS
-120	Pure Wildmagic X Azia	ToL
-120	Pure Wildmagic X Beza	ToL
-120	Pure Wildmagic X Caza	ToL
-120	Teladaja	ToL
-120	Teladaja Rk. II	ToL
-120	Teladaja Rk. III	ToL
-120	The Diabo's Fire	ToL
-120	The Diabo's Fire Rk. II	ToL
-120	The Diabo's Fire Rk. III	ToL
-120	Thricewoven Lunacy	ToL
-120	Thricewoven Lunacy Rk. II	ToL
-120	Thricewoven Lunacy Rk. III	ToL
-121	Aegis of Remembrance	LS
-121	Aegis of Remembrance Rk. II	LS
-121	Aegis of Remembrance Rk. III	LS
-121	Chaotic Wildfire XI Azia	LS
-121	Chaotic Wildfire XI Beza	LS
-121	Chaotic Wildfire XI Caza	LS
-121	Claw of the Battleforged	LS
-121	Claw of the Battleforged Rk. II	LS
-121	Claw of the Battleforged Rk. III	LS
-121	Concussive Blast	LS
-121	Concussive Blast Rk. II	LS
-121	Concussive Blast Rk. III	LS
-121	Cremating Beam	LS
-121	Cremating Beam Rk. II	LS
-121	Cremating Beam Rk. III	LS
-121	Katelamaka	LS
-121	Katelamaka Rk. II	LS
-121	Katelamaka Rk. III	LS
-121	Laurion Portal	LS
-121	Lure of Winter Memories	LS
-121	Lure of Winter Memories Rk. II	LS
-121	Lure of Winter Memories Rk. III	LS
-121	Shield of Memories	LS
-121	Shield of Memories Rk. II	LS
-121	Shield of Memories Rk. III	LS
-121	Translocate: Laurion	LS
-121	Wildice Cascade XI Azia	LS
-121	Wildice Cascade XI Beza	LS
-121	Wildice Cascade XI Caza	LS
-121	Wildspell Strike	LS
-121	Wildspell Strike Rk. II	LS
-121	Wildspell Strike Rk. III	LS
-122	Cloudburst Lightningstrike	LS
-122	Cloudburst Lightningstrike Rk. II	LS
-122	Cloudburst Lightningstrike Rk. III	LS
-122	Contemplative Harvest	LS
-122	Contemplative Harvest Rk. II	LS
-122	Contemplative Harvest Rk. III	LS
-122	Ethereal Blitz	LS
-122	Ethereal Blitz Rk. II	LS
-122	Ethereal Blitz Rk. III	LS
-122	Gyre of Flame	LS
-122	Gyre of Flame Rk. II	LS
-122	Gyre of Flame Rk. III	LS
-122	Leap of Static Arcs	LS
-122	Leap of Static Arcs Rk. II	LS
-122	Leap of Static Arcs Rk. III	LS
-122	Rime Pillar	LS
-122	Rime Pillar Rk. II	LS
-122	Rime Pillar Rk. III	LS
-122	Shield of Inescapability	LS
-122	Shield of Inescapability Rk. II	LS
-122	Shield of Inescapability Rk. III	LS
-122	Spinalfreeze	LS
-122	Spinalfreeze Effect	LS
-122	Spinalfreeze Rk. II	LS
-122	Spinalfreeze Rk. III	LS
-123	Chaos Flare	LS
-123	Chaos Flare Rk. II	LS
-123	Chaos Flare Rk. III	LS
-123	Claw of Ingot	LS
-123	Claw of Ingot Rk. II	LS
-123	Claw of Ingot Rk. III	LS
-123	Coolmist Guard	LS
-123	Coolmist Guard Rk. II	LS
-123	Coolmist Guard Rk. III	LS
-123	Frostblast	LS
-123	Frostblast Rk. II	LS
-123	Frostblast Rk. III	LS
-123	Funnel of Uncia	LS
-123	Funnel of Uncia Rk. II	LS
-123	Funnel of Uncia Rk. III	LS
-123	Lightning Cyclone	LS
-123	Lightning Cyclone Rk. II	LS
-123	Lightning Cyclone Rk. III	LS
-123	Lure of the Arcanaforged	LS
-123	Lure of the Arcanaforged Rk. II	LS
-123	Lure of the Arcanaforged Rk. III	LS
-123	Mail of the Crystalwing	LS
-123	Mail of the Crystalwing Rk. II	LS
-123	Mail of the Crystalwing Rk. III	LS
-124	Bifurcated Lightning	LS
-124	Bifurcated Lightning Rk. II	LS
-124	Bifurcated Lightning Rk. III	LS
-124	Ethereal Freeze	LS
-124	Ethereal Freeze Rk. II	LS
-124	Ethereal Freeze Rk. III	LS
-124	Flashroast	LS
-124	Flashroast Rk. II	LS
-124	Flashroast Rk. III	LS
-124	Glacial Ice Cascade	LS
-124	Glacial Ice Cascade Rk. II	LS
-124	Glacial Ice Cascade Rk. III	LS
-124	Kindleheart's Pyroblade	LS
-124	Kindleheart's Pyroblade Rk. II	LS
-124	Kindleheart's Pyroblade Rk. III	LS
-124	Planarflame Pillar	LS
-124	Planarflame Pillar Rk. II	LS
-124	Planarflame Pillar Rk. III	LS
-124	Planescale Husk	LS
-124	Planescale Husk Rk. II	LS
-124	Planescale Husk Rk. III	LS
-124	Volcanic Burst	LS
-124	Volcanic Burst Rk. II	LS
-124	Volcanic Burst Rk. III	LS
-125	Claw of Ankexfen	LS
-125	Claw of Ankexfen Rk. II	LS
-125	Claw of Ankexfen Rk. III	LS
-125	Ethereal Immolation	LS
-125	Ethereal Immolation Rk. II	LS
-125	Ethereal Immolation Rk. III	LS
-125	Ethereal Plait	LS
-125	Kindleheart's Fire	LS
-125	Kindleheart's Fire Rk. II	LS
-125	Kindleheart's Fire Rk. III	LS
-125	Pure Wildmagic XI Azia	LS
-125	Pure Wildmagic XI Beza	LS
-125	Pure Wildmagic XI Caza	LS
-125	Rimeclaw Torrent	LS
-125	Rimeclaw Torrent Rk. II	LS
-125	Rimeclaw Torrent Rk. III	LS
-125	Tears of the Rescued	LS
-125	Tears of the Rescued Rk. II	LS
-125	Tears of the Rescued Rk. III	LS
-125	Teladaka	LS
-125	Teladaka Rk. II	LS
-125	Teladaka Rk. III	LS
-125	Thricewoven Effulgence	LS
-125	Thricewoven Effulgence Rk. II	LS
-125	Thricewoven Effulgence Rk. III	LS
-250	Composite Fire 1	CoV
-250	Composite Fire 2	CoV
-250	Composite Fire 3	CoV
-250	Composite Fire 4	CoV
-250	Composite Fire 5	CoV
-250	Composite Fire 6	CoV
-250	Dichotomic Fire 1	TBM
-250	Dichotomic Fire 2	TBM
-250	Dichotomic Fire 3	TBM
-250	Dichotomic Fire 4	TBM
-250	Dichotomic Fire 5	TBM
-250	Dichotomic Fire 6	TBM
-250	Dissident Fire 1	TBL
-250	Dissident Fire 2	TBL
-250	Dissident Fire 3	TBL
-250	Dissident Fire 4	TBL
-250	Dissident Fire 5	TBL
-250	Dissident Fire 6	TBL
-250	Ecliptic Fire 1	NoS
-250	Ecliptic Fire 2	NoS
-250	Ecliptic Fire 3	NoS
-250	Ecliptic Fire 4	NoS
-250	Ecliptic Fire 5	NoS
-250	Ecliptic Fire 6	NoS
+1	Mercenary Taunt	EQ
+1	Throw Stone	EQ
+5	Elbow Strike	EQ
+10	Focused Will Discipline	EQ
+20	Provoke	EQ
+30	Resistant Discipline	Kunark
+40	Fearless Discipline	Kunark
+52	Bellow	Kunark
+52	Evasive Discipline	Kunark
+53	Charge Discipline	Kunark
+54	Mighty Strike Discipline	Kunark
+55	Defensive Discipline	Kunark
+55	Myrmidon's Aura	PoR
+56	Berate	Kunark
+56	Furious Discipline	Kunark
+57	Precision Discipline	Kunark
+58	Fellstrike Discipline	Kunark
+59	Fortitude Discipline	Kunark
+59	Mercenary Area Taunt	EQ
+60	Aggressive Discipline	Kunark
+61	Spirit of Rage Discipline	PoP
+61	Whirlwind Blade	DoN
+63	Healing Will Discipline	PoP
+63	Incite	PoP
+65	Ancient: Chaos Cry	Gates
+65	Bellow of the Mastruq	Gates
+65	Stonewall Discipline	PoP
+66	Aura of Runes Discipline	Omens
+68	Commanding Voice	DoD
+68	Savage Onslaught Discipline	Omens
+69	Bazu Bellow	Omens
+69	Cyclone Blade	DoN
+70	Champion's Aura	PoR
+70	Mock	PoR
+70	Shocking Defense Discipline	Omens
+71	Aura of Draconic Runes	TSS
+71	Aura of Draconic Runes Rk. II	TSS
+71	Aura of Draconic Runes Rk. III	TSS
+72	Final Stand Discipline	TSS
+72	Final Stand Discipline Rk. II	TSS
+72	Second Wind	TBS
+72	Second Wind Rk. II	TBS
+72	Second Wind Rk. III	TBS
+73	Throat Jab	TSS
+73	Throat Jab Rk. II	TSS
+74	Brutal Onslaught Discipline	TBS
+74	Brutal Onslaught Discipline Rk. II	TBS
+74	Brutal Onslaught Discipline Rk. III	TBS
+74	Vortex Blade	TSS
+74	Vortex Blade Rk. II	TSS
+74	Vortex Blade Rk. III	TSS
+75	Scowl	TSS
+75	Scowl Rk. II	TSS
+75	Scowl Rk. III	TSS
+76	Armor of Draconic Runes	SoF
+76	Armor of Draconic Runes Rk. II	SoF
+76	Armor of Draconic Runes Rk. III	SoF
+77	Shield Reflect	SoF
+77	Shield Reflect Rk. II	SoF
+77	Shield Reflect Rk. III	SoF
+77	Third Wind	SoF
+77	Third Wind Rk. II	SoF
+77	Third Wind Rk. III	SoF
+78	Opportunistic Strike	SoF
+78	Opportunistic Strike Rk. II	SoF
+78	Opportunistic Strike Rk. III	SoF
+79	Whorl Blade	SoF
+79	Whorl Blade Rk. II	SoF
+79	Whorl Blade Rk. III	SoF
+80	Knuckle Smash	SoF
+80	Knuckle Smash Rk. II	SoF
+80	Knuckle Smash Rk. III	SoF
+80	Sneer	SoF
+80	Sneer Rk. II	SoF
+80	Sneer Rk. III	SoF
+81	Armor of Timeworn Runes	SoD
+81	Armor of Timeworn Runes Rk. II	SoD
+81	Armor of Timeworn Runes Rk. III	SoD
+81	Bazu Bluster	SoD
+81	Bazu Bluster Rk. II	SoD
+81	Bazu Bluster Rk. III	SoD
+82	Fourth Wind	SoD
+82	Fourth Wind Rk. II	SoD
+82	Fourth Wind Rk. III	SoD
+83	Lionhearted Rally-Cry	UF
+83	Lionhearted Rally-Cry Rk. II	UF
+83	Lionhearted Rally-Cry Rk. III	UF
+83	Shield Topple	SoD
+83	Shield Topple Rk. II	SoD
+83	Shield Topple Rk. III	SoD
+84	Maelstrom Blade	SoD
+84	Maelstrom Blade Rk. II	SoD
+84	Maelstrom Blade Rk. III	SoD
+84	Punch Through	SoD
+84	Punch Through Rk. II	SoD
+84	Punch Through Rk. III	SoD
+85	Bracing Defense	UF
+85	Bracing Defense Rk. II	UF
+85	Bracing Defense Rk. III	UF
+85	Field Armorer	UF
+85	Field Armorer Rk. II	UF
+85	Field Armorer Rk. III	UF
+85	Jeer	SoD
+85	Jeer Rk. II	SoD
+85	Jeer Rk. III	SoD
+85	Knuckle Crush	SoD
+85	Knuckle Crush Rk. II	SoD
+85	Knuckle Crush Rk. III	SoD
+86	Armor of Phantasmic Runes	HoT
+86	Armor of Phantasmic Runes Rk. II	HoT
+86	Armor of Phantasmic Runes Rk. III	HoT
+86	Bazu Roar	HoT
+86	Bazu Roar Rk. II	HoT
+86	Bazu Roar Rk. III	HoT
+86	Respite	HoT
+86	Respite Rk. II	HoT
+86	Respite Rk. III	HoT
+87	Fifth Wind	HoT
+87	Fifth Wind Rk. II	HoT
+87	Fifth Wind Rk. III	HoT
+87	Flash of Anger	HoT
+87	Flash of Anger Effect	VoA
+87	Flash of Anger Effect II	VoA
+87	Flash of Anger Effect III	VoA
+87	Flash of Anger Rk. II	HoT
+87	Flash of Anger Rk. III	HoT
+87	Weapon Affiliation	HoT
+87	Weapon Affiliation Rk. II	HoT
+87	Weapon Affiliation Rk. III	HoT
+88	Rallying Roar	HoT
+88	Rallying Roar Rk. II	HoT
+88	Rallying Roar Rk. III	HoT
+88	Strategic Strike	HoT
+88	Strategic Strike Rk. II	HoT
+88	Strategic Strike Rk. III	HoT
+89	Forceful Attraction	HoT
+89	Forceful Attraction Rk. II	HoT
+89	Forceful Attraction Rk. III	HoT
+89	Jab Through	HoT
+89	Jab Through Rk. II	HoT
+89	Jab Through Rk. III	HoT
+89	Wheeling Blades	HoT
+89	Wheeling Blades Rk. II	HoT
+89	Wheeling Blades Rk. III	HoT
+90	Field Outfitter	HoT
+90	Field Outfitter Rk. II	HoT
+90	Field Outfitter Rk. III	HoT
+90	Knuckle Snap	HoT
+90	Knuckle Snap Rk. II	HoT
+90	Knuckle Snap Rk. III	HoT
+90	Scoff	HoT
+90	Scoff Rk. II	HoT
+90	Scoff Rk. III	HoT
+90	Staunch Defense	HoT
+90	Staunch Defense Rk. II	HoT
+90	Staunch Defense Rk. III	HoT
+91	Armor of Mystical Runes	VoA
+91	Armor of Mystical Runes Rk. II	VoA
+91	Armor of Mystical Runes Rk. III	VoA
+91	Grendlaen Roar	VoA
+91	Grendlaen Roar Rk. II	VoA
+91	Grendlaen Roar Rk. III	VoA
+91	Reprieve	VoA
+91	Reprieve Rk. II	VoA
+91	Reprieve Rk. III	VoA
+92	Sixth Wind	VoA
+92	Sixth Wind Rk. II	VoA
+92	Sixth Wind Rk. III	VoA
+92	Undivided Attention	VoA
+92	Undivided Attention Rk. II	VoA
+92	Undivided Attention Rk. III	VoA
+92	Weapon Bond	VoA
+92	Weapon Bond Rk. II	VoA
+92	Weapon Bond Rk. III	VoA
+93	Inner Rejuvenation	VoA
+93	Inner Rejuvenation Rk. II	VoA
+93	Inner Rejuvenation Rk. III	VoA
+93	Roar of Challenge	VoA
+93	Roar of Challenge Rk. II	VoA
+93	Roar of Challenge Rk. III	VoA
+93	Vital Strike	VoA
+93	Vital Strike Rk. II	VoA
+93	Vital Strike Rk. III	VoA
+94	Barbed Tongue Discipline	VoA
+94	Barbed Tongue Discipline Rk. II	VoA
+94	Barbed Tongue Discipline Rk. III	VoA
+94	Cyclonic Blades	VoA
+94	Cyclonic Blades Rk. II	VoA
+94	Cyclonic Blades Rk. III	VoA
+95	Field Defender	VoA
+95	Field Defender Rk. II	VoA
+95	Field Defender Rk. III	VoA
+95	Knuckle Break	VoA
+95	Knuckle Break Rk. II	VoA
+95	Knuckle Break Rk. III	VoA
+95	Scorn	VoA
+95	Scorn Rk. II	VoA
+95	Scorn Rk. III	VoA
+95	Stalwart Defense	VoA
+95	Stalwart Defense Rk. II	VoA
+95	Stalwart Defense Rk. III	VoA
+96	Armor of Stalwart Runes	RoF
+96	Armor of Stalwart Runes Rk. II	RoF
+96	Armor of Stalwart Runes Rk. III	RoF
+96	Krondal's Roar	RoF
+96	Krondal's Roar Rk. II	RoF
+96	Krondal's Roar Rk. III	RoF
+96	No Time to Bleed	CotF
+96	No Time to Bleed Rk. II	CotF
+96	No Time to Bleed Rk. III	CotF
+96	Rest	RoF
+96	Rest Rk. II	RoF
+96	Rest Rk. III	RoF
+97	Determined Reprisal	CotF
+97	Determined Reprisal Rk. II	CotF
+97	Determined Reprisal Rk. III	CotF
+97	Offensive Discipline	RoF
+97	Offensive Discipline Rk. II	RoF
+97	Offensive Discipline Rk. III	RoF
+97	Seventh Wind	RoF
+97	Seventh Wind Rk. II	RoF
+97	Seventh Wind Rk. III	RoF
+97	Unbroken Attention	RoF
+97	Unbroken Attention Rk. II	RoF
+97	Unbroken Attention Rk. III	RoF
+97	Weapon Covenant	RoF
+97	Weapon Covenant Rk. II	RoF
+97	Weapon Covenant Rk. III	RoF
+98	Harassing Shout	RoF
+98	Harassing Shout Rk. II	RoF
+98	Harassing Shout Rk. III	RoF
+98	Last Stand Discipline	CotF
+98	Last Stand Discipline Rk. II	CotF
+98	Last Stand Discipline Rk. III	CotF
+98	Ridicule	RoF
+98	Ridicule Rk. II	RoF
+98	Ridicule Rk. III	RoF
+99	Stormwheel Blades	RoF
+99	Stormwheel Blades Rk. II	RoF
+99	Stormwheel Blades Rk. III	RoF
+99	Wade into Battle	CotF
+99	Wade into Battle Rk. II	CotF
+99	Wade into Battle Rk. III	CotF
+99	Warrior's Auspice	RoF
+99	Warrior's Auspice Rk. II	RoF
+99	Warrior's Auspice Rk. III	RoF
+100	Field Guardian	RoF
+100	Field Guardian Rk. II	RoF
+100	Field Guardian Rk. III	RoF
+100	Phantom Aggressor	CotF
+100	Phantom Aggressor Rk. II	CotF
+100	Phantom Aggressor Rk. III	CotF
+100	Steadfast Defense	RoF
+100	Steadfast Defense Rk. II	RoF
+100	Steadfast Defense Rk. III	RoF
+100	Tempestuous Defense Discipline	RoF
+100	Tempestuous Defense Discipline Rk. II	RoF
+100	Tempestuous Defense Discipline Rk. III	RoF
+101	Armor of Darkened Runes	TDS
+101	Armor of Darkened Runes Rk. II	TDS
+101	Armor of Darkened Runes Rk. III	TDS
+101	Breather	TDS
+101	Breather Rk. II	TDS
+101	Breather Rk. III	TDS
+101	Cyclone Roar	TDS
+101	Cyclone Roar Rk. II	TDS
+101	Cyclone Roar Rk. III	TDS
+101	Dichotomic Shield	TBM
+102	Harmonious Expanse	EoK
+102	Harmonious Expanse Rk. II	EoK
+102	Harmonious Expanse Rk. III	EoK
+102	Pain Doesn't Hurt	TBM
+102	Pain Doesn't Hurt Rk. II	TBM
+102	Pain Doesn't Hurt Rk. III	TBM
+102	Unflinching Attention	TDS
+102	Unflinching Attention Rk. II	TDS
+102	Unflinching Attention Rk. III	TDS
+103	Harmonious Precision	EoK
+103	Harmonious Precision Rk. II	EoK
+103	Harmonious Precision Rk. III	EoK
+103	Insult	TDS
+103	Insult Rk. II	TDS
+103	Insult Rk. III	TDS
+103	Tormenting Shout	TDS
+103	Tormenting Shout Rk. II	TDS
+103	Tormenting Shout Rk. III	TDS
+104	Calculated Strike	TDS
+104	Calculated Strike Rk. II	TDS
+104	Calculated Strike Rk. III	TDS
+104	Shield Break	EoK
+104	Shield Break Rk. II	EoK
+104	Shield Break Rk. III	EoK
+104	Stormstrike Blades	TDS
+104	Stormstrike Blades Rk. II	TDS
+104	Stormstrike Blades Rk. III	TDS
+104	Warrior's Bulwark	TDS
+104	Warrior's Bulwark Rk. II	TDS
+104	Warrior's Bulwark Rk. III	TDS
+105	Field Protector	TDS
+105	Field Protector Rk. II	TDS
+105	Field Protector Rk. III	TDS
+105	Stout Defense	TDS
+105	Stout Defense Rk. II	TDS
+105	Stout Defense Rk. III	TDS
+105	Strike Through	TDS
+105	Strike Through Rk. II	TDS
+105	Strike Through Rk. III	TDS
+106	Armor of Tenacious Runes	RoS
+106	Armor of Tenacious Runes Rk. II	RoS
+106	Armor of Tenacious Runes Rk. III	RoS
+106	Dissident Shield	TBL
+106	Hiatus	RoS
+106	Hiatus Rk. II	RoS
+106	Hiatus Rk. III	RoS
+106	Kluzen's Roar	RoS
+106	Kluzen's Roar Rk. II	RoS
+106	Kluzen's Roar Rk. III	RoS
+107	Biting Tongue Discipline	RoS
+107	Biting Tongue Discipline Rk. II	RoS
+107	Biting Tongue Discipline Rk. III	RoS
+107	Concordant Expanse	TBL
+107	Concordant Expanse Rk. II	TBL
+107	Concordant Expanse Rk. III	TBL
+107	Unyielding Attention	RoS
+107	Unyielding Attention Rk. II	RoS
+107	Unyielding Attention Rk. III	RoS
+108	Burning Shout	RoS
+108	Burning Shout Rk. II	RoS
+108	Burning Shout Rk. III	RoS
+108	Concordant Precision	TBL
+108	Concordant Precision Rk. II	TBL
+108	Concordant Precision Rk. III	TBL
+108	Culminating Stand Discipline	RoS
+108	Culminating Stand Discipline Rk. II	RoS
+108	Culminating Stand Discipline Rk. III	RoS
+108	Slander	RoS
+108	Slander Rk. II	RoS
+108	Slander Rk. III	RoS
+109	Cunning Strike	RoS
+109	Cunning Strike Rk. II	RoS
+109	Cunning Strike Rk. III	RoS
+109	Dragonstrike Blades	RoS
+109	Dragonstrike Blades Rk. II	RoS
+109	Dragonstrike Blades Rk. III	RoS
+109	Warrior's Bastion	RoS
+109	Warrior's Bastion Rk. II	RoS
+109	Warrior's Bastion Rk. III	RoS
+110	Field Champion	RoS
+110	Field Champion Rk. II	RoS
+110	Field Champion Rk. III	RoS
+110	Resolute Defense	RoS
+110	Resolute Defense Rk. II	RoS
+110	Resolute Defense Rk. III	RoS
+110	Shield Sunder	TBL
+110	Shield Sunder Rk. II	TBL
+110	Shield Sunder Rk. III	TBL
+110	Stormstrike Defense Discipline	RoS
+110	Stormstrike Defense Discipline Rk. II	RoS
+110	Stormstrike Defense Discipline Rk. III	RoS
+111	Armor of Relentless Runes	ToV
+111	Armor of Relentless Runes Rk. II	ToV
+111	Armor of Relentless Runes Rk. III	ToV
+111	Composite Shield	CoV
+111	Kragek's Roar	ToV
+111	Kragek's Roar Rk. II	ToV
+111	Kragek's Roar Rk. III	ToV
+111	Relax	ToV
+111	Relax Rk. II	ToV
+111	Relax Rk. III	ToV
+112	Confluent Expanse	CoV
+112	Confluent Expanse Rk. II	CoV
+112	Confluent Expanse Rk. III	CoV
+112	Finish the Fight	ToV
+112	Finish the Fight Rk. II	ToV
+112	Finish the Fight Rk. III	ToV
+112	Unending Attention	ToV
+112	Unending Attention Rk. II	ToV
+112	Unending Attention Rk. III	ToV
+113	Aggravate	ToV
+113	Aggravate Rk. II	ToV
+113	Aggravate Rk. III	ToV
+113	Confluent Precision	CoV
+113	Confluent Precision Rk. II	CoV
+113	Confluent Precision Rk. III	CoV
+113	Oppressing Shout	ToV
+113	Oppressing Shout Rk. II	ToV
+113	Oppressing Shout Rk. III	ToV
+113	Ultimate Stand Discipline	ToV
+113	Ultimate Stand Discipline Rk. II	ToV
+113	Ultimate Stand Discipline Rk. III	ToV
+114	Precision Strike	ToV
+114	Precision Strike Rk. II	ToV
+114	Precision Strike Rk. III	ToV
+114	Tempest Blades	ToV
+114	Tempest Blades Rk. II	ToV
+114	Tempest Blades Rk. III	ToV
+114	Warrior's Rampart	ToV
+114	Warrior's Rampart Rk. II	ToV
+114	Warrior's Rampart Rk. III	ToV
+115	Courageous Defense	ToV
+115	Courageous Defense Rk. II	ToV
+115	Courageous Defense Rk. III	ToV
+115	Paragon Champion	ToV
+115	Paragon Champion Rk. II	ToV
+115	Paragon Champion Rk. III	ToV
+115	Shield Splinter	CoV
+115	Shield Splinter Rk. II	CoV
+115	Shield Splinter Rk. III	CoV
+116	Armor of Akhevan Runes	ToL
+116	Armor of Akhevan Runes Rk. II	ToL
+116	Armor of Akhevan Runes Rk. III	ToL
+116	Ecliptic Shield	NoS
+116	Namdrows' Roar	ToL
+116	Namdrows' Roar Rk. II	ToL
+116	Namdrows' Roar Rk. III	ToL
+116	Night's Calming	ToL
+116	Night's Calming Rk. II	ToL
+116	Night's Calming Rk. III	ToL
+117	Brightfeld's Onslaught Discipline	ToL
+117	Brightfeld's Onslaught Discipline Rk. II	ToL
+117	Brightfeld's Onslaught Discipline Rk. III	ToL
+117	Penumbral Expanse	NoS
+117	Penumbral Expanse Rk. II	NoS
+117	Penumbral Expanse Rk. III	NoS
+117	Unrelenting Attention	ToL
+117	Unrelenting Attention Rk. II	ToL
+117	Unrelenting Attention Rk. III	ToL
+118	Bristle	ToL
+118	Bristle Rk. II	ToL
+118	Bristle Rk. III	ToL
+118	Penumbral Precision	NoS
+118	Penumbral Precision Rk. II	NoS
+118	Penumbral Precision Rk. III	NoS
+118	Resolute Stand	ToL
+118	Resolute Stand Rk. II	ToL
+118	Resolute Stand Rk. III	ToL
+118	Twilight Shout	ToL
+118	Twilight Shout Rk. II	ToL
+118	Twilight Shout Rk. III	ToL
+119	Exploitive Strike	ToL
+119	Exploitive Strike Rk. II	ToL
+119	Exploitive Strike Rk. III	ToL
+119	Hurricane Blades	ToL
+119	Hurricane Blades Rk. II	ToL
+119	Hurricane Blades Rk. III	ToL
+119	Wade into Conflict	NoS
+119	Wade into Conflict Rk. II	NoS
+119	Wade into Conflict Rk. III	NoS
+119	Warrior's Aegis	ToL
+119	Warrior's Aegis Rk. II	ToL
+119	Warrior's Aegis Rk. III	ToL
+120	Full Moon's Champion	ToL
+120	Full Moon's Champion Rk. II	ToL
+120	Full Moon's Champion Rk. III	ToL
+120	Levincrash Defense Discipline	ToL
+120	Levincrash Defense Discipline Rk. II	ToL
+120	Levincrash Defense Discipline Rk. III	ToL
+120	Perforate	ToL
+120	Perforate Rk. II	ToL
+120	Perforate Rk. III	ToL
+120	Primal Defense	ToL
+120	Primal Defense Rk. II	ToL
+120	Primal Defense Rk. III	ToL
+120	Shield Rupture	NoS
+120	Shield Rupture Rk. II	NoS
+120	Shield Rupture Rk. III	NoS
+121	Armor of Rallosian Runes	LS
+121	Armor of Rallosian Runes Rk. II	LS
+121	Armor of Rallosian Runes Rk. III	LS
+121	Convalesce	LS
+121	Convalesce Rk. II	LS
+121	Convalesce Rk. III	LS
+121	Mortimus' Roar	LS
+121	Mortimus' Roar Rk. II	LS
+121	Mortimus' Roar Rk. III	LS
+122	End of the Line	LS
+122	End of the Line Rk. II	LS
+122	End of the Line Rk. III	LS
+122	Razor Tongue Discipline	LS
+122	Razor Tongue Discipline Rk. II	LS
+122	Razor Tongue Discipline Rk. III	LS
+122	Unconditional Attention	LS
+122	Unconditional Attention Rk. II	LS
+122	Unconditional Attention Rk. III	LS
+123	Climactic Stand	LS
+123	Climactic Stand Rk. II	LS
+123	Climactic Stand Rk. III	LS
+123	Distressing Shout	LS
+123	Distressing Shout Rk. II	LS
+123	Distressing Shout Rk. III	LS
+123	Infuriate	LS
+123	Infuriate Rk. II	LS
+123	Infuriate Rk. III	LS
+124	Decisive Strike	LS
+124	Decisive Strike Rk. II	LS
+124	Decisive Strike Rk. III	LS
+124	Spiraling Blades	LS
+124	Spiraling Blades Rk. II	LS
+124	Spiraling Blades Rk. III	LS
+124	Warrior's Resolve	LS
+124	Warrior's Resolve Rk. II	LS
+124	Warrior's Resolve Rk. III	LS
+125	Field Bulwark	LS
+125	Field Bulwark Rk. II	LS
+125	Field Bulwark Rk. III	LS
+125	Vigorous Defense	LS
+125	Vigorous Defense Rk. II	LS
+125	Vigorous Defense Rk. III	LS
+250	Composite Shielding 1	CoV
+250	Composite Shielding 2	CoV
+250	Composite Shielding 3	CoV
+250	Composite Shielding 4	CoV
+250	Composite Shielding 5	CoV
+250	Composite Shielding 6	CoV
+250	Dichotomic Shielding 1	TBM
+250	Dichotomic Shielding 2	TBM
+250	Dichotomic Shielding 3	TBM
+250	Dichotomic Shielding 4	TBM
+250	Dichotomic Shielding 5	TBM
+250	Dichotomic Shielding 6	TBM
+250	Dissident Shielding 1	TBL
+250	Dissident Shielding 2	TBL
+250	Dissident Shielding 3	TBL
+250	Dissident Shielding 4	TBL
+250	Dissident Shielding 5	TBL
+250	Dissident Shielding 6	TBL
+250	Ecliptic Shielding 1	NoS
+250	Ecliptic Shielding 2	NoS
+250	Ecliptic Shielding 3	NoS
+250	Ecliptic Shielding 4	NoS
+250	Ecliptic Shielding 5	NoS
+250	Ecliptic Shielding 6	NoS

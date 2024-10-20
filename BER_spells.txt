@@ -1,655 +1,1281 @@
-1	Corroded Axe	Gates
-1	Throw Stone	EQ
-5	Blunt Axe	Gates
-5	Elbow Strike	EQ
-8	Leg Strike	Gates
-10	Focused Will Discipline	EQ
-10	Steel Axe	Gates
-15	Bearded Axe	Gates
-16	Head Strike	Gates
-20	Mithril Axe	Gates
-24	Divertive Strike	Gates
-25	Balanced War Axe	Gates
-30	Battle Cry	Gates
-30	Bonesplicer Axe	Gates
-30	Resistant Discipline	Kunark
-32	Leg Cut	Gates
-35	Fleshtear Axe	Gates
-40	Cold Steel Cleaving Axe	Gates
-40	Fearless Discipline	Kunark
-40	Head Pummel	Gates
-45	Mithril Bloodaxe	Gates
-48	Distracting Strike	Gates
-50	Rage Axe	Gates
-50	War Cry	Gates
-53	Inspired Anger Discipline	Gates
-54	Cleaving Rage Discipline	Gates
-54	Leg Slice	Gates
-55	Aura of Rage	PoR
-55	Bloodseeker's Axe	Gates
-56	Reckless Discipline	Gates
-57	Battle Cry of Dravel	Gates
-57	Focused Fury Discipline	Gates
-58	Blind Rage Discipline	Gates
-59	Battle Focus Discipline	Gates
-60	Battlerage Axe	Gates
-60	Burning Rage Discipline	Gates
-60	Head Crush	Gates
-61	Rage Volley	Gates
-61	Sprint Discipline	Gates
-63	Healing Will Discipline	PoP
-63	Indomitable Discipline	Gates
-64	War Cry of Dravel	Gates
-65	Ancient: Cry of Chaos	Gates
-65	Battle Cry of the Mastruq	Gates
-65	Cleaving Anger Discipline	Gates
-65	Confusing Strike	Gates
-65	Deathfury Axe	Gates
-65	Tainted Axe of Hatred	Gates
-66	Axe of the Destroyer	Omens
-66	Unpredictable Rage Discipline	Omens
-67	Crippling Strike	Omens
-68	Cry Havoc	DoD
-68	Mind Strike	Omens
-68	Unflinching Will Discipline	Omens
-69	Baffling Strike	Omens
-69	Destroyer's Volley	DoN
-70	Bloodlust Aura	PoR
-70	Bloodthirst	PoR
-70	Vengeful Flurry Discipline	Omens
-71	Axe of the Annihilator	TSS
-71	Tendon Cleave	TSS
-71	Tendon Cleave Rk. II	TSS
-72	Second Wind	TBS
-72	Second Wind Rk. II	TBS
-72	Second Wind Rk. III	TBS
-72	Unsettling Scream	TSS
-72	Unsettling Scream Rk. II	TSS
-72	Unsettling Scream Rk. III	TSS
-73	Temple Blow	TSS
-73	Temple Blow Rk. II	TSS
-73	Temple Blow Rk. III	TSS
-74	Annihilator's Volley	TBS
-74	Annihilator's Volley Rk. II	TBS
-74	Annihilator's Volley Rk. III	TBS
-74	Jarring Strike	TSS
-74	Jarring Strike Rk. II	TSS
-75	Berserking Discipline	TSS
-75	Berserking Discipline Rk. II	TSS
-75	Berserking Discipline Rk. III	TSS
-76	Axe of the Decimator	SoF
-76	Tendon Sever	SoF
-76	Tendon Sever Rk. II	SoF
-76	Tendon Sever Rk. III	SoF
-77	Agitating Scream	SoF
-77	Agitating Scream Rk. II	SoF
-77	Agitating Scream Rk. III	SoF
-77	Third Wind	SoF
-77	Third Wind Rk. II	SoF
-77	Third Wind Rk. III	SoF
-78	Temple Strike	SoF
-78	Temple Strike Rk. II	SoF
-78	Temple Strike Rk. III	SoF
-79	Decimator's Volley	SoF
-79	Decimator's Volley Rk. II	SoF
-79	Decimator's Volley Rk. III	SoF
-79	Jarring Smash	SoF
-79	Jarring Smash Rk. II	SoF
-79	Jarring Smash Rk. III	SoF
-80	Battle Frenzy	SoF
-80	Battle Frenzy Rk. II	SoF
-80	Battle Frenzy Rk. III	SoF
-81	Axe of the Eradicator	SoD
-81	Overpowering Frenzy	SoD
-81	Overpowering Frenzy Rk. II	SoD
-81	Overpowering Frenzy Rk. III	SoD
-81	Tendon Shear	SoD
-81	Tendon Shear Rk. II	SoD
-81	Tendon Shear Rk. III	SoD
-82	Distressing Scream	SoD
-82	Distressing Scream Rk. II	SoD
-82	Distressing Scream Rk. III	SoD
-82	Fourth Wind	SoD
-82	Fourth Wind Rk. II	SoD
-82	Fourth Wind Rk. III	SoD
-83	Blood Hatchet	SoD
-83	Blood Hatchet Rk. II	SoD
-83	Blood Hatchet Rk. III	SoD
-83	Temple Bash	SoD
-83	Temple Bash Rk. II	SoD
-83	Temple Bash Rk. III	SoD
-83	Vigorous Axe Throw	UF
-83	Vigorous Axe Throw Rk. II	UF
-83	Vigorous Axe Throw Rk. III	UF
-84	Eradicator's Volley	SoD
-84	Eradicator's Volley Rk. II	SoD
-84	Eradicator's Volley Rk. III	SoD
-84	Jarring Clash	SoD
-84	Jarring Clash Rk. II	SoD
-84	Jarring Clash Rk. III	SoD
-85	Axe of Rallos	UF
-85	Axe of Rallos Rk. II	UF
-85	Axe of Rallos Rk. III	UF
-85	Combat Frenzy	SoD
-85	Combat Frenzy Rk. II	SoD
-85	Combat Frenzy Rk. III	SoD
-85	Shared Bloodlust	UF
-85	Shared Bloodlust Rk. II	UF
-85	Shared Bloodlust Rk. III	UF
-86	Axe of the Savage	HoT
-86	Cleaving Acrimony Discipline	HoT
-86	Cleaving Acrimony Discipline Rk. II	HoT
-86	Cleaving Acrimony Discipline Rk. III	HoT
-86	Overwhelming Frenzy	HoT
-86	Overwhelming Frenzy Rk. II	HoT
-86	Overwhelming Frenzy Rk. III	HoT
-86	Respite	HoT
-86	Respite Rk. II	HoT
-86	Respite Rk. III	HoT
-86	Tendon Lacerate	HoT
-86	Tendon Lacerate Rk. II	HoT
-86	Tendon Lacerate Rk. III	HoT
-87	Distracting Scream	HoT
-87	Distracting Scream Rk. II	HoT
-87	Distracting Scream Rk. III	HoT
-87	Fifth Wind	HoT
-87	Fifth Wind Rk. II	HoT
-87	Fifth Wind Rk. III	HoT
-87	Slap in the Face	HoT
-87	Slap in the Face Rk. II	HoT
-87	Slap in the Face Rk. III	HoT
-88	Blood Axe	HoT
-88	Blood Axe Rk. II	HoT
-88	Blood Axe Rk. III	HoT
-88	Energetic Axe Throw	HoT
-88	Energetic Axe Throw Rk. II	HoT
-88	Energetic Axe Throw Rk. III	HoT
-88	Temple Chop	HoT
-88	Temple Chop Rk. II	HoT
-88	Temple Chop Rk. III	HoT
-89	Avenging Flurry Discipline	HoT
-89	Avenging Flurry Discipline Rk. II	HoT
-89	Avenging Flurry Discipline Rk. III	HoT
-89	Jarring Slam	HoT
-89	Jarring Slam Rk. II	HoT
-89	Jarring Slam Rk. III	HoT
-89	Savage Volley	HoT
-89	Savage Volley Rk. II	HoT
-89	Savage Volley Rk. III	HoT
-90	Axe of Graster	HoT
-90	Axe of Graster Rk. II	HoT
-90	Axe of Graster Rk. III	HoT
-90	Fighting Frenzy	HoT
-90	Fighting Frenzy Rk. II	HoT
-90	Fighting Frenzy Rk. III	HoT
-90	Shared Brutality	HoT
-90	Shared Brutality Rk. II	HoT
-90	Shared Brutality Rk. III	HoT
-91	Axe of the Sunderer	VoA
-91	Conquering Frenzy	VoA
-91	Conquering Frenzy Rk. II	VoA
-91	Conquering Frenzy Rk. III	VoA
-91	Early Retaliation	VoA
-91	Early Retaliation Rk. II	VoA
-91	Early Retaliation Rk. III	VoA
-91	Reprieve	VoA
-91	Reprieve Rk. II	VoA
-91	Reprieve Rk. III	VoA
-91	Tendon Slash	VoA
-91	Tendon Slash Rk. II	VoA
-91	Tendon Slash Rk. III	VoA
-92	Kick in the Teeth	VoA
-92	Kick in the Teeth Rk. II	VoA
-92	Kick in the Teeth Rk. III	VoA
-92	Perturbing Scream	VoA
-92	Perturbing Scream Rk. II	VoA
-92	Perturbing Scream Rk. III	VoA
-92	Sixth Wind	VoA
-92	Sixth Wind Rk. II	VoA
-92	Sixth Wind Rk. III	VoA
-93	Blood Blade	VoA
-93	Blood Blade Rk. II	VoA
-93	Blood Blade Rk. III	VoA
-93	Inner Rejuvenation	VoA
-93	Inner Rejuvenation Rk. II	VoA
-93	Inner Rejuvenation Rk. III	VoA
-93	Spirited Axe Throw	VoA
-93	Spirited Axe Throw Rk. II	VoA
-93	Spirited Axe Throw Rk. III	VoA
-93	Temple Smash	VoA
-93	Temple Smash Rk. II	VoA
-93	Temple Smash Rk. III	VoA
-93	Unyielding Will Discipline	VoA
-93	Unyielding Will Discipline Rk. II	VoA
-93	Unyielding Will Discipline Rk. III	VoA
-94	Frenzied Resolve Discipline	VoA
-94	Frenzied Resolve Discipline Rk. II	VoA
-94	Frenzied Resolve Discipline Rk. III	VoA
-94	Jarring Blow	VoA
-94	Jarring Blow Rk. II	VoA
-94	Jarring Blow Rk. III	VoA
-94	Sundering Volley	VoA
-94	Sundering Volley Rk. II	VoA
-94	Sundering Volley Rk. III	VoA
-95	Axe of Illdaera	VoA
-95	Axe of Illdaera Rk. II	VoA
-95	Axe of Illdaera Rk. III	VoA
-95	Shared Savagery	VoA
-95	Shared Savagery Rk. II	VoA
-95	Shared Savagery Rk. III	VoA
-95	Steel Frenzy	VoA
-95	Steel Frenzy Rk. II	VoA
-95	Steel Frenzy Rk. III	VoA
-95	Sundering Discipline	VoA
-95	Sundering Discipline Rk. II	VoA
-95	Sundering Discipline Rk. III	VoA
-96	Advanced Retaliation	VoA
-96	Advanced Retaliation Rk. II	VoA
-96	Advanced Retaliation Rk. III	VoA
-96	Axe of the Brute	VoA
-96	Capricious Rage Discipline	VoA
-96	Capricious Rage Discipline Rk. II	VoA
-96	Capricious Rage Discipline Rk. III	VoA
-96	Open Wound	CotF
-96	Open Wound Rk. II	CotF
-96	Open Wound Rk. III	CotF
-96	Rest	RoF
-96	Rest Rk. II	RoF
-96	Rest Rk. III	RoF
-96	Tendon Gash	VoA
-96	Tendon Gash Rk. II	VoA
-96	Tendon Gash Rk. III	VoA
-96	Vanquishing Frenzy	VoA
-96	Vanquishing Frenzy Rk. II	VoA
-96	Vanquishing Frenzy Rk. III	VoA
-97	Conditioned Retaliation	CotF
-97	Conditioned Retaliation Rk. II	CotF
-97	Conditioned Retaliation Rk. III	CotF
-97	Punch in the Throat	VoA
-97	Punch in the Throat Rk. II	VoA
-97	Punch in the Throat Rk. III	VoA
-97	Seventh Wind	RoF
-97	Seventh Wind Rk. II	RoF
-97	Seventh Wind Rk. III	RoF
-97	Vicious Spiral	VoA
-97	Vicious Spiral Rk. II	VoA
-97	Vicious Spiral Rk. III	VoA
-98	Blood Brand	VoA
-98	Blood Brand Rk. II	VoA
-98	Blood Brand Rk. III	VoA
-98	Brutal Axe Throw	VoA
-98	Brutal Axe Throw Rk. II	VoA
-98	Brutal Axe Throw Rk. III	VoA
-98	Cry Carnage	RoF
-98	Cry Carnage Rk. II	RoF
-98	Cry Carnage Rk. III	RoF
-98	Festering Rage	CotF
-98	Festering Rage Rk. II	CotF
-98	Festering Rage Rk. III	CotF
-98	Temple Crush	VoA
-98	Temple Crush Rk. II	VoA
-98	Temple Crush Rk. III	VoA
-99	Arcblade	CotF
-99	Arcblade Rk. II	CotF
-99	Arcblade Rk. III	CotF
-99	Augmented Frenzy	VoA
-99	Augmented Frenzy Rk. II	VoA
-99	Augmented Frenzy Rk. III	VoA
-99	Brutal Volley	VoA
-99	Brutal Volley Rk. II	VoA
-99	Brutal Volley Rk. III	VoA
-99	Jarring Crush	VoA
-99	Jarring Crush Rk. II	VoA
-99	Jarring Crush Rk. III	VoA
-100	Axe of Zurel	RoF
-100	Axe of Zurel Rk. II	RoF
-100	Axe of Zurel Rk. III	RoF
-100	Brutal Discipline	RoF
-100	Brutal Discipline Rk. II	RoF
-100	Brutal Discipline Rk. III	RoF
-100	Fearless Frenzy	RoF
-100	Fearless Frenzy Rk. II	RoF
-100	Fearless Frenzy Rk. III	RoF
-100	Phantom Assailant	CotF
-100	Phantom Assailant Rk. II	CotF
-100	Phantom Assailant Rk. III	CotF
-100	Shared Viciousness	RoF
-100	Shared Viciousness Rk. II	RoF
-100	Shared Viciousness Rk. III	RoF
-101	Axe of the Demolisher	TDS
-101	Breather	TDS
-101	Breather Rk. II	TDS
-101	Breather Rk. III	TDS
-101	Demolishing Frenzy	TDS
-101	Demolishing Frenzy Rk. II	TDS
-101	Demolishing Frenzy Rk. III	TDS
-101	Dichotomic Rage	TBM
-101	Prior Retaliation	TDS
-101	Prior Retaliation Rk. II	TDS
-101	Prior Retaliation Rk. III	TDS
-101	Tendon Tear	TDS
-101	Tendon Tear Rk. II	TDS
-101	Tendon Tear Rk. III	TDS
-102	Axe of the Aeons	EoK
-102	Axe of the Aeons Rk. II	EoK
-102	Axe of the Aeons Rk. III	EoK
-102	Bubbling Rage	TDS
-102	Bubbling Rage Rk. II	TDS
-102	Bubbling Rage Rk. III	TDS
-102	Kick in the Shins	TDS
-102	Kick in the Shins Rk. II	TDS
-102	Kick in the Shins Rk. III	TDS
-102	Vicious Cyclone	TDS
-102	Vicious Cyclone Rk. II	TDS
-102	Vicious Cyclone Rk. III	TDS
-103	Demolishing Axe Throw	TDS
-103	Demolishing Axe Throw Rk. II	TDS
-103	Demolishing Axe Throw Rk. III	TDS
-103	Sapping Strikes	EoK
-103	Sapping Strikes Rk. II	EoK
-103	Sapping Strikes Rk. III	EoK
-103	Temple Demolish	TDS
-103	Temple Demolish Rk. II	TDS
-103	Temple Demolish Rk. III	TDS
-104	Amplified Frenzy	TDS
-104	Amplified Frenzy Rk. II	TDS
-104	Amplified Frenzy Rk. III	TDS
-104	Arcslice	TBM
-104	Arcslice Rk. II	TBM
-104	Arcslice Rk. III	TBM
-104	Demolishing Volley	TDS
-104	Demolishing Volley Rk. II	TDS
-104	Demolishing Volley Rk. III	TDS
-104	Disconcerting Discipline	EoK
-104	Disconcerting Discipline Rk. II	EoK
-104	Disconcerting Discipline Rk. III	EoK
-104	Jarring Smite	TDS
-104	Jarring Smite Rk. II	TDS
-104	Jarring Smite Rk. III	TDS
-105	Axe of Numicia	TDS
-105	Axe of Numicia Rk. II	TDS
-105	Axe of Numicia Rk. III	TDS
-105	Demolisher's Alliance	EoK
-105	Demolisher's Alliance Rk. II	EoK
-105	Demolisher's Alliance Rk. III	EoK
-105	Shared Cruelty	TDS
-105	Shared Cruelty Rk. II	TDS
-105	Shared Cruelty Rk. III	TDS
-105	Stormwild Frenzy	TDS
-105	Stormwild Frenzy Rk. II	TDS
-105	Stormwild Frenzy Rk. III	TDS
-106	Axe of the Mangler	RoS
-106	Dissident Rage	TBL
-106	Hiatus	RoS
-106	Hiatus Rk. II	RoS
-106	Hiatus Rk. III	RoS
-106	Mangling Frenzy	RoS
-106	Mangling Frenzy Rk. II	RoS
-106	Mangling Frenzy Rk. III	RoS
-106	Proactive Retaliation	RoS
-106	Proactive Retaliation Rk. II	RoS
-106	Proactive Retaliation Rk. III	RoS
-106	Ritual Scarification	RoS
-106	Ritual Scarification Rk. II	RoS
-106	Ritual Scarification Rk. III	RoS
-106	Tendon Rupture	RoS
-106	Tendon Rupture Rk. II	RoS
-106	Tendon Rupture Rk. III	RoS
-107	Axe of Empyr	TBL
-107	Axe of Empyr Rk. II	TBL
-107	Axe of Empyr Rk. III	TBL
-107	Smoldering Rage	RoS
-107	Smoldering Rage Rk. II	RoS
-107	Smoldering Rage Rk. III	RoS
-107	Sucker Punch	RoS
-107	Sucker Punch Rk. II	RoS
-107	Sucker Punch Rk. III	RoS
-107	Vicious Cycle	RoS
-107	Vicious Cycle Rk. II	RoS
-107	Vicious Cycle Rk. III	RoS
-108	Mangling Axe Throw	RoS
-108	Mangling Axe Throw Rk. II	RoS
-108	Mangling Axe Throw Rk. III	RoS
-108	Mangling Discipline	RoS
-108	Mangling Discipline Rk. II	RoS
-108	Mangling Discipline Rk. III	RoS
-108	Temple Slam	RoS
-108	Temple Slam Rk. II	RoS
-108	Temple Slam Rk. III	RoS
-109	Arcsteel	TBL
-109	Arcsteel Rk. II	TBL
-109	Arcsteel Rk. III	TBL
-109	Bolstered Frenzy	RoS
-109	Bolstered Frenzy Rk. II	RoS
-109	Bolstered Frenzy Rk. III	RoS
-109	Jarring Jolt	RoS
-109	Jarring Jolt Rk. II	RoS
-109	Jarring Jolt Rk. III	RoS
-109	Mangling Volley	RoS
-109	Mangling Volley Rk. II	RoS
-109	Mangling Volley Rk. III	RoS
-110	Axe of Rekatok	RoS
-110	Axe of Rekatok Rk. II	RoS
-110	Axe of Rekatok Rk. III	RoS
-110	Mangler's Covenant	TBL
-110	Mangler's Covenant Rk. II	TBL
-110	Mangler's Covenant Rk. III	TBL
-110	Shared Ruthlessness	RoS
-110	Shared Ruthlessness Rk. II	RoS
-110	Shared Ruthlessness Rk. III	RoS
-110	Torrid Frenzy	RoS
-110	Torrid Frenzy Rk. II	RoS
-110	Torrid Frenzy Rk. III	RoS
-111	Axe of the Vindicator	ToV
-111	Composite Rage	CoV
-111	Premature Retaliation	ToV
-111	Premature Retaliation Rk. II	ToV
-111	Premature Retaliation Rk. III	ToV
-111	Relax	ToV
-111	Relax Rk. II	ToV
-111	Relax Rk. III	ToV
-111	Tendon Rip	ToV
-111	Tendon Rip Rk. II	ToV
-111	Tendon Rip Rk. III	ToV
-111	Vindicating Frenzy	ToV
-111	Vindicating Frenzy Rk. II	ToV
-111	Vindicating Frenzy Rk. III	ToV
-112	Rabbit Punch	ToV
-112	Rabbit Punch Rk. II	ToV
-112	Rabbit Punch Rk. III	ToV
-112	Seething Rage	ToV
-112	Seething Rage Rk. II	ToV
-112	Seething Rage Rk. III	ToV
-112	Vicious Revolution	ToV
-112	Vicious Revolution Rk. II	ToV
-112	Vicious Revolution Rk. III	ToV
-113	Reflexive Retaliation	ToV
-113	Reflexive Retaliation Rk. II	ToV
-113	Reflexive Retaliation Rk. III	ToV
-113	Shriveling Strikes	CoV
-113	Shriveling Strikes Rk. II	CoV
-113	Shriveling Strikes Rk. III	CoV
-113	Temple Crack	ToV
-113	Temple Crack Rk. II	ToV
-113	Temple Crack Rk. III	ToV
-113	Vindicating Axe Throw	ToV
-113	Vindicating Axe Throw Rk. II	ToV
-113	Vindicating Axe Throw Rk. III	ToV
-114	Arcslash	CoV
-114	Arcslash Rk. II	CoV
-114	Arcslash Rk. III	CoV
-114	Jarring Shock	ToV
-114	Jarring Shock Rk. II	ToV
-114	Jarring Shock Rk. III	ToV
-114	Magnified Frenzy	ToV
-114	Magnified Frenzy Rk. II	ToV
-114	Magnified Frenzy Rk. III	ToV
-114	Vindicating Volley	ToV
-114	Vindicating Volley Rk. II	ToV
-114	Vindicating Volley Rk. III	ToV
-115	Axe of Derakor	ToV
-115	Axe of Derakor Rk. II	ToV
-115	Axe of Derakor Rk. III	ToV
-115	Restless Frenzy	ToV
-115	Restless Frenzy Rk. II	ToV
-115	Restless Frenzy Rk. III	ToV
-115	Shared Atavism	ToV
-115	Shared Atavism Rk. II	ToV
-115	Shared Atavism Rk. III	ToV
-115	Vindicator's Coalition	CoV
-115	Vindicator's Coalition Rk. II	CoV
-115	Vindicator's Coalition Rk. III	CoV
-116	Axe of the Conqueror	ToL
-116	Ecliptic Rage	NoS
-116	Night's Calming	ToL
-116	Night's Calming Rk. II	ToL
-116	Night's Calming Rk. III	ToL
-116	Oppressing Frenzy	ToL
-116	Oppressing Frenzy Rk. II	ToL
-116	Oppressing Frenzy Rk. III	ToL
-116	Primed Retaliation	ToL
-116	Primed Retaliation Rk. II	ToL
-116	Primed Retaliation Rk. III	ToL
-116	Stinging Incision	ToL
-116	Tendon Shred	ToL
-116	Tendon Shred Rk. II	ToL
-116	Tendon Shred Rk. III	ToL
-117	Frothing Rage	ToL
-117	Frothing Rage Rk. II	ToL
-117	Frothing Rage Rk. III	ToL
-117	Swift Punch	ToL
-117	Swift Punch Rk. II	ToL
-117	Swift Punch Rk. III	ToL
-117	Vicious Whirl	ToL
-117	Vicious Whirl Rk. II	ToL
-117	Vicious Whirl Rk. III	ToL
-118	Instinctive Retaliation	ToL
-118	Instinctive Retaliation Rk. II	ToL
-118	Instinctive Retaliation Rk. III	ToL
-118	Maiming Axe Throw	ToL
-118	Maiming Axe Throw Rk. II	ToL
-118	Maiming Axe Throw Rk. III	ToL
-118	Temple Shatter	ToL
-118	Temple Shatter Rk. II	ToL
-118	Temple Shatter Rk. III	ToL
-119	Arcshear	NoS
-119	Arcshear Rk. II	NoS
-119	Arcshear Rk. III	NoS
-119	Buttressed Frenzy	ToL
-119	Buttressed Frenzy Rk. II	ToL
-119	Buttressed Frenzy Rk. III	ToL
-119	Jarring Impact	ToL
-119	Jarring Impact Rk. II	ToL
-119	Jarring Impact Rk. III	ToL
-119	Pulverizing Volley	ToL
-119	Pulverizing Volley Rk. II	ToL
-119	Pulverizing Volley Rk. III	ToL
-120	Axe of Xin Diabo	ToL
-120	Axe of Xin Diabo Rk. II	ToL
-120	Axe of Xin Diabo Rk. III	ToL
-120	Blinding Frenzy	ToL
-120	Blinding Frenzy Rk. II	ToL
-120	Blinding Frenzy Rk. III	ToL
-120	Conqueror's Conjunction	NoS
-120	Conqueror's Conjunction Rk. II	NoS
-120	Conqueror's Conjunction Rk. III	NoS
-120	Shared Violence	ToL
-120	Shared Violence Rk. II	ToL
-120	Shared Violence Rk. III	ToL
-121	Axe of the Eviscerator	LS
-121	Convalesce	LS
-121	Convalesce Rk. II	LS
-121	Convalesce Rk. III	LS
-121	Eviscerating Frenzy	LS
-121	Eviscerating Frenzy Rk. II	LS
-121	Eviscerating Frenzy Rk. III	LS
-121	Preemptive Retaliation	LS
-121	Preemptive Retaliation Rk. II	LS
-121	Preemptive Retaliation Rk. III	LS
-121	Tendon Slice	LS
-121	Tendon Slice Rk. II	LS
-121	Tendon Slice Rk. III	LS
-122	Punch to the Gut	LS
-122	Punch to the Gut Rk. II	LS
-122	Punch to the Gut Rk. III	LS
-122	Roiling Rage	LS
-122	Roiling Rage Rk. II	LS
-122	Roiling Rage Rk. III	LS
-122	Vicious Vortex	LS
-122	Vicious Vortex Rk. II	LS
-122	Vicious Vortex Rk. III	LS
-123	Rending Axe Throw	LS
-123	Rending Axe Throw Rk. II	LS
-123	Rending Axe Throw Rk. III	LS
-123	Skull Strike	LS
-123	Skull Strike Rk. II	LS
-123	Skull Strike Rk. III	LS
-123	Unthinking Retaliation	LS
-123	Unthinking Retaliation Rk. II	LS
-123	Unthinking Retaliation Rk. III	LS
-124	Eviscerating Volley	LS
-124	Eviscerating Volley Rk. II	LS
-124	Eviscerating Volley Rk. III	LS
-124	Heightened Frenzy	LS
-124	Heightened Frenzy Rk. II	LS
-124	Heightened Frenzy Rk. III	LS
-124	Jarring Crash	LS
-124	Jarring Crash Rk. II	LS
-124	Jarring Crash Rk. III	LS
-125	Axe of Orrak	LS
-125	Axe of Orrak Rk. II	LS
-125	Axe of Orrak Rk. III	LS
-125	Desperate Frenzy	LS
-125	Desperate Frenzy Rk. II	LS
-125	Desperate Frenzy Rk. III	LS
-125	Shared Barbarism	LS
-125	Shared Barbarism Rk. II	LS
-125	Shared Barbarism Rk. III	LS
-250	Composite Bloodsplash 1	CoV
-250	Composite Bloodsplash 2	CoV
-250	Composite Bloodsplash 3	CoV
-250	Composite Bloodsplash 4	CoV
-250	Composite Bloodsplash 5	CoV
-250	Composite Bloodsplash 6	CoV
-250	Composite Rage 1	CoV
-250	Composite Rage 2	CoV
-250	Composite Rage 3	CoV
-250	Composite Rage 4	CoV
-250	Composite Rage 5	CoV
-250	Composite Rage 6	CoV
-250	Dichotomic Bloodsplash 1	TBM
-250	Dichotomic Bloodsplash 2	TBM
-250	Dichotomic Bloodsplash 3	TBM
-250	Dichotomic Bloodsplash 4	TBM
-250	Dichotomic Bloodsplash 5	TBM
-250	Dichotomic Bloodsplash 6	TBM
-250	Dichotomic Rage 1	TBM
-250	Dichotomic Rage 2	TBM
-250	Dichotomic Rage 3	TBM
-250	Dichotomic Rage 4	TBM
-250	Dichotomic Rage 5	TBM
-250	Dichotomic Rage 6	TBM
-250	Dissident Bloodsplash 1	TBL
-250	Dissident Bloodsplash 2	TBL
-250	Dissident Bloodsplash 3	TBL
-250	Dissident Bloodsplash 4	TBL
-250	Dissident Bloodsplash 5	TBL
-250	Dissident Bloodsplash 6	TBL
-250	Dissident Rage 1	TBL
-250	Dissident Rage 2	TBL
-250	Dissident Rage 3	TBL
-250	Dissident Rage 4	TBL
-250	Dissident Rage 5	TBL
-250	Dissident Rage 6	TBL
-250	Ecliptic Bloodsplash 1	NoS
-250	Ecliptic Bloodsplash 2	NoS
-250	Ecliptic Bloodsplash 3	NoS
-250	Ecliptic Bloodsplash 4	NoS
-250	Ecliptic Bloodsplash 5	NoS
-250	Ecliptic Bloodsplash 6	NoS
-250	Ecliptic Rage 1	NoS
-250	Ecliptic Rage 2	NoS
-250	Ecliptic Rage 3	NoS
-250	Ecliptic Rage 4	NoS
-250	Ecliptic Rage 5	NoS
-250	Ecliptic Rage 6	NoS
+1	Chant of Chaos	EQ
+1	Chant of Battle	EQ
+1	Chant of Flame	EQ
+1	Chant of Frost	EQ
+1	Chant of Magic	EQ
+1	Chant of Plague	EQ
+1	Chant of Venom	EQ
+2	Chords of Dissonance	EQ
+4	Lyssa's Locating Lyric	EQ
+5	Selo's Accelerando	EQ
+6	Hymn of Restoration	EQ
+7	Jonthan's Whistling Warsong	EQ
+8	Kelin's Lugubrious Lament	EQ
+9	Elemental Rhythms	EQ
+9	Magical Monologue	Luclin
+10	Anthem de Arms	EQ
+11	Cinda's Charismatic Carillon	EQ
+12	Brusco's Boastful Bellow	EQ
+13	Purifying Rhythms	EQ
+14	Lyssa's Cataloging Libretto	EQ
+15	Kelin's Lucid Lullaby	EQ
+15	Song of Sustenance	Luclin
+16	Tarew's Aquatic Ayre	EQ
+17	Guardian Rhythms	EQ
+18	Denon's Disruptive Discord	EQ
+19	Shauri's Sonorous Clouding	EQ
+20	Cassindra's Chant of Clarity	Luclin
+20	Largo's Melodic Binding	EQ
+21	Melanie's Mellifluous Motion	EQ
+22	Alenia's Disenchanting Melody	EQ
+23	Selo's Consonant Chain	EQ
+24	Lyssa's Veracious Concord	EQ
+25	Psalm of Warmth	EQ
+25	Selo's Rhythm of Speed	Luclin
+26	Angstlich's Appalling Screech	EQ
+27	Solon's Song of the Sirens	EQ
+28	Crission's Pixie Strike	EQ
+29	Psalm of Vitality	EQ
+30	Amplification	Luclin
+30	Fufil's Curtailing Chant	EQ
+31	Agilmente's Aria of Eagles	EQ
+32	Cassindra's Chorus of Clarity	EQ
+33	Psalm of Cooling	EQ
+34	Cantata of Soothing	Velious
+34	Lyssa's Solidarity of Vision	EQ
+35	Denon's Dissension	EQ
+36	Vilia's Verses of Celerity	EQ
+37	Psalm of Purity	EQ
+38	Tuyen's Chant of Flame	EQ
+39	Katta's Song of Sword Dancing	Luclin
+39	Solon's Bewitching Bravura	EQ
+40	Sionachie's Dreams	Luclin
+40	Syvelian's Anti-Magic Aria	EQ
+41	Psalm of Mystic Shielding	EQ
+42	McVaxius' Berserker Crescendo	EQ
+42	Tuyen's Chant of Disease	PoP
+43	Denon's Desperate Dirge	EQ
+44	Cassindra's Elegy	EQ
+45	Aria of Asceticism	LoY
+45	Jonthan's Provocation	EQ
+45	Rizlona's Embers	LDoN
+46	Tuyen's Chant of Frost	EQ
+47	Niv's Melody of Preservation	EQ
+48	Selo's Chords of Cessation	EQ
+49	Selo's Accelerating Chorus	Luclin
+49	Shield of Songs	Velious
+50	Melody of Ervaj	Velious
+50	Tuyen's Chant of Poison	PoP
+50	Verses of Victory	EQ
+51	Largo's Assonant Binding	Kunark
+51	Resistant Discipline	Kunark
+51	Selo's Song of Travel	Kunark
+52	Aria of Innocence	LoY
+52	Battlecry of the Vah Shir	Luclin
+52	Nillipus' March of the Wee	Kunark
+53	Rizlona's Fire	LDoN
+53	Song of Dawn	Kunark
+53	Song of Twilight	Kunark
+54	Elemental Chorus	Luclin
+54	Fearless Discipline	Kunark
+54	Selo's Assonant Strain	Kunark
+54	Vilia's Chorus of Celerity	Kunark
+55	Aura of Insight	PoR
+55	Brusco's Bombastic Bellow	Kunark
+55	Cantata of Replenishment	Kunark
+55	Deftdance Discipline	Velious
+55	Occlusion of Sound	Velious
+56	Purifying Chorus	Luclin
+56	Song of Highsun	Kunark
+56	Song of Midnight	Kunark
+57	Cassindra's Insipid Ditty	Kunark
+57	McVaxius' Rousing Rondo	Kunark
+57	Soothing Psalm of the Sunrise	EoK
+58	Chorus of Replenishment	Luclin
+58	Dreams of Ayonae	Luclin
+58	Jonthan's Inspiration	Kunark
+58	Niv's Harmonic	Kunark
+59	Denon's Bereavement	Kunark
+59	Solon's Charismatic Concord	Kunark
+60	Ancient: Lcea's Lament	Luclin
+60	Ancient: Lullaby of Shadow	Luclin
+60	Angstlich's Assonance	Kunark
+60	Composition of Ervaj	Velious
+60	Ervaj's Lost Composition	Luclin
+60	Fufil's Diminishing Dirge	LDoN
+60	Kazumi's Note of Preservation	Kunark
+60	Puretone Discipline	Velious
+60	Warsong of the Vah Shir	Luclin
+61	Saryrn's Scream of Pain	PoP
+61	Silent Song of Quellious	PoP
+61	Song of the Storm	DoN
+61	Tuyen's Chant of the Plague	PoP
+62	Angstlich's Echo of Terror	PoP
+62	Dreams of Thule	PoP
+62	Druzzil's Disillusionment	PoP
+62	Melody of Mischief	PoP
+62	Warsong of Zek	PoP
+62	Wind of Marr	PoP
+63	Psalm of Veeshan	PoP
+63	Tuyen's Chant of Ice	PoP
+63	Tuyen's Chant of Venom	PoP
+64	Call of the Banshee	PoP
+64	Chorus of Marr	PoP
+64	Dreams of Terris	PoP
+64	Minohten's Purifying Panpipes	TSS
+64	Minohten's Purifying Panpipes Rk. II	TSS
+64	Minohten's Purifying Panpipes Rk. III	TSS
+64	Requiem of Time	PoP
+64	Rizlona's Call of Flame	PoP
+65	Ancient: Chaos Chant	GoD
+65	Call of the Muse	LDoN
+65	Dark Echo	GoD
+65	Echo of the Trusik	GoD
+65	Harmony of Sound	PoP
+65	Lullaby of Morell	PoP
+65	Staccato Rhythms	TSS
+65	Staccato Rhythms Rk. II	TSS
+65	Staccato Rhythms Rk. III	TSS
+65	Tuyen's Chant of Fire	PoP
+65	War March of the Mastruq	GoD
+66	Bellow of Chaos	Omens
+66	Luvwen's Aria of Serenity	Omens
+66	Selo's Accelerato	EoK
+66	Vulka's Chant of Disease	Omens
+67	Angstlich's Wail of Panic	Omens
+67	Cantata of Life	Omens
+67	Luvwen's Lullaby	Omens
+67	Vulka's Chant of Frost	Omens
+67	Zuriki's Song of Shenanigans	Omens
+68	Creeping Dreams	DoD
+68	Dirge of Metala	Omens
+68	Vulka's Chant of Poison	Omens
+68	War March of Muram	Omens
+68	Yelhun's Mystic Call	Omens
+69	Chorus of Life	Omens
+69	Eriki's Psalm of Power	Omens
+69	Storm Blade	DoN
+69	Thousand Blades	DoD
+69	Verse of Vesagran	Omens
+70	Ancient: Call of Power	Omens
+70	Arcane Aria	PoR
+70	Aura of the Muse	PoR
+70	Voice of the Vampire	Omens
+70	Vulka's Chant of Flame	Omens
+70	Vulka's Lullaby	Omens
+71	Aelfric's Last Lullaby	TSS
+71	Aelfric's Last Lullaby Rk. II	TSS
+71	Erollisi's Cantata	TSS
+71	Erollisi's Cantata Rk. II	TSS
+71	Erollisi's Cantata Rk. III	TSS
+71	Jonthan's Mightful Caretaker	TBS
+71	Jonthan's Mightful Caretaker Rk. II	TBS
+71	Jonthan's Mightful Caretaker Rk. III	TBS
+71	Whispersong of Veshma	TSS
+71	Whispersong of Veshma Rk. II	TSS
+72	Ervaj's Defensive Refrain	TSS
+72	Ervaj's Defensive Refrain Rk. II	TSS
+72	Ervaj's Defensive Refrain Rk. III	TSS
+72	Song of the Dryads	TSS
+72	Song of the Dryads Rk. II	TSS
+72	Weshlu's Chillsong Aria	TSS
+72	Weshlu's Chillsong Aria Rk. II	TSS
+72	Weshlu's Chillsong Aria Rk. III	TSS
+73	Aviak's Wondrous Warble	TBS
+73	Aviak's Wondrous Warble Rk. II	TBS
+73	Aviak's Wondrous Warble Rk. III	TBS
+73	Erollisi's Chorus	TSS
+73	Erollisi's Chorus Rk. II	TSS
+73	Erollisi's Chorus Rk. III	TSS
+73	Fermata of Preservation	TSS
+73	Fermata of Preservation Rk. II	TSS
+73	Fermata of Preservation Rk. III	TSS
+73	Performer's Psalm of Pyrotechnics	TSS
+73	Performer's Psalm of Pyrotechnics Rk. II	TSS
+73	Performer's Psalm of Pyrotechnics Rk. III	TSS
+74	Beckon of the Tuffein	TSS
+74	Beckon of the Tuffein Rk. II	TSS
+74	Queen Eletyl's Screech	TSS
+74	Queen Eletyl's Screech Rk. II	TSS
+74	Selo's Accelerating Canto	TSS
+75	Denon's Dirge of Destruction	TSS
+75	Denon's Dirge of Destruction Rk. II	TSS
+75	Denon's Dirge of Destruction Rk. III	TSS
+75	Staccato Cadence	TBS
+75	Staccato Cadence Rk. II	TBS
+75	Staccato Cadence Rk. III	TBS
+75	Veshma's Lively Crescendo	TSS
+75	Veshma's Lively Crescendo Rk. II	TSS
+75	Veshma's Lively Crescendo Rk. III	TSS
+76	Amber's Last Lullaby	SoF
+76	Amber's Last Lullaby Rk. II	SoF
+76	Amber's Last Lullaby Rk. III	SoF
+76	Aria of the Artist	SoF
+76	Aria of the Artist Rk. II	SoF
+76	Aria of the Artist Rk. III	SoF
+76	Cantata of Restoration	SoF
+76	Cantata of Restoration Rk. II	SoF
+76	Cantata of Restoration Rk. III	SoF
+76	Elddar's Dawnsong	SoF
+76	Elddar's Dawnsong Rk. II	SoF
+76	Elddar's Dawnsong Rk. III	SoF
+76	Vyskudra's Chant of Disease	SoF
+76	Vyskudra's Chant of Disease Rk. II	SoF
+76	Vyskudra's Chant of Disease Rk. III	SoF
+77	Dirge of the Darkvine	SoF
+77	Dirge of the Darkvine Rk. II	SoF
+77	Dirge of the Darkvine Rk. III	SoF
+77	Garadell's Fatesong	SoF
+77	Garadell's Fatesong Rk. II	SoF
+77	Garadell's Fatesong Rk. III	SoF
+77	Rhythm of Restoration	SoF
+77	Rhythm of Restoration Rk. II	SoF
+77	Rhythm of Restoration Rk. III	SoF
+77	Zeixshi-Kar's Chant of Frost	SoF
+77	Zeixshi-Kar's Chant of Frost Rk. II	SoF
+77	Zeixshi-Kar's Chant of Frost Rk. III	SoF
+78	Chorus of Restoration	SoF
+78	Chorus of Restoration Rk. II	SoF
+78	Chorus of Restoration Rk. III	SoF
+78	Coldcrow's Spry Sonata	SoF
+78	Coldcrow's Spry Sonata Rk. II	SoF
+78	Coldcrow's Spry Sonata Rk. III	SoF
+78	Erradien's Psalm of Potency	SoF
+78	Erradien's Psalm of Potency Rk. II	SoF
+78	Erradien's Psalm of Potency Rk. III	SoF
+78	Kildrukaun's Chant of Poison	SoF
+78	Kildrukaun's Chant of Poison Rk. II	SoF
+78	Kildrukaun's Chant of Poison Rk. III	SoF
+78	Performer's Explosive Aria	SoF
+78	Performer's Explosive Aria Rk. II	SoF
+78	Performer's Explosive Aria Rk. III	SoF
+79	Command of Queen Veneneu	SoF
+79	Command of Queen Veneneu Rk. II	SoF
+79	Command of Queen Veneneu Rk. III	SoF
+79	Kirathas' Cleansing Clarinet	SoF
+79	Kirathas' Cleansing Clarinet Rk. II	SoF
+79	Kirathas' Cleansing Clarinet Rk. III	SoF
+79	War March of Meldrath	SoF
+79	War March of Meldrath Rk. II	SoF
+79	War March of Meldrath Rk. III	SoF
+79	Yowl of the Bloodmoon	SoF
+79	Yowl of the Bloodmoon Rk. II	SoF
+79	Yowl of the Bloodmoon Rk. III	SoF
+80	Arcane Anthem	SoF
+80	Arcane Anthem Rk. II	SoF
+80	Arcane Anthem Rk. III	SoF
+80	Aura of the Artist	SoF
+80	Aura of the Artist Rk. II	SoF
+80	Aura of the Artist Rk. III	SoF
+80	Denon's Dirge of Devastation	SoF
+80	Denon's Dirge of Devastation Rk. II	SoF
+80	Denon's Dirge of Devastation Rk. III	SoF
+80	Kaerra's Spirited Crescendo	SoF
+80	Kaerra's Spirited Crescendo Rk. II	SoF
+80	Kaerra's Spirited Crescendo Rk. III	SoF
+80	Tjudawos' Chant of Flame	SoF
+80	Tjudawos' Chant of Flame Rk. II	SoF
+80	Tjudawos' Chant of Flame Rk. III	SoF
+81	Aria of the Poet	SoD
+81	Aria of the Poet Rk.II	SoD
+81	Aria of the Poet Rk.III	SoD
+81	Cantata of Rodcet	SoD
+81	Cantata of Rodcet Rk.II	SoD
+81	Cantata of Rodcet Rk.III	SoD
+81	Requiem for the Lost	SoD
+81	Requiem for the Lost Rk. II	SoD
+81	Requiem for the Lost Rk. III	SoD
+81	Serenity of Oceangreen	SoD
+81	Serenity of Oceangreen Rk.II	SoD
+81	Serenity of Oceangreen Rk.III	SoD
+81	Silence of the Void	SoD
+81	Silence of the Void Rk.II	SoD
+81	Silence of the Void Rk.III	SoD
+81	Trakanon's Chant of Disease	SoD
+81	Trakanon's Chant of Disease Rk.II	SoD
+81	Trakanon's Chant of Disease Rk.III	SoD
+82	Aura of Rodcet	SoD
+82	Aura of Rodcet Rk. II	SoD
+82	Aura of Rodcet Rk. III	SoD
+82	Dirge of the Fallen Rathe	SoD
+82	Dirge of the Fallen Rathe Rk.II	SoD
+82	Dirge of the Fallen Rathe Rk.III	SoD
+82	Fatesong of the Gelidran	SoD
+82	Fatesong of the Gelidran Rk.II	SoD
+82	Fatesong of the Gelidran Rk.III	SoD
+82	Gorenaire's Chant of Frost	SoD
+82	Gorenaire's Chant of Frost Rk.II	SoD
+82	Gorenaire's Chant of Frost Rk.III	SoD
+82	Pulse of Rodcet	SoD
+82	Pulse of Rodcet Rk.II	SoD
+82	Pulse of Rodcet Rk.III	SoD
+83	Chorus of Rodcet	SoD
+83	Chorus of Rodcet Rk.II	SoD
+83	Chorus of Rodcet Rk.III	SoD
+83	Dance of the Dragorn	SoD
+83	Dance of the Dragorn Rk.II	SoD
+83	Dance of the Dragorn Rk.III	SoD
+83	Druzzil's Psalm of Potency	SoD
+83	Druzzil's Psalm of Potency Rk.II	SoD
+83	Druzzil's Psalm of Potency Rk.III	SoD
+83	Pests of the Piper	SoD
+83	Pests of the Piper Rk. II	SoD
+83	Pests of the Piper Rk. III	SoD
+83	Severilous' Chant of Poison	SoD
+83	Severilous' Chant of Poison Rk.II	SoD
+83	Severilous' Chant of Poison Rk.III	SoD
+83	Talendor's Aria	SoD
+83	Talendor's Aria Rk.II	SoD
+83	Talendor's Aria Rk.III	SoD
+84	Firiona's Blessed Clarinet	SoD
+84	Firiona's Blessed Clarinet Rk.II	SoD
+84	Firiona's Blessed Clarinet Rk.III	SoD
+84	Mirror Melody	SoD
+84	Mirror Melody Rk. II	SoD
+84	Mirror Melody Rk. III	SoD
+84	Slumber of the Mindshear	SoD
+84	Slumber of the Mindshear Rk.II	SoD
+84	Slumber of the Mindshear Rk.III	SoD
+84	Voice of the Mindshear	SoD
+84	Voice of the Mindshear Rk.II	SoD
+84	Voice of the Mindshear Rk.III	SoD
+84	War March of Brekt	SoD
+84	War March of Brekt Rk.II	SoD
+84	War March of Brekt Rk.III	SoD
+85	Arcane Arietta	SoD
+85	Arcane Arietta Rk.II	SoD
+85	Arcane Arietta Rk.III	SoD
+85	Aura of the Poet	SoD
+85	Aura of the Poet Rk.II	SoD
+85	Aura of the Poet Rk.III	SoD
+85	Autarchian Mindwrack	UF
+85	Autarchian Mindwrack Rk. II	UF
+85	Autarchian Mindwrack Rk. III	UF
+85	Cantata of Courage	SoD
+85	Cantata of Courage Rk. II	SoD
+85	Cantata of Courage Rk. III	SoD
+85	Denon's Dirge of Discord	SoD
+85	Denon's Dirge of Discord Rk.II	SoD
+85	Denon's Dirge of Discord Rk.III	SoD
+85	Gruber's Lively Crescendo	SoD
+85	Gruber's Lively Crescendo Rk.II	SoD
+85	Gruber's Lively Crescendo Rk.III	SoD
+85	Talendor's Chant of Flame	SoD
+85	Talendor's Chant of Flame Rk.II	SoD
+85	Talendor's Chant of Flame Rk.III	SoD
+85	Venimor's Insult	UF
+85	Venimor's Insult Rk. II	UF
+85	Venimor's Insult Rk. III	UF
+85	Wave of Slumber	UF
+85	Wave of Slumber Rk. II	UF
+85	Wave of Slumber Rk. III	UF
+86	Aria of Amelioration	HoT
+86	Aria of Amelioration Rk. II	HoT
+86	Aria of Amelioration Rk. III	HoT
+86	Aria of the Composer	HoT
+86	Aria of the Composer Rk. II	HoT
+86	Aria of the Composer Rk. III	HoT
+86	Lullaby of the Lost	HoT
+86	Lullaby of the Lost Rk. II	HoT
+86	Lullaby of the Lost Rk. III	HoT
+86	Pulse of Renewal	HoT
+86	Pulse of Renewal Rk. II	HoT
+86	Pulse of Renewal Rk. III	HoT
+86	Rumbling Barrier	HoT
+86	Rumbling Barrier Rk. II	HoT
+86	Rumbling Barrier Rk. III	HoT
+86	Shiverback's Chant of Disease	HoT
+86	Shiverback's Chant of Disease Rk. II	HoT
+86	Shiverback's Chant of Disease Rk. III	HoT
+86	Silence of the Dreamer	HoT
+86	Silence of the Dreamer Rk. II	HoT
+86	Silence of the Dreamer Rk. III	HoT
+86	Song of Recalcitrance	HoT
+86	Song of Recalcitrance Rk. II	HoT
+86	Song of Recalcitrance Rk. III	HoT
+87	Aura of Renewal	HoT
+87	Aura of Renewal Rk. II	HoT
+87	Aura of Renewal Rk. III	HoT
+87	Dirge of Dreams	HoT
+87	Dirge of Dreams Rk. II	HoT
+87	Dirge of Dreams Rk. III	HoT
+87	Echo of Renewal	HoT
+87	Echo of Renewal Rk. II	HoT
+87	Echo of Renewal Rk. III	HoT
+87	Fatesong of Fergar	HoT
+87	Fatesong of Fergar Rk. II	HoT
+87	Fatesong of Fergar Rk. III	HoT
+87	Fergar's Chant of Frost	HoT
+87	Fergar's Chant of Frost Rk. II	HoT
+87	Fergar's Chant of Frost Rk. III	HoT
+87	Sionachie's Sympathetic Psalm	HoT
+87	Sionachie's Sympathetic Psalm Rk. II	HoT
+87	Sionachie's Sympathetic Psalm Rk. III	HoT
+88	Alleviating Accelerando	HoT
+88	Alleviating Accelerando Rk. II	HoT
+88	Alleviating Accelerando Rk. III	HoT
+88	Chorus of Renewal	HoT
+88	Chorus of Renewal Rk. II	HoT
+88	Chorus of Renewal Rk. III	HoT
+88	Lyrin's Psalm of Potency	HoT
+88	Lyrin's Psalm of Potency Rk. II	HoT
+88	Lyrin's Psalm of Potency Rk. III	HoT
+88	Sionachie's Spry Sonata	HoT
+88	Sionachie's Spry Sonata Rk. II	HoT
+88	Sionachie's Spry Sonata Rk. III	HoT
+88	Sotor's Aria	HoT
+88	Sotor's Aria Rk. II	HoT
+88	Sotor's Aria Rk. III	HoT
+88	Spinechiller's Chant of Poison	HoT
+88	Spinechiller's Chant of Poison Rk. II	HoT
+88	Spinechiller's Chant of Poison Rk. III	HoT
+89	Noira's Song of Suffering	HoT
+89	Noira's Song of Suffering Rk. II	HoT
+89	Noira's Song of Suffering Rk. III	HoT
+89	Slumber of Sionachie	HoT
+89	Slumber of Sionachie Rk. II	HoT
+89	Slumber of Sionachie Rk. III	HoT
+89	Voice of Sionachie	HoT
+89	Voice of Sionachie Rk. II	HoT
+89	Voice of Sionachie Rk. III	HoT
+89	War March of Dagda	HoT
+89	War March of Dagda Rk. II	HoT
+89	War March of Dagda Rk. III	HoT
+90	Arcane Chorus	HoT
+90	Arcane Chorus Rk. II	HoT
+90	Arcane Chorus Rk. III	HoT
+90	Aura of the Composer	HoT
+90	Aura of the Composer Rk. II	HoT
+90	Aura of the Composer Rk. III	HoT
+90	Denon's Dirge of Disruption	HoT
+90	Denon's Dirge of Disruption Rk. II	HoT
+90	Denon's Dirge of Disruption Rk. III	HoT
+90	Echo of the Composer	HoT
+90	Echo of the Composer Rk. II	HoT
+90	Echo of the Composer Rk. III	HoT
+90	Lyrin's Insult	HoT
+90	Lyrin's Insult Rk. II	HoT
+90	Lyrin's Insult Rk. III	HoT
+90	Lyrin's Spiteful Lyric	HoT
+90	Lyrin's Spiteful Lyric Rk. II	HoT
+90	Lyrin's Spiteful Lyric Rk. III	HoT
+90	Lyssa's Lively Crescendo	HoT
+90	Lyssa's Lively Crescendo Rk. II	HoT
+90	Lyssa's Lively Crescendo Rk. III	HoT
+90	Sotor's Chant of Flame	HoT
+90	Sotor's Chant of Flame Rk. II	HoT
+90	Sotor's Chant of Flame Rk. III	HoT
+90	Wave of Dreams	HoT
+90	Wave of Dreams Rk. II	HoT
+90	Wave of Dreams Rk. III	HoT
+91	Aria of Impeccability	VoA
+91	Aria of Impeccability Rk. II	VoA
+91	Aria of Impeccability Rk. III	VoA
+91	Aria of the Orator	VoA
+91	Aria of the Orator Rk. II	VoA
+91	Aria of the Orator Rk. III	VoA
+91	Lullaby of the Forlorn	VoA
+91	Lullaby of the Forlorn Rk. II	VoA
+91	Lullaby of the Forlorn Rk. III	VoA
+91	Pulse of Lunanyn	VoA
+91	Pulse of Lunanyn Rk. II	VoA
+91	Pulse of Lunanyn Rk. III	VoA
+91	Silence of the Windsong	VoA
+91	Silence of the Windsong Rk. II	VoA
+91	Silence of the Windsong Rk. III	VoA
+91	Thunderous Barrier	VoA
+91	Thunderous Barrier Rk. II	VoA
+91	Thunderous Barrier Rk. III	VoA
+91	Wasinai's Chant of Disease	VoA
+91	Wasinai's Chant of Disease Rk. II	VoA
+91	Wasinai's Chant of Disease Rk. III	VoA
+92	Aura of Lunanyn	VoA
+92	Aura of Lunanyn Rk. II	VoA
+92	Aura of Lunanyn Rk. III	VoA
+92	Echo of Lunanyn	VoA
+92	Echo of Lunanyn Rk. II	VoA
+92	Echo of Lunanyn Rk. III	VoA
+92	Fatesong of Illdaera	VoA
+92	Fatesong of Illdaera Rk. II	VoA
+92	Fatesong of Illdaera Rk. III	VoA
+92	Kalbrok's Chant of Frost	VoA
+92	Kalbrok's Chant of Frost Rk. II	VoA
+92	Kalbrok's Chant of Frost Rk. III	VoA
+92	Lapsing Lullaby	VoA
+92	Lapsing Lullaby Rk. II	VoA
+92	Lapsing Lullaby Rk. III	VoA
+93	Assuaging Accelerando	VoA
+93	Assuaging Accelerando Rk. II	VoA
+93	Assuaging Accelerando Rk. III	VoA
+93	Chorus of Lunanyn	VoA
+93	Chorus of Lunanyn Rk. II	VoA
+93	Chorus of Lunanyn Rk. III	VoA
+93	Daevan's Aria	VoA
+93	Daevan's Aria Rk. II	VoA
+93	Daevan's Aria Rk. III	VoA
+93	Hiqork's Chant of Poison	VoA
+93	Hiqork's Chant of Poison Rk. II	VoA
+93	Hiqork's Chant of Poison Rk. III	VoA
+93	Ryken's Reckless Renewal	VoA
+93	Ryken's Reckless Renewal Rk. II	VoA
+93	Ryken's Reckless Renewal Rk. III	VoA
+93	Terasal's Spry Sonata	VoA
+93	Terasal's Spry Sonata Rk. II	VoA
+93	Terasal's Spry Sonata Rk. III	VoA
+93	Wasinai's Psalm of Potency	VoA
+93	Wasinai's Psalm of Potency Rk. II	VoA
+93	Wasinai's Psalm of Potency Rk. III	VoA
+94	Hykast's Song of Suffering	VoA
+94	Hykast's Song of Suffering Rk. II	VoA
+94	Hykast's Song of Suffering Rk. III	VoA
+94	Oratory of Invitation	VoA
+94	Oratory of Invitation Rk. II	VoA
+94	Oratory of Invitation Rk. III	VoA
+94	Oratory of Opposition	VoA
+94	Oratory of Opposition Rk. II	VoA
+94	Oratory of Opposition Rk. III	VoA
+94	Slumber of Kolain	VoA
+94	Slumber of Kolain Rk. II	VoA
+94	Slumber of Kolain Rk. III	VoA
+94	Voice of Kolain	VoA
+94	Voice of Kolain Rk. II	VoA
+94	Voice of Kolain Rk. III	VoA
+94	War March of Illdaera	VoA
+94	War March of Illdaera Rk. II	VoA
+94	War March of Illdaera Rk. III	VoA
+95	Arcane Address	VoA
+95	Arcane Address Rk. II	VoA
+95	Arcane Address Rk. III	VoA
+95	Aura of the Orator	VoA
+95	Aura of the Orator Rk. II	VoA
+95	Aura of the Orator Rk. III	VoA
+95	Daevan's Chant of Flame	VoA
+95	Daevan's Chant of Flame Rk. II	VoA
+95	Daevan's Chant of Flame Rk. III	VoA
+95	Echo of the Orator	VoA
+95	Echo of the Orator Rk. II	VoA
+95	Echo of the Orator Rk. III	VoA
+95	Hykast's Insult	VoA
+95	Hykast's Insult Rk. II	VoA
+95	Hykast's Insult Rk. III	VoA
+95	Hykast's Spiteful Lyric	VoA
+95	Hykast's Spiteful Lyric Rk. II	VoA
+95	Hykast's Spiteful Lyric Rk. III	VoA
+95	Kolain's Lively Crescendo	VoA
+95	Kolain's Lively Crescendo Rk. II	VoA
+95	Kolain's Lively Crescendo Rk. III	VoA
+95	Wave of the Conductor	VoA
+95	Wave of the Conductor Rk. II	VoA
+95	Wave of the Conductor Rk. III	VoA
+96	Aria of Absolution	RoF
+96	Aria of Absolution Rk. II	RoF
+96	Aria of Absolution Rk. III	RoF
+96	Aria of Va'Ker	RoF
+96	Aria of Va'Ker Rk. II	RoF
+96	Aria of Va'Ker Rk. III	RoF
+96	Lullaby of the Forsaken	RoF
+96	Lullaby of the Forsaken Rk. II	RoF
+96	Lullaby of the Forsaken Rk. III	RoF
+96	Pulse of Salarra	RoF
+96	Pulse of Salarra Rk. II	RoF
+96	Pulse of Salarra Rk. III	RoF
+96	Resounding Barrier	RoF
+96	Resounding Barrier Rk. II	RoF
+96	Resounding Barrier Rk. III	RoF
+96	Siavonn's Chant of Disease	RoF
+96	Siavonn's Chant of Disease Rk. II	RoF
+96	Siavonn's Chant of Disease Rk. III	RoF
+96	Silence of the Forsaken	RoF
+96	Silence of the Forsaken Rk. II	RoF
+96	Silence of the Forsaken Rk. III	RoF
+96	War Chorus of Protan	CotF
+96	War Chorus of Protan Rk. II	CotF
+96	War Chorus of Protan Rk. III	CotF
+97	Aura of Salarra	RoF
+97	Aura of Salarra Rk. II	RoF
+97	Aura of Salarra Rk. III	RoF
+97	Echo of Salarra	RoF
+97	Echo of Salarra Rk. II	RoF
+97	Echo of Salarra Rk. III	RoF
+97	Edoth's Chant of Frost	RoF
+97	Edoth's Chant of Frost Rk. II	RoF
+97	Edoth's Chant of Frost Rk. III	RoF
+97	Fatesong of Protan	RoF
+97	Fatesong of Protan Rk. II	RoF
+97	Fatesong of Protan Rk. III	RoF
+97	Garath's Insult	CotF
+97	Garath's Insult Rk. II	CotF
+97	Garath's Insult Rk. III	CotF
+97	Harmony of Tone	RoF
+97	Harmony of Tone Rk. II	RoF
+97	Harmony of Tone Rk. III	RoF
+98	Ameliorating Accelerando	RoF
+98	Ameliorating Accelerando Rk. II	RoF
+98	Ameliorating Accelerando Rk. III	RoF
+98	Chorus of Salarra	RoF
+98	Chorus of Salarra Rk. II	RoF
+98	Chorus of Salarra Rk. III	RoF
+98	Doben's Spry Sonata	RoF
+98	Doben's Spry Sonata Rk. II	RoF
+98	Doben's Spry Sonata Rk. III	RoF
+98	Gosik's Aria	RoF
+98	Gosik's Aria Rk. II	RoF
+98	Gosik's Aria Rk. III	RoF
+98	Psalm of the Forsaken	CotF
+98	Psalm of the Forsaken Rk. II	CotF
+98	Psalm of the Forsaken Rk. III	CotF
+98	Ruaabri's Reckless Renewal	RoF
+98	Ruaabri's Reckless Renewal Rk. II	RoF
+98	Ruaabri's Reckless Renewal Rk. III	RoF
+98	Siavonn's Psalm of Potency	RoF
+98	Siavonn's Psalm of Potency Rk. II	RoF
+98	Siavonn's Psalm of Potency Rk. III	RoF
+98	Slaunk's Chant of Poison	RoF
+98	Slaunk's Chant of Poison Rk. II	RoF
+98	Slaunk's Chant of Poison Rk. III	RoF
+99	Corpseflower's Assonant Binding	CotF
+99	Corpseflower's Assonant Binding Rk. II	CotF
+99	Corpseflower's Assonant Binding Rk. III	CotF
+99	Dirge of Salubra	RoF
+99	Dirge of Salubra Rk. II	RoF
+99	Dirge of Salubra Rk. III	RoF
+99	Kaficus' Song of Suffering	RoF
+99	Kaficus' Song of Suffering Rk. II	RoF
+99	Kaficus' Song of Suffering Rk. III	RoF
+99	Protan's Melodic Binding	RoF
+99	Protan's Melodic Binding Rk. II	RoF
+99	Protan's Melodic Binding Rk. III	RoF
+99	Slumber of Motlak	RoF
+99	Slumber of Motlak Rk. II	RoF
+99	Slumber of Motlak Rk. III	RoF
+99	Voice of Motlak	RoF
+99	Voice of Motlak Rk. II	RoF
+99	Voice of Motlak Rk. III	RoF
+99	War March of Protan	RoF
+99	War March of Protan Rk. II	RoF
+99	War March of Protan Rk. III	RoF
+100	Arcane Hymn	RoF
+100	Arcane Hymn Rk. II	RoF
+100	Arcane Hymn Rk. III	RoF
+100	Aura of Va'Ker	RoF
+100	Aura of Va'Ker Rk. II	RoF
+100	Aura of Va'Ker Rk. III	RoF
+100	Brusco's Burning Call	CotF
+100	Brusco's Burning Call Rk. II	CotF
+100	Brusco's Burning Call Rk. III	CotF
+100	Echo of Va'Ker	RoF
+100	Echo of Va'Ker Rk. II	RoF
+100	Echo of Va'Ker Rk. III	RoF
+100	Gosik's Chant of Flame	RoF
+100	Gosik's Chant of Flame Rk. II	RoF
+100	Gosik's Chant of Flame Rk. III	RoF
+100	Kaficus' Insult	RoF
+100	Kaficus' Insult Rk. II	RoF
+100	Kaficus' Insult Rk. III	RoF
+100	Kaficus' Spiteful Lyric	RoF
+100	Kaficus' Spiteful Lyric Rk. II	RoF
+100	Kaficus' Spiteful Lyric Rk. III	RoF
+100	Motlak's Lively Crescendo	RoF
+100	Motlak's Lively Crescendo Rk. II	RoF
+100	Motlak's Lively Crescendo Rk. III	RoF
+100	Reflexive Retort	RoF
+100	Recourse: Reflected Retort	RoF
+100	Reflexive Retort Rk. II	RoF
+100	Recourse: Reflected Retort II	RoF
+100	Reflexive Retort Rk. III	RoF
+100	Recourse: Reflected Retort III	RoF
+100	Wave of Quietude	RoF
+100	Wave of Quietude Rk. II	RoF
+100	Wave of Quietude Rk. III	RoF
+101	Aria of Maetanrus	TDS
+101	Aria of Maetanrus Rk. II	TDS
+101	Aria of Maetanrus Rk. III	TDS
+101	Dichotomic Psalm	TBM
+101	Echoing Barrier	TDS
+101	Echoing Barrier Rk. II	TDS
+101	Echoing Barrier Rk. III	TDS
+101	Horthin's Chant of Disease	TDS
+101	Horthin's Chant of Disease Rk. II	TDS
+101	Horthin's Chant of Disease Rk. III	TDS
+101	Lullaby of Silisia	TDS
+101	Lullaby of Silisia Rk. II	TDS
+101	Lullaby of Silisia Rk. III	TDS
+101	Pulse of Sionachie	TDS
+101	Pulse of Sionachie Rk. II	TDS
+101	Pulse of Sionachie Rk. III	TDS
+101	Silence of Silisia	TDS
+101	Silence of Silisia Rk. II	TDS
+101	Silence of Silisia Rk. III	TDS
+102	Alliance of Sticks and Stones	EoK
+102	Alliance of Sticks and Stones Rk. II	EoK
+102	Alliance of Sticks and Stones Rk. III	EoK
+102	Aura of Sionachie	TDS
+102	Aura of Sionachie Rk. II	TDS
+102	Aura of Sionachie Rk. III	TDS
+102	Echo of Sionachie	TDS
+102	Echo of Sionachie Rk. II	TDS
+102	Echo of Sionachie Rk. III	TDS
+102	Fatesong of Jocelyn	TDS
+102	Fatesong of Jocelyn Rk. II	TDS
+102	Fatesong of Jocelyn Rk. III	TDS
+102	Fjilnauk's Insult	TDS
+102	Fjilnauk's Insult Rk. II	TDS
+102	Fjilnauk's Insult Rk. III	TDS
+102	Kirchen's Chant of Frost	TDS
+102	Kirchen's Chant of Frost Rk. II	TDS
+102	Kirchen's Chant of Frost Rk. III	TDS
+102	Silisia's Demand	EoK
+102	Silisia's Demand Rk. II	EoK
+102	Silisia's Demand Rk. III	EoK
+103	Allaying Accelerando	TDS
+103	Allaying Accelerando Rk. II	TDS
+103	Allaying Accelerando Rk. III	TDS
+103	Chorus of Sionachie	TDS
+103	Chorus of Sionachie Rk. II	TDS
+103	Chorus of Sionachie Rk. III	TDS
+103	Horthin's Psalm of Potency	TDS
+103	Horthin's Psalm of Potency Rk. II	TDS
+103	Horthin's Psalm of Potency Rk. III	TDS
+103	Nilsara's Aria	TDS
+103	Nilsara's Aria Rk. II	TDS
+103	Nilsara's Aria Rk. III	TDS
+103	Plague of the Piper	TBM
+103	Plague of the Piper Rk. II	TBM
+103	Plague of the Piper Rk. III	TBM
+103	Rytan's Reckless Renewal	TDS
+103	Rytan's Reckless Renewal Rk. II	TDS
+103	Rytan's Reckless Renewal Rk. III	TDS
+103	Serisaria's Chant of Poison	TDS
+103	Serisaria's Chant of Poison Rk. II	TDS
+103	Serisaria's Chant of Poison Rk. III	TDS
+104	Fjilnauk's Song of Suffering	TDS
+104	Fjilnauk's Song of Suffering Rk. II	TDS
+104	Fjilnauk's Song of Suffering Rk. III	TDS
+104	Requiem for the Dead	TBM
+104	Requiem for the Dead Rk. II	TBM
+104	Requiem for the Dead Rk. III	TBM
+104	Silisia's Lively Crescendo	TDS
+104	Silisia's Lively Crescendo Rk. II	TDS
+104	Silisia's Lively Crescendo Rk. III	TDS
+104	Slumber of Silisia	TDS
+104	Slumber of Silisia Rk. II	TDS
+104	Slumber of Silisia Rk. III	TDS
+104	Voice of Silisia	TDS
+104	Voice of Silisia Rk. II	TDS
+104	Voice of Silisia Rk. III	TDS
+104	War March of Jocelyn	TDS
+104	War March of Jocelyn Rk. II	TDS
+104	War March of Jocelyn Rk. III	TDS
+105	Arcane Melody	TDS
+105	Arcane Melody Rk. II	TDS
+105	Arcane Melody Rk. III	TDS
+105	Aura of Maetanrus	TDS
+105	Aura of Maetanrus Rk. II	TDS
+105	Aura of Maetanrus Rk. III	TDS
+105	Echo of Maetanrus	TDS
+105	Echo of Maetanrus Rk. II	TDS
+105	Echo of Maetanrus Rk. III	TDS
+105	Fjilnauk's Spiteful Lyric	TDS
+105	Fjilnauk's Spiteful Lyric Rk. II	TDS
+105	Fjilnauk's Spiteful Lyric Rk. III	TDS
+105	Nilsara's Chant of Flame	TDS
+105	Nilsara's Chant of Flame Rk. II	TDS
+105	Nilsara's Chant of Flame Rk. III	TDS
+105	Reflexive Rejoinder	EoK
+105	Reflexive Rejoinder Rk. II	EoK
+105	Reflexive Rejoinder Rk. III	EoK
+105	Tsaph's Insult	EoK
+105	Tsaph's Insult Rk. II	EoK
+105	Tsaph's Insult Rk. III	EoK
+105	Wave of Torpor	TDS
+105	Wave of Torpor Rk. II	TDS
+105	Wave of Torpor Rk. III	TDS
+106	Aria of Begalru	RoS
+106	Aria of Begalru Rk. II	RoS
+106	Aria of Begalru Rk. III	RoS
+106	Dissident Psalm	TBL
+106	Hoshkar's Chant of Disease	RoS
+106	Hoshkar's Chant of Disease Rk. II	RoS
+106	Hoshkar's Chant of Disease Rk. III	RoS
+106	Lullaby of Jembel	RoS
+106	Lullaby of Jembel Rk. II	RoS
+106	Lullaby of Jembel Rk. III	RoS
+106	Pulse of Xigam	RoS
+106	Pulse of Xigam Rk. II	RoS
+106	Pulse of Xigam Rk. III	RoS
+106	Reverberating Barrier	RoS
+106	Reverberating Barrier Rk. II	RoS
+106	Reverberating Barrier Rk. III	RoS
+106	Silence of Jembel	RoS
+106	Silence of Jembel Rk. II	RoS
+106	Silence of Jembel Rk. III	RoS
+107	Aura of Xigam	RoS
+107	Aura of Xigam Rk. II	RoS
+107	Aura of Xigam Rk. III	RoS
+107	Dirge of Lost Horizons	TBL
+107	Dirge of Lost Horizons Rk. II	TBL
+107	Dirge of Lost Horizons Rk. III	TBL
+107	Echo of Xigam	RoS
+107	Echo of Xigam Rk. II	RoS
+107	Echo of Xigam Rk. III	RoS
+107	Ekron's Chant of Frost	RoS
+107	Ekron's Chant of Frost Rk. II	RoS
+107	Ekron's Chant of Frost Rk. III	RoS
+107	Fatesong of Dekloaz	RoS
+107	Fatesong of Dekloaz Rk. II	RoS
+107	Fatesong of Dekloaz Rk. III	RoS
+107	Travenro's Insult	RoS
+107	Travenro's Insult Rk. II	RoS
+107	Travenro's Insult Rk. III	RoS
+108	Akett's Psalm of Potency	RoS
+108	Akett's Psalm of Potency Rk. II	RoS
+108	Akett's Psalm of Potency Rk. III	RoS
+108	Atoning Accelerando	RoS
+108	Atoning Accelerando Rk. II	RoS
+108	Atoning Accelerando Rk. III	RoS
+108	Chorus of Xigam	RoS
+108	Chorus of Xigam Rk. II	RoS
+108	Chorus of Xigam Rk. III	RoS
+108	Kluzen's Spry Sonata	RoS
+108	Kluzen's Spry Sonata Rk. II	RoS
+108	Kluzen's Spry Sonata Rk. III	RoS
+108	Nexona's Chant of Poison	RoS
+108	Nexona's Chant of Poison Rk. II	RoS
+108	Nexona's Chant of Poison Rk. III	RoS
+108	Qunard's Aria	RoS
+108	Qunard's Aria Rk. II	RoS
+108	Qunard's Aria Rk. III	RoS
+108	Rigelon's Reckless Renewal	RoS
+108	Rigelon's Reckless Renewal Rk. II	RoS
+108	Rigelon's Reckless Renewal Rk. III	RoS
+108	Second Psalm of Veeshan	RoS
+108	Second Psalm of Veeshan Rk. II	RoS
+108	Second Psalm of Veeshan Rk. III	RoS
+109	Dawnbreeze's Demand	TBL
+109	Dawnbreeze's Demand Rk. II	TBL
+109	Dawnbreeze's Demand Rk. III	TBL
+109	Dekloaz's Melodic Binding	RoS
+109	Dekloaz's Melodic Binding Rk. II	RoS
+109	Dekloaz's Melodic Binding Rk. III	RoS
+109	Jembel's Lively Crescendo	RoS
+109	Jembel's Lively Crescendo Rk. II	RoS
+109	Jembel's Lively Crescendo Rk. III	RoS
+109	Shardstubble's Assonant Binding	RoS
+109	Shardstubble's Assonant Binding Rk. II	RoS
+109	Shardstubble's Assonant Binding Rk. III	RoS
+109	Slumber of Jembel	RoS
+109	Slumber of Jembel Rk. II	RoS
+109	Slumber of Jembel Rk. III	RoS
+109	Travenro's Song of Suffering	RoS
+109	Travenro's Song of Suffering Rk. II	RoS
+109	Travenro's Song of Suffering Rk. III	RoS
+109	Voice of Jembel	RoS
+109	Voice of Jembel Rk. II	RoS
+109	Voice of Jembel Rk. III	RoS
+109	War March of Dekloaz	RoS
+109	War March of Dekloaz Rk. II	RoS
+109	War March of Dekloaz Rk. III	RoS
+110	Arcane Ballad	RoS
+110	Arcane Ballad Rk. II	RoS
+110	Arcane Ballad Rk. III	RoS
+110	Aura of Begalru	RoS
+110	Aura of Begalru Rk. II	RoS
+110	Aura of Begalru Rk. III	RoS
+110	CoVenant of Sticks and Stones	TBL
+110	CoVenant of Sticks and Stones Rk. II	TBL
+110	CoVenant of Sticks and Stones Rk. III	TBL
+110	Echo of Begalru	RoS
+110	Echo of Begalru Rk. II	RoS
+110	Echo of Begalru Rk. III	RoS
+110	Magmalisk's Burning Call	RoS
+110	Magmalisk's Burning Call Rk. II	RoS
+110	Magmalisk's Burning Call Rk. III	RoS
+110	Qunard's Chant of Flame	RoS
+110	Qunard's Chant of Flame Rk. II	RoS
+110	Qunard's Chant of Flame Rk. III	RoS
+110	Sathir's Insult	RoS
+110	Sathir's Insult Rk. II	RoS
+110	Sathir's Insult Rk. III	RoS
+110	Travenro's Spiteful Lyric	RoS
+110	Travenro's Spiteful Lyric Rk. II	RoS
+110	Travenro's Spiteful Lyric Rk. III	RoS
+110	Wave of Somnolence	RoS
+110	Wave of Somnolence Rk. II	RoS
+110	Wave of Somnolence Rk. III	RoS
+111	Aria of Margidor	ToV
+111	Aria of Margidor Rk. II	ToV
+111	Aria of Margidor Rk. III	ToV
+111	Composite Psalm	CoV
+111	Lullaby of Zburator	ToV
+111	Lullaby of Zburator Rk. II	ToV
+111	Lullaby of Zburator Rk. III	ToV
+111	Pulse of Vhal`Sera	ToV
+111	Pulse of Vhal`Sera Rk. II	ToV
+111	Pulse of Vhal`Sera Rk. III	ToV
+111	Requiem for the Cursed	CoV
+111	Requiem for the Cursed Rk. II	CoV
+111	Requiem for the Cursed Rk. III	CoV
+111	Silence of Zburator	ToV
+111	Silence of Zburator Rk. II	ToV
+111	Silence of Zburator Rk. III	ToV
+111	Tonitruous Barrier	ToV
+111	Tonitruous Barrier Rk. II	ToV
+111	Tonitruous Barrier Rk. III	ToV
+111	Zlexak's Chant of Disease	ToV
+111	Zlexak's Chant of Disease Rk. II	ToV
+111	Zlexak's Chant of Disease Rk. III	ToV
+112	Aura of Vhal`Sera	ToV
+112	Aura of Vhal`Sera Rk. II	ToV
+112	Aura of Vhal`Sera Rk. III	ToV
+112	Dirge of the Restless	CoV
+112	Dirge of the Restless Rk. II	CoV
+112	Dirge of the Restless Rk. III	CoV
+112	Echo of Vhal`Sera	ToV
+112	Echo of Vhal`Sera Rk. II	ToV
+112	Echo of Vhal`Sera Rk. III	ToV
+112	Fatesong of Radiwol	ToV
+112	Fatesong of Radiwol Rk. II	ToV
+112	Fatesong of Radiwol Rk. III	ToV
+112	Omorden's Insult	ToV
+112	Omorden's Insult Rk. II	ToV
+112	Omorden's Insult Rk. III	ToV
+112	Yelinak's Chant of Frost	ToV
+112	Yelinak's Chant of Frost Rk. II	ToV
+112	Yelinak's Chant of Frost Rk. III	ToV
+113	Chorus of Vhal`Sera	ToV
+113	Chorus of Vhal`Sera Rk. II	ToV
+113	Chorus of Vhal`Sera Rk. III	ToV
+113	Kellek's Spry Sonata	ToV
+113	Kellek's Spry Sonata Rk. II	ToV
+113	Kellek's Spry Sonata Rk. III	ToV
+113	Malvus's Chant of Poison	ToV
+113	Malvus's Chant of Poison Rk. II	ToV
+113	Malvus's Chant of Poison Rk. III	ToV
+113	Placating Accelerando	ToV
+113	Placating Accelerando Rk. II	ToV
+113	Placating Accelerando Rk. III	ToV
+113	Psalm of the Restless	ToV
+113	Psalm of the Restless Rk. II	ToV
+113	Psalm of the Restless Rk. III	ToV
+113	Reflexive Rebuttal	CoVCoV
+113	Reflexive Rebuttal Rk. II	CoVCoV
+113	Reflexive Rebuttal Rk. III	CoVCoV
+113	Reivaj's Reckless Renewal	ToV
+113	Reivaj's Reckless Renewal Rk. II	ToV
+113	Reivaj's Reckless Renewal Rk. III	ToV
+113	Sontalak's Aria	ToV
+113	Sontalak's Aria Rk. II	ToV
+113	Sontalak's Aria Rk. III	ToV
+113	Velketor's Psalm of Potency	ToV
+113	Velketor's Psalm of Potency Rk. II	ToV
+113	Velketor's Psalm of Potency Rk. III	ToV
+114	Desirae's Demand	CoV
+114	Desirae's Demand Rk. II	CoV
+114	Desirae's Demand Rk. III	CoV
+114	Mahaha's Assonant Binding	ToV
+114	Mahaha's Assonant Binding Rk. II	ToV
+114	Mahaha's Assonant Binding Rk. III	ToV
+114	Omorden's Song of Suffering	ToV
+114	Omorden's Song of Suffering Rk. II	ToV
+114	Omorden's Song of Suffering Rk. III	ToV
+114	Radiwol's Melodic Binding	ToV
+114	Radiwol's Melodic Binding Rk. II	ToV
+114	Radiwol's Melodic Binding Rk. III	ToV
+114	Slumber of Zburator	ToV
+114	Slumber of Zburator Rk. II	ToV
+114	Slumber of Zburator Rk. III	ToV
+114	Voice of Zburator	ToV
+114	Voice of Zburator Rk. II	ToV
+114	Voice of Zburator Rk. III	ToV
+114	War March of Radiwol	ToV
+114	War March of Radiwol Rk. II	ToV
+114	War March of Radiwol Rk. III	ToV
+114	Zburator's Lively Crescendo	ToV
+114	Zburator's Lively Crescendo Rk. II	ToV
+114	Zburator's Lively Crescendo Rk. III	ToV
+115	Arcane Symphony	ToV
+115	Arcane Symphony Rk. II	ToV
+115	Arcane Symphony Rk. III	ToV
+115	Aura of Margidor	ToV
+115	Aura of Margidor Rk. II	ToV
+115	Aura of Margidor Rk. III	ToV
+115	Coalition of Sticks and Stones	CoV
+115	Coalition of Sticks and Stones Rk. II	CoV
+115	Coalition of Sticks and Stones Rk. III	CoV
+115	Echo of Margidor	ToV
+115	Echo of Margidor Rk. II	ToV
+115	Echo of Margidor Rk. III	ToV
+115	Omorden's Spiteful Lyric	ToV
+115	Omorden's Spiteful Lyric Rk. II	ToV
+115	Omorden's Spiteful Lyric Rk. III	ToV
+115	SoFia's Burning Call	ToV
+115	SoFia's Burning Call Rk. II	ToV
+115	SoFia's Burning Call Rk. III	ToV
+115	Sontalak's Chant of Flame	ToV
+115	Sontalak's Chant of Flame Rk. II	ToV
+115	Sontalak's Chant of Flame Rk. III	ToV
+115	Wave of Sleep	ToV
+115	Wave of Sleep Rk. II	ToV
+115	Wave of Sleep Rk. III	ToV
+115	Yelinak's Insult	CoV
+115	Yelinak's Insult Rk. II	CoV
+115	Yelinak's Insult Rk. III	CoV
+116	Aria of Pli Xin Liako	ToL
+116	Aria of Pli Xin Liako Rk. II	ToL
+116	Aria of Pli Xin Liako Rk. III	ToL
+116	Coagulus' Chant of Disease	ToL
+116	Coagulus' Chant of Disease Rk. II	ToL
+116	Coagulus' Chant of Disease Rk. III	ToL
+116	Ecliptic Psalm	NoS
+116	Lullaby of Nightfall	ToL
+116	Lullaby of Nightfall Rk. II	ToL
+116	Lullaby of Nightfall Rk. III	ToL
+116	Pulse of Nikolas	ToL
+116	Pulse of Nikolas Rk. II	ToL
+116	Pulse of Nikolas Rk. III	ToL
+116	Silence of Quietus	ToL
+116	Silence of Quietus Rk. II	ToL
+116	Silence of Quietus Rk. III	ToL
+116	Vibrato Barrier	ToL
+116	Vibrato Barrier Rk. II	ToL
+116	Vibrato Barrier Rk. III	ToL
+117	Aura of Shei Vinitras	ToL
+117	Aura of Shei Vinitras Rk. II	ToL
+117	Aura of Shei Vinitras Rk. III	ToL
+117	Dirge of the Onokiwan	NoS
+117	Dirge of the Onokiwan Rk. II	NoS
+117	Dirge of the Onokiwan Rk. III	NoS
+117	Echo of Shei Vinitras	ToL
+117	Echo of Shei Vinitras Rk. II	ToL
+117	Echo of Shei Vinitras Rk. III	ToL
+117	Fatesong of Lucca	ToL
+117	Fatesong of Lucca Rk. II	ToL
+117	Fatesong of Lucca Rk. III	ToL
+117	Sogran's Insult	ToL
+117	Sogran's Insult Rk. II	ToL
+117	Sogran's Insult Rk. III	ToL
+117	Sylra Fris' Chant of Frost	ToL
+117	Sylra Fris' Chant of Frost Rk. II	ToL
+117	Sylra Fris' Chant of Frost Rk. III	ToL
+118	Chorus of Shei Vinitras	ToL
+118	Chorus of Shei Vinitras Rk. II	ToL
+118	Chorus of Shei Vinitras Rk. III	ToL
+118	Constance's Aria	ToL
+118	Constance's Aria Rk. II	ToL
+118	Constance's Aria Rk. III	ToL
+118	Cruor's Chant of Poison	ToL
+118	Cruor's Chant of Poison Rk. II	ToL
+118	Cruor's Chant of Poison Rk. III	ToL
+118	Fyrthek Fior's Psalm of Potency	ToL
+118	Fyrthek Fior's Psalm of Potency Rk. II	ToL
+118	Fyrthek Fior's Psalm of Potency Rk. III	ToL
+118	Kai's Reckless Renewal	ToL
+118	Kai's Reckless Renewal Rk. II	ToL
+118	Kai's Reckless Renewal Rk. III	ToL
+118	Nord's Disdain	NoS
+118	Nord's Disdain Rk. II	NoS
+118	Nord's Disdain Rk. III	NoS
+118	Psalm of the Pious	ToL
+118	Psalm of the Pious Rk. II	ToL
+118	Psalm of the Pious Rk. III	ToL
+118	Satisfying Accelerando	ToL
+118	Satisfying Accelerando Rk. II	ToL
+118	Satisfying Accelerando Rk. III	ToL
+118	Xetheg's Spry Sonata	ToL
+118	Xetheg's Spry Sonata Rk. II	ToL
+118	Xetheg's Spry Sonata Rk. III	ToL
+119	Namdrows' Assonant Binding	ToL
+119	Namdrows' Assonant Binding Rk. II	ToL
+119	Namdrows' Assonant Binding Rk. III	ToL
+119	Omiyad's Demand	NoS
+119	Omiyad's Demand Rk. II	NoS
+119	Omiyad's Demand Rk. III	NoS
+119	Shojralen's Song of Suffering	ToL
+119	Shojralen's Song of Suffering Rk. II	ToL
+119	Shojralen's Song of Suffering Rk. III	ToL
+119	Slumber of the Diabo	ToL
+119	Slumber of the Diabo Rk. II	ToL
+119	Slumber of the Diabo Rk. III	ToL
+119	Voice of the Diabo	ToL
+119	Voice of the Diabo Rk. II	ToL
+119	Voice of the Diabo Rk. III	ToL
+119	War March of Centien Xi Va Xakra	ToL
+119	War March of Centien Xi Va Xakra Rk. II	ToL
+119	War March of Centien Xi Va Xakra Rk. III	ToL
+119	Zelinstein's Lively Crescendo	ToL
+119	Zelinstein's Lively Crescendo Rk. II	ToL
+119	Zelinstein's Lively Crescendo Rk. III	ToL
+120	Arcane Harmony	ToL
+120	Arcane Harmony Rk. II	ToL
+120	Arcane Harmony Rk. III	ToL
+120	Aura of Pli Xin Liako	ToL
+120	Aura of Pli Xin Liako Rk. II	ToL
+120	Aura of Pli Xin Liako Rk. III	ToL
+120	Conjunction of Sticks and Stones	NoS
+120	Conjunction of Sticks and Stones Rk. II	NoS
+120	Conjunction of Sticks and Stones Rk. III	NoS
+120	Echo of Pli Xin Liako	ToL
+120	Echo of Pli Xin Liako Rk. II	ToL
+120	Echo of Pli Xin Liako Rk. III	ToL
+120	Luclin's Burning Call	ToL
+120	Luclin's Burning Call Rk. II	ToL
+120	Luclin's Burning Call Rk. III	ToL
+120	Shak Dathor's Chant of Flame	ToL
+120	Shak Dathor's Chant of Flame Rk. II	ToL
+120	Shak Dathor's Chant of Flame Rk. III	ToL
+120	Von Deek's Spiteful Lyric	ToL
+120	Von Deek's Spiteful Lyric Rk. II	ToL
+120	Von Deek's Spiteful Lyric Rk. III	ToL
+120	War Chorus of the Bloodbeast	ToL
+120	War Chorus of the Bloodbeast Rk. II	ToL
+120	War Chorus of the Bloodbeast Rk. III	ToL
+120	Wave of Nocturn	ToL
+120	Wave of Nocturn Rk. II	ToL
+120	Wave of Nocturn Rk. III	ToL
+121	Aria of Tenisbre	LS
+121	Aria of Tenisbre Rk. II	LS
+121	Aria of Tenisbre Rk. III	LS
+121	Goremand's Chant of Disease	LS
+121	Goremand's Chant of Disease Rk. II	LS
+121	Goremand's Chant of Disease Rk. III	LS
+121	Lullaby of the Forgotten	LS
+121	Lullaby of the Forgotten Rk. II	LS
+121	Lullaby of the Forgotten Rk. III	LS
+121	Pulse of August	LS
+121	Pulse of August Rk. II	LS
+121	Pulse of August Rk. III	LS
+121	Resonating Barrier	LS
+121	Resonating Barrier Rk. II	LS
+121	Resonating Barrier Rk. III	LS
+121	Silence of the Forgotten	LS
+121	Silence of the Forgotten Rk. II	LS
+121	Silence of the Forgotten Rk. III	LS
+122	Aura of Shalowain	LS
+122	Aura of Shalowain Rk. II	LS
+122	Aura of Shalowain Rk. III	LS
+122	Echo of Shalowain	LS
+122	Echo of Shalowain Rk. II	LS
+122	Echo of Shalowain Rk. III	LS
+122	Eoreg's Insult	LS
+122	Eoreg's Insult Rk. II	LS
+122	Eoreg's Insult Rk. III	LS
+122	Fatesong of Zoraxmen	LS
+122	Fatesong of Zoraxmen Rk. II	LS
+122	Fatesong of Zoraxmen Rk. III	LS
+122	Flariton's Aria	LS
+122	Flariton's Aria Rk. II	LS
+122	Flariton's Aria Rk. III	LS
+122	Swarn's Chant of Frost	LS
+122	Swarn's Chant of Frost Rk. II	LS
+122	Swarn's Chant of Frost Rk. III	LS
+123	Appeasing Accelerando	LS
+123	Appeasing Accelerando Rk. II	LS
+123	Appeasing Accelerando Rk. III	LS
+123	Chorus of Shalowain	LS
+123	Chorus of Shalowain Rk. II	LS
+123	Chorus of Shalowain Rk. III	LS
+123	Dhakka's Spry Sonata	LS
+123	Dhakka's Spry Sonata Rk. II	LS
+123	Dhakka's Spry Sonata Rk. III	LS
+123	Grayleaf's Reckless Renewal	LS
+123	Grayleaf's Reckless Renewal Rk. II	LS
+123	Grayleaf's Reckless Renewal Rk. III	LS
+123	Marsin's Chant of Poison	LS
+123	Marsin's Chant of Poison Rk. II	LS
+123	Marsin's Chant of Poison Rk. III	LS
+123	Psalm of the Nomad	LS
+123	Psalm of the Nomad Rk. II	LS
+123	Psalm of the Nomad Rk. III	LS
+123	Tatalros' Psalm of Potency	LS
+123	Tatalros' Psalm of Potency Rk. II	LS
+123	Tatalros' Psalm of Potency Rk. III	LS
+124	Arcane Rhythm	LS
+124	Arcane Rhythm Rk. II	LS
+124	Arcane Rhythm Rk. III	LS
+124	Kanghammer's Song of Suffering	LS
+124	Kanghammer's Song of Suffering Rk. II	LS
+124	Kanghammer's Song of Suffering Rk. III	LS
+124	Regar's Lively Crescendo	LS
+124	Regar's Lively Crescendo Rk. II	LS
+124	Regar's Lively Crescendo Rk. III	LS
+124	Rimeclaw's Assonant Binding	LS
+124	Rimeclaw's Assonant Binding Rk. II	LS
+124	Rimeclaw's Assonant Binding Rk. III	LS
+124	Slumber of Suja	LS
+124	Slumber of Suja Rk. II	LS
+124	Slumber of Suja Rk. III	LS
+124	Voice of Suja	LS
+124	Voice of Suja Rk. II	LS
+124	Voice of Suja Rk. III	LS
+124	War March of Nokk	LS
+124	War March of Nokk Rk. II	LS
+124	War March of Nokk Rk. III	LS
+124	Zinnia's Melodic Binding	LS
+124	Zinnia's Melodic Binding Rk. II	LS
+124	Zinnia's Melodic Binding Rk. III	LS
+125	Aura of Tenisbre	LS
+125	Aura of Tenisbre Rk. II	LS
+125	Aura of Tenisbre Rk. III	LS
+125	Echo of Tenisbre	LS
+125	Echo of Tenisbre Rk. II	LS
+125	Echo of Tenisbre Rk. III	LS
+125	Firethorn's Burning Call	LS
+125	Firethorn's Burning Call Rk. II	LS
+125	Firethorn's Burning Call Rk. III	LS
+125	Kindleheart's Chant of Flame	LS
+125	Kindleheart's Chant of Flame Rk. II	LS
+125	Kindleheart's Chant of Flame Rk. III	LS
+125	Tatalros' Spiteful Lyric	LS
+125	Tatalros' Spiteful Lyric Rk. II	LS
+125	Tatalros' Spiteful Lyric Rk. III	LS
+125	Wave of Stupor	LS
+125	Wave of Stupor Rk. II	LS
+125	Wave of Stupor Rk. III	LS
+250	Composite Psalm of Empowerment 1	CoV
+250	Composite Psalm of Empowerment 2	CoV
+250	Composite Psalm of Empowerment 3	CoV
+250	Composite Psalm of Empowerment 4	CoV
+250	Composite Psalm of Empowerment 5	CoV
+250	Composite Psalm of Empowerment 6	CoV
+250	Composite Psalm of Potential 1	CoV
+250	Composite Psalm of Potential 2	CoV
+250	Composite Psalm of Potential 3	CoV
+250	Composite Psalm of Potential 4	CoV
+250	Composite Psalm of Potential 5	CoV
+250	Composite Psalm of Potential 6	CoV
+250	Dichotomic Psalm of Empowerment 1	TBM
+250	Dichotomic Psalm of Empowerment 2	TBM
+250	Dichotomic Psalm of Empowerment 3	TBM
+250	Dichotomic Psalm of Empowerment 4	TBM
+250	Dichotomic Psalm of Empowerment 5	TBM
+250	Dichotomic Psalm of Empowerment 6	TBM
+250	Dichotomic Psalm of Potential 1	TBM
+250	Dichotomic Psalm of Potential 2	TBM
+250	Dichotomic Psalm of Potential 3	TBM
+250	Dichotomic Psalm of Potential 4	TBM
+250	Dichotomic Psalm of Potential 5	TBM
+250	Dichotomic Psalm of Potential 6	TBM
+250	Dissident Psalm of Empowerment 1	TBL
+250	Dissident Psalm of Empowerment 2	TBL
+250	Dissident Psalm of Empowerment 3	TBL
+250	Dissident Psalm of Empowerment 4	TBL
+250	Dissident Psalm of Empowerment 5	TBL
+250	Dissident Psalm of Empowerment 6	TBL
+250	Dissident Psalm of Potential 1	TBL
+250	Dissident Psalm of Potential 2	TBL
+250	Dissident Psalm of Potential 3	TBL
+250	Dissident Psalm of Potential 4	TBL
+250	Dissident Psalm of Potential 5	TBL
+250	Dissident Psalm of Potential 6	TBL
+250	Ecliptic Psalm of Empowerment 1	NoS
+250	Ecliptic Psalm of Empowerment 2	NoS
+250	Ecliptic Psalm of Empowerment 3	NoS
+250	Ecliptic Psalm of Empowerment 4	NoS
+250	Ecliptic Psalm of Empowerment 5	NoS
+250	Ecliptic Psalm of Empowerment 6	NoS
+250	Ecliptic Psalm of Potential 1	NoS
+250	Ecliptic Psalm of Potential 2	NoS
+250	Ecliptic Psalm of Potential 3	NoS
+250	Ecliptic Psalm of Potential 4	NoS
+250	Ecliptic Psalm of Potential 5	NoS
+250	Ecliptic Psalm of Potential 6	NoS
