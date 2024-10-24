@@ -26,7 +26,7 @@
 7	Spirit Sight	EQ
 8	Endure Disease	EQ
 8	Tainted Breath	EQ
-8	Talisman of the Beast	EQ
+8	Talisman of the Beast	Luclin
 9	Light Healing	EQ
 9	Remove Minor Curse	LDoN
 9	Spirit of Wolf	EQ
@@ -48,8 +48,8 @@
 15	Infectious Cloud	EQ
 15	Shrink	EQ
 16	Frenzy	EQ
-16	Grow	EQ
-16	Tiny Companion	EQ
+16	Grow	Luclin
+16	Tiny Companion	PoP
 17	Insidious Fever	EQ
 17	Vision	EQ
 18	Malaise	EQ
@@ -66,7 +66,7 @@
 21	Spirit of Ox	EQ
 22	Counteract Disease	EQ
 22	Poison Storm	EQ
-22	Scale of Wolf	EQ
+22	Scale of Wolf	Kunark
 23	Cannibalize	EQ
 23	Frost Strike	EQ
 23	Reebo's Augury	LDoN
@@ -77,7 +77,7 @@
 24	Remove Lesser Curse	LDoN
 24	Resist Cold	EQ
 25	Befriend Animal	EQ
-25	Form of the Bear	EQ
+25	Form of the Bear	Luclin
 25	Rising Dexterity	EQ
 26	Counteract Poison	EQ
 26	Quickness	EQ
@@ -96,8 +96,8 @@
 29	Listless Power	EQ
 29	Mass Imbue Amber	LoY
 29	Mass Imbue Diamond	LoY
-29	Mass Imbue Ivory	EQ
-29	Mass Imbue Jade	EQ
+29	Mass Imbue Ivory	LoY
+29	Mass Imbue Jade	LoY
 29	Mass Imbue Sapphire	LoY
 29	Spirit of the Shrew	LDoN
 30	Fury	EQ
