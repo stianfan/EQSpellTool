@@ -1,10 +1,4 @@
-1	Chant of Chaos	EQ
 1	Chant of Battle	EQ
-1	Chant of Flame	EQ
-1	Chant of Frost	EQ
-1	Chant of Magic	EQ
-1	Chant of Plague	EQ
-1	Chant of Venom	EQ
 2	Chords of Dissonance	EQ
 4	Lyssa's Locating Lyric	EQ
 5	Selo's Accelerando	EQ
@@ -24,14 +18,14 @@
 17	Guardian Rhythms	EQ
 18	Denon's Disruptive Discord	EQ
 19	Shauri's Sonorous Clouding	EQ
-20	Cassindra's Chant of Clarity	Luclin
+20	Cassindra's Chant of Clarity	Velious
 20	Largo's Melodic Binding	EQ
 21	Melanie's Mellifluous Motion	EQ
 22	Alenia's Disenchanting Melody	EQ
 23	Selo's Consonant Chain	EQ
 24	Lyssa's Veracious Concord	EQ
 25	Psalm of Warmth	EQ
-25	Selo's Rhythm of Speed	Luclin
+25	Selo's Rhythm of Speed	LDoN
 26	Angstlich's Appalling Screech	EQ
 27	Solon's Song of the Sirens	EQ
 28	Crission's Pixie Strike	EQ
@@ -68,7 +62,7 @@
 50	Tuyen's Chant of Poison	PoP
 50	Verses of Victory	EQ
 51	Largo's Assonant Binding	Kunark
-51	Resistant Discipline	Kunark
+51	Resistant Discipline	EQ
 51	Selo's Song of Travel	Kunark
 52	Aria of Innocence	LoY
 52	Battlecry of the Vah Shir	Luclin
@@ -77,7 +71,7 @@
 53	Song of Dawn	Kunark
 53	Song of Twilight	Kunark
 54	Elemental Chorus	Luclin
-54	Fearless Discipline	Kunark
+54	Fearless Discipline	EQ
 54	Selo's Assonant Strain	Kunark
 54	Vilia's Chorus of Celerity	Kunark
 55	Aura of Insight	PoR
@@ -97,7 +91,7 @@
 58	Niv's Harmonic	Kunark
 59	Denon's Bereavement	Kunark
 59	Solon's Charismatic Concord	Kunark
-60	Ancient: Lcea's Lament	Luclin
+60	Ancient: Lcea's Lament	Velious
 60	Ancient: Lullaby of Shadow	Luclin
 60	Angstlich's Assonance	Kunark
 60	Composition of Ervaj	Velious
@@ -110,7 +104,7 @@
 61	Silent Song of Quellious	PoP
 61	Song of the Storm	DoN
 61	Tuyen's Chant of the Plague	PoP
-62	Angstlich's Echo of Terror	PoP
+62	Angstlich's Echo of Terror	DoN
 62	Dreams of Thule	PoP
 62	Druzzil's Disillusionment	PoP
 62	Melody of Mischief	PoP
@@ -127,17 +121,17 @@
 64	Minohten's Purifying Panpipes Rk. III	TSS
 64	Requiem of Time	PoP
 64	Rizlona's Call of Flame	PoP
-65	Ancient: Chaos Chant	GoD
+65	Ancient: Chaos Chant	Gates
 65	Call of the Muse	LDoN
-65	Dark Echo	GoD
-65	Echo of the Trusik	GoD
+65	Dark Echo	Gates
+65	Echo of the Trusik	Gates
 65	Harmony of Sound	PoP
 65	Lullaby of Morell	PoP
 65	Staccato Rhythms	TSS
 65	Staccato Rhythms Rk. II	TSS
 65	Staccato Rhythms Rk. III	TSS
 65	Tuyen's Chant of Fire	PoP
-65	War March of the Mastruq	GoD
+65	War March of the Mastruq	Gates
 66	Bellow of Chaos	Omens
 66	Luvwen's Aria of Serenity	Omens
 66	Selo's Accelerato	EoK
