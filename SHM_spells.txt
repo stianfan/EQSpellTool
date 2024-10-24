@@ -91,7 +91,7 @@
 29	Imbue Amber	EQ
 29	Imbue Diamond	EQ
 29	Imbue Ivory	EQ
-29	Imbue Jade	EQ
+29	Imbue Jade	Kunark
 29	Imbue Sapphire	EQ
 29	Listless Power	EQ
 29	Mass Imbue Amber	LoY
@@ -122,7 +122,7 @@
 35	Tumultuous Strength	Velious
 36	Assiduous Vision	EQ
 36	Gale of Poison	EQ
-36	Spirit of Bih`Li	EQ
+36	Spirit of Bih`Li	Luclin
 37	Glamour	EQ
 37	Venom of the Snake	EQ
 37	Vigilant Spirit	EQ
@@ -153,21 +153,21 @@
 44	Greater Mass Imbue Jade	CoV
 44	Greater Mass Imbue Sapphire	CoV
 44	Nullify Magic	EQ
-44	Stoicism	EQ
+44	Stoicism	LoY
 45	Frenzied Spirit	EQ
 45	Rage	EQ
 45	Superior Healing	EQ
-46	Harnessing of Spirit	EQ
+46	Harnessing of Spirit	Luclin
 46	Strength	EQ
 47	Charisma	EQ
-47	Shock of Venom	EQ
+47	Shock of Venom	PoP
 48	Abolish Disease	EQ
 48	Dexterity	EQ
 48	Malosi	EQ
 49	Envenomed Bolt	EQ
-49	Infusion of Spirit	EQ
+49	Infusion of Spirit	PoP
 49	Plague	EQ
-50	Kragg's Salve	EQ
+50	Kragg's Salve	Kunark
 50	Spirit of the Puma	PoP
 50	Spirit Quickening	Velious
 50	Talisman of Jasinth	Kunark
@@ -179,7 +179,7 @@
 52	Disinfecting Aura	Luclin
 52	Eradicate Disease	RoF
 52	Insidious Decay	Kunark
-52	Primal Essence	Luclin
+52	Primal Essence	Kunark
 52	Regrowth	Kunark
 52	Spirit of Scale	Kunark
 53	Cripple	Kunark
@@ -195,7 +195,7 @@
 54	Riotous Health	Kunark
 54	Shroud of the Spirits	Kunark
 55	Annul Magic	Kunark
-55	Chloroblast	Kunark
+55	Chloroblast	Velious
 55	Form of the Great Bear	Velious
 55	Idol of Malo	PoR
 55	Spirit of the Howler	Kunark
@@ -205,7 +205,7 @@
 56	Bane of Nife	Kunark
 56	Celerity	EQ
 56	Eradicate Poison	RoF
-56	Paralyzing Earth	Kunark
+56	Paralyzing Earth	EQ
 56	Regrowth of Dar Khura	Luclin
 57	Imbue Justice	PoP
 57	Malosini	Kunark
@@ -214,7 +214,7 @@
 57	Talisman of the Brute	Kunark
 57	Talisman of the Cat	Kunark
 58	Acumen of Dar Khura	Luclin
-58	Cannibalize IV	Kunark
+58	Cannibalize IV	Velious
 58	Imbue Disease	PoP
 58	Kragg's Mending	Luclin
 58	Mortal Deftness	Kunark
@@ -223,13 +223,13 @@
 58	Talisman of the Serpent	Kunark
 58	Tigir's Insects	Kunark
 59	Imbue War	PoP
-59	Incarnate Anew	LDoN
+59	Incarnate Anew	Omens
 59	Pox of Bertoxxulous	Kunark
 59	Talisman of the Raptor	Kunark
 59	Unfailing Reverence	Kunark
 59	Voice of the Berserker	Kunark
-60	Ancient: Feral Avatar	Luclin
-60	Ancient: Scourge of Nife	Luclin
+60	Ancient: Feral Avatar	Velious
+60	Ancient: Scourge of Nife	Velious
 60	Avatar	Kunark
 60	Focus of Spirit	Velious
 60	Khura's Focusing	Luclin
