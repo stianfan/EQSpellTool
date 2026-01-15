@@ -1,3 +1,8 @@
+I'm not playing any more, so not updtaing this.
+go to: https://github.com/uh-whycanti/EQSpellTool
+He's done some nice updates :)
+
+
 <p align="center"><img src="Logo.png" align="center"
      alt="EQ Spell Tool Logo"></p>
 <p align="center"> A tool to find missing spells for the game <a href="https://www.everquest.com">EverQuest</a>.
