@@ -1,6 +1,4 @@
-I'm not playing any more, so not updtaing this.
-go to: https://github.com/uh-whycanti/EQSpellTool
-He's done some nice updates :)
+I'm not playing any more, so not updtaing this...
 
 
 <p align="center"><img src="Logo.png" align="center"
